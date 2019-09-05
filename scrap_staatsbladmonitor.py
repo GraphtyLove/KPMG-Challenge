@@ -25,5 +25,5 @@ class BlogSpider(scrapy.Spider):
             if re.match('[0-9]', data.get()):
                 self.data_final.append('https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer='+data.get())
 
-        with open('data.json', 'w', encoding='utf-8') as f:
+        with open('link_each_entreprise.json', 'w', encoding='utf-8') as f:
             json.dump(self.data_final, f, ensure_ascii=False, indent=4)
