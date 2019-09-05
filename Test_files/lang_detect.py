@@ -4,7 +4,8 @@ from spacy_langdetect import LanguageDetector
 nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe(LanguageDetector(), name="language_detector", last=True)
 
-text = "texte ici."
+text = "du texte ici, cette fonctionnalité est totalement ok."
 doc = nlp(text)
 
-print(doc._.language)
+lg = doc._.language
+print(lg['language'])
