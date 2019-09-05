@@ -22,7 +22,7 @@ class BlogSpider(scrapy.Spider):
 
     def parse(self, response):
         for data in response.css('.data::text'):
-            if re.match('[0-9]', data.get()):
+            if re.match('[0-9]+', data.get()):
                 self.data_final.append('https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer='+data.get())
 
         with open('link_each_entreprise.json', 'w', encoding='utf-8') as f:
