@@ -56,3 +56,12 @@ class ClassifyArticles(BaseEstimator, TransformerMixin):
 
     def transform(self, X):
         return X
+
+
+# TO DO:
+class AddToDb(BaseEstimator, TransformerMixin):
+    def fit(self, X, y):
+        return self
+
+    def transform(self, X):
+        return X
