@@ -8,7 +8,7 @@ class BlogSpider(scrapy.Spider):
     name = 'DE STAATSBLADMONITOR'
     start_urls = []
     data_final = []
-    year = 2018
+    year = 2017
 
     for month in range(1, 13):
         if month < 10:
