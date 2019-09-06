@@ -8,7 +8,7 @@ class BlogSpider(scrapy.Spider):
     name = 'DE STAATSBLADMONITOR'
     start_urls = []
     data_final = []
-    year = 2017
+    year = 2014
 
     for month in range(1, 13):
         if month < 10:
@@ -24,5 +24,5 @@ class BlogSpider(scrapy.Spider):
             if re.match('^[0-9]+$', data.get()):
                 self.data_final.append('https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=' + data.get())
 
-        with open('../assets/link_each_entreprise_2018.json', 'w', encoding='utf-8') as f:
+        with open(f'../assets/link_each_entreprise_{self.year}.json', 'w', encoding='utf-8') as f:
             json.dump(self.data_final, f, ensure_ascii=False, indent=4)
