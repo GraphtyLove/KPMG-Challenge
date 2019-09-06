@@ -9,7 +9,6 @@ from tika import parser
 import codecs
 import re
 import sys
-import sys
 # download pdf's urls
 from datetime import datetime
 import time
@@ -21,7 +20,7 @@ YEAR_LIST = [2014, 2015, 2016, 2017, 2018, 2019]
 
 # get list of url from maxim's github
 for YEAR in YEAR_LIST:
-    print(f'*~*:._.:*~*:._.:*~* STARTING YEAR: {YEAR} *~*:._.:*~*:._.:*~*')
+    print(f'* ____________________________ STARTING YEAR: {YEAR} ____________________________ *')
     url = f"https://raw.githubusercontent.com/GraphtyLove/KPMG-Challenge/master/assets/json/links_entreprises/links_entreprises_{YEAR}.json"
     response = urlopen(url)
     data = json.loads(response.read())
