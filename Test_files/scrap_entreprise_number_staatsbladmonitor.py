@@ -2,12 +2,13 @@ import scrapy
 import json
 import re
 
+
 # Scrap the number of all society
 class BlogSpider(scrapy.Spider):
     name = 'DE STAATSBLADMONITOR'
     start_urls = []
 
-    year = 2019
+    year = 2018
 
     for month in range(1, 12):
         if month < 10:
@@ -24,5 +25,5 @@ class BlogSpider(scrapy.Spider):
             if re.match('^[0-9]+$', data.get()):
                 data_final.append('https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer='+data.get())
 
-        with open('link_each_entreprise.json', 'w', encoding='utf-8') as f:
+        with open('../assets/link_each_entreprise_2018.json', 'w', encoding='utf-8') as f:
             json.dump(data_final, f, ensure_ascii=False, indent=4)
