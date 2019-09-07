@@ -28,7 +28,7 @@ for YEAR in YEAR_LIST:
 
     ## Dowload PDF
     # %%
-    for i, link in enumerate(data[:5]):
+    for i, link in enumerate(data):
         try:
             time.sleep(0.1)
             reg_url = link
