@@ -9,13 +9,13 @@ from tika import parser
 import codecs
 import re
 import sys
-# download pdf's urls
 from datetime import datetime
 import time
 import requests
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
+}
 YEAR_LIST = [2014, 2015, 2016, 2017, 2018, 2019]
 
 # get list of url from maxim's github
