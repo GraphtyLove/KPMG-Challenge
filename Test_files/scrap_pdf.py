@@ -91,8 +91,10 @@ for YEAR in YEAR_LIST:
 # for k,v in enumerate(file_number):
 #    if v == '2000':
 #        print(f'key: {k} value: {v}')
+
 # %% md
 ## Re-process PDF -> TXT for ERRORS
+
 # %%
 # ####REWRITE THIS
 # for number in error_files:
@@ -118,10 +120,13 @@ for YEAR in YEAR_LIST:
 #             print(f'ERROR with: {number}')
 #             print(sys.exc_info())
 # print(error_files)
+
 # %% md
 # ---------- DEBUG ----------
+
 # %% md
 ## PDF -> TXT on a specifique file
+
 # %%
 # file_to_convert = 23932
 
@@ -136,11 +141,10 @@ for YEAR in YEAR_LIST:
 #     txt_len = len(file.read())
 #     print(txt_len)
 
+
 # %% md
 ## Print the len of a file
+
 # %%
 # with open('txt/47.txt', 'r') as file:
 #      print(len(file.read()))
-# %%
-
-# %%
