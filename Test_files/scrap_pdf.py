@@ -82,8 +82,12 @@ for YEAR in YEAR_LIST:
             print(sys.exc_info())
     with open(f'../assets/json/suspected_scans/suspected_scans_{YEAR}.json', 'w', encoding='utf-8') as file:
         json.dump(suspected_scans, file, ensure_ascii=False, indent=4)
-# * ---------- Find the key of a value ---------- *
 
+
+# ! -------------------- DEBUG -------------------- !
+
+
+# * ---------- Find the key of a value ---------- *
 # for k,v in enumerate(file_number):
 #    if v == '2000':
 #        print(f'key: {k} value: {v}')
