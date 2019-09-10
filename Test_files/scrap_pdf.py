@@ -9,13 +9,15 @@ from tika import parser
 import codecs
 import re
 import sys
-# download pdf's urls
+
+
 from datetime import datetime
 import time
 import requests
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
+}
 YEAR_LIST = [2014, 2015, 2016, 2017, 2018, 2019]
 
 # get list of url from maxim's github
@@ -54,15 +56,17 @@ for YEAR in YEAR_LIST:
             print(sys.exc_info())
 
     # %%
+# ! -------------------- DEBUG -------------------- !
 
 
 # * ---------- Find the key of a value ---------- *
-
 # for k,v in enumerate(file_number):
 #    if v == '2000':
 #        print(f'key: {k} value: {v}')
+
 # %% md
 ## Re-process PDF -> TXT for ERRORS
+
 # %%
 # ####REWRITE THIS
 # for number in error_files:
@@ -88,10 +92,13 @@ for YEAR in YEAR_LIST:
 #             print(f'ERROR with: {number}')
 #             print(sys.exc_info())
 # print(error_files)
+
 # %% md
 # ---------- DEBUG ----------
+
 # %% md
 ## PDF -> TXT on a specifique file
+
 # %%
 # file_to_convert = 23932
 
@@ -106,11 +113,10 @@ for YEAR in YEAR_LIST:
 #     txt_len = len(file.read())
 #     print(txt_len)
 
+
 # %% md
 ## Print the len of a file
+
 # %%
 # with open('txt/47.txt', 'r') as file:
 #      print(len(file.read()))
-# %%
-
-# %%
