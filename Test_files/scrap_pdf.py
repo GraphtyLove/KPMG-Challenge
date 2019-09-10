@@ -25,6 +25,7 @@ for YEAR in YEAR_LIST:
     response = urlopen(url)
     data = json.loads(response.read())
     data = list(set(data))
+    data.sort()
 
     ## Dowload PDF
     # %%
@@ -52,36 +53,9 @@ for YEAR in YEAR_LIST:
             print(f'ERROR url: {i} {link}')
             print(sys.exc_info())
 
-    ## Check all the PDF and sort a list of there names
     # %%
 
-    file_number = []
-    pdf_path = f'../assets/pdf/{YEAR}/'
 
-    for r, d, f in os.walk(pdf_path):
-        for file in f:
-            if '.pdf' in file:
-                file_number.append(re.findall('[0-9]+', file)[0])
-    # Array of all PDF number as string
-    file_number.sort(key=int)
-    suspected_scans = []
-    for number in file_number:
-        file_path = pdf_path + 'pdf-' + number + '.pdf'
-        try:
-            raw = parser.from_file(file_path)
-            text_len = len(raw['content'])
-            if text_len < 1000:
-                print(f'suspected scan: {number}')
-                suspected_scans.append(number)
-            else:
-                with codecs.open(f'../assets/txt/{YEAR}/txt-{number}.txt', 'w', 'utf-8') as file:
-                    file.write(raw['content'])
-                print(f'file N° {number} -> len: {text_len}')
-        except:
-            print(f'ERROR with: {number}')
-            print(sys.exc_info())
-    with open(f'../assets/json/suspected_scans/suspected_scans_{YEAR}.json', 'w', encoding='utf-8') as file:
-        json.dump(suspected_scans, file, ensure_ascii=False, indent=4)
 # * ---------- Find the key of a value ---------- *
 
 # for k,v in enumerate(file_number):
