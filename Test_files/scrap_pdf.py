@@ -41,7 +41,7 @@ for YEAR in YEAR_LIST:
             time_deltas = time_deltas[:1000]
             time_delta = np.mean(time_deltas)
             saved_time = datetime.datetime.now()
-            print(f'________________ file {i} / {len(data)} ________________ ETA: {time_delta * (len(data) - i)} ________________')
+            print(f'________________ file {i} / {len(data)} ---------- ETA: {time_delta * (len(data) - i)} ________________')
             print(f'link: {link} ')
             time.sleep(0.1)
             reg_url = link
