@@ -24,7 +24,7 @@ YEAR_LIST = [2016, 2017, 2018, 2019]
 
 # get list of url from maxim's github
 for YEAR in YEAR_LIST:
-    print(f'°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸ STARTING YEAR: {YEAR} °º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸')
+    print(f'* -------------------- STARTING YEAR: {YEAR} -------------------- *')
     url = f"https://raw.githubusercontent.com/GraphtyLove/KPMG-Challenge/master/assets/json/links_entreprises/links_entreprises_{YEAR}.json"
     response = urlopen(url)
     data = json.loads(response.read())
