@@ -46,6 +46,7 @@ for YEAR in YEAR_LIST:
             print(f'________________ file {i} / {len(data)} ________________ ETA: '
                   f'{time_delta * (len(data) - i)} ________________')
             print(f'link: {link}')
+
             time.sleep(0.1)
             reg_url = link
             req = Request(url=reg_url, headers=headers)
