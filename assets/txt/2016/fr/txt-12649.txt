@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-Cabinet Vétérinaire Julien Joiret
+FLAT-HOTEL MIDI 33
 
-Chaussée de Wavre(WAN) 28
-4520 Wanze
+Chaussée de Louvain 196
+1210 Saint-Josse-ten-Noode
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
+Il résulte d’un acte reçu en date du 14 avril 2016 par Maître Pablo DE DONCKER, notaire à
+Bruxelles, déposé au greffe du Tribunal de Commerce de Bruxelles avant enregistrement qu’une
+société privée à responsabilité limitée a été constitué avec les statuts suivants :
  
-Il résulte d’un acte reçu par le notaire Philippe CRISMER, à Fexhe-le-Haut-Clocher, en date du 21
-septembre 2016, en cours d’enregistrement, que Monsieur JOIRET Julien Didier né à Liège le 25
-mars 1988, célibataire, domicilié à 4520 Wanze, rue Raide Vallée 136.
-A requis ledit de notaire de constater qu’il constitue seul la société privée à responsabilité limitée
-« CABINET VETERINAIRE JULIEN JOIRET », dont les statuts sont ainsi adoptés :
-           
-TITRE PREMIER : CARACTÈRE DE LA SOCIÉTÉ
-ARTICLE PREMIER : DÉNOMINATION
-La société civile adopte la forme d’une société privée à responsabilité limitée. Elle est dénommée
-« Cabinet vétérinaire Julien Joiret  ».
+I. DENOMINATION - SIEGE - OBJET - DUREE
+ARTICLE 1:
+La société privée à responsabilité limitée porte la dénomination «FLAT-HOTEL MIDI 33».
  
-Tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents
-émanant de la société doivent contenir les indications suivantes : la dénomination de la société ;
-l’indication précise du siège social ; les mots « Banque Carrefour des entreprises » ou les initiales
-« BCE », suivis du numéro d’entreprise et de l’indication du siège du tribunal dans le ressort territorial
-duquel la société a son siège social.
+ARTICLE 2:
+Le siège de la société est établi à 1210 Saint-Josse-ten-Noode, Chaussée de Louvain 196.
+Le siège d’exploitation de la société sera établi à 1000 Bruxelles, boulevard du Midi 33.
  
-ARTICLE DEUX : SIÈGE SOCIAL ET SIÈGE D’EXPLOITATION
-Le siège social est établi à 4520 Wanze, Chaussée de Wavre 28.
-Le siège social peut être transféré en tout autre endroit de la région de langue française de Belgique
-ou de la région Bruxelles-Capitale par simple décision de la gérance qui a tous pouvoirs aux fins de
-constater authentiquement la modification des statuts qui en résulte.
-La société peut, de la même manière, établir des sièges administratifs ou d’exploitation, succursales
-ou agences en Belgique ou à l’étranger.
-Le siège d’exploitation est établi à 4520 Wanze, Chaussée de Wavre 28.
+Il peut être transféré dans toute autre localité du pays en vertu d'une simple décision de la gérance
+qui a tous pouvoirs pour faire constater authentiquement la modification des statuts qui en résulte et
+sous réserve du respect des dispositions légales en la matière.
+Tout changement du siège doit être publié aux annexes du Moniteur Belge.
+Par simple décision de la gérance, il peut être établi des sièges administratifs, agences, succursales,
+unités d’établissement et comptoirs, tant en Belgique qu'à l'étranger, en quelque lieu qu'ils jugeront
+utile.
  
-ARTICLE TROIS : OBJET SOCIAL
-La société a pour objet social à titre principal l’exercice en commun de l’art de guérir les animaux tel
-qu’il est réservé aux médecins vétérinaires. Dans ce but, la société pourra notamment :
-- procéder à toutes recherches et toutes études en rapport avec son objet principal ;
-- s’occuper de la recherche et du développement de techniques scientifiques favorisant un diagnostic
-précis ;
-- percevoir et gérer les honoraires médicaux.
-L’objet social ne pourra être poursuivi que dans le respect des prescriptions d’ordre déontologique,
-notamment relatives au libre choix du médecin vétérinaire par le demandeur, l’indépendance
-diagnostique et thérapeutique du médecin vétérinaire, au respect de la confidentialité, à la dignité et
-l’indépendance professionnelle du praticien.
+ARTICLE 3:
+La société a pour objet, pour compte propre, pour compte de tiers ou en participation, en Belgique ou
+à l’étranger (code Nace- Bel 2008 : 55.20) :
+La mise à disposition d’un lieu d’hébergement, généralement sur une base journalière ou
+hebdomadaire, principalement pour un séjour de courte durée comprenant, dans un espace limité,
+des pièces complètement meublées ou des espaces de vie, de repas et de repos et disposant
+d’installations pour cuisiner ou de cuisines intégrées. Il peut s’agir d’appartements situés dans de
+petits bâtiments indépendants à plusieurs niveaux ou dans des ensembles de bâtiments ou de
+maisons, cabanes, pavillons ou chalets isolés. Lorsque des services supplémentaires sont proposés,
+ils seront d’un niveau minimal.
+La société pourra faire toutes opérations mobilières, immobilières, financières, industrielles et
+commerciales se rattachant, identique, analogue, utile ou connexe à son objet; elle pourra également
+participer d'une façon directe ou indirecte dans toutes entreprises et sociétés, par achat,
+souscription, apport, fusion, financement ou par quelques formes commerciales ou financières, de
+participation avec le but de développer, de favoriser ou de faciliter la réalisation de l'objet social.
+L'énumération ci-dessus est exemplative et non limitative.
+ 
+ARTICLE 4:
 
- *16319221*
+ *16308625*
 Déposé
-21-09-2016
+15-04-2016
 
-0662802483
+0651981738
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-23
+19
 /0
 
-9/
+4/
 20
 
 16
@@ -187,69 +187,68 @@ au
 
 Mod PDF 11.1
 
-Et d’une manière générale, la société peut exercer en Belgique comme à l’étranger, toute activité
-susceptible de favoriser la réalisation de son objet social ; elle peut s’intéresser par toutes voies,
-dans toutes les associations, entreprises ou sociétés ayant un objet analogue, ou qui sont de nature
-à favoriser son développement.
-Elle peut réaliser son objet par toutes opérations civiles, financières, mobilières ou immobilières se
-rapportant directement à celui-ci.
-La société s’interdit toute exploitation commerciale de la médecine vétérinaire, toute forme de
-collusion directe ou indirecte, de dichotomie ou de surconsommation. La société ne pourra conclure
-avec des médecins vétérinaires ou des tiers, de convention interdite au médecin vétérinaire.
+La société est constituée pour une période illimitée.
+Elle pourra être dissoute par décision de l'assemblée générale délibérant comme en matière de
+modification des statuts.
+La société ne sera pas liée par le décès, la démission, la faillite ou l'incapacité notoire d'un associé.
  
-ARTICLE QUATRE : DURÉE
-La société a été constituée pour une durée illimitée, sauf le cas de dissolution anticipée.
+II. CAPITAL - PARTS SOCIALES
+ARTICLE 5:
+Le capital social est fixé à dix-huit mille six cents euros (18.600,00 EUR).
+Il est représenté par 100 parts sociales sans désignation de valeur nominale, entièrement souscrites.
+Le capital social peut être augmenté ou réduit en une ou plusieurs fois sous réserve de l'application
+des dispositions légales prévues dans le Code des Sociétés.
+La réalisation de l’augmentation de capital, si elle n’est pas concomitante à la décision de
+l’augmentation de capital, est constatée par acte authentique.
  
-TITRE II : CAPITAL - PARTS SOCIALES
-ARTICLE CINQ : CAPITAL SOCIAL
-Le capital social a été fixé lors de la constitution à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00
-€), représenté par 186 parts sociales sans mention de valeur nominale, représentant chacune un/
-cent quatre-vingt-sixième (1/186ème) de l’avoir social.
-Les 186 parts sociales sont toutes souscrites par Monsieur JOIRET Julien, prénommé, soit pour
-18.600,00 euros.
-Le comparant déclare et affirme que les 186 parts sociales souscrites en espèces sont libérées à
-concurrence de deux tiers, par un  versement en espèces qu’il a effectué à un compte spécial portant
-le numéro BE50.0017.9234.8418, ouvert au nom de la société en voie de formation auprès de la
-BNP Paribas FORTIS, agence de WANZE, de sorte que la société a dès à présent de ce chef à sa
-disposition une somme de 12.400,00 euros.
-Nous, Notaire, attestons que ce dépôt a été effectué conformément à la loi.
-Un plan financier a également été remis par le comparant au notaire soussigné qui le gardera dans
-son dossier conformément à la loi.
+ARTICLE 6:
+Le ou les gérants feront les appels de fonds sur les parts non encore entièrement libérées au fur et à
+mesure des besoins de la société et ils déterminent le délai d'exécution.
+L'associé qui omet de verser les fonds dans les quinze jours de la signification de l'appel par lettre
+recommandée, paiera un intérêt au taux légal en faveur de la société à compter du jour de l'exigibilité
+jusqu'au jour du paiement effectif. Le ou les gérants peuvent autoriser les associés à libérer leur part
+avant tout appel de fonds.
  
-ARTICLE SIX : QUALITÉ DES PARTS SOCIALES - REGISTRE DES PARTS
-Les parts sont nominatives et indivisibles.
-Un registre des parts sera tenu au siège social, il comprendra :
-- la désignation préise de l’associé ou de chaque associé s’il y en a plusieurs ;
-- le nombre de parts lui ou leur revenant ainsi que l’indication des versements effectués ;
-- les transferts ou transmissions de parts sociales avec leur date, contresignées et datées par le
-cédant et le cessionnaire dans les cas de transmission pour cause de décès.
-Les cessions ou transmissions n’ont d’effet vis-à-vis des tiers et de la société qu’à dater de leur
-inscription dans le registre des parts.
-Les documents sociaux sont tenus de façon régulière au siège de la société en conformité avec la loi
-et les usages locaux.
-Tout associé ou tiers intéressé pourra prendre connaissance de ces livres et documents sans
-déplacement.
+ARTICLE 7:
+Les parts sociales d'un associé ne peuvent, à peine de nullité, être cédées entre vifs ou transmises
+pour cause de mort qu'avec l'agrément de la moitié au moins des associés possédant les trois/quarts
+au moins du capital, déduction faite des droits dont la cession est proposée.
+            Toutefois cet agrément n'est pas requis lorsque les parts sont cédées ou transmises:
+            1) à un associé;
+            2) au conjoint du cédant ou du testateur;
+            3) à des ascendants ou descendants en ligne directe;
+            4) à d'autres personnes agréées dans les statuts.
  
-ARTICLE SEPT : CESSION DE PARTS SOCIALES
-7.1. Les parts sociales ne pourront être cédées qu’à des praticiens légalement habilités à exercer la
-profession de médecin vétérinaire en Belgique, pratiquant ou appelés à pratiquer dans la société et,
-éventuellement, après proposition du candidat au Conseil de l’Ordre des Médecins Vétérinaires
-d’Expression française ;
-7.2. Lorsqu’il n’existe qu’un associé, il est libre de céder ses parts comme il l’entend sauf à respecter
-l’alinéa qui précède ;
-7.3. Lorsqu’il existe plusieurs associés, les parts d’un associé ne peuvent être cédées entre vifs ou
-transmises pour cause de mort, que conformément aux dispositions des articles 249 et suivants du
-code des sociétés et conformément au premier alinéa du présent article ;
-7.4. Le décès de l’associé unique n’entraîne pas la dissolution de la société. Les légataires et
-héritiers, régulièrement saisis, ou envoyés en possession proportionnellement à leurs droits dans la
-succession devront dans un délai de six mois, pour autant que la procédure ait été entamée dans les
-quinze jours suivant le décès, opter pour une des propositions suivantes et la réaliser :
-1) soit opérer une modification de l’objet social, dans le respect de l’article 287 du code des
-sociétés ;
-2) soit négocier les parts de la société entre eux, si un ou plusieurs d’entre eux remplissent les
-conditions du présent article ;
-3) soit négocier les parts de la société avec des tiers remplissant ces mêmes conditions.
+ARTICLE 8:
+Les parts sociales sont indivisibles. Chaque part sociale donne droit à une voix dans les limites
+déterminées par la loi. En cas d'indivision, la société ne reconnaît qu'un seul propriétaire par titre.
+Chaque fois que plusieurs personnes prétendent à la propriété d'un même titre, les droits y afférents
+seront suspendus jusqu'à ce qu'une seule personne ait été désignée comme étant propriétaire du
+titre. En cas de partage entre nu-propriétaire et usufruitier, seul l'usufruitier aura le droit de vote.
  
+ARTICLE 9:
+Les héritiers et créanciers d'un associé ne peuvent, sous aucun prétexte, requérir l'apposition des
+scellés sur les biens et documents de la société ni s'immiscer en aucune manière dans les actes de
+son administration.
+Ils doivent pour l'exercice de leurs droits s'en référer aux comptes annuels et aux décisions de
+l'assemblée générale.
+ 
+ARTICLE 10:
+Les titres nominatifs portent un numéro d’ordre et sont inscrits dans un registre tenu au siège dont
+tout associé ou tout tiers intéressé pourra prendre connaissance. Y seront relatés, conformément à
+la loi, les transferts ou transmissions de titres.
+Lors de l’inscription au registre, un certificat y relatif sera donné à l’associé.
+ 
+III. ADMINISTRATION - SURVEILLANCE
+ARTICLE 11:
+La gestion de la société est confiée à un ou plusieurs gérants associés ou non associés, nommés
+par l'assemblée générale ou par l'associé unique.
+Lorsqu’une personne morale est nommée gérante, celle-ci est tenue de désigner parmi ses associés,
+gérants, administrateurs ou travailleurs, un représentant permanent (personne physique), chargé de
+l’exécution de cette mission au nom et pour le compte de la personne morale.
+La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
+règles de publicité que s’il exerçait cette mission en nom et pour compte propre.
+Le ou les gérants sont investis des pouvoirs les plus étendus pour représenter la société, faire tous
 
 Bi
 jla
@@ -278,10 +277,10 @@ bl
 ad
  - 
 
-23
+19
 /0
 
-9/
+4/
 20
 
 16
@@ -324,69 +323,69 @@ au
 
 Mod PDF 11.1
 
-ARTICLE HUIT
-En aucun cas, ni l’associé, ni les représentants de l’associé défunt, fussent-ils mineurs ou
-incapables, ne pourront faire apposer les scellés ou requérir l’établissement d’un inventaire
-authentique ou non, des biens de la société ou entraver de quelque façon que ce soit le
-fonctionnement de la société.
+les actes d'administration et de disposition tombant sous l'objet social précisé sous l'article 3 et sous
+réserve des stipulations reprises dans le Code des Sociétés.
+S'ils sont plusieurs, les gérants pourront agir séparément.
+Tout ce qui n'est pas expressément réservé par la loi à l'assemblée générale ou à l'associé unique,
+est de la compétence des gérants.
+Il peut ou ils peuvent notamment faire et passer tous contrats et marchés, acheter, vendre, échanger,
+exploiter, prendre ou donner en location tous biens meubles et immeubles; consentir et accepter tous
+baux, avec ou sans promesse de vente; contracter tous emprunts, consentir toutes garanties et
+toutes affectations, même hypothécaires,  accepter toutes garanties, délivrer toutes quittances et
+décharges; donner mainlevée de tous commandements, oppositions, saisies et transcriptions
+quelconques ainsi que de toutes inscriptions privilégiées et hypothécaires, d'office ou autres,
+renoncer à tous privilèges, droit d'hypothèque et actions résolutoires et à tous droits réels
+quelconques, dispenser le Conservateur des Hypothèques de prendre inscription d'office, le tout
+avant comme après paiement, déterminer l'emploi des fonds disponibles et des réserves, traiter,
+transiger et compromettre sur tous intérêts sociaux, nommer et révoquer tous agents et employés,
+déterminer leurs attributions, leurs traitements et éventuellement leurs cautionnements, représenter
+la société en justice, tant en demandant qu'en défendant, de même que pour les formalités auprès
+des administrations publiques.
+L'énumération qui précède est énonciative et non limitative.
  
-TITRE III : GÉRANCE - SURVEILLANCE
-ARTICLE NEUF
-La gérance de la société est confiée par l’Assemblée Générale à un ou plusieurs gérants, associés,
-toujours révocables.
-Chaque gérant devra toujours jouir de la qualité de médecin vétérinaire.
-En cas de nomination nouvelle, proposition du candidat devra être présentée au Conseil de l’Ordre
-des Médecins Vétérinaires d’Expression française.
+ARTICLE 12:
+Le ou les gérants ont le droit de déléguer des pouvoirs spéciaux à un ou des directeurs, ainsi qu'à
+des fondés de pouvoirs, associés ou non, de fixer les attributions et rémunérations afférentes à ces
+fonctions et conclure avec les intéressés tout contrat de louage de service.
  
-ARTICLE DIX : POUVOIR DES GÉRANTS
-Chaque gérant est investi des pouvoirs les plus étendus pour faire tous les actes d’administration ou
-de disposition qui intéressent la société, dans le cadre de son objet social, à l’exception de ceux que
-la loi réserve à l’Assemblée Générale.
-Il représente la société à l’égard des tiers et en justice, tant en demandant qu’en défendant.
-Il a tous les pouvoirs pour agir seul et au nom de la société.
-Dans tous les actes engageant la société, la signature du gérant doit être précédée ou suivie
-immédiatement de la qualité en laquelle il agit.
+ARTICLE 13:
+Tous les actes engageant la société seront signés par le ou les gérants sauf délégation spéciale.
+Toutes décisions portant sur des actes autres que ceux de gestion journalière seront actés dans un
+registre des procès-verbaux; chaque procès-verbal sera signé par le ou les gérants.
  
-ARTICLE ONZE : DÉLÉGATIONS
-La gérance peut, sous sa responsabilité, déléguer :
-- soit la gestion journalière, en ce compris le pouvoir de recevoir tous plis recommandés, assurés ou
-autres ;
-- soit certains pouvoirs spéciaux pour des fins déterminées (à l’exception des activités relevant
-spécifiquement de la médecine vétérinaire) à telles personnes associées ou non qu’il désignera.
-Ces délégations ne pourront être accordées pour une durée de plus d’un an que moyennant accord
-de l’Assemblée Générale, laquelle indiquera l’étendue des pouvoirs délégués et leur durée ;
-moyennant cet accord de l’Assemblée Générale, le gérant délégant sera déchargé de toute
-responsabilité à raison des suites de cette délégation.
+ARTICLE 18:
+Chaque année, le 1er lundi  du mois de juin à 11.00 heures ou si ce jour est férié, le premier jour
+ouvrable suivant, samedi excepté, à la même heure, une assemblée générale se tiendra au siège de
+la société ou en tout autre endroit indiqué dans les convocations, pour entendre le rapport du ou des
+gérants et, le cas échéant, du commissaire, approuver les comptes annuels et en général sur tous
+les points à l'ordre du jour.
  
-ARTICLE DOUZE : RÉMUNÉRATION
-Le mandat de gérant peut être rémunéré ; la rémunération est fixée par l’assemblée générale.
-Le gérant peut en outre être indemnisé pour ses frais et vacations.
+Les convocations pour toute assemblée générale contiennent l'ordre du jour avec l'indication des
+sujets à traiter.
+Elles sont faites par lettres recommandées envoyées quinze jours avant l'assemblée aux associés,
+porteurs d'obligation, commissaires et gérants.
+En même temps que la convocation à l'assemblée générale, il est adressé aux associés, porteurs
+d'obligation, commissaires et gérants une copie des documents qui doivent leur être transmis en
+vertu du Code des Sociétés.
+Il est tenu à chaque assemblée générale une liste des présences.
  
-ARTICLE TREIZE : SURVEILLANCE
-Le contrôle de la société devra être confié à un ou plusieurs commissaires réviseurs dès que les
-critères légaux l’imposeront ou si l’Assemblée Générale le décide.
-Ces fonctions seront rémunérées, le montant de ces rémunérations, imputables en frais généraux,
-sera fixé par l’Assemblée Générale.
-Au cas où il n’est pas nommé de commissaire, chaque associé a, nonobstant toute stipulation
-contraire des statuts, individuellement les pouvoirs d’investigation et de contrôle des commissaires.
-Il pourra notamment prendre connaissance sans déplacement des livres, de la correspondance et de
-toutes les écritures de la société.
-Il peut se faire représenter par un expert-comptable.
-La rémunération de l’expert-comptable incombe à la société s’il a été désigné avec son accord ou si
-cette décision a été mise à sa charge par décision judiciaire.
-En ce cas, les observations de l’expert-comptable seront communiquées à la société.
+Les gérants répondent aux questions qui leur sont posées par les associés au sujet de leur rapport
+ou des points portés à l'ordre du jour, dans la mesure où la communication de données ou de faits
+n'est pas de nature à porter gravement préjudice à la société, aux associés ou au personnel de la
+société.
+L'assemblée, après approbation des comptes annuels se prononce par un vote spécial sur la
+décharge à donner au(x) gérant(s) et éventuellement au commissaire.
  
-TITRE IV : ASSEMBLÉE GÉNÉRALE
-ARTICLE QUATORZE : ASSEMBLÉE GÉNÉRALE
-Les associés se réunissent en Assemblée Générale pour délibérer sur tous les objets qui intéressent
-la société.
-Il est tenu chaque année, au siège social ou dans la commune du siège social, en ce cas, cet endroit
-sera indiqué sur les convocations, une Assemblée Générale Ordinaire, le premier lundi du mois de
-juin de chaque année, à 17 heure(s), et pour la première fois en 2017.
-Si ce jour est férié, l’Assemblée se tiendra le premier jour ouvrable suivant.
-S’il n’y a qu’un seul associé, c’est à cette même date, qu’il signera, pour approbation, les comptes
-annuels.
-Aussi longtemps que la société ne compte qu’un seul associé, il exerce les pouvoirs dévolus à l’
+L'organe de gestion a le droit de proroger, séance tenante, la décision relative à l'approbation des
+comptes annuels à trois semaines. Cette prorogation n'annule pas les autres décisions prises, sauf si
+l'assemblée en décide autrement. La seconde assemblée a le droit d'arrêter définitivement les
+comptes annuels.
+ 
+V. INVENTAIRE - COMPTES ANNUELS - REPARTITION - RESERVE
+ARTICLE 23:
+L'exercice social s'écoule du premier janvier au trente-et-un décembre de chaque année.
+Au trente-et-un décembre de chaque année, les livres sont arrêtés. Le gérant dresse l'inventaire et
+les comptes annuels conformément à la loi.
 
 Bi
 jla
@@ -415,10 +414,10 @@ bl
 ad
  - 
 
-23
+19
 /0
 
-9/
+4/
 20
 
 16
@@ -461,69 +460,69 @@ au
 
 Mod PDF 11.1
 
-Assemblée Générale, il ne peut les déléguer.
-Les décisions de l’associé unique agissant en lieu et place de l’Assemblée Générale, sont
-consignées dans un registre tenu au siège social.
-S’il y a plusieurs associés, les décisions sont prises quel que soit le nombre des parts représentées,
-à la majorité des voix pour lesquelles il est pris part au vote.
-Chaque part donne droit à une voix.
  
-TITRE V : INVENTAIRE - BILAN - RÉPARTITION
-ARTICLE QUINZE
-L’exercice social commence le 1e janvier de chaque année et se termine le 31 décembre.
-Chaque année, la gérance dresse un inventaire et établit les comptes annuels.
-Ces comptes annuels comprennent le bilan, les comptes de résultats, ainsi que l’annexe et forment
-un tout.
-La gérance se conformera en outre au code des sociétés.
-S’il est nommé un ou plusieurs commissaire(s), comme il est prévu à l’article 13 des statuts, les dits
-comptes seront remis au commissaire qui les adressera avec son rapport aux associés en même
-temps que la convocation à l’Assemblée Générale.
-Celle-ci statuera sur l’adoption du bilan et se prononcera par un vote spécial après adoption sur la
-décharge des gérants ou commissaire.
+ARTICLE 24:
+Le solde bénéficiaire du bilan, après déduction des frais généraux, des charges sociales et
+amortissements constitue le bénéfice net de la société.
+Il est fait annuellement, sur les bénéfices nets, un prélèvement d’un vingtième au moins, affecté à la
+formation d’un fonds de réserve.
+Ce prélèvement cesse d'être obligatoire lorsque le fonds de réserve a atteint un dixième du capital
+social. Le solde est mis à la disposition de l'assemblée générale qui décidera de son utilisation.
  
-ARTICLE SEIZE : AFFECTATION DES BÉNÉFICES
-L’excédent favorable du bilan, déduction faite des frais généraux, charges sociales et
-amortissements constitue le bénéfice net.
-L’Assemblée Générale décide de son affectation, déduction faite des charges légales :
-- soit elle le portera à un compte de réserve
-- soit elle distribuera sous forme de dividendes ou autrement, sous réserve des stipulations de
-l’article 320 du code des sociétés.
-Sur le bénéfice net, tel qu’il découle des comptes annuels arrêtés par la gérance, il est prélevé
-annuellement au moins cinq (5%) pour-cent pour être affectés au fonds de réserve légale. Ce
-prélèvement cesse d’être obligatoire lorsque la réserve légale atteint le dixième du capital.
-            Le solde reçoit l’affectation que lui donne l’assemblée générale statuant sur proposition de la
-gérance, dans le respect des dispositions légales.
+Aucune distribution ne peut être faite lorsqu'à la date de clôture du dernier exercice, l'actif net tel qu'il
+résulte des comptes annuels est, ou deviendrait, à la suite d'une telle distribution, inférieur au
+montant du capital libéré ou, si ce montant est supérieur, du capital appelé, augmenté de toutes les
+réserves que la loi ou les statuts ne permettent pas de distribuer.
  
-TITRE VI : DISSOLUTION - LIQUIDATION
-ARTICLE DIX-SEPT
-En cas de dissolution de la société pour quelque cause que ce soit, la liquidation s’opère par les
-soins du ou des gérants agissant en qualité de liquidateur et, à défaut, par des liquidateurs nommés
-par l’Assemblée Générale qui en ce cas, déterminera leurs pouvoirs et leurs émoluments et fixera le
-mode de liquidation, conformément aux articles 184 et suivants du code des sociétés.
+VI. DISSOLUTION - LIQUIDATION
+ARTICLE 25:
+En cas de décision de dissolution par l'assemblée générale, celle-ci aura les pouvoirs et attributions
+les plus étendus afin de désigner le ou les liquidateurs, déterminer leurs pouvoirs et leur
+rémunération.
  
-ARTICLE DIX-HUIT : PERTE DU CAPITAL
-1. Si par suite de pertes, l’actif net est réduit à un montant inférieur à la moitié du capital social,
-l’assemblée générale doit être réunie dans un délai de deux mois à dater du moment où la perte a
-été constatée ou aurait dû l’être en vertu des obligations légales ou statutaires, aux fins de délibérer,
-dans les formes prescrites pour la modification aux statuts, sur la dissolution éventuelle de la société
-ou sur d’autres mesures annoncées à l’ordre du jour.
-La gérance justifiera de ses propositions dans un rapport spécial tenu à la disposition des associés,
-quinze jours avant l’assemblée générale.
-2. Si par suite de pertes, l’actif net est réduit à un montant inférieur à 6.200 euros, tout intéressé peut
-demander au tribunal, la dissolution de la société.
+Après le paiement de toutes les dettes, charges et frais de la liquidation ou consignation des
+sommes nécessaires à cet effet, l’actif net est réparti également entre toutes les parts.
+Toutefois, si toutes les parts sociales ne sont pas libérées dans une égale proportion, les liquidateurs
+rétablissent préalablement l’équilibre soit par des appels de fonds, soit par des remboursements
+partiels.
  
-ARTICLE DIX-NEUF : RÉPARTITION DE L’ACTIF NET
-Après apurement de toutes les dettes, l’actif net sert d’abord à rembourser le montant libéré des
-parts sociales.
+ARTICLE 26:
+Conformément au Code des Sociétés, la réunion de toutes les parts entre les mains d'une seule
+personne n'entraîne pas la dissolution de la société.
+Lorsque cette personne est une personne morale et que, dans un délai d'un an, un nouvel associé
+n'est pas entré dans la société ou que celle-ci n'est pas dissoute, l'associé unique est réputé caution
+solidaire de toutes les obligations de la société nées après la réunion de toutes les parts entre ses
+mains jusqu'à l'entrée d'un nouvel associé dans la société ou la publication de sa dissolution.
+Le décès de l'associé unique n'entraîne pas la dissolution de la société. Sans préjudice de ce qui est
+prévu dans le Code des Sociétés et sauf dispositions contraires des statuts, les droits afférents aux
+parts sociales sont exercés par les héritiers et légataires régulièrement saisis ou envoyés en
+possession, proportionnellement à leurs droits dans la succession, jusqu'au partage desdites parts
+ou jusqu'à la délivrance des legs portant sur celles-ci.
  
-ARTICLE VINGT : DÉONTOLOGIE
-Les associés et gérants restent soumis à la juridiction du Conseil de l’Ordre des Médecins
-Vétérinaires.
-En matière déontologique, les médecins vétérinaires répondent devant l’Ordre des actes accomplis
-en qualité de mandataire de la société.
-La suspension éventuelle du droit d’exercer l’art médical vétérinaire entraîne pour le médecin
-vétérinaire sanctionné la perte des avantages du contrat pour la durée de la suspension.
-En outre, la responsabilité personnelle des associés, gérants ou collaborateurs reste entière vis-à-vis
+COMPARANTS- FONDATEURS DE LA SOCIETE
+Ont comparu pour la constitution de la société dont les statuts ont été ci-avant décrits:
+ 
+1° La société anonyme MIDI INVEST, ayant son siège social à 1210 Saint-Josse-ten-Noode,
+Chaussée de Louvain 196, inscrite au registre des personnes morales de Bruxelles sous le numéro
+0863.527.751.
+Ici représentée conformément aux statuts par son administrateur-délégué à savoir Monsieur
+OZDEMIR Adnan, né à Saray (Turquie), le 01 janvier 1961, titulaire du numéro national ******-***-**,
+domicilié à 1210 Saint-Josse-ten-Noode, Chaussée de Louvain, 196, nommé à cette fonction lors
+d’une décision de l’assemblée générale en date du 21 septembre 2015, publiée à l’annexe au
+Moniteur Belge en date du 21 octobre suivant sous le numéro 15148146.
+ 
+2° Monsieur OZDEMIR Adnan, né à Saray (Turquie), le 01 janvier 1961, titulaire du numéro national
+******-***-**, domicilié à 1210 Saint-Josse-ten-Noode, Chaussée de Louvain, 196.
+ 
+SOUSCRIPTION - LIBERATION
+Les comparants prénommés ont souscrit la totalité des parts sociales à savoir les 100 parts sociales
+sans désignation de valeur nominale représentant le capital social à concurrence de 18.600,00 EUR
+comme suit:
+ 
+1° La société anonyme MIDI INVEST, ayant son siège social à 1210 Saint-Josse-ten-Noode,
+Chaussée de Louvain 196, inscrite au registre des personnes morales de Bruxelles sous le numéro
+0863.527.751, prénommée et représentée comme dit ci-avant :
+Quatre parts sociales (4)
 
 Bi
 jla
@@ -552,10 +551,10 @@ bl
 ad
  - 
 
-23
+19
 /0
 
-9/
+4/
 20
 
 16
@@ -598,111 +597,110 @@ au
 
 Mod PDF 11.1
 
-de leurs clients.
-Chaque médecin vétérinaire reste tenu au devoir de confidentialité.
-La rémunération du médecin vétérinaire pour ses activités médicales doit être normale.
-La société ne pourra conclure aucune convention interdite aux médecins vétérinaires avec d’autres
-médecins vétérinaires ou avec des tiers.
-Conformément au dit code de déontologie, tout projet de convention, statuts et règlement d’ordre
-intérieur ainsi que toute proposition de modification de ces documents doivent être soumis à
-l’approbation préalable du Conseil de l’Ordre des Médecins Vétérinaires d’Expression française.
  
-ARTICLE VINGT ET UN : DROIT COMMUN
-Pour les objets non expressément réglés par les présents statuts, le comparant déclare se référer au
-code des sociétés, sous réserve de l’application des règles déontologiques.
+2° Monsieur OZDEMIR Adnan, né à Saray (Turquie), le 01 janvier 1961, titulaire du numéro national
+******-***-**, domicilié à 1210 Saint-Josse-ten-Noode, Chaussée de Louvain, 196.
+Nonante-six parts sociales (96)
+Total : cents parts sociales (100)
  
-ARTICLE VINGT-DEUX : FRAIS
-Les comparants déclarent que le montant des frais, rémunérations et charges incombant à la
-société, en raison de sa constitution, s’élève approximativement à 1.210,00 euros.
+Les comparants déclarent qu’un montant de 6.200,00 euros a été effectuée au compte spécial,
+numéro BE 54 **0 8**0 3**7 au nom de la société en constitution auprès de la banque ***.
  
-DÉCLARATIONS
-Le comparant reconnaît que le notaire soussigné a attiré spécialement son attention sur la
-responsabilité découlant de sa qualité de fondateur et sur les conséquences qu’entraînerait pour lui
-l’établissement d’un plan financier non réaliste.
-Il reconnaît également que le notaire lui a donné lecture de l’article 212 du code des sociétés qui
-prévoit qu’une personne physique ne peut être l’associé unique que d’une seule société à
-responsabilité limitée.
-Cette personne physique est réputée caution solidaire des obligations de toute autre société privée à
-responsabilité limitée qu’elle constituerait seule ou dont elle deviendrait ensuite l’associé unique sauf
-si les parts lui sont transmises pour cause de mort.
-Cette personne physique ne sera plus réputée caution solidaire des obligations des sociétés visées à
-l’alinéa précédent dès l’entrée d’un nouvel associé dans la société ou dès la publication de sa
-dissolution.
+Il reste donc à être libéré un montant de 12.400,00 Euros.
+Les comparants nous remettent l'attestation de ce versement en dépôt, laquelle sera laissée en
+dépôt au dossier du notaire soussigné.
+Nous, Notaire, remettrons en contrepartie à l'organisme bancaire l'avis de passation du présent acte
+de telle sorte que la société puisse disposer du compte spécial après le dépôt au greffe du Tribunal
+de Commerce à Bruxelles.
  
-DISPOSITIONS TRANSITOIRES
-Une assemblée générale tenue sans convocation ni ordre du jour préalable, immédiatement après la
-constitution de la société, désigne le nombre primitif du ou des gérants, les nomme pour la première
-fois.
+NOMINATION DU GERANT ORDINAIRE
+Est désigné par les comparants comme gérant ordinaire et nommé pour la durée de la société sauf
+révocation par l'assemblée générale:
+Monsieur OZDEMIR Adnan, né à Saray (Turquie), le 01 janvier 1961, titulaire du numéro national
+******-***-**, domicilié à 1210 Saint-Josse-ten-Noode, Chaussée de Louvain, 196, prénommé, ici
+présent et qui accepte.
+Son mandat est exercé à titre gratuit.
  
-ASSEMBLÉE GÉNÉRALE
-Le comparant constate que par l’adoption des statuts qui précèdent, la société est définitivement
-constituée, et déclare se réunir en assemblée générale.
-L’assemblée prend les décisions suivantes à l’unanimité :
-Le nombre de gérant est fixé à un.
-Est nommé à cette fonction le docteur JOIRET Julien, prénommé ici présent et qui accepte.
-Le mandat de gérant sera exercé à titre gratuit ou rémunéré suivant décision de l’assemblée
-générale.
-Les activités de la société prennent cours le jour du dépôt au greffe du tribunal de commerce. Le
-premier exercice social se terminera le 31 décembre 2017. La première assemblée aura lieu le
-premier lundi du mois de juin 2017.
-En application de l’article 60 du code des sociétés, la société reprend les engagements contractés en
-son nom tant qu’elle était en formation.
-Le docteur Julien JOIRET est en outre désigné comme interlocuteur pour communiquer avec l’Ordre
-des Médecins Vétérinaires.
- B
+DISPOSITIONS TEMPORAIRES
+Le premier exercice social finira le 31 décembre de l’an 2017 et la première assemblée générale
+annuelle se tiendra en 2018.
+ 
+ENGAGEMENTS PRIS AU NOM DE LA SOCIETE EN FORMATION
+Les fondateurs déclarent que tous les engagements pris à quelque titre que ce soit à partir du 1er
+janvier 2016 et dès lors avant l’acquisition de la personnalité juridique de la société sont réputés
+avoir été contractés par elle dès l’origine.
+Cependant, cette reprise n'aura d'effet qu'au moment où la société acquerra la personnalité morale.
+Les comparants déclarent avoir parfaite connaissance de ces engagements et de leurs conditions et
+déclare les accepter au nom de la société constituée aux présentes et conformément à l’article 60 du
+Code des sociétés.
+ 
+Connaissances de gestion de base et compétence professionnelle.
+Le comparant reconnaît avoir été informé par le notaire soussigné de la nécessité pour la personne
+physique qui exerce effectivement la gestion journalière de la société d'établir, préalablement à
+l'inscription de la société au registre du commerce, ses connaissances de gestion de base et/ou sa
+compétence professionnelle.
+ 
+Pour extrait analytique conforme
+Le notaire associé
+Pablo De Doncker
+ 
+Déposé en même temps : une expédition de l’acte
+ 
 
-ijla
+Bi
+jla
+
 ge
-
 n 
+
 bi
-
 j h
+
 et
-
  B
-el
 
+el
 gi
+
 sc
-
 h 
+
 St
-
 aa
+
 ts
-
 bl
+
 ad
-
  - 
-23
 
+19
 /0
-9/
 
+4/
 20
+
 16
-
  - 
+
 An
-
 ne
+
 xe
-
 s 
+
 du
-
  M
+
 on
-
 ite
+
 ur
-
  b
-el
 
+el
 ge
+
  
 
 

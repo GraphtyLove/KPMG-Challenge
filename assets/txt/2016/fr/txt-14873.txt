@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-ADFUI
+DVS-HOLLAIN
 
-Rue de la Corderie 88
-6061 Charleroi
+Rue du Marais(HOL) 5 bte C
+7620 Brunehaut
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-              Extrait de l'acte reçu par le notaire Ingrid DE WINTER, à Marchienne-au-Pont, le 14
-novembre 2016, en cours d'enregistrement.
-              FONDATEURS
-1°    Madame MENTINO Michelina, domiciliée à Montignies-sur-Sambre, rue de la Corderie, 88.
-2°    Mademoiselle PRANGER Jessica, domiciliée à Montignies-sur-Sambre, rue de la Corderie, 88.
-              FORME
-              Société privée à responsabilité limitée.
-              DENOMINATION
-              " ADFUI",
-              SIEGE SOCIAL
-              Charleroi (6061-Montignies-sur-Sambre), rue de la Corderie, 88
-              OBJET
-              La société a pour objet, pour compte propre, pour compte de tiers ou en participation, en
-Belgique ou à l'étranger :
+Il résulte d’un acte reçu par le notaire Edouard JACMIN à TOURNAI (Marquain) le 9 mai 2016, en
+cours d’enregistrement, que Monsieur DUTRIEUX Emmanuel, domicilié à 7620 Brunehaut, Rue du
+Marais 5/B, a constitué une société privée à responsabilité limitée sous la dénomination : « DVS-
+HOLLAIN », au capital social de dix-huit mille six cent euros (18.600,00 €) entièrement libéré.
+La totalité des apports en espèces a été déposé à un compte spécial ouvert au nom de la société en
+formation auprès de la Banque CPH.
+FRAIS DE CONSTITUTION
+Le montant des frais, dépenses, rémunérations et charges sous quelque forme que ce soit,
+incombant à la société ou qui seront mis à sa charge, en raison de sa constitution, s'élève à environ
+mille trois cents euros (1.300,00 €).
+II. STATUTS
+TITRE PREMIER – CARACTERE DE LA SOCIETE
+Article 1- DENOMINATION
+La société est constituée sous forme de société privée à responsabilité limitée.  Elle est dénommée :
+« DVS-HOLLAIN ».
+Article 2 - SIEGE SOCIAL
+Le siège social est établi à 7620 HOLLAIN, rue du Marais, 5/C.
+Article 3 - OBJET
+La société a pour objet, tant en Belgique qu’à  l’étranger, pour compte propre ou pour le compte de
+tiers, toutes opérations généralement quelconques, tous travaux et services, toutes ventes et
+commercialisations mobilières et/ou immobilières se rapportant directement ou indirectement à :
+Le commerce de machines agricoles et de matériel agricole:
+-charrues, épandeurs de fumier, semoirs ;
+-moissonneuses ;
+-batteuses ;
+-machines à traire ;
+-machines et appareils pour l’aviculture, l’apiculture ;
+-tracteurs agricoles et forestiers ;
+-autres.
+Le commerce de machines horticoles et de matériel horticole.
+L’entretien et la réparation de machines agricoles et matériel agricole.
+L’entretien et la réparation de machines horticoles et de matériel horticole.
+La location de matériel et machines agricoles et horticoles.
+Intermédiaires du commerce en voitures et en véhicules automobiles légers ( 3,5 tonnes).
+Le commerce de détail d'automobiles et d'autres véhicules automobiles légers (= 3,5 tonnes).
+L’entretien et la réparation général d'automobiles et d'autres véhicules automobiles légers (= 3,5
+tonnes).
+La construction métallique.
 
-    •  La formation socio-culturelle, tous services de soutien à l'enseignement et la formation
-professionnelle;
-    •  La gestion des musées, y compris les musées en plein air; musées d'art, d'orfèvrerie, de
-meubles, de costumes, de céramiques, d'argenterie etc.; musées d'histoire naturelle, des sc. et
-techniques etc..., la préservation de sites (y compris les fouilles) et de bâtiments historiques, la
-conservation de monuments historiques et l'établissement de catalogues;
-    •  Les activités d'audit général, les conseils et assistance aux entreprises et aux services publics
-en matière de planification, d'organisation, de recherche du rendement, de contrôle, d'information, de
-gestion, etc...;
-    •  Le commerce de détail de tous types de produits par Internet (e-commerce);
-    •  Le commerce de détail de tous types de produits par correspondance. Les produits et articles
-sont expédiés à l'acheteur qui fait son choix au départ de publicités, catalogues spécialisés ou non
-etc...;
-    •  Le commerce de détail d'art contemporain, de tableaux nouveaux, de reproductions, de cadres
-etc...;
-    •  Le commerce de détail de souvenirs, d'objets artisanaux et d'articles religieux;
-    •  Les activités de conseil aux utilisateurs concernant le type et la configuration du matériel
-informatique et les applications logicielles;
-    •  L'édition de livres, de livres scolaires, de brochures etc..;
-    •  Tous services administratifs combinés de bureau.
-              Elle peut accomplir toutes opérations commerciales, industrielles, financières, mobilières ou
-immobilières se rapportant directement ou indirectement à son objet.
-              Elle peut s'intéresser par toutes voies dans toutes sociétés, associations ou entreprises
-
- *16323161*
+ *16310304*
 Déposé
-14-11-2016
+10-05-2016
 
-0665963002
+0653887193
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-17
-/1
+12
+/0
 
-1/
+5/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-ayant un objet similaire ou connexe au sien ou susceptible de favoriser le développement de ses
-activités.
-              La société peut être administrateur, gérant ou liquidateur.
-              DUREE
-              Illimitée.
-              CAPITAL
-              18.600,00 € , divisé en 186 parts sans valeur nominale, représentant chacune 1/186e de
-l'avoir social.
-              GERANCE
-              La société est administrée par un ou plusieurs gérants, statutaires ou non, associés ou non,
-nommés avec ou sans limitation de durée.
-              Si le gérant est une personne morale, celle-ci doit désigner parmi ses associés, gérants,
-administrateurs ou travailleur un représentant permanent chargé de l'exécution de cette mission pour
-le compte de la personne morale.  Ce représentant est soumis aux mêmes conditions et encourt les
-mêmes responsabilités civiles et pénales que s'il exerçait cette mission en nom et pour compte
-propre, sans préjudice de la responsabilité solidaire de la personne morale qu'il représente.  Celle-ci
-ne peut révoquer son représentant qu'en désignant simultanément son successeur.
-              Conformément aux dispositions du Code des Sociétés et sauf organisation par l'assemblée
-d'un collège de gestion, chaque gérant représente la société à l'égard des tiers et en justice et peut
-poser tous les actes nécessaires ou utiles à l'accomplissement de l'objet social, sauf ceux que la loi
-réserve à l'assemblée générale.
-              Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
-              Sauf décision contraire de l'assemblée générale, le mandat de gérant est gratuit.
-              CONTROLE
-              Tant que la société répond aux critères énoncés à l'article 15 du Code des sociétés, il n'est
-pas nommé de commissaire, sauf décision contraire de l'assemblée générale.
-              ASSEMBLEE GENERALE ORDINAIRE
-              Le 1er vendredi du mois de mars, à 19 h.
-              CONDITIONS D'EXERCICE DU DROIT DE VOTE
-              Chaque part donne droit à une voix.
-              EXERCICE SOCIAL
-              Du 1er  janvier au 31 décembre.
-              CONSTITUTION DES RESERVES - REPARTITION DES BENEFICES
-              Sur le bénéfice net, tel qu'il découle des comptes annuels arrêtés par la gérance, il est
-prélevé annuellement au moins 5 % pour être affectés au fonds de réserve légale. Ce prélèvement
-cesse d'être obligatoire lorsque la réserve légale atteint le dixième du capital.
-              Le solde reçoit l'affectation que lui donne l'assemblée générale statuant sur proposition de la
-gérance, dans le respect des dispositions légales.
-              REPARTITION DU BONI DE LIQUIDATION
-              Après approbation du plan de répartition par le tribunal de commerce compétent, le
-liquidateur répartit l'actif net entre les associés au prorata du nombre de parts qu'ils possèdent.
-              Si toutes les parts ne sont pas libérées dans une égale proportion, le liquidateur doit rétablir
-l'équilibre avant de procéder au partage, en mettant toutes les parts sur pied d'égalité par des appels
-de fonds ou par une répartition préalable.
-              Le solde est réparti également entre toutes les parts.
-              DISPOSITIONS TEMPORAIRES
-              Les associés ont pris à l'unanimité les résolutions suivantes
-1° Premier exercice social
-     Le premier exercice social, commencé le  jour du dépôt au Greffe du Tribunal de Commerce, se
-clôturera le 31 décembre 2017.
-2° Première assemblée générale annuelle
-     Fixée le 1er  vendredi du mois de mars  2018.
-3° Nomination de gérants non statutaires
-     Ont été appelées à cette fonction Madame Michelina MENTINO et Mademoiselle Jessica
-PRANGER susdites.
-    Elles sont nommées jusqu'à révocation et peuvent, agissant seule, engager valable-ment la
-société sans limitation de sommes.
-     Leur mandat est exercé gratuitement.
-     Le gérant reprendra, le cas échéant, dans le délai légal, les engagements souscrits au nom de la
-société en formation.
-4° Contrôle
-     Il a été décidé de ne pas nommer de commissaire-reviseur.
- 
+La société a également pour objet l'étude, le conseil, la consultation, l'expertise, l'imagerie et toutes
+prestations de services dans le cadre des activités décrites.
+Elle peut également exercer les fonctions d'administrateurs, de gérant, ou de liquidateur dans
+d'autres sociétés.
+La société peut collaborer et prendre part, ou prendre un intérêt dans d'autres entreprises,
+directement ou indirectement, de quelque manière que ce soit.
+La société peut donner caution tant pour ses propres engagements que pour les engagements des
+tiers, entre autres en donnant ses biens en hypothèque ou en gage tous ses biens.
+La société peut également fusionner avec une autre société ayant le même objet social, soit par
+absorption, soit par la constitution d'une nouvelle société, entre sociétés de même forme ou de forme
+différente.
+La société peut entreprendre, soit seule, soit en coopération avec d'autres, soit indirectement ou
+indirectement toute opération financière, mobilière ou immobilière se rattachant directement ou
+indirectement à l'exercice de la profession ou pouvant contribuer à son développement ou qui
+seraient de nature à en faciliter directement ou indirectement, entièrement ou partiellement la
+réalisation.
+La société pourra s'intéresser au soutien, la promotion, acquisition, la participation par voie d'apport
+en numéraire ou en nature, de fusion, de souscription, d'intervention financière ou autrement, dans
+toute société ou institution créée en Belgique ou l'étranger.
+La société peut être également être mobilière et immobilière et plus particulièrement, elle pourra
+acheter, prendre à bail, louer, construire, vendre ou échanger des biens meubles et immeubles,
+matériels et installations.
+La société peut accomplir, toutes opérations généralement quelconques, industrielles, commerciales,
+financières, mobilières ou immobilières, se rapportant directement ou indirectement à cet objet, pour
+son compte que pour compte de tiers, et s'intéresser sous quelque forme et de quelque manière que
+ce soit, dans toutes affaires, associations, entreprises ou sociétés ayant un objet similaire, analogue
+ou connexe ou de nature à favoriser celui de la société, à lui procurer des matières premières ou à
+faciliter l’écoulement de ses produits et même fusionner avec elles. La société peut également fournir
+une caution personnelle ou réelle en faveur de tiers.
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions.
+La société a également pour objet le financement de ces opérations.
+Article 4 - DUREE
+La société est constituée pour une durée illimitée à partir du jour où elle acquiert la personnalité
+juridique.
+TITRE DEUX - CAPITAL
+Article 5 - CAPITAL
+Le capital social est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 €).
+Il est représenté par cent (100) parts sociales sans désignation de valeur nominale, représentant
+chacune un/centième du capital.
+Lors de la constitution de la société, le capital a été intégralement libéré.
+TITRE TROIS - GERANCE ET CONTROLE
+Article 8 - GERANCE
+La gérance de la société est confiée à un ou plusieurs gérants, personnes physiques ou personnes
+morales, associés ou non.
+1) Si la société ne comprend qu'un associé, la société est administrée par l'associé-gérant qui a les
+pouvoirs les plus étendus pour agir au nom de la société dans toutes les circonstances ainsi que
+pour faire et autoriser tous les actes et opérations relatifs à son objet. Il a de ce chef la signature
+sociale et agit seul.
+Il représente la société à l'égard des tiers et en justice, tant en demandant qu'en défendant.
+Le gérant est désigné par l'assemblée générale, laquelle assemblée fixe également la durée de ses
+fonctions.
+Le mandat du gérant sera rémunéré ou exercé à titre gratuit, suivant décision à prendre par
+l'assemblée générale.
+2) Si la société est composée de deux ou plusieurs associés, la gérance est confiée à un ou
+plusieurs gérants, nommés par l'assemblée générale des associés.
+La durée de leurs fonctions n'est pas limitée. Les gérants ont les pouvoirs les plus étendus pour agir
+au nom de la société, dans toutes circonstances ainsi que pour faire et autoriser tous les actes et
+opérations relatifs à son objet. Ils ont de ce chef la signature sociale et peuvent agir ensemble ou
+séparément. L'assemblée générale est habilitée à fixer un montant au-delà duquel les gérants
+doivent agir ensemble. Si tel est le cas, la décision sera publiée à l'annexe au Moniteur belge.
+Le mandat des gérants peut être rémunéré ou exercé à titre gratuit. C'est l'assemblée qui, à la simple
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-17
-/1
+12
+/0
 
-1/
+5/
 20
 
 16
@@ -324,12 +324,63 @@ au
 
 Mod PDF 11.1
 
-              POUR EXTRAIT ANALYTIQUE CONFORME.
-              Délivré avant enregistrement de l'acte, uniquement pour le dépôt au greffe du Tribunal de
-commerce et la publication aux annexes du Moniteur belge.
- 
-              Ingrid DE WINTER, notaire.
- 
+majorité des voix, déterminera, si le mandat n'est pas exercé à titre gratuit, le montant des
+rémunérations fixes et proportionnelles qui seront allouées aux gérants et portées aux frais
+généraux, indépendamment de tous frais éventuels de représentation, voyages et déplacements.
+Le décès d'un ou des gérants, ou leur retraite pour quelque motif que ce soit, n'entraîne pas la
+dissolution de la société.
+Les héritiers ou ayants droit des gérants ne peuvent, en aucun cas, faire apposer les scellés sur les
+papiers et registres de la société, ni faire procéder à aucun inventaire judiciaire des valeurs sociales.
+En cas de décès ou de départ d'un ou des gérants, l'assemblée générale lui désigne un successeur.
+Cette assemblée est convoquée par tout associé qui en prend l'initiative.
+TITRE QUATRE – ASSEMBLEE GENERALE
+Article 12 - REUNION
+Il est tenu une assemblée générale ordinaire chaque année le PREMIER LUNDI du mois de JUIN à
+DIX heures.
+TITRE CINQ – EXERCICE SOCIAL - DISTRIBUTION
+Article 13- EXERCICE SOCIAL
+L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
+année.
+Les écritures sociales sont établies et publiées conformément aux dispositions légales en vigueur.
+Article 15 - DISTRIBUTION
+L'excédent favorable du bilan, déduction faite de toutes charges, frais généraux et amortissements
+nécessaires, constitue le bénéfice net de la société et est réparti comme suit :
+Sur ce bénéfice net sera fait, conformément au droit comptable, un prélèvement de CINQ pour cent
+pour constituer le fonds de réserve légale. Ce prélèvement cesse d'être obligatoire lorsque ledit
+fonds atteint le dixième du capital social.
+Le solde restant est mis à la disposition de l'assemblée générale qui, sur proposition de la gérance,
+en détermine l'affectation.
+Aucune distribution ne peut être faite si l'actif net, tel que défini par la loi, est ou deviendrait inférieur
+au montant du capital libéré, augmenté des réserves indisponibles.
+TITRE SIX - DISSOLUTION - LIQUIDATION
+Article 16 - DISSOLUTION
+La société n'est pas dissoute par la mort, l'interdiction, la faillite ou la déconfiture d'un associé.
+En cas de dissolution de la société pour quelque cause et à quelque moment que ce soit,
+l'assemblée générale des associés désignera le ou les liquidateurs et déterminera leurs pouvoirs,
+leurs émoluments éventuels et le mode de liquidation.
+Le(s) liquidateur(s)  n’entrera/n’entreront en fonction qu’après que sa/leur nomination  ait été
+confirmée ou homologuée par le Tribunal de Commerce compétent.
+Le solde favorable de la liquidation, après paiement des dettes et des charges de la société, sera
+partagé entre les associés suivant le nombre de leurs parts respectives.
+III. DISPOSITIONS TRANSITOIRES
+1. Premier exercice social
+Par exception le premier exercice social commencera le jour du dépôt des statuts au greffe du
+Tribunal du Commerce et se clôturera le trente et un décembre deux mil seize.
+2. Première assemblée générale annuelle
+La première assemblée générale annuelle aura lieu en deux mille dix-sept, conformément aux
+statuts.
+NOMINATIONS.
+- Les fondateurs ont en outre décidé:
+a. de fixer le nombre de gérants à un.
+b. de nommer à cette fonction: Monsieur DUTRIEUX Emmanuel, précité, qui déclare accepter et
+confirmer expressément qu'il n'est pas frappé d'une décision qui s'y oppose.
+c. de fixer le mandat du gérant pour une durée indéterminée.
+d. que le mandat du gérant sera exécuté à titre gratuit, sauf décision de l’assemblée générale.
+e. de ne pas nommer un commissaire.
+f. est nommé représentant permanent de la société, aux fins de la représenter en qualité d’organe de
+gestion, Monsieur DUTRIEUX Emmanuel, qui accepte.
+POUR EXTRAIT ANALYTIQUE CONFORME
+(Signé) Edouard JACMIN, Notaire
 
 Bi
 jla
@@ -358,10 +409,10 @@ bl
 ad
  - 
 
-17
-/1
+12
+/0
 
-1/
+5/
 20
 
 16

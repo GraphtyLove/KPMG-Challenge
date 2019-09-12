@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-FRED AND CO
+MOTOWN FINANCE
 
-Quai aux Briques 20
-1000 Bruxelles
+Avenue Louise 375 bte 7
+1050 Ixelles
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,16 +69,21 @@ Dénomination
 
 Constitution
 
-Il résulte d’un acte reçu en date du 27 septembre 2016 par Maître Pablo DE DONCKER, notaire à
-Bruxelles, déposé au greffe du Tribunal de Commerce de Bruxelles avant enregistrement qu’une
-société privée à responsabilité limitée a été constitué avec les statuts suivants :
+Il résulte d’un acte reçu en date du 22 mars 2016 par Maître Pablo DE DONCKER, notaire associé,
+membre de la société civile sous forme de société privée à responsabilité limitée « Pablo & Pierre De
+Doncker, Notaires-associés »  ayant son siège à 1000 Bruxelles, rue du Vieux Marché aux Grains
+51, immatriculée au registre des personnes morales de Bruxelles sous le numéro d’entreprise
+0820.822.809, agissant conformément à l’article 53 §2 dernier alinéa de la Loi du 16 mars 1803 (25
+Ventôse – 5 Germinal an XI) contenant organisation du Notariat, déposé au greffe du Tribunal de
+Commerce de Bruxelles avant enregistrement qu’une société privée à responsabilité limitée a été
+constitué avec les statuts suivants :
  
 I. DENOMINATION - SIEGE - OBJET - DUREE
 ARTICLE 1:
-La société privée à responsabilité limitée porte la dénomination «FRED AND CO ».
+La société privée à responsabilité limitée porte la dénomination «MOTOWN FINANCE».
  
 ARTICLE 2:
-Le siège de la société est établi à 1000 Bruxelles, Quai aux Briques 20.
+Le siège de la société est établi à 1050 Bruxelles, avenue Louise 375/7.
 Il peut être transféré dans toute autre localité du pays en vertu d'une simple décision de la gérance
 qui a tous pouvoirs pour faire constater authentiquement la modification des statuts qui en résulte et
 sous réserve du respect des dispositions légales en la matière.
@@ -88,31 +93,26 @@ unités d’établissement et comptoirs, tant en Belgique qu'à l'étranger, en 
 utile.
  
 ARTICLE 3:
-La société a pour objet, tant en Belgique qu’à l’étranger, pour son compte propre, le cas échéant en
-participation avec des tiers, toutes opérations financières et mobilières.
-Elle peut notamment:
-1. Procéder à toutes opérations financières, telles qu’acquérir, par voie d’achat ou autrement, toutes
-valeurs immobilières, créances, parts d’associés et participations dans toutes entreprises financières,
-industrielles et commerciales; tous actes de gestion, de portefeuille ou de capitaux, tous
-engagements à titre de caution, aval ou garanties généralement quelconques; l’acquisition, la gestion
-et l’exploitation de tous droits intellectuels, brevets et licences.
-2. S’intéresser, par voie d’apport, de fusion, de souscription, de commandite ou de toutes autres
-manières, dans toutes entreprises, associations, sociétés dont l’objet serait similaire, analogue,
-connexe ou simplement utile à la réalisation de tout ou partie de son objet social.
-3. Effectuer toutes opérations de mandat, de gestion ou de commission relatives aux opérations ci-
-dessus décrites.
-4. Prester tous services de conseil en toutes matières dans les sociétés dans lesquelles elle détient
-des participations; exercer tous mandats et notamment ceux d’administrateur et de liquidateur, dans
-ces sociétés.
-5. Accomplir toutes opérations industrielles et commerciales, dans la mesure où elles favorisent son
-objet social.
-L'énumération ci-dessus est exemplative et non limitative.
+La société a pour objet, tant pour elle-même que pour le compte de tiers, seule ou en participation
+avec qui que ce soit, en Belgique et à l'étranger :
+- l’achat, la vente, la revente, l’échange, le courtage, le lotissement, la mise en valeur, la
+construction, la reconstruction, la rénovation, la décoration intérieure, la démolition, la transformation,
+l’aménagement, l’exploitation, la dation ou prise à bail ou en emphytéose, la location et la gérance, la
+gestion et l’administration de tous immeubles bâtis en Belgique ou à l’étranger, meublés ou non et
+d'une manière générale toutes les opérations civiles et commerciales en rapport avec l'immobilier  ;
+- la gestion ou gérance d'immeubles en qualité de syndic ou autre qualité.
+- la gestion et l'organisation de tout patrimoine immobilier;
+- l'activité d'agence immobilière, d'administrateur de biens, de marchand de biens.
+- la remise de fonds de commerce et la prise de participations dans toutes sociétés;
+- la promotion immobilière ;
+-accorder des prêts et crédits hypothécaire à d’autres sociétés immobilières ;
+La société pourra faire toutes opérations mobilières, immobilières, financières, industrielles et
 
- *16319646*
+ *16306874*
 Déposé
-28-09-2016
+24-03-2016
 
-0663582938
+0650737267
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-30
+29
 /0
 
-9/
+3/
 20
 
 16
@@ -187,6 +187,11 @@ au
 
 Mod PDF 11.1
 
+commerciales se rattachant, identique, analogue, utile ou connexe à son objet; elle pourra également
+participer d'une façon directe ou indirecte dans toutes entreprises et sociétés, par achat,
+souscription, apport, fusion, financement ou par quelques formes commerciales ou financières, de
+participation avec le but de développer, de favoriser ou de faciliter la réalisation de l'objet social.
+L'énumération ci-dessus est exemplative et non limitative.
  
 ARTICLE 4:
 La société est constituée pour une période illimitée.
@@ -196,9 +201,8 @@ La société ne sera pas liée par le décès, la démission, la faillite ou l'i
  
 II. CAPITAL - PARTS SOCIALES
 ARTICLE 5:
-Le capital social est fixé à deux millions huit cents mille euros (2.800.000,00 EUR).
-Il est représenté par 2.800 parts sociales sans désignation de valeur nominale, entièrement
-souscrites.
+Le capital social est fixé à dix-huit mille six cents euros (18.600,00 EUR).
+Il est représenté par 186 parts sociales sans désignation de valeur nominale, entièrement souscrites.
 Le capital social peut être augmenté ou réduit en une ou plusieurs fois sous réserve de l'application
 des dispositions légales prévues dans le Code des Sociétés.
 La réalisation de l’augmentation de capital, si elle n’est pas concomitante à la décision de
@@ -245,11 +249,6 @@ Lors de l’inscription au registre, un certificat y relatif sera donné à l’
 III. ADMINISTRATION - SURVEILLANCE
 ARTICLE 11:
 La gestion de la société est confiée à un ou plusieurs gérants associés ou non associés, nommés
-par l'assemblée générale ou par l'associé unique.
-Lorsqu’une personne morale est nommée gérante, celle-ci est tenue de désigner parmi ses associés,
-gérants, administrateurs ou travailleurs, un représentant permanent (personne physique), chargé de
-l’exécution de cette mission au nom et pour le compte de la personne morale.
-La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
 
 Bi
 jla
@@ -278,10 +277,10 @@ bl
 ad
  - 
 
-30
+29
 /0
 
-9/
+3/
 20
 
 16
@@ -324,11 +323,16 @@ au
 
 Mod PDF 11.1
 
+par l'assemblée générale ou par l'associé unique.
+Lorsqu’une personne morale est nommée gérante, celle-ci est tenue de désigner parmi ses associés,
+gérants, administrateurs ou travailleurs, un représentant permanent (personne physique), chargé de
+l’exécution de cette mission au nom et pour le compte de la personne morale.
+La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
 règles de publicité que s’il exerçait cette mission en nom et pour compte propre.
 Le ou les gérants sont investis des pouvoirs les plus étendus pour représenter la société, faire tous
 les actes d'administration et de disposition tombant sous l'objet social  précisé sous l'article 3 et sous
 réserve des stipulations reprises dans le Code des Sociétés.
-S'ils sont plusieurs, les gérants pourront agir séparément.
+S'ils sont plusieurs, les gérants doivent agir à deux.
 Tout ce qui n'est pas expressément réservé par la loi à l'assemblée générale ou à l'associé unique,
 est de la compétence des gérants.
 Il peut ou ils peuvent notamment faire et passer tous contrats et marchés, acheter, vendre, échanger,
@@ -352,16 +356,17 @@ des fondés de pouvoirs, associés ou non, de fixer les attributions et rémuné
 fonctions et conclure avec les intéressés tout contrat de louage de service.
  
 ARTICLE 13:
-Tous les actes engageant la société seront signés par le ou les gérants sauf délégation spéciale.
+Tous les actes engageant la société seront signés par au moins deux gérants sauf délégation
+spéciale.
 Toutes décisions portant sur des actes autres que ceux de gestion journalière seront actés dans un
 registre des procès-verbaux; chaque procès-verbal sera signé par le ou les gérants.
  
 ARTICLE 18:
-Chaque année, le 3ème mardi du mois de mars à 14.00 heures ou si ce jour est férié, le premier jour
-ouvrable suivant, samedi excepté, à la même heure, une assemblée générale se tiendra au siège de
-la société ou en tout autre endroit indiqué dans les convocations, pour entendre le rapport du ou des
-gérants et, le cas échéant, du commissaire, approuver les comptes annuels et en général sur tous
-les points à l'ordre du jour.
+Chaque année, le troisième jeudi du mois de juin à quinze heures trente ou si ce jour est férié, le
+premier jour ouvrable suivant, samedi excepté, à la même heure, une assemblée générale se tiendra
+au siège de la société ou en tout autre endroit indiqué dans les convocations, pour entendre le
+rapport du ou des gérants et, le cas échéant, du commissaire, approuver les comptes annuels et en
+général sur tous les points à l'ordre du jour.
  
 Les convocations pour toute assemblée générale contiennent l'ordre du jour avec l'indication des
 sujets à traiter.
@@ -381,12 +386,6 @@ décharge à donner au(x) gérant(s) et éventuellement au commissaire.
  
 L'organe de gestion a le droit de proroger, séance tenante, la décision relative à l'approbation des
 comptes annuels à trois semaines. Cette prorogation n'annule pas les autres décisions prises, sauf si
-l'assemblée en décide autrement. La seconde assemblée a le droit d'arrêter définitivement les
-comptes annuels.
- 
-V. INVENTAIRE - COMPTES ANNUELS - REPARTITION - RESERVE
-ARTICLE 23:
-L'exercice social s'écoule du 1er octobre au 30 septembre de chaque année.
 
 Bi
 jla
@@ -415,10 +414,10 @@ bl
 ad
  - 
 
-30
+29
 /0
 
-9/
+3/
 20
 
 16
@@ -461,8 +460,14 @@ au
 
 Mod PDF 11.1
 
-Au 30 septembre de chaque année, les livres sont arrêtés. Le gérant dresse l'inventaire et les
-comptes annuels conformément à la loi.
+l'assemblée en décide autrement. La seconde assemblée a le droit d'arrêter définitivement les
+comptes annuels.
+ 
+V. INVENTAIRE - COMPTES ANNUELS - REPARTITION - RESERVE
+ARTICLE 23:
+L'exercice social s'écoule du premier janvier au trente-et-un décembre de chaque année.
+Au trente-et-un décembre de chaque année, les livres sont arrêtés. Le gérant dresse l'inventaire et
+les comptes annuels conformément à la loi.
  
 ARTICLE 24:
 Le solde bénéficiaire du bilan, après déduction des frais généraux, des charges sociales et
@@ -502,27 +507,22 @@ parts sociales sont exercés par les héritiers et légataires régulièrement s
 possession, proportionnellement à leurs droits dans la succession, jusqu'au partage desdites parts
 ou jusqu'à la délivrance des legs portant sur celles-ci.
  
-ARTICLE 28:
-Pour tout ce qui n'est pas prévu aux présentes statuts, les parties s'en réfèrent aux dispositions du
-Code des Sociétés.
+COMPARANTS- FONDATEURS DE LA SOCIETE
+Ont comparu pour la constitution de la société dont les statuts ont été ci-avant décrits:
  
-COMPARANT- FONDATEUR DE LA SOCIETE
-A comparu pour la constitution de la société dont les statuts ont été ci-avant décrits:
+1. Monsieur VANDAMME Denis, né à Berchem-Sainte-Agathe le 8 octobre 1980, titulaire du numéro
+national ******-***-**, domicilié à 1050 Bruxelles Avenue des Klauwaerts 28.
  
-Monsieur GHANNO Robin Simon, célibataire, né à Västertälje (Suéde), le 16 juillet 1988, titulaire du
-numéro national ***********, domicilié à 1000 Bruxelles, Quai aux Briques 20, boîte 2, et qui déclare
-ne pas avoir fait de déclaration de cohabitation légale auprès de l’Officier de l’Etat-Civil compétent.
+2. Monsieur AMAR Alon Isaac, né à Tel Aviv le 10 avril 1965, de nationalité belge, inscrit au registre
+national sous le numéro ******-***-**, domicilié à 2970 Schilde, Eugeen Van de Vellaan 85.
  
-SOUSCRIPTION
-I/ APPORTS EN NATURE
-1. RAPPORTS
-* Rapport du Réviseur d’entreprises:
-Monsieur Paul Moreau, Réviseur d’Entreprises, représentant de la SPRL B.M.S. & C°, Réviseur
-d’entreprises, dont les bureaux sont établis à 1180 Uccle, Chaussée de Waterloo 757 a été désigné
-par le fondateur et a été dressé le rapport prescrit par l’article 219 du Code des Sociétés.
-Ce rapport conclut dans les termes suivants:
-" Le soussigné, Paul MOREAU, Réviseur d'entreprises, représentant de la sprl B.M.S & C° déclare
-que l'apport de participations financières effectué par Monsieur Robin GHANNO, domicilié drève de
+Les comparants sub 1° et 2° sont ici représentés par Madame VAN der VEKEN Christine,
+collaboratrice du notaire DE DONCKER à 1000 Bruxelles, élisant domicile en son étude à 1000
+Bruxelles, rue du Vieux Marché aux Grains 51, en vertu d’une procuration sous seing privée laquelle
+demeurera ci-annexée.
+ 
+SOUSCRIPTION - LIBERATION
+Les comparants prénommés ont souscrit la totalité des parts sociales à savoir les 186 parts sociales
 
 Bi
 jla
@@ -551,10 +551,10 @@ bl
 ad
  - 
 
-30
+29
 /0
 
-9/
+3/
 20
 
 16
@@ -597,144 +597,65 @@ au
 
 Mod PDF 11.1
 
-Richelle 198 à 1410 Waterloo à la société privée à responsabilité limitée FRED AND CO dont le
-siège social sera établi Quai aux Briques 20 à 1000 Bruxelles, a fait l’objet d’un examen
-conformément aux normes de l’institut des Réviseurs d’Entreprises et qu’en conséquence il peut
-conclure que :
+sans désignation de valeur nominale représentant le capital social à concurrence de 18.600,00 euros
+comme suit:
  
-
-    •  la description de l’apport en nature à concurrence de 2.800.000,00 euros répond aux  conditions
-normales de clarté et de précision;
-    •  le mode d'évaluation de l’apport arrêté par le fondateur lui parait justifié par l'économie
-d'entreprise ;
-    •  le mode d’évaluation conduit à une valeur d'apport qui correspond au moins au nombre et au
-pair comptable des parts sociales à émettre en contrepartie ;
-    •  la rémunération attribuée en contrepartie est légitime et équitable.
-La rémunération de l’apport consiste en 2.800 parts sociales sans désignation de valeur nominale de
-la sprl FRED AND CO.
-L’apporteur agissant en pleine connaissance de cause dans le cadre de la constitution de la société,
-les droits et obligations respectifs de la partie intervenante sont complètement fixés.
-Nous croyons enfin utile de rappeler que notre mission ne consiste pas à nous prononcer sur le
-caractère légitime et équitable de l’opération. En d’autres termes, notre rapport ne consiste pas en
-une « fairness opinion ».
-                                                           Bruxelles, le  23 septembre 2016
-                                                                                  B.M.S & C° sprl
-                                                                       Réviseurs d’entreprises
-                                                                       Représenté par
-                                                                       Paul MOREAU
-                                                                       Réviseur d’entreprises »
+1. Monsieur VANDAMME Denis, né à Berchem-Sainte-Agathe le 8 octobre 1980, titulaire du numéro
+national ******-***-**, domicilié à 1050 Bruxelles Avenue des Klauwaerts 28.
+Nonante-trois parts sociales (93)
  
-* Rapport du fondateur:
-Le fondateur a dressé le rapport spécial prévu par l’article 219 du Code des Sociétés dans lesquels il
-exposen l’intérêt que présente pour la société l’apport en nature.
-Après lecture, ces rapports resteront ci-annexés et seront déposés au greffe du Tribunal de
-Commerce de Bruxelles conformément à l’article 75 du Code des Sociétés.
+2. Monsieur AMAR Alon Isaac, né à Tel Aviv le 10 avril 1965, de nationalité belge, inscrit au registre
+national sous le numéro ******-***-**, domicilié à 2970 Schilde, Eugeen Van de Vellaan 85.
+Nonante-trois parts sociales (93)
  
-2. DESCRIPTION DE L’APPORT
-Monsieur GHANNO Robin déclare faire apport à la société des participations financières qu’il détient
-dans les sociétés IMMO GHANNO sprl, IMMO GHANNO 2 sprl et IMMO GHANNO 3 sprl, tel que
-mieux décrit dans le rapport du Réviseur d’Entreprises dont question ci-avant.
+Total : cent quatre-vingt-six parts sociales (186)
  
-3. REMUNERATION:
-En rémunération de cet apport il est attribué à Monsieur GHANNO Robin, prénommé et qui accepte,
-2.800 parts sociales sans désignation de valeur nominale.
+Les comparants déclarent qu’un montant de 6.200,00 euros a été effectuée au compte spécial,
+numéro BE30 0**9 0**3 7**1.
  
-NOMINATION DU GERANT ORDINAIRE
-Est désigné par les comparants comme gérant ordinaire et nommé pour la durée de la société sauf
-révocation par l'assemblée générale:
-Monsieur GHANNO Robin Simon, célibataire, né à Västertälje (Suéde), le 16 juillet 1988, titulaire du
-numéro national ***********, domicilié à 1000 Bruxelles, Quai aux Briques 20, boîte 2, et qui déclare
-ne pas avoir fait de déclaration de cohabitation légale auprès de l’Officier de l’Etat-Civil compétent, ici
-présent et qui accepte.
+au nom de la société en constitution auprès de la banque ***.
+ 
+Il reste donc à être libéré un montant de 12.400,00 Euros.
+Les comparants nous remettent l'attestation de ce versement en dépôt, laquelle sera laissée en
+dépôt au dossier du notaire soussigné.
+Nous, Notaire, remettrons en contrepartie à l'organisme bancaire l'avis de passation du présent acte
+de telle sorte que la société puisse disposer du compte spécial après le dépôt au greffe du Tribunal
+de Commerce à Bruxelles.
+ 
+NOMINATION DES GERANTS ORDINAIRES
+Sont désignés par les comparants comme gérants ordinaires et nommés pour la durée de la société
+sauf révocation par l'assemblée générale:
+1. Monsieur VANDAMME Denis, né à Berchem-Sainte-Agathe le 8 octobre 1980, titulaire du numéro
+national ******-***-**, domicilié à 1050 Bruxelles Avenue des Klauwaerts 28.
+ 
+Et
+ 
+2. Monsieur AMAR Alon Isaac, né à Tel Aviv le 10 avril 1965, de nationalité belge, inscrit au registre
+national sous le numéro ******-***-**, domicilié à 2970 Schilde, Eugeen Van de Vellaan 85.
+Ici présents et/ou représentés comme dit ci-avant et qui acceptent les mandats.
+Les mandats seront exercés à titre gratuit.
  
 DISPOSITIONS TEMPORAIRES
-Le premier exercice social finira le 30 septembre de l’an 2017 et la première assemblée générale
-annuelle se tiendra en 2018.
+Le premier exercice social finira le trente-et-un décembre de l’an deux mille dix-sept et la première
+assemblée générale annuelle se tiendra en deux mille dix-huit.
  
 ENGAGEMENTS PRIS AU NOM DE LA SOCIETE EN FORMATION
-Le fondateur déclare que tous les engagements pris à quelque titre que ce soit à partir du 1er janvier
-2016 et dès lors avant l’acquisition de la personnalité juridique de la société sont réputés avoir été
-contractés par elle dès l’origine.
+Les fondateurs déclarent que tous les engagements pris à quelque titre que ce soit à partir du 1er
+janvier 2016 et dès lors avant l’acquisition de la personnalité juridique de la société sont réputés
+avoir été contractés par elle dès l’origine.
 Cependant, cette reprise n'aura d'effet qu'au moment où la société acquerra la personnalité morale.
-Le comparant déclare avoir parfaite connaissance de ces engagements et de leurs conditions et
+Les comparants déclarent avoir parfaite connaissance de ces engagements et de leurs conditions et
 déclare les accepter au nom de la société constituée aux présentes et conformément à l’article 60 du
 Code des sociétés.
-Pour extrait analytique conforme
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-30
-/0
-
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
  
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-Le notaire
+Connaissances de gestion de base et compétence professionnelle.
+Le comparant reconnaît avoir été informé par le notaire soussigné de la nécessité pour la personne
+physique qui exerce effectivement la gestion journalière de la société d'établir, préalablement à
+l'inscription de la société au registre du commerce, ses connaissances de gestion de base et/ou sa
+compétence professionnelle.
+ 
+Pour extrait analytique conforme
+Le notaire associé
 Pablo De Doncker
  
 Déposé en même temps : une expédition de l’acte
@@ -767,10 +688,10 @@ bl
 ad
  - 
 
-30
+29
 /0
 
-9/
+3/
 20
 
 16

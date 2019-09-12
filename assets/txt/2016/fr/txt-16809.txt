@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-Sonis
+ELEVATION BOIS WOOD
 
-Avenue de la Liberté 175
-1080 Molenbeek-Saint-Jean
+Rue César Franck 96
+1050 Ixelles
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Extrait de l'acte de constitution reçu par le Notaire Kim Lagae, à Bruxelles, le 26 septembre 2016.
-1. Madame Boutchimé Youbissi Jeannette Barbaras, domiciliée à 3040 Huldenberg, Wolfshaegen
-190.
-2. Monsieur Lambert Valéry Josy Alfred Ghislain, domicilié à 3040 Huldenberg, 190 Wolfshaegen.
-ont constitué une société privée à responsabilité limitée dont les statuts stipulent notamment ce qui
-suit:
-Article 1. Forme et dénomination sociale
-La société est une société commerciale à forme de société privée à responsabilité limitée.
-Elle est dénommée Sonis.
-Article 2. Siège social
-Le siège social est établi à Molenbeek-Saint-Jean (1080 Bruxelles), Avenue de la Liberté, 175. (…)
-Article 3. Objet social
-La société a pour objet, en Belgique ou à l'étranger :
--              le conseil informatique et la vente de matériel informatique ;
--              le conseil en relations publiques et en communication ;
--              le conseil pour les affaires et autres conseils de gestion ;
--              le conseil en présentation ;
--              le conseil en marketing et en publicité ;
--              l’activité de soutien aux entreprises ;
--              le conseil en micro crédit ;
--              l’import et l’export ;
--              le lobbying ;
--              les activités d’aménagement paysager et de jardinage, la tonte de jardin et la location
-d’outillage de jardinage ;
--              la location de matériel d’Horéca ;
--              l’organisation, la gestion et la promotion d’évènements tels que brocantes, anniversaires ou
-autres ;
--              la vente d’objets de décoration, de vêtements dont des vêtements de mariage, de jouets,
-de produits de beauté et de parfumerie ;
--              la vente de meuble en rotin et de tout autre type de meubles ;
--              l’édition de livres et autres activités d'édition ;
--              l’édition d'autres logiciels que de jeux électroniques ;
--              la production de films autres que cinématographiques et pour la télévision ;
--              la programmation informatique et autres activités informatiques ;
--              le portail Internet ;
--              autres activités photographiques que la production photographique et les activités des
-photographes de presse ;
--              la location et la location-bail d'articles de loisirs et de sport ;
+Aux termes d'un acte reçu par Maître Gérard INDEKEU, Notaire associé résidant à Bruxelles (1050
+Bruxelles), Avenue Louise, 126, faisant partie de la Société Civile à forme de Société Privée à
+Responsabilité Limitée "Gérard INDEKEU - Dimitri CLEENEWERCK de CRAYENCOUR", BCE n°
+0890.388.338, le trente mai deux mil seize, a été constituée la Société Privée à Responsabilité
+Limitée dénommée « ELEVATION BOIS WOOD », dont le siège social sera établi à Ixelles (1050
+Bruxelles), Rue César Franck, 96 et au capital de dix-huit mille cinq cent cinquante euros (18.550,00
+€), représenté par dix-huit mille cinq cent cinquante parts sociales (18.550), sans désignation de
+valeur nominale.
+Associés
+ - Monsieur WEBER Mathieu Nicolas Thierry, domicilié à 1390 Grez-Doiceau, Chaussée de la
+Libération, 29.
+-  Monsieur DELFELD Marc Christian Louis Hugues Jean Paul, domicilié à 1300 Wavre, Clos des
+Bergeronnettes 7.
+Forme dénomination
+La société a adopté la forme juridique de société privée à responsabilité limitée.
+ Elle est dénommée « ELEVATION BOIS WOOD ».
+Siège social
+Le siège social est établi à Ixelles (1050 Bruxelles), Rue César Franck, 96.
+Objet social
+La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre, pour compte d'autrui ou
+en participation :
+- Toutes opérations de commercialisation, importation, exportation, courtage de marchandises et
+denrées les plus diverses ;
+- Création, développement, gestion et commercialisation de produits et services pour l'industrie du
+bâtiment, y compris sous forme de royalties ;
+- Toute activité d'entreprise générale de construction et de rénovation comprenant également la
+coordination des travaux et les expertises, étant stipulé que les travaux réglementés seront exécutés
+par des sous-traitants ayant les capacités requises ;
+- Toutes opérations immobilières et toutes études ayant trait à tous biens et/ou à tous droits
+immobiliers, par nature, par incorporation ou par destination, et aux biens et/ou à tous droits
+mobiliers qui en découlent, ainsi que toutes opérations civiles, commerciales, industrielles ou
+financières, qui s'y rapportent directement ou indirectement, comme, à titre d'exemple, l'achat, la
+mise en valeur, le lotissement, l'échange, l'amélioration, la location meublée ou non, la vente, la
+cession, la gestion, la transformation, la construction et la destruction de biens immobiliers et
+mobiliers.
+Aux fins de réaliser son objet, la société peut émettre des emprunts obligataires, des certificats
+fonciers et tout autre emprunt analogue.
+La société peut agir pour son compte, par commission, comme intermédiaire ou comme
 
- *16319732*
+ *16311676*
 Déposé
-28-09-2016
+30-05-2016
 
-0663550868
+0655765728
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-30
+01
 /0
 
-9/
+6/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
--              la location et la location-bail de machines-outils, de matériel et d'outils à main pour le
-bricolage ;
--              la location et la location-bail de vaisselle, couverts, verrerie, articles pour la cuisine,
-appareils électriques et électroménagers ;
--              la location et la location-bail d'autres biens personnels et domestiques.
-La société a également pour objet: l'étude, le conseil, l'expertise, l'ingénierie et toutes prestations de
-services dans le cadre des activités décrites dans le présent objet.
-La société a pour objet la création, l’acquisition et l’aliénation de tous droits reéls, personnels et/ou
-sui generis se rapportant à tous biens immeubles, de quelque nature qu’ils soient. Elle pourra les
-gérer, effectuer tous travaux de construction et exercer toutes activités de soutien lié aux bâtiments
-et toutes activités de nettoyage. Elle pourra passer et accorder des financements, tels que prêts,
-crédits ou opérations similaires.
-Elle peut accomplir toutes opérations généralement quelconques, commerciales, industrielles,
-financières, mobilières ou immobilières, ayant un rapport direct ou indirect avec son objet social ou
-de nature à en favoriser la réalisation et le développement. Elle pourra participer par voie d'apport,
-de souscription, cession, participation, fusion, intervention financière ou autrement dans toutes
-sociétés, associations et entreprises, tant en Belgique qu'à l'étranger.
-La société a également pour objet le contrôle de la gestion ou la participation à la gestion de toute
-société ou entreprise, le cas échéant, par la prise de mandat au sein desdites entreprises. Elle peut
-exercer le mandat de liquidateur.
-La société peut se porter caution tant pour ses propres engagements que pour les engagements de
-tiers, entre autres en donnant ses biens en hypothèque ou en gage, y compris son fonds de
-commerce.
-Article 5. Capital social
-Le capital social est fixé à dix-huit mille six cents euros (18.600,00 EUR). Il est représenté par cent
-(100) parts, sans désignation de valeur nominale, représentant chacune un/centième du capital
-social.
-Souscription – Libération du capital social et des parts
-Les fondateurs déclarent qu'ils souscrivent à l'instant les cent (100) parts, au prix de cent quatre-
-vingt-six euros (186,00 EUR) chacune, comme suit:
--              Madame Boutchimé Youbissi Jeannette, prénommée, souscrit nonante (90) parts, soit pour
-un montant de seize mille sept cent quarante euros (16.740,00 EUR), toutes libérées dans une
-même proportion et ensemble à concurrence de cinq mille cinq cent quatre-vingts euros (5.580,00
-EUR);
--              Monsieur Lambert Valéry, prénommé, souscrit dix (10) parts, soit pour un montant de mille
-huit cent soixante euros (1.860,00 EUR), toutes libérées dans une même proportion et ensemble à
-concurrence de six cent vingt euros (620,00 EUR).
-Les fondateurs déclarent et reconnaissent qu'ils ont libéré chaque part par des virements à un
-compte spécial ouvert au nom de la société en formation auprès de BNP PARIBAS FORTIS.
-Le notaire soussigné atteste que le capital libéré a été déposé conformément à la loi.
-La société aura par conséquent à sa disposition une somme de six mille deux cents euros (6.200,00
-EUR).
-Article 6. Appels de fonds
-(…) L'exercice du droit de vote afférent aux parts sur lesquelles les versements n'ont pas été opérés
-est suspendu aussi longtemps que ces versements, régulièrement appelés et exigibles, n'ont pas été
-effectués. (…)
-Article 8. Gestion et représentation
-8.1. La société est administrée par un ou plusieurs gérants, associés ou non, nommés avec ou sans
-limitation de durée par l’assemblée générale.
-Les premiers gérants pourront être nommés dans les dispositions transitoires de l’acte de
-constitution.
-8.2. Conformément à l'article 257 du Code des sociétés, chaque gérant peut poser tous les actes
-nécessaires ou utiles à l'accomplissement de l'objet social, sauf ceux que la loi réserve à l'assemblée
+représentant.
+ Elle peut participer ou s'intéresser à toutes sociétés, entreprises, groupements ou organisations
+quelconques. Elle peut hypothéquer ses biens immobiliers et mettre en gage ses autres biens, y
+compris le fond de commerce, ainsi que donner son aval pour tout emprunt ou ouverture de crédit à
+condition qu'elle en tire un profit.
+Cette énumération est exemplative et nullement limitative.
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d’accès à la
+profession, la société subordonnera son action, en ce qui concerne ces prestations, à la réalisation
+de ces conditions.
+La société peut d’une façon générale, accomplir toutes opérations commerciales, industrielles,
+financières, mobilières ou immobilières, soit pour son compte, soit pour le compte de tiers, se
+rapportant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter
+directement ou indirectement, entièrement ou partiellement la réalisation.
+La société peut exercer toutes fonctions et mandats et s’intéresser par voie d’apport, de fusion, de
+souscription ou de toute autres manière dans toutes autres affaires, entreprises, associations ou
+sociétés ayant un objet identique, analogue ou connexe au sien ou qui sont de nature à favoriser le
+développement de son entreprise, à lui procurer des ressources ou à faciliter l’écoulement des
+services et produits.
+ Seule l'assemblée générale des associés a qualité pour interpréter cet objet.
+Capital social
+Le capital social est fixé à la somme de dix-huit mille cinq cent cinquante euros (18.550,00 €),
+représenté par dix-huit mille cinq cent cinquante parts sociales (18.550), sans désignation de valeur
+nominale, représentant chacune un/ dix-huit mille cinq cent cinquantième (1/18.550ième) du capital
+social souscrit intégralement et libéré partiellement de la manière suivante :
+ Monsieur WEBER Mathieu, prénommé, à concurrence de douze mille neuf cent quatre-vingt-cinq
+parts sociales (12.985), pour un apport de douze mille neuf cent quatre-vingt-cinq euros (12.985,00
+€) libéré partiellement à concurrence de quatre mille trois cent quarante euros (4.340,00 €) ;
+ Monsieur DELFELD Marc, prénommé, à concurrence de cinq mille cinq cent soixante-cinq parts
+sociales (5.565), pour un apport de cinq mille cinq cent soixante-cinq euros (5.565,00 €) libéré
+partiellement à concurrence de mille huit cent soixante euros (1.860,00 €) ;
+Répartition bénéficiaire
+Sur le bénéfice net, après impôts et transfert aux réserves immunisées, il est prélevé cinq pour cent
+au moins pour former le fonds de réserve légale, ce prélèvement cessant d'être obligatoire lorsque le
+fonds de réserve atteindra le dixième du capital social.
+ Le solde sera réparti également entre toutes les parts, sauf le droit de l'assemblée générale de
+l'affecter à un fonds de réserve spéciale, de le reporter à nouveau ou de lui donner toute autre
+affectation.
+En cas de dissolution, après réalisation de l'actif, apurement du passif ou consignation des sommes
+nécessaires à cet effet, le solde éventuel sera réparti entre les associés dans la proportion des parts
+sociales par eux possédées.
+ Si les parts sociales ne sont pas libérées dans une égale proportion, le(s) liquidateur(s)
+rétablisse(nt) préalablement l'équilibre, soit par des appels de fonds, soit par des remboursements
+partiels.
+Exercice social
+L’exercice social commence le premier janvier et se clôture le trente et un décembre de chaque
+année.
+Assemblée générale ordinaire
+ L'assemblée générale ordinaire se réunit chaque année à l'initiative de la gérance ou des
+commissaires au siège social ou à l'endroit indiqué dans la convocation, le premier lundi du mois de
+juin à quatorze heures trente.
+ Si ce jour est férié, l'assemblée se réunit le premier jour ouvrable suivant, à la même heure.
+Sauf dans les cas où la loi en décide autrement, chaque part sociale donne droit à une voix,
+l'assemblée délibère valablement quelle que soit la portion du capital représenté et les décisions sont
+prises à la majorité simple des voix.
+Désignation des personnes autorisées à gérer et leurs pouvoirs
+La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
 générale.
-La société est représentée dans les actes et en justice par un gérant.
-La société est en outre valablement représentée par des mandataires spéciaux dans les limites de
-leurs mandats. (…)
-Article 9. Assemblée générale ordinaire
-Il est tenu chaque année le troisième samedi du mois de juin à 18 heures une assemblée générale
-ordinaire des associés, au siège social de la société ou en l’endroit de la commune du siège social
-désigné dans la convocation.
-Si ce jour est un jour férié, l'assemblée sera remise au prochain jour ouvrable suivant.
-Les associés peuvent, dans les limites de la loi, à l'unanimité, prendre par écrit toutes les décisions
+ L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat, leur rémunération et, s'ils
+sont plusieurs, leurs pouvoirs.
+ S'il n'y a qu'un seul gérant, la totalité des pouvoirs attribués à la gérance lui sont dévolus.
+ S'il y a plusieurs gérants, ils forment ensemble le conseil de gérance. Dans ce cas, chaque gérant a
+tous pouvoirs pour agir seul au nom de la société et représente la société à l'égard des tiers et en
+justice; il peut accomplir en son nom tous actes d'administration et de disposition; tout ce qui n'est
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-30
+01
 /0
 
-9/
+6/
 20
 
 16
@@ -324,68 +324,40 @@ au
 
 Mod PDF 11.1
 
-qui relèvent du pouvoir de l'assemblée générale.
-Article 10. Questions écrites
-Les associés peuvent, dès la communication de la convocation, poser par écrit des questions aux
-gérants et aux commissaires, auxquelles il sera répondu au cours de l’assemblée pour autant que
-ces associés aient satisfait aux formalités d’admission à l’assemblée. Ces questions peuvent être
-adressées à la société par voie électronique à l’adresse indiquée dans la convocation à l’assemblée.
-Ces questions écrites doivent parvenir à la société au plus tard le 6ième jour qui précède la date de
-l’assemblée générale.
-Article 11. Conditions d’admission à l’assemblée générale
-Tout associé, obligataire ou titulaire de certificats émis en collaboration avec la société, peut se faire
-représenter aux assemblées par un mandataire, titulaire de titres ou non. Les mineurs, les interdits et
-les incapables en général, sont représentés par leurs représentants légaux.
-L'organe de gestion peut arrêter la formule des procurations et exiger que celles ci soient déposées
-au lieu indiqué par elle cinq jours francs avant l'assemblée.
-Article 13. Exercice du droit de vote
-Les parts sont indivisibles à l'égard de la société.
-S'il y a plusieurs propriétaires d'une part, la société peut suspendre l'exercice des droits y afférents
-jusqu'à ce qu'une seule personne soit désignée comme étant à son égard propriétaire de la part.
-En cas de démembrement du droit de propriété d'une part, les droits y afférents sont exercés par
-l'usufruitier.
-Article 14. Exercice social
-L'exercice social commence le premier janvier et finit le trente et un décembre.
-Article 15. Affectation du résultat
-Sur le bénéfice net, il est prélevé cinq pour cent pour la formation de la réserve légale.  Ce
-prélèvement cesse d'être obligatoire lorsque la réserve atteint un dixième du capital social.
-Le solde se répartit également entre toutes les parts.
-Toutefois, l'assemblée générale peut décider d'affecter tout ou partie de ce solde à des réserves, à
-des reports à nouveau ou à des tantièmes éventuels aux gérants.
-Article 16. Affectation du boni résultant de la liquidation de la société
-Après apurement de toutes les dettes, charges et frais de liquidation ou consignation des sommes
-nécessaires à cet effet, l'actif net sert d'abord à rembourser en espèces ou en titres, le montant libéré
-non amorti des parts.
-Si les parts ne sont pas toutes libérées dans une égale proportion, les liquidateurs, avant de
-procéder aux répartitions, rétablissent l'équilibre entre toutes les parts soit par des appels de fonds
-complémentaires à charge des parts insuffisamment libérées, soit par remboursements préalables
-en espèces au profit des parts libérées dans une proportion supérieure.
-Le solde est réparti également entre toutes les parts.
-DISPOSITIONS FINALES ET (OU) TRANSITOIRES
-Les fondateurs prennent à l’unanimité les décisions suivantes qui ne deviendront effectives qu’à
-dater du dépôt au greffe d’un extrait de l’acte constitutif, conformément à la loi.
-1. Premier exercice social
-Le premier exercice social finira le 31 décembre 2017.
-La première assemblée générale aura donc lieu en 2018.
-2. Nomination d’un gérant non-statutaire
-Est nommée gérante non-statutaire pour une durée illimitée: Madame Boutchimé Youbissi Jeannette,
-prénommée.
-Son mandat sera gratuit sauf décision contraire de l’assemblée générale.
-5. Pouvoirs
-Monsieur Benchaou Zakaria, domicilié à Molenbeek-Saint-Jean (1080 Bruxelles), Rue de la Carpe 6
-ou toute autre personne désignée par lui, est désigné en qualité de mandataire ad hoc de la  société,
-afin de signer tous documents et de procéder aux formalités requises pour inscrire la société en
-qualité d’entreprise commerciale auprès d’un guichet d’entreprises, demander son identification à la
-TVA, l’affilier à une caisse d’assurances sociales et/ou à un secrétariat social et, pour autant que de
-besoin, l’enregistrer auprès de toutes autres administrations.
-Aux effets ci-dessus, le mandataire ad hoc aura le pouvoir de représenter la société auprès d’un
-guichet d’entreprises et auprès de toutes administrations et organismes, et il pourra prendre tous
-engagements au nom de la société, faire telles déclarations qu'il y aura lieu, signer tous documents
-et en général faire tout ce qui sera utile ou nécessaire pour l'exécution du mandat lui confié.
-POUR EXTRAIT ANALYTIQUE CONFORME
-Signé: Kim Lagae, Notaire
-Déposée en même temps: une expédition.
+compétence.
+ Chaque gérant peut constituer sous sa responsabilité des mandataires spéciaux pour des actes
+déterminés.
+Le contrat de société étant clôturé et les statuts sociaux étant arrêtés, les comparants ont pris, à
+terme, les décisions suivantes, lesquelles deviendront effectives lors de l'obtention par la société de
+la personnalité juridique, conformément à l'article 2 § 4 du Code des Sociétés :
+1) Gérant
+ Les comparants décident de nommer en tant que gérant, pour un terme indéterminé :
+- Monsieur WEBER Mathieu, prénommé, qui accepte.
+Le mandat du gérant est exercé à titre non rémunéré.
+2) Commissaire
+Les comparants constatent et déclarent qu'il résulte d'estimations faites de bonne foi qu'à tout le
+moins pour son premier exercice, la société répondra aux critères énoncés à l'article 141, 2° du Code
+des Sociétés, du fait qu'elle est considérée comme "petite société" au sens de l'article 15 dudit Code.
+En conséquence, ils décident à l'unanimité de ne pas nommer de commissaire.
+3) Date de la clôture du premier exercice social
+Les comparants décident que le premier exercice social commencé le jour de l'acte de constitution
+se clôturera le 31 décembre 2017.
+4) Date de la première assemblée générale ordinaire
+Les comparants décident que la première assemblée générale ordinaire se tiendra en juin 2018.
+5) Délégation de pouvoirs
+Les comparants déclarent constituer pour mandataire spécial de la société, avec faculté de
+substitution, Monsieur MESSION Frédéric, et ce en vue de procéder à l'immatriculation de la
+présente société auprès de la Banque Carrefour des Entreprises et de la TVA. A ces fins, le
+mandataire pourra au nom de la société, faire toutes déclarations, signer tous documents et pièces
+et, en général, faire le nécessaire auprès de toute administration et société généralement
+quelconque.
+Les expéditions et extraits sont déposés avant enregistrement de l'acte dans l'unique but du dépôt au
+Greffe du Tribunal de Commerce et pour les formalités en rapport avec la TVA.
  
+POUR EXTRAIT ANALYTIQUE CONFORME
+ 
+Gérard INDEKEU, Notaire associé.
+Déposé en même temps: expédition conforme de l'acte.
 
 Bi
 jla
@@ -414,10 +386,10 @@ bl
 ad
  - 
 
-30
+01
 /0
 
-9/
+6/
 20
 
 16

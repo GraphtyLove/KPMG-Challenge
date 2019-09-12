@@ -54,65 +54,67 @@ N° d'entreprise :
 
 Objet(s) de l'acte :
 
+EB999
+
 (en entier) :
 
 (adresse complète)
 
-KING AFRICA
+EFOR BET 999
 
-Chaussée de Wavre 49
-1050 Ixelles
+Chaussée de Vilvorde 146
+1120 Bruxelles
 
-Société privée à responsabilité limitéeForme juridique :
+Société anonymeForme juridique :
 
 Dénomination
 
 Constitution
 
-                L'an deux mille seize.
-                Le quatre octobre
-                A Bruxelles, en l’Etude, Square de Meeûs 1.
-                Devant Nous, Maître Jean VAN den WOUWER, Notaire de résidence à 1000 Bruxelles,
-Square de Meeûs 1.
-                                                     ONT COMPARU :
+D'un acte reçu par Maître Frederic CONVENT, Notaire associé de résidence à Ixelles, le 10 mai
+2016, en cours d’enregistrement au bureau de l’enregistrement de Bruxelles 5-AA, il est extrait ce qui
+suit :
+1.- La société anonyme CALIGULA ayant son siège social à 1070 Anderlecht, boulevard Sylvain
+Dupuis, 233 boîte 125 ; RPM Bruxelles 0439 723 566
+2.- Monsieur SONKAYA Mustafa, né à Maçka (Turquie) le premier janvier mil neuf cent septante, de
+nationalité turque, domicilié à 1000 Bruxelles, Quai des Péniches 69 boîte 11D. 
+Déclarent constituer une société commerciale et requièrent le Notaire soussigné de dresser les
+statuts d'une Société Anonyme, dénommée «EFOR BET 999» en abrégé «EB999», au capital de
+cent mille euros (€100.000,00), divisé en mille (1.000)  actions, sans mention de valeur nominale
+représentant chacune un/millième (1/1000ème) de l'avoir social.
+I. CONSTITUTION
+Fondateurs
+Les comparants déclarent assumer ensemble la qualité de fondateurs;
+Souscription par apports en espèces
+Les comparants déclarent que les mille (1.000) actions représentant le capital social de la société à
+constituer sont à l'instant souscrites en espèces, au prix de  cent euros (€ 100,00) chacune, comme
+suit:
+- par la société anonyme CALIGULA : deux cents (200) actions, soit pour vingt mille euros (€
+20.000,00) 
+- par Monsieur SONKAYA Mustafa : huit cents (800) actions, soit pour quatre-vingts mille euros (€
+80.000,00) 
+Ensemble : mille (1.000) actions, soit pour cent mille euros (€ 100.000,00)
+Les comparants déclarent qu'ils ont libéré la totalité de l'apport en numéraire qu'ils réalisent, soit la
+somme de cent mille euros (€ 100.000,00)
+Cette somme a été préalablement à la constitution de la société déposée par versement à un compte
+spécial ouvert au nom de la société en formation auprès de la banque Beobank de sorte que la
+société a, dès à présent, de ce chef à sa disposition une somme de cent mille euros (€ 100.000,00).
+Une attestation de l'organisme dépositaire en date du 4 mai 2016 sera conservée par Nous, Notaire
+II. STATUTS
+TITRE I   -   CARACTERES DE LA SOCIETE
+Article 1 : DENOMINATION DE LA SOCIETE
+La société adopte la forme de la Société Anonyme. Elle est dénommée «EFOR BET 999» en abrégé
+«EB999»
+Les dénominations complète et abrégée peuvent être employées ensemble ou séparément.
+Dans tous les documents écrits émanant de la société, la dénomination sociale doit être précédée ou
+suivie immédiatement de la mention "société anonyme" ou des initiales "SA".
+Article 2 : SIEGE SOCIAL
 
-    1.  Monsieur RAJA Mahboob Ahmed, domicilié à 1040 Etterbeek, avenue Eudore Pirmez 4.
-    2.  Monsieur SHEIKH Mohammad Haroun, domicilié à 1050 Ixelles, rue Bouré 12/002e.
-                Ci-après nommé(s) invariablement : le(s) constituant(s) et ou le(s) comparant(s).      
-                CONSTITUTION:
-                Lesquels comparants après m’avoir remis le plan financier justifiant le montant du capital
-social, m’ont requis de dresser ainsi qu'il suit, les statuts de la société privée à responsabilité limitée,
-qu'ils déclarent constituer entre eux sous la dénomination KING AFRICA.
-                Lesquels constituants déclarent que le capital de dix-huit mille six cents Euros (18.600,00
-€) est entièrement souscrit et est représenté par cent quatre-vingts six parts sociales (186) sans
-désignation de valeur nominale.
-                Les cent quatre-vingts six parts sociales (186) sont toutes souscrites en numéraires par les
-constituants, comme suit :
-1) par le comparant sub 1) à concurrence de nonante-trois (93) parts sociales.
-2) par le comparant sub 2) à concurrence de nonante-trois (93) parts sociales.
-Total : cent quatre-vingts six parts sociales (186).
-                Les constituants déclarent que le capital ainsi souscrit est libéré à concurrence de six mille
-deux cents Euros (6.200,00 €). 
-                La société a dès à présent à sa disposition une somme en espèces de six mille deux cents
-Euros (6.200,00 €).
-                Une attestation délivrée par la Banque ING en date du 04 octobre 2016 attestant le
-versement au compte numéro BE68 3630 4183 5534
-a été remise au notaire instrumentant.
-                Le notaire instrumentant a attiré l'attention des comparants sur les dispositions légales
-relatives, respectivement:
-                - aux autorisations requises pour l'exercice de certaines professions,
-                - au diplôme de gestion nécessaire pour exercer ladite activité
-                - à la carte professionnelle et/ou d'accès à la profession,
-                - à la responsabilité personnelle qu'encourent les administrateurs et gérants de société, en
-cas de fautes commises dans leur gestion, et de ce fait à la possibilité pour les associés d'introduire
-une action sociale ou une action minoritaire,
-                - à l'interdiction pour certaines personnes de participer à l'administration ou à la
-
- *16320251*
+ *16310480*
 Déposé
-05-10-2016
+12-05-2016
 
-0663850083
+0653960538
 
 Bi
 jla
@@ -141,10 +143,10 @@ bl
 ad
  - 
 
-07
-/1
+17
+/0
 
-0/
+5/
 20
 
 16
@@ -187,69 +189,69 @@ au
 
 Mod PDF 11.1
 
-surveillance d'une société,
-                - à l’interdiction d’être associé unique de plusieurs sociétés privées à responsabilité limitée.
-                - aux limitations relatives aux participations croisées.
-                D'autre part les comparants reconnaissent savoir que tout bien appartenant à l'un des
-fondateurs, à un gérant ou à un associé que la société se proposerait d'acquérir dans un délai de
-deux ans à compter de sa constitution, pour une contre-valeur au moins égale à un dixième du
-capital souscrit, doit faire l'objet d'un rapport établi par un réviseur d'entreprises désigné par la
-gérance et d'un rapport spécial établi par celle-ci.
-                Le notaire instrumentant a attiré l'attention des comparants sur le fait que la dénomination
-doit être différente de celle de toute autre société et sur les conséquences éventuelles. Ils
-déchargent le notaire soussigné de toute responsabilité à ce sujet.
-                Le Notaire soussigné attire également l'attention de l'actionnaire minoritaire sur le fait que
-son engagement, même en n'ayant souscrit qu'une action, le contraint de manière solidaire et
-indivisible quant à la libération complète de la partie du capital non souscrit.
-                Les comparants ont déclaré ne pas avoir fait faillite avant ce jour ni avoir introduit de
-requête en règlement collectif de dettes à ce jour.
-                Les constituants reconnaissent avoir été avertis du fait que toute personne physique qui
-exerce en Belgique une activité professionnelle, indépendante, du chef de laquelle elle doit être
-affiliée auprès d’une Caisse d’assurances sociales pour travailleur indépendant, doit s’affilier au plus
-tard le jour du début de l’activité indépendante, et ce, depuis le premier avril 2010. Les constituants
-ont déclaré avoir fait le nécessaire.
-                II. STATUTS
-                ARTICLE 1 : DENOMINATION
-                Il est constitué par les présentes une société privée à responsabilité limitée sous la
-dénomination KING AFRICA.
-                Dans tous documents écrits émanant de la société, la dénomination sociale doit être
-précédée ou suivie immédiatement de la mention « société privée à responsabilité limitée » ou des
-initiales « SPRL », de l’indication précise du siège de la société, du numéro d’entreprise, de
-l’abréviation « RPM » et de l’indication du siège du tribunal dans le ressort territorial duquel la société
-à son siège.
-                ARTICLE 2 : SIEGE SOCIAL
-                Le siège social est établi à 1050 Bruxelles, Chaussée de Wavre 49.
-                Le siège social et le siège d’exploitation pourront être transférés partout ailleurs en
-Belgique par simple décision de la gérance, qui a tous pouvoirs pour le faire constater
-authentiquement et publier aux annexes du Moniteur Belge.
-                ARTICLE 3 : OBJET
-La société a pour objet principal :
--     Alimentation générale exotique.
-La vente en gros et en détail de :
-
-    •  tous produits alimentaires tels que viandes, fruits, légumes, conserves, fines herbes, produits
-laitiers, produits de la mer, poissons, boucherie, articles de ménage et articles cadeaux, épices,
-herbes aromatiques, de vidéothèques, location de produits de divertissements, films et tout autre
-produit assimile tous textiles en général, vêtements divers, chaussures, cordonnerie, serrurerie,
-maroquinerie dans le sens le plus large ; tous produits de l’artisanat en général, tapisseries y compris
-les articles du tiers-monde ; tous les articles de parfumerie, de toilette, cosmétiques, produits de
-beauté, maquillage ainsi que savons et détergents ; tous les articles d’horticulture tels que fleurs,
-plantes, articles de jardinage, aménagement et entretien de jardins et de pépinières; tous livres,
-antiquités, brocantes, objets de décoration, machines industrielles ;
-    •  de montres, articles en métaux précieux et bijoux ;
-
-    •  tous appareils électroménagers, tous films de bandes magnétiques, cassettes, tous articles
-imprimés ou enregistrés permettant leur lecture, vision ou audition ; assistance en programmation,
-    •  cours d’informatique, assistance en logiciels informatiques, conseils et assistance dans le
-domaine de l’informatique, tous matériaux de bureau et de l’informatique.
-    •  matériaux de construction, matériel électrique et électronique, le sanitaire.
-    •  D’appareil électronique, de satellite.
-La fabrication ainsi que l’exploitation de :
-
-    •  tous produits de boulangerie et de pâtisserie, de tous produits alimentaires et non alimentaires
--     la production ainsi que la commercialisation de tous produits issus de l’agriculture.
--     tous travaux de bâtiment non réglementés
-L’exploitation de :
+Le siège social est établi à 1120 Bruxelles, Chaussée de Vilvorde, 146
+Il peut être transféré en tout autre endroit de la Région de langue française de Belgique ou de la
+Région de Bruxelles-Capitale par simple décision du conseil d'administration qui a tous pouvoirs aux
+fins de faire constater authentiquement la modification des statuts qui en résulte.
+La société peut, par simple décision du conseil d'administration, établir des unités d’établissement,
+sièges administratifs ou d'exploitation, succursales, dépôts, représentations ou agences en Belgique
+ou à l'étranger.
+Article 3 : OBJET SOCIAL
+La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre, pour compte de tiers,
+en participation avec des tiers ou par l’entremises de commissionnaires,
+1. l’organisation et l’exploitation de jeux de hasard et d’argent (code NACEBEL 92.000) et
+comprenant notamment :
+- l'organisation de loterie, lotos, pronostics, paris mutuels, etc...
+- l’exploitation de jeux de hasard automatiques, de machines à sous basées sur le hasard avec gain
+d'argent,
+- l’exploitation de casinos et de salles de jeux
+- l’exploitation de machines à sous basées sur le hasard avec gain d'argent
+- les activités liées à la vente de billets de loterie, la distribution et la collecte de bulletins de
+participation, etc…
+- l’exploitation de sites web de jeux de hasard virtuels
+- la prise de paris et autres opérations de pari.
+2. La conception, l'importation, l'exportation, le courtage, la vente et l'achat, en gros ou au détail, la
+fabrication, le conditionnement, la commercialisation, la distribution, la représentation, la location, par
+et ou avec autrui de tout logiciel, matériel, appareil, système simple ou complexe destiné à favoriser,
+à permettre ou à contrôler  l’organisation et l’exploitation des jeux de hasard et d’argent visé au point
+précédent.
+La société peut accomplir toutes opérations généralement quelconques, commerciales, industrielles,
+financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet
+social ou susceptibles de favoriser son développement
+Elle peut s'intéresser par voie d'apport, de cession, de fusion, de souscription, de prise de
+participation ou de toute autre forme d'investissement en titres ou droits mobiliers, d'intervention
+financière ou autrement, dans toutes affaires, entreprises, associations ou sociétés ayant un objet
+identique, analogue ou connexe, ou de nature à favoriser le développement de son entreprise, à lui
+procurer des matières premières ou à faciliter l'écoulement de ses produits et services.
+La société peut accepter et exercer un mandat d’administrateur, de gérant ou de liquidateur dans
+toutes sociétés, quel que soit son objet social.
+La société peut constituer hypothèque ou toute autre sûreté réelle sur les biens sociaux ou se porter
+caution.
+Le conseil d’administration a compétence pour interpréter l’objet social.
+TITRE II   -   CAPITAL
+Article 5 : CAPITAL SOCIAL
+Le capital social est fixé à  cent mille euros (€ 100.000,00)
+Il est représenté par mille (1.000) actions sans mention de valeur nominale.
+Article 6 : ACTIONS AVEC OU SANS DROIT DE VOTE
+Le capital peut être représenté par des actions avec ou sans droit de vote.
+En cas de création d'actions sans droit de vote par voie de conversion d'actions avec droit de vote
+déjà émises, le conseil d'administration est autorisé à déterminer le nombre maximum d'actions à
+convertir et à fixer les conditions de conversion.
+Article 8 : APPELS DE FONDS
+Les appels de fonds sont décidés souverainement par le conseil d'administration.
+Tout versement appelé s'impute sur l'ensemble des actions dont l'actionnaire est titulaire. Le conseil
+d'administration peut autoriser les actionnaires à libérer leurs titres par anticipation; dans ce cas, il
+détermine les conditions éventuelles auxquelles ces versements anticipés sont admis. Les
+versements anticipés sont considérés comme des avances de fonds.
+L'actionnaire qui, après une mise en demeure notifiée par lettre recommandée, ne satisfait pas à un
+appel de fonds, doit payer à la société un intérêt calculé au taux d'intérêt légal, à dater du jour de
+l'exigibilité du versement.
+Le conseil d'administration peut, en outre, après un second avis resté infructueux dans le mois de sa
+date, prononcer la déchéance de l'actionnaire et faire vendre ses titres, sans préjudice du droit de lui
+réclamer le restant dû ainsi que tous dommages et intérêts. Le produit net de la vente s'impute sur ce
+qui est dû par l'actionnaire défaillant, lequel reste tenu de la différence ou profite de l'excédent.
+L'exercice du droit de vote afférent aux actions sur lesquelles les versements n'ont pas été opérés
+est suspendu aussi longtemps que ces versements, régulièrement appelés et exigibles, n'ont pas été
 
 Bi
 jla
@@ -278,10 +280,10 @@ bl
 ad
  - 
 
-07
-/1
+17
+/0
 
-0/
+5/
 20
 
 16
@@ -324,68 +326,69 @@ au
 
 Mod PDF 11.1
 
-    •  Tous snacks bars, brasseries, hôtels, restaurants, tavernes, cafés, cabarets, discothèques,
-buffets, vestiaires pour publics, locations de places, salles d’organisation, de banquet et service
-traiteur ; la messagerie, les services de fax, de cabines téléphoniques , cybercafé, Internet,  et de
-photocopies, de laboratoire de développement photos, d’atelier de tournage, d’affûtage et de
-rectification de pièces mécaniques ; de taxis, courrier express, transport national et international de
-marchandises et de personnes pour autrui, Car-Wash, station service (tout carburants tels que
-mazout, diesel, gaz,…), garage avec atelier de réparation et négociant de véhicules à moteur neuf et
-d’occasion, établissement de démolition, entretien et dépannage, montages, démontage de pneus et
-équilibrage des roues ainsi que l’achat, la vente, l’import, l’export en gros et/ou en détail de pièces
-automobiles neuves ou d’occasion et accessoires automobiles; d’un salon de coiffure ; de salons
-lavoirs, salon de thé, petit travaux de bâtiment non réglementés
-L’assistance :
-
-    •  Aux entreprises générales de bâtiment ;
-La réparation :
--     de tous les articles électroménagers, électronique tels que télévision, radio, vidéo, etc.
-L’entreprise peut exercer comme activité :
-
-    •  les travaux d’urbanisme, la conception d’immeuble, l’étude et la réalisation de travaux
-d’architecture ; 
-    •  la peinture, la maçonnerie, l’électricité, la toiture, serrurerie, la menuiserie, le plafonnage, le
-cimentage, la plomberie, la charpenterie, la menuiserie-charpenterie.
-    •  La promotion immobilière, les transactions immobilières, les financements des projets.
-    •  L’installation d’appareil électrique, électronique ainsi que de satellite.
-La société peut :
-
-    •  Fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
-notamment : le nettoyage et l’entretien d’immeubles, le nettoyage de vitres et de bureaux, de petits
-travaux de bureau, services intérimaires, sous-traitance ;
-    •  Effectuer toutes opérations généralement quelconques se rapportant directement ou
-indirectement au commerce, à la fabrication, la location, l’achat, la vente en gros ou en détail, la
-représentation, la distribution, le service, le conditionnement, l’exploitation et le courtage,
-l’importation et l’exportation, soit pour son propre compte soit pour le compte d’un tiers.
-    •  Exercer l’activité de courrier express.
-    •  Marché public.
-La société pourra, tant en Belgique qu’à l’étranger, d’une manière générale, accomplir toutes les
-opérations commerciales, industrielles, financières, mobilières et immobilières se rapportant
-directement ou indirectement, entièrement ou partiellement à la réalisation de son objet social.  Elle
-pourra exercer toute activité susceptible de favoriser la réalisation de son objet social et participer à
-une telle activité de quelque façon que ce soit.  Elle peut participer dans ou se fusionner avec
-d’autres sociétés ou entreprises qui peuvent contribuer à son développement ou à la croissance de
-son entreprise.
-La société peut grever ses biens immobiliers d'une hypothèque et affecter en gage tous ses autres
-biens en ce compris le fonds de commerce, elle peut accorder son aval pour tout emprunt, ouverture
-de crédit et autres engagements tant pour elle-même que pour tout tiers quel qu'il soit, à condition
-qu'elle y ait elle-même un quelconque intérêt
-                Au cas où l'exercice de certaines activités serait soumis à des conditions préalables
-d'accès à la profession, la société subordonnera son action, en ce qui concerne l'exercice de ces
-activités, à la réalisation de ces conditions.
-                ARTICLE 4 : DUREE
-                La société est constituée pour une durée illimitée à dater de ce jour.
-                Elle pourra prendre des engagements ou stipuler à son profit pour un terme dépassant la
-date de sa dissolution éventuelle.
-                ARTICLE 5 : CAPITAL
-                Le capital social est fixé à dix-huit mille six cents Euros (18.600,00 €) et est représenté par
-cent quatre-vingt six parts sociales (186) sans désignation de valeur nominale.
-                ARTICLE 6 : SOUSCRIPTION - LIBERATION
-                Le capital social est intégralement souscrit et libéré à concurrence de six mille deux Euros
-(6.200,00€).
-                ARTICLE 7 : AUGMENTATION REDUCTION DU CAPITAL
-                Le capital social peut être augmenté ou réduit par décision de l'assemblée générale
-délibérant dans les conditions requises pour les modifications aux statuts.
+effectués.
+TITRE III   -   TITRES
+Article 9 : NATURE DES ACTIONS
+Les actions non entièrement libérées sont nominatives. Les actions entièrement libérées revêtent la
+forme nominative ou la forme dématérialisée au choix de l'actionnaire, dans les limites prévues par la
+loi. Les propriétaires d'actions peuvent, à tout moment et à leurs frais, demander la conversion de
+leurs actions dans l'une des autres formes prévues par la loi.
+Article 10 : INDIVISIBILITE DES ACTIONS
+Les actions sont indivisibles à l'égard de la société.
+S'il y a plusieurs propriétaires d'une action, la société peut suspendre l'exercice des droits y afférents
+jusqu'à ce qu'une personne soit désignée comme étant, à son égard, propriétaire de l'action.
+En cas de démembrement du droit de propriété d'une action entre nu-propriétaire et usufruitier, les
+droits y afférents sont exercés par l'usufruitier.
+Article 11 : EMISSION D'OBLIGATIONS ET DE DROITS DE SOUSCRIPTION
+La société peut, en tout temps, créer et émettre des obligations, hypothécaires ou autres, par
+décision du conseil d'administration qui en détermine le type et fixe le taux des intérêts, le mode et
+l'époque des remboursements, les garanties spéciales ainsi que toutes autres conditions de
+l'émission.
+Toutefois, en cas d'émission d'obligations convertibles ou avec droit de souscription, et en cas
+d'émission de droits de souscription attachés ou non à une autre valeur mobilière, la décision est
+prise par l'assemblée générale statuant aux conditions prévues par la loi.
+L'assemblée générale des actionnaires peut, dans l'intérêt social, limiter ou supprimer le droit de
+souscription préférentielle en respectant les conditions prévues par la loi.
+TITRE IV   -   ADMINISTRATION ET CONTROLE
+Article 13 : COMPOSITION DU CONSEIL D'ADMINISTRATION
+La société est administrée par un conseil de trois administrateurs au moins, actionnaires ou non,
+nommés pour six ans au plus par l'assemblée générale des actionnaires, et en tout temps révocables
+par elle. Les administrateurs sortants sont rééligibles.
+Toutefois, si la société est constituée par deux fondateurs ou si, à une assemblée générale des
+actionnaires de la société, il est constaté que celle-ci n'a pas plus de deux actionnaires, la
+composition du conseil d'administration peut être limitée à deux membres jusqu'à l'assemblée
+générale ordinaire qui suivra la constatation, par toute voie de droit, de l'existence de plus de deux
+actionnaires.
+Le mandat des administrateurs sortants, non réélus, cesse immédiatement après l'assemblée
+générale qui a procédé à la réélection.
+Si une personne morale est nommée administrateur ou membre du comité de direction, elle
+désignera parmi ses associés, gérants, administrateurs ou travailleurs, un représentant permanent
+chargé de l'exécution de cette mission. A cet égard, les tiers ne pourront exiger de justification des
+pouvoirs du représentant, autre que la réalisation de la publicité requise par la loi de leur désignation
+en qualité de représentant.
+Article 14 : VACANCE
+En cas de vacance d'une place d'administrateur par suite de décès, démission ou autre cause, les
+administrateurs restants ont le droit d'y pourvoir provisoirement.
+Dans ce cas, l'assemblée générale, lors de sa première réunion, procède au remplacement.
+L'administrateur nommé en remplacement d'un administrateur dans les conditions ci-dessus achève
+le mandat de celui qu'il remplace.
+Article 19 : POUVOIRS DU CONSEIL D'ADMINISTRATION
+Le conseil d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la
+réalisation de l'objet social de la société, à l'exception de ceux que la loi ou les statuts réservent à
+l'assemblée générale.
+Article 20 : GESTION JOURNALIERE
+1.- Le conseil d'administration peut conférer la gestion journalière de la société ainsi que la
+représentation de la société en ce qui concerne cette gestion et confier la direction de l'ensemble ou
+d'une partie des affaires sociales:
+- soit à un ou plusieurs de ses membres qui portent le titre d'administrateur-délégué;
+- soit à un ou plusieurs directeurs ou fondés de pouvoirs choisis dans ou hors de son sein.
+En cas de coexistence de plusieurs délégations générales de pouvoirs, le conseil d'administration
+fixe les attributions respectives.
+2.- En outre, le conseil d'administration et les délégués à la gestion journalière dans le cadre de cette
+gestion peuvent déléguer des pouvoirs spéciaux et limités à tout mandataire.
+3.- Le conseil peut révoquer en tout temps les mandats des personnes mentionnées aux alinéas qui
+précèdent.
+4.- Il fixe les attributions, les pouvoirs et les rémunérations, fixes ou variables, des personnes à qui il
 
 Bi
 jla
@@ -414,10 +417,10 @@ bl
 ad
  - 
 
-07
-/1
+17
+/0
 
-0/
+5/
 20
 
 16
@@ -460,206 +463,69 @@ au
 
 Mod PDF 11.1
 
-                ARTICLE 8 : PARTS SOCIALES
-                Le capital peut être représenté par des parts sociales avec ou sans droit de vote, et ceci
-dans les limites prévues par le Code des Sociétés.
-                - Les parts sociales sont nominatives.
-                Elles seront inscrites sur le registre des parts sociales tenu au siège social. Lors de
-l’inscription des parts sociales dans ce registre, il y a lieu de remettre aux associés un certificat
-confirmant cette inscription. Les parts sociales seront numérotées
-                Les transferts ou transmissions seront également inscrits sur ce registre des parts
-sociales.
-                - Les parts sont indivisibles.
-                S'il y a plusieurs propriétaires d'une part, l'exercice des droits y afférents est suspendu
-jusqu'à ce qu'une seule personne soit désignée par écrit comme étant, à son égard, propriétaire de
-la part. Il en est de même en cas de démembrement du droit de propriété d'une part sociale.
-                - Les parts avec droit de vote peuvent être converties en parts sans droit de vote. Les parts
-sans droit de vote peuvent être rachetées après décision de l'assemblée générale délibérant selon
-les conditions prévues pour la réduction du capital.
-                - La société ne peut acheter ses propres parts ou les prendre en caution, que sous les
-conditions et formalités prévues par le Code des Sociétés.
-                ARTICLE 9 : DROIT DE PREFERENCE
-                Les parts à souscrire en numéraire doivent être offertes par préférence aux associés
-proportionnellement à la partie du capital que représentent leurs parts.
-                Le droit de souscription peut être exercé pendant un délai qui ne peut être inférieur à
-quinze jours à dater de l'ouverture de la souscription. Ce délai est fixé par l'assemblée générale
-                ARTICLE 10 : APPELS DE FONDS
-                Les appels de fonds sont décidés souverainement par la gérance.
-                Tout versement appelé s'impute sur l'ensemble des parts sociales que l'associé a souscrit.
-                L'associé qui, après un préavis d'un mois, signifié par lettre recommandée, est en retard de
-satisfaire aux versements, doit bonifier à la société un intérêt calculé au taux de l'intérêt légal, à dater
-du jour de l'exigibilité du versement.
-                Si le versement n'est pas effectué un mois après un second avis recommandé de la
-gérance, cette dernière pourra faire reprendre par un associé ou par un tiers agréé s'il y a lieu,
-conformément aux statuts, les parts de l'associé défaillant. Cette reprise aura lieu contre paiement à
-l'associé défaillant de septante-cinq pour cent du montant dont les parts seront libérées et à la
-société du solde à libérer.
-                Au cas où le défaillant se refuserait à signer le transfert de ses parts au registre des
-associés, la gérance lui fera sommation recommandée d'avoir dans les huit jours à se prêter à cette
-formalité. A défaut de ce faire endéans ce délai, la gérance signera valablement en lieu et place de
-l'associé défaillant.
-                ARTICLE 11 : CESSION DE PARTS
-                Les cessions entre vifs ou transmissions pour cause de mort de parts sociales, s'opèrent
-conformément aux dispositions du Code des Sociétés.
-                ARTICLE 12 : GERANCE
-                La société est administrée et engagée par un ou plusieurs gérants nommés par
-l'assemblée générale des associés parmi les associés ou en dehors d'eux pour une durée
-déterminée ou indéterminée.
-                L'exercice de la gérance se fera à titre gratuit ou rémunéré.
-                Le ou les gérants sont investis des pouvoirs les plus étendus pour agir, en toute
-circonstance, au nom de la société. Ils les exercent dans la limite de l'objet de la société, sous
-réserve de ceux attribués par le Code des Sociétés et le présent contrat aux assemblées générales
-et dans le cadre des résolutions adoptées par ces assemblées.
-                - Si l'assemblée générale n'a procédé à la nomination que d'un seul gérant, la totalité des
-pouvoirs attribués à la gérance lui est dévolue.
-                Ce gérant a qualité pour représenter la société à l'égard des tiers et en justice, soit en
-demandant soit en défendant et pour signer les actes qui engagent la société, y compris ceux où
-interviennent un fonctionnaire public ou un officier ministériel.
-                - Au cas où plusieurs gérants seraient nommés, chaque gérant agissant seul dispose de la
-totalité des pouvoirs attribués à la gérance.
-                Les actes où interviennent un fonctionnaire public ou un officier ministériel et toutes les
-actions judiciaires, soit en demandant soit en défendant, sont valablement signés par un seul gérant,
-lequel n'aura pas à justifier de ses pouvoirs à l'égard des tiers.
-                Le ou les gérants ont le pouvoir de déléguer la gestion journalière à un Directeur, Fondé de
-pouvoirs ou Agent de la société et de constituer mandataire pour l'un ou l'autre objet déterminé.
-                ARTICLE 13 : COMMISSAIRE
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-07
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-                La surveillance de la société est exercée par chacun des associés qui aura tous les
-pouvoirs d'investigation et de contrôle des opérations et pourra prendre connaissance des livres, de
-la correspondance et de toutes les écritures du groupement.
-                Un commissaire ne devra être nommé que dans le cas où le Code des Sociétés l'exige.
-                ARTICLE 14 : ASSEMBLEE GENERALE
-                L'assemblée générale des associés a les pouvoirs les plus étendus pour faire ou ratifier les
-actes qui intéressent la société.
-                Lorsque la société ne compte qu'un seul associé, il assure les pouvoirs dévolus à
-l'assemblée générale. Il ne peut déléguer.
-                L'assemblée générale annuelle se réunit de plein droit le deuxième mardi de février à
-20.00 heures au siège réel ou à tout autre endroit indiqué dans les convocations.
-                Si ce jour est un jour férié légal, l'assemblée a lieu le jour ouvrable suivant à la même
-heure.
-                Une assemblée générale extraordinaire sera par ailleurs convoquée par la gérance chaque
-fois que l'intérêt social de la société l'exigera ou sur la demande d'associés représentant le
-cinquième du capital social.
-                La convocation des associés à l’assemblée générale se fera au moyen de lettre
-recommandée, envoyée à chaque associé, au gérant et éventuellement au commissaire, au moins
-quinze jours avant l’assemblée générale, avec la reproduction de l’ordre du jour, la date, l’heure et le
-lieu de l’assemblée générale ainsi que l’énumération des rapports. Les pièces définies par le Code
-des Sociétés seront jointes à la lettre de convocation adressée aux associés, au gérant et
-éventuellement au commissaire, ainsi qu’à toutes personnes qui en formulent la demande.
-                Lors de l’assemblée générale une liste des présences sera établie
-                Lors de l’assemblée générale, le gérant, et le commissaire éventuel répondront aux
-questions que leur seront posées par les associés au sujet des points repris à l’agenda, à condition
-toutefois que la communication de données ou de faits ne procurent pas de préjudice important à la
-société, aux associés ou au personnel de la société.
-                Le gérant a le droit durant l’assemblée générale de proroger de trois semaines la décision
-se rapportant à l’approbation des comptes annuels.
-                Cette prorogation n’annule pas les autres décisions prises, sauf si l’assemblée générale en
-décide autrement. La seconde assemblée a le droit d’arrêter définitivement les comptes annuels.
-                ARTICLE 15 : DROIT DE VOTE
-                Tout associé ayant droit de vote peut voter par lui-même ou par procuration, ou peut
-émettre son vote par écrit. Chaque part donne droit à une voix.
-                ARTICLE 16 : EXERCICE SOCIAL
-                L'exercice social commence premier octobre et se termine le trente septembre de chaque
+confère les délégations.
+Article 21 : REPRESENTATION DE LA SOCIETE DANS LES ACTES ET EN JUSTICE
+La société est représentée, dans tous les actes et en justice, soit par deux administrateurs agissant
+conjointement ou par un administrateur-délégué, soit, dans les limites de la gestion journalière et des
+pouvoirs qui leur ont été conféré, par le ou les délégués à cette gestion qui ne seraient pas
+administrateurs, agissant ensemble ou séparément.
+Ces signataires n'ont pas à justifier vis-à-vis des tiers d'une décision préalable du conseil
+d'administration.
+Elle est en outre valablement engagée par des mandataires spéciaux dans les limites de leurs
+mandats.
+Article 23 : CONTROLE DE LA SOCIETE
+Aussi longtemps que la société répondra aux critères énoncés à l'article 15 du Code des Sociétés, il
+n'y a pas lieu de nommer un commissaire, sauf décision contraire de l'assemblée générale.
+Dans ce cas, chaque actionnaire a individuellement les pouvoirs d'investigation et de contrôle du
+commissaire. Il peut se faire représenter ou se faire assister par un expert-comptable. La
+rémunération de ce dernier incombe à la société s'il a été désigné avec son accord ou si cette
+rémunération a été mise à sa charge par décision judiciaire.
+TITRE V   -   ASSEMBLEES GENERALES
+Article 24 : COMPOSITION ET POUVOIRS DE L'ASSEMBLEE GENERALE
+L'assemblée générale se compose de tous les propriétaires d'actions qui ont le droit de voter par
+eux-mêmes ou par mandataires, moyennant observation des prescriptions légales et statutaires.
+Les décisions régulièrement prises par l'assemblée générale sont obligatoires pour tous les
+actionnaires, même pour les absents ou pour les dissidents.
+Article 25 : REUNION DE L'ASSEMBLEE GENERALE
+L'assemblée générale ordinaire se réunit le troisième jeudi du mois de juin de chaque année à seize
+(16) heures. Si ce jour est un jour férié légal, l'assemblée a lieu le premier jour ouvrable suivant,
+autre qu'un samedi.
+Article 26 : FORMALITES D'ADMISSION A L'ASSEMBLEE GENERALE
+Le conseil d'administration peut exiger que pour être admis à l'assemblée générale, les propriétaires
+d'actions nominatives l'informent par écrit, trois jours au moins avant la date fixée pour l'assemblée,
+de leur intention d'assister à l'assemblée et indiquent le nombre d'actions pour lequel ils entendent
+prendre part au vote.
+Le conseil d'administration peut également exiger que les propriétaires d'actions dématérialisées
+déposent, trois jours au moins avant la date fixée pour l'assemblée, au siège social ou auprès des
+établissements désignés dans l'avis de convocation une attestation établie par le teneur de comptes
+agréé ou par l'organisme de liquidation constatant l'indisponibilité, jusqu'à la date de l'assemblée
+générale, des actions dématérialisées.
+Les obligataires peuvent assister à l'assemblée générale mais avec voix consultative seulement, s'ils
+ont effectué les formalités prescrites aux alinéas qui précèdent.
+Article 27 : REPRESENTATION
+Tout propriétaire de titres peut se faire représenter à l'assemblée générale par un mandataire,
+pourvu que celui-ci ait accompli les formalités requises pour être admis à l'assemblée.
+Les personnes morales peuvent être représentées par un mandataire non-actionnaire; les mineurs,
+interdits ou autres incapables agissent par leurs représentants légaux.
+Les copropriétaires, les usufruitiers et nus-propriétaires, ainsi que les créanciers et débiteurs
+gagistes doivent se faire représenter respectivement par une seule et même personne.
+Le conseil d'administration peut arrêter la formule des procurations et exiger que celles-ci soient
+déposées au lieu indiqué par lui dans un délai qu'il fixe.
+Article 28 : VOTE PAR CORRESPONDANCE
+Pour autant que le conseil d'administration ait prévu cette faculté dans l'avis de convocation, tout
+actionnaire est autorisé à voter par correspondance au moyen d'un formulaire établi et mis à la
+disposition des actionnaires par la société.
+Article 29 : COMPOSITION DU BUREAU
+Toute assemblée générale, ordinaire ou extraordinaire, est présidée par le président du conseil
+d'administration ou, à son défaut, par l'administrateur-délégué.
+Le président peut désigner un secrétaire.
+L'assemblée peut choisir, parmi ses membres, un ou plusieurs scrutateurs.
+Article 31 : DROIT DE VOTE
+Chaque action donne droit à une voix.
+TITRE VI   -   EXERCICE SOCIAL - COMPTES ANNUELS
+Article 33 : COMPTES ANNUELS
+L'exercice social commence  le premier janvier et se clôture le trente et un décembre de chaque
 année.
-                A l'expiration de chaque exercice social, les comptes annuels sont établis par le gérant,
-remis pour examen au commissaire éventuel et soumis à l'approbation de l'assemblée générale dans
-les six mois de la clôture de cet exercice.
-                Ces comptes annuels comprennent le bilan, le compte de résultats ainsi que l'annexe et
-forment un tout.
-                Dans les trente jours de leur approbation par l'assemblée, les comptes annuels sont
-déposés par les soins de la gérance, à la Banque Nationale de Belgique, ainsi que les documents
-énoncés dans le Code des Sociétés.
-                Ces documents sont établis, déposés et communiqués conformément aux prescriptions
-édictées par le Code des Sociétés, dans la mesure ou la société est soumise à son application.
-                ARTICLE 17 : BENEFICE
-                Aucune distribution ne peut être faite lorsqu’à la date de clôture du dernier exercice, l’actif
-net tel qu’il résulte des comptes annuels est, ou deviendrait, à la suite d’une telle distribution
-inférieure au montant du capital libéré ou si, ce montant est supérieur, du capital appelé, augmenté
-de toutes les réserves que la loi ou les statuts ne permettent pas de distribuer.
-                Il y a lieu d’agir conformément aux dispositions de l’article 320 du Code des Sociétés.
-                ARTICLE 18 : DISSOLUTION-LIQUIDATION
-                En cas de dissolution de la société la liquidation sera faite par un ou plusieurs liquidateurs
-nommés par l’assemblée générale qui décidera leur nombre, leurs pouvoirs et leurs émoluments.
-                ARTICLE 19 : ELECTION DE DOMICILE
-                Pour l'exécution des présents statuts, tout associé ou gérant, domicilié à l'étranger, élit, par
-les présentes, domicile au siège social, où toutes communications, sommations, assignations ou
-significations peuvent lui être valablement faites.
-ARTICLE 20 -  REPARTITION DE L’ACTIF NET
-                Après apurement de toutes les dettes, charges et frais de liquidation ou après consignation
-des montants nécessaires à cet effet et, en cas d'existence de parts sociales non entièrement
 
 Bi
 jla
@@ -688,10 +554,10 @@ bl
 ad
  - 
 
-07
-/1
+17
+/0
 
-0/
+5/
 20
 
 16
@@ -734,39 +600,69 @@ au
 
 Mod PDF 11.1
 
-libérées, après rétablissement de l'égalité entre toutes les parts soit par des appels de fonds
-complémentaires à charge des parts insuffisamment libérées, soit par des distributions préalables au
-profit des parts libérées dans une proportion supérieure, l'actif net est réparti entre tous les associés
-en proportion de leurs parts sociales et les biens conservés leur sont remis pour être partagés dans
-la même proportion.
-                ARTICLE 21
-                Toute disposition non prévue aux présents statuts sera réglée par le Code des Sociétés.
-                DISPOSITIONS FINALES ET TRANSITOIRES
-                1. Premiers exercice social et assemblée générale ordinaire.
-                Le premier exercice social débutera ce jour et finira le trente septembre deux mille dix-huit.
-                La première assemblée générale ordinaire aura donc lieu en deux mille dix-neuf.
-                2. PREMIERE ASSEMBLEE GENERALE
-                Nomination d'un gérant
-                Les statuts étant ainsi définitivement arrêtés, les comparants décident de se réunir en
-assemblée générale et adoptent la résolution suivante :
-Il est décidé de confier la gestion à deux gérants.
-Sont appelés aux fonctions de gérants, avec tous les pouvoirs qui leur sont conférés par l'article 14
-des statuts et sans limitation de la durée de leur mandat, Monsieur RAJA Mahboob Ahmed,
-prénommé, et Monsieur SHEIKH Mohammad Haroun, prénommé, qui déclarent explicitement
-accepter le mandat.
-                Les gérants ont tous pouvoirs pour agir ensemble ou séparément.
-                3. REPRISE D'ENGAGEMENTS
-                Les comparants déclarent conformément aux dispositions de l’article 60 du Code des
-Sociétés, que la société, en application dudit article 60 du Code des Sociétés, reprendra tous les
-engagements à quelque titre que ce soit qui ont été établis et conclus au nom de la société en
-formation à compter du premier septembre deux mille seize.
-                Cette reprise ne produira ces effets qu’au moment ou la société aura la personnalité
-juridique. La société jouira de la personnalité morale à partir du dépôt de l'extrait des statuts au greffe
-du tribunal de commerce compétent. Les engagements contractés durant cette période intermédiaire
-seront également soumis aux dispositions de l’article 60 du Code des Sociétés, et devront dès que la
-société aura la personnalité morale être confirmés.
-POUR EXTRAIT ANALYTIQUE CONFORME.
- 
+A cette dernière date, les écritures de la société sont arrêtées et le conseil d'administration dresse un
+inventaire complet et établit les comptes annuels conformément à la loi.
+Article 34 : REPARTITION DES BENEFICES
+Le bénéfice annuel de la société est déterminé conformément aux dispositions légales.
+Sur ce bénéfice, il est prélevé cinq pour-cent (5%) pour la réserve légale. Ce prélèvement cesse
+d'être obligatoire lorsque le fonds de réserve atteint un/dixième (1/10) du capital social; il doit être
+repris si la réserve légale vient à être entamée.
+Le solde restant recevra l'affectation que lui donnera l'assemblée générale statuant à la majorité des
+voix, sur proposition du conseil d'administration dans le respect de l'article 617 du Code des
+Sociétés.
+Article 35 : PAIEMENT DES DIVIDENDES ET ACOMPTES SUR DIVIDENDES
+Le paiement des dividendes se fait annuellement, aux époques et aux endroits désignés par le
+conseil d'administration, en une ou plusieurs fois.
+Celui-ci pourra, sous sa propre responsabilité, décider, conformément à la loi, le paiement
+d'acomptes sur dividendes, par prélèvements sur le bénéfice de l'exercice en cours, conformément
+aux dispositions légales. Il fixe le montant de ces acomptes et la date de leur paiement. 
+TITRE VII   -   DISSOLUTION - LIQUIDATION
+Article 36 : LIQUIDATION
+En cas de dissolution de la société, pour quelque cause et à quelque moment que ce soit, la
+liquidation s'opère par les soins du ou des liquidateurs nommés par l'assemblée générale et, à défaut
+de pareille nomination, la liquidation s'opère par les soins du conseil d'administration en fonction à
+cette époque, agissant en qualité de comité de liquidation.
+Les liquidateurs disposent à cette fin des pouvoirs les plus étendus conférés  par le Code des
+Sociétés.
+L'assemblée générale détermine, le cas échéant, les émoluments du ou des liquidateurs.
+Article 37 : REPARTITION
+Après apurement de toutes les dettes, charges et frais de liquidation ou consignation des sommes
+nécessaires à cet effet, l'actif net sert d'abord à rembourser, en espèces ou en titre, le montant libéré
+des actions.
+Si toutes les actions ne sont pas libérées dans une égale proportion, les liquidateurs, avant de
+procéder aux répartitions, tiennent compte de cette diversité de situation et rétablissent l'équilibre en
+mettant toutes les actions sur un pied d'égalité absolue, soit par des appels de fonds
+complémentaires à charge des titres insuffisamment libérés, soit par des remboursements préalables
+en espèces au profit des titres libérés dans une proportion supérieure.
+Le solde est réparti également entre toutes les actions.
+III. DISPOSITIONS TRANSITOIRES
+A- ASSEMBLEE GENERALE
+A l'instant, la société étant constituée, tous les comparants se sont réunis en assemblée générale et
+ont pris, à l'unanimité, les décisions suivantes, qui n'auront d'effet qu'au moment où la société sera
+dotée de la personnalité morale, c'est-à-dire au jour du dépôt de l'extrait du présent acte au greffe du
+tribunal de commerce compétent:
+1. Clôture du premier exercice social :
+Le premier exercice social commencera le jour du dépôt pour se terminer le 31 décembre 2016
+2. Première assemblée générale ordinaire :
+La première assemblée générale ordinaire est fixée en juin 2017
+3. Administrateurs :
+Le nombre d'administrateurs est fixé à trois
+Sont appelés à ces fonctions:
+- La société anonyme CALIGULA à 1070 Anderlecht, boulevard Sylvain Dupuis, 233 boîte 125; RPM
+Bruxelles 0439 723 566, qui sera représentée dans le cadre de son mandat par Monsieur BEKTAS
+Erkan, né à Saint-Josse-ten-Noode le neuf juillet mil neuf cent septante-huit, domicilié à 1030
+Schaerbeek, Rue des Mimosas 49, en sa qualité de représentant permanent.
+- Monsieur SONKAYA Mustafa, né à Maçka (Turquie) le premier janvier mil neuf cent
+septante, domicilié à 1000 Bruxelles, Quai des Péniches 69 boîte 11D. 
+- Monsieur BEHCET Uzun né à Vakfikebir Trabzon le 14 janvier 1985, domicilié à 1831 Machelen,
+Eugène Blaironstraat 43 
+Tous ici présents ou représentés et acceptant le mandat qui leur est conféré.
+Le mandat des administrateurs ainsi nommés prendra fin immédiatement après l'assemblée
+générale ordinaire de juin 2021
+4. Commissaires :
+L'assemblée générale décide de ne pas nommer de commissaire, la société n'y étant pas tenue.
+5. Reprise des engagements souscrits au nom de la société en formation :
+La société présentement constituée reprendra, le cas échéant, tous les engagements contractés au
 
 Bi
 jla
@@ -795,10 +691,118 @@ bl
 ad
  - 
 
-07
-/1
+17
+/0
 
-0/
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+nom et pour compte de la société en formation
+La société ratifie expressément tous les engagements de la société pris ou à prendre avant le dépôt
+du présent acte au greffe du Tribunal de commerce compétent, sous la condition suspensive dudit
+dépôt; elle donne tout mandat au conseil d’administration, désigné par ailleurs, à l’effet
+d’entreprendre les activités sociales, le simple dépôt au greffe emportant de plein droit reprise de ces
+engagements par la société.
+II.- CONSEIL D'ADMINISTRATION
+A l'instant, le conseil d'administration étant constitué, celui-ci déclare se réunir valablement aux fins
+de procéder à la nomination des administrateurs-délégués et de déléguer des pouvoirs.
+A l'unanimité, le conseil décide d'appeler aux fonctions d'administrateurs-délégués:
+La société anonyme CALIGULA à 1070 Anderlecht, boulevard Sylvain Dupuis, 233 boîte 125; RPM
+Bruxelles 0439 723 566, qui sera représentée dans le cadre de son mandat par Monsieur BEKTAS
+Erkan, né à Saint-Josse-ten-Noode le neuf juillet mil neuf cent septante-huit, domicilié à 1030
+Schaerbeek, Rue des Mimosas 49, en sa qualité de représentant permanent.
+- Monsieur SONKAYA Mustafa, né à Maçka (Turquie) le premier janvier mil neuf cent
+septante, domicilié à 1000 Bruxelles, Quai des Péniches 69 boîte 11D. 
+Leur mandat sera exercé à titre gratuit ou rémunéré suivant décision de l’assemblée générale
+délibérant à la majorité simple et prendra fin en même temps que leur mandat d’administrateur, soit à
+l’issue de l’assemblée générale ordinaire de juin 2021
+Chaque administrateur-délégué aura individuellement tous les pouvoirs de gestion journalière et
+ceux prévus par les statuts et il pourra notamment accomplir seul tous les actes d'administration et
+de disposition non réservés par la loi ou les statuts à l'assemblée générale.
+Procuration
+Le conseil d'administration confère tous pouvoirs à EXAGO sprl à 1070 Anderlecht, boulevard
+Sylvain Dupuis 231 boite 27 pour effectuer toutes les formalités requises pour l'inscription de la
+société auprès d’un guichet d’entreprises (Banque Carrefour des Entreprises) et pour son
+immatriculation à la Taxe sur la Valeur Ajoutée, ainsi que l’inscription auprès de la caisse
+d’assurance sociale pour travailleurs indépendants et l’inscription auprès de la cotisation sociétaire.
+
+POUR EXTRAIT ANALYTIQUE CONFORME, délivré avant enregistrement uniquement pour le
+dépôt au greffe et la publication à l’annexe du Moniteur Belge
+Le notaire associé, Frederic CONVENT
+NOTAIRE
+Déposé en même temps : expédition de l’acte
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+17
+/0
+
+5/
 20
 
 16

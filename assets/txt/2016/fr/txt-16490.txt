@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-ALEXINE
+OPTIC ONE
 
-Rue Victor Allard 6
-1180 Uccle
+Avenue du Globe 45 bte 49
+1190 Forest
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Il résulte d'un acte reçu par Maître Jean Didier GYSELINCK, Notaire résidant à Bruxelles, le 16
-septembre 2016  que :
-1) Monsieur LA HAYE Alexis Pierre Sacha, célibataire, né à Ixelles le 23 mai 1992, Numéro National
-92.05.23-165.45, domicilié à 1180 Uccle, Avenue des Statuaires 159. 
-2) Madame LEROY Valentine Agnès Josiane Ghislaine, célibataire, née à Etterbeek le 5 juin 1994,
-Numéro National 94.06.05-326.85, domiciliée à 1380 Lasne, Route d' Ottignies 24. 
-Ont constitué entre eux une société privée à responsabilité limitée (SPRL) dont la dénomination
-sociale est ALEXINE
-- Le siège social est établi à Uccle (1180 Bruxelles), rue Victor Allard, 6
-- La société a pour objet, pour son compte ou pour le compte de tiers, tant en Belgique ou à
-l’étranger :
+~~D’après un acte reçu par Maître Matthieu DERYNCK, notaire associé à Bruxelles, le 24 mai 2016,
+il résulte que :
+…/…
+1. Madame BENESSAHRAOUI Ilham, née à El Kelaa des Sraghnas (Maroc), le 15 janvier 1971,
+domiciliée à Forest (1190 Bruxelles), avenue du Globe 45 boîte 49
+…/…
+2. Madame EL OURIAGHLI Najwa, née à El Jadida (Maroc), le 29 janvier 1965, domiciliée à 1410
+Waterloo, rue de l'Infante 127 boîte 2,
+…/…
+Ci-après dénommés : "les comparants".
+…/…
+CONSTITUTION.
+A. Forme Juridique - Dénomination - Siège.
+Il est constitué une société sous forme d'une société privée à responsabilité limitée, qui sera
+dénommée OPTIC ONE.
+Le siège social est établi pour la première fois à Forest (1190 Bruxelles), avenue du Globe 45 boîte
+49.
+B. Capital – Parts Sociales - Libération.
+Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est entièrement souscrit et
+est libéré à concurrence d’un tiers.
+Il est représenté par cent (100) parts sociales, souscrites en espèces au prix de cent quatre-vingt-six
+euros (186 EUR) chacune, comme suit :
+- Madame BENESSAHRAOUI Ilham déclare souscrire cinquante (50) parts sociales qu'il libère à
+concurrence d’un tiers, restant redevable de la libération du solde.
+- Madame EL OURIAGHLI Najwa déclare souscrire cinquante (50) parts sociales qu'il libère à
+concurrence d’un tiers, restant redevable de la libération du solde.
+Les comparants déclarent et reconnaissent que toutes et chacune de ces parts sociales ont été
+souscrites et libérées comme dit ci-dessus et qu'en conséquence, la société a, dès à présent, à sa
+disposition une somme de six mille deux cents euros (6.200 EUR)
+…/…
+STATUTS
+Article 1. - Forme - Dénomination.
+La société a la forme d'une société privée à responsabilité limitée.
+Elle porte la dénomination OPTIC ONE.
+Article 2. - Siège.
+Le siège social est établi à Forest (1190 Bruxelles), avenue du Globe 45 boîte 49, arrondissement
+judiciaire de Bruxelles.
+Il peut être transféré en tout autre lieu en Belgique par décision de la gérance.
 
-    •  la constitution et la gestion d'un propre patrimoine immobilier, notamment l'acquisition par l'achat
-ou autrement, la vente, l'échange, la construction, la transformation, l'amélioration, l'équipement,
-l'aménagement, l'embellissement, l'entretien, la location, la prise en location, le lotissement, la
-prospection et l'exploitation de biens immeubles, ainsi que toutes opérations qui directement ou
-indirectement, sont en relation avec cet objet et qui sont de nature à favoriser l'accroissement et le
-rapport d'un patrimoine immobilier.
-    •  le rôle d’intermédiaire commercial dans toutes opérations de nature à favoriser la réalisation de
-son objet social ;
- 
-    •  l’activité de marchand de biens immobiliers ;
-    •  Les activités de transactions sur biens immobiliers tels que : immeubles résidentiels et maison
-d’habitation, immeubles non résidentiels, terres et terrains
-Elle peut réaliser toutes opérations généralement quelconques, commerciales, industrielles,
-financières, mobilières ou immobilières, ayant un rapport direct ou indirect avec son objet social ou
-de nature à en favoriser la réalisation et le développement.
-Elle peut s'intéresser par voie d'apport, de souscription, de cession, de participation, de fusion,
-d'intervention financière ou autrement dans toutes sociétés, associations et entreprises, tant en
-Belgique qu'à l'étranger.
-Elle peut également exercer les fonctions d'administrateur, gérant ou de liquidateur dans d'autres
-sociétés.
-- La société est constituée pour une durée illimitée.
-- Le capital est fixé à dix-huit mille six cents euros (18.600 EUR).
-Il est représenté 100 parts sociales sans désignation de valeur nominale représentant chacune
-1/100ème de l’avoir social.
-Chaque part sociale est libérée à concurrence d’un/tiers au moyen d'un apport en espèces.
-Les parts sociales ont été souscrites comme suit:
-
- *16319033*
+ *16311435*
 Déposé
-19-09-2016
+26-05-2016
 
-0662712611
+0655679022
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-21
+30
 /0
 
-9/
+5/
 20
 
 16
@@ -187,180 +187,321 @@ au
 
 Mod PDF 11.1
 
-- Monsieur LA HAYE Alexis, prénommé, 50 parts sociales.
-- Madame LEROY Valentine, 50 parts sociales.
-ENSEMBLE : 100  parts sociales .
-Le Notaire soussigné atteste que le dépôt des fonds libérés a été effectué conformément à la loi
-auprès de la Banque Kbc Brussels
-- Les parts sont indivisibles à l'égard de la société.
-S'il y a plusieurs propriétaires d'une même part, la société peut suspendre l'exercice des droits y
-afférents jusqu'à ce qu'une seule personne soit désignée comme étant à son égard propriétaire de la
-part.
-En cas de démembrement du droit de propriété de parts sociales, les droits y afférents sont exercés
-par l’usufruitier
-- La société est administrée par un ou plusieurs gérants, personnes physiques ou morales, nommés
-par l'assemblée générale et pour la durée qu'elle détermine.
-Si une personne morale est nommée gérant, elle doit désigner un représentant permanent, personne
-physique à l'intervention de laquelle elle exercera ses fonctions de gérant. La publication au Moniteur
-Belge de la désignation de ce représentant permanent se fera conformément aux dispositions
-légales applicables.
-A cet égard, les tiers ne pourront exiger la justification des pouvoirs, la simple identification de sa
-qualité de représentant permanent de la personne morale étant suffisante.
-- Conformément à l’article 257 du Code des Sociétés et sauf organisation par l’assemblée d’un
-collège de gestion, chaque gérant peut accomplir tous les actes nécessaires ou utiles à
-l'accomplissement de l'objet social de la société, sauf ceux que la loi réserve à l'assemblée générale.
-Il représente la société à l'égard des tiers et en justice, soit en demandant, soit en défendant.
-- L'assemblée peut allouer aux gérants des émoluments fixes ou variables à prélever sur les frais
-généraux. Elle peut aussi décider que le mandat de gérant sera exercé à titre gratuit.
-- Chaque gérant peut, sous sa responsabilité, déléguer à une ou plusieurs personnes, telle partie de
-ses pouvoirs de gestion journalière à condition qu'il les détermine et en fixe la durée.
-- Tant que la société répond aux critères de l’article 15 du Code des Sociétés, il n’est pas nommé de
-commissaire, sauf décision  contraire de l’assemblée générale.
-S'il n'y a pas de commissaire, chaque associé a individuellement les pouvoirs d'investigation et de
-contrôle des commissaires, et le fait qu'aucun commissaire n'a été nommé doit être mentionné dans
-les extraits d'actes et documents à déposer en vertu des dispositions légales en la matière.
-- Il est tenu une assemblée générale ordinaire chaque année le 25 juin  à 14  heures.
-Si ce jour est férié, l'assemblée aura lieu le premier jour ouvrable suivant.
-L'assemblée se réunit extraordinairement chaque fois que l'intérêt de la société l'exige ou à la
-demande d'associés représentant le cinquième du capital.
-Les assemblées générales se tiennent au siège social ou à tout autre endroit indiqué dans la
-convocation.
-- Les assemblées générales sont convoquées par le gérant.
-Les convocations se font par lettres recommandées adressées aux associés quinze jours au moins
-avant l'assemblée et doivent mentionner l'ordre du jour.
-Tout associé, gérant ou commissaire  peut renoncer à cette convocation et, en tout cas, sera
-considéré comme ayant été régulièrement convoqué si il est présent ou représenté à l’assemblée.
-- Tout associé peut se faire représenter aux assemblées par un mandataire, pourvu que celui-ci soit
-aussi associé et qu'il ait le droit d'assister à l'assemblée.
-Un seul et même mandataire peut représenter plusieurs associés.
-Les copropriétaires, ainsi que les créanciers et débiteurs gagistes, doivent se faire représenter par
-une seule et même personne.
-Toutefois, les personnes morales peuvent se faire représenter par un mandataire non-associé.
-- Chaque part sociale donne droit à une voix.
-- Sauf dans les cas prévus par la loi et les présents statuts, les décisions sont prises quel que soit le
-nombre de parts représentées à la majorité des voix pour lesquelles il est pris part au vote.
-Si la société ne compte qu'un seul associé, il exerce les pouvoirs dévolus à l'assemblée générale. Il
-ne peut les déléguer.
-Les associés peuvent, à l'unanimité, par écrit, prendre toutes  les décisions qui relèvent du pouvoir
-de l'assemblée générales à l'exception de celles qui doivent être passées par un acte authentique. 
-- L'année sociale commence le premier janvier et finit le 31 décembre 2016.
- Le 31 décembre  de chaque année, les livres, registres et comptes de la société sont clôturés et la
-gérance dresse l'inventaire et établit les comptes annuels et le rapport de gestion, conformément aux
-dispositions législatives y afférentes.
-- Le résultat, tel qu'établi conformément au droit comptable, constitue le bénéfice net de l'exercice
+Tout transfert du siège social sera publié aux annexes au Moniteur belge par les soins de la gérance.
+Article 3. - Objet.
+La société a pour objet, pour compte propre, pour tout compte de tiers ou en participation, en
+Belgique ou à l’étranger :
+1) l’achat, la vente, l’import-export de tous objets et accessoires se rapportant à l’activité d’opticien-
+optométriste, et notamment, sans que la présente énonciation soit limitative :
+- Le commerce, en gros et/ou en détail, d’articles d’optique (y compris les lunettes, les loupes, les
+jumelles, ….), de photographie (y compris les pellicules) et de précision, y compris les articles
+ophtalmologiques ;
+- Le commerce, en gros et/ou en détail, de détail de matériel photographique, d’optique et e
+précision, y compris les articles ophtalmologiques, en magasin spécialisé ;
+- La fabrication de verres de lunetterie et de verres ou lentilles de contact ;
+- La fabrication de montures de lunettes ;
+- La fabrication de montures équipées de verres travaillés optiquement ou non ; lunettes solaires,
+lunettes protectrices (y compris les écrans protecteurs pour soudage) ou correctrices, …
+- La fabrication de matériels optiques et photographiques ;
+- La fabrication d’instruments d’ophtalmologie ;
+- La fabrication de verre d’horlogerie, verres d’optique et d’éléments d’optique non travaillés
+optiquement.
+2) L’exploitation de :
+ - atelier de confection et de vente de vêtements traditionnels et artisanaux;
+ - atelier de fabrication de tous produits de boulangerie et de pâtisserie, de tous produits alimentaires
+et non alimentaires ;
+ - librairie,
+ - la messagerie, les services de fax, de cabines téléphoniques et de photocopies, night-shop, de
+laboratoire de développements photos, d’atelier de tournage, d’affûtage et de rectification de pièces
+mécaniques
+- d’un salon de coiffure et produits de salon ;
+ - Commerce ambulant
+ -  car-wash, d’une société de taxis, station service (tous carburants tels que mazout, diesel, gaz,…),
+garage avec atelier de réparation, entretien et dépannage, Elle peut accomplir toutes opérations
+civiles, industrielles ou commerciales, immobilières ou mobilières se rapportant directement ou
+indirectement, en tout ou en partie, à l'une ou l'autre branche de son objet ou qui seraient de nature à
+en développer ou à en faciliter la réalisation. Elle peut s'intéresser par toutes voies à toute société ou
+entreprise ayant un objet similaire ou connexe au sien ou dont l'objet serait de nature à faciliter,
+même indirectement, la réalisation du sien. Elle peut de même conclure toutes conventions de
+collaboration, de rationalisation, d'association ou autres avec de telles sociétés ou entreprises. Elle
+peut se porter caution et donner toute sûreté personnelle ou réelle en faveur de toute personne ou
+société, liée ou non. Elle peut exercer les fonctions d'administrateur, gérant et liquidateur.
+3) Toutes activités généralement quelconques se rapportant directement ou indirectement à :
+- le nettoyage et l’entretien d’immeubles, le nettoyage de vitres et de bureaux, de petits travaux de
+bureau, services intérimaires, sous-traitance ;
+ - la mise à disposition des ménages et entreprises du personnels pour les travaux relatif au
+nettoyage du domicile, la lessive et le repassage, les petits travaux occasionnels de couture, la
+préparation de repas, les courses ménagères, jardinage et autres travaux tel que le transport
+accompagné de personnes à mobilité réduite et toutes autres activités dans le cadre des titres
+services au domicile et hors domicile de l’utilisateur des titres services ;
+-  l'étude et la réalisation de tous travaux de construction, publics et privés, en qualité d'entrepreneur
+général ou en sous traitance, la conception et la construction de tous bâtiments et édifices, l'étude et
+la réalisation de décorations tant intérieures qu'extérieures;
+- l'entretien, la rénovation, les travaux de réparations, d'embellissements, de renouvellement et de
+modernisation, et la maintenance de tous les types d'ouvrages d'art, de biens immeubles, et plus
+généralement toutes opérations se rapportant directement ou indirectement aux secteurs des travaux
+publics et privés et du bâtiment;
+-  fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
+ -  transport national et international par route de personnes et de marchandises.
+4) La vente en gros et en détail de :
+-  produits, articles, matériaux, outillages, machines de construction, matériaux de construction,
+matériel électrique et électronique, sanitaire et de plomberie ;
+ -  tous produits alimentaires tels que fruits, légumes, conserves, produits laitiers, produits de la mer,
+poissons, boucherie, articles de ménage et articles cadeaux ; - tous textiles en général, vêtements
+divers, chaussures, cordonnerie, serrurerie, maroquinerie dans le sens le plus large ;
+ -  tous produits de l’artisanat en général, tapisseries y compris les articles du monde ; - tous les
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+30
+/0
+
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+articles de parfumerie, de toilette, cosmétiques, produits de beauté, maquillage ainsi que savons et
+détergents ; - tous les articles d’horticulture tels que fleurs, plantes, articles de jardinage,
+aménagement et entretien de jardins et de pépinières ;
+ -  tous livres, antiquités, brocantes, objets de décoration, machines industrielles ;
+ -  tous bijoux, orfèvrerie,
+ -  tous appareils électroménagers, tous films de bandes magnétiques, DVD, cassettes, tous articles
+imprimés ou enregistrés permettant leur lecture vision ou audition, livres ;
+ -  tous matériaux de bureau et de l’informatique, téléphones, gsm, fax;
+ -  tous véhicules neufs et d’occasion, ainsi que leurs pièces détachées
+L’entreprise peut exercer comme activité :
+- les travaux d’urbanisme, la conception d’immeuble, l’étude et la réalisation de travaux d’architecture
+;
+- la peinture, la maçonnerie, l’électricité, la toiture, la menuiserie, le plafonnage, le cimentage, la
+plomberie, la charpenterie, la menuiserie-charpenterie, le nettoyage.
+- La promotion immobilière, les transactions immobilières, les financements des projets.
+- L’installation d’appareil électrique, électronique ainsi que de satellite.
+La société peut également:
+- Fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
+notamment : le nettoyage et l’entretien d’immeubles, le nettoyage de vitres et de bureaux, de petits
+travaux de bureau, services intérimaires, sous-traitance ;
+- Effectuer toutes opérations généralement quelconques se rapportant directement ou indirectement
+au commerce, à la fabrication, la location, l’achat, la vente en gros ou en détail, la représentation, la
+distribution, le service, le conditionnement, l’exploitation et le courtage, l’importation et l’exportation,
+soit pour son propre compte soit pour le compte d’un tiers.
+- Exercer l’activité de courrier express.
+La société pourra, tant en Belgique qu’à l’étranger, d’une manière générale, accomplir toutes les
+opérations commerciales, industrielles, financières, mobilières et immobilières se rapportant
+directement ou indirectement, entièrement ou partiellement à la réalisation de son objet social.  Elle
+pourra exercer toute activité susceptible de favoriser la réalisation de son objet social et participer à
+une telle activité de quelque façon que ce soit.  Elle peut participer dans ou se fusionner avec
+d’autres sociétés ou entreprises qui peuvent contribuer à son développement ou à la croissance de
+son entreprise.
+Article 4. - Durée.
+La durée de la société est illimitée.
+Article 5. - Capital.
+Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est représenté par cent (100)
+parts sociales sans désignation de valeur nominale.
+…/…
+Article 8. - Gérance.
+La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
+générale.
+S'il y a plusieurs gérants, ceux-ci forment un collège appelé le conseil de gérance.  Le gérant unique
+ou le conseil de gérance constitue "la gérance" de la société.
+Une rémunération annuelle, fixe ou variable, peut leur être attribuée par l'assemblée générale.
+Article 9. - Représentation à l'égard des tiers.
+Chaque gérant représente seul la société à l'égard des tiers et en justice et peut accomplir seul tous
+les actes nécessaires ou utiles à l'accomplissement de l'objet de la société, sauf ceux que la loi
+réserve à l'assemblée générale.
+La gérance peut déléguer des pouvoirs spéciaux à tout mandataire.
+…/…
+Article 11. - Assemblées générales.
+Lorsque la société ne compte qu'un seul associé, ce dernier exerce les pouvoirs dévolus à
+l'assemblée générale ; il ne peut les déléguer.
+Il sera tenu chaque année une assemblée générale ordinaire le premier lundi du mois de juin à dix-
+sept heures.
+Si ce jour est férié, l'assemblée se tiendra le premier jour ouvrable suivant, à la même heure.
+La gérance peut, en outre, convoquer une assemblée générale chaque fois que les intérêts de la
+société l'exigent.
+Toute assemblée générale se tient au siège social ou à tout autre endroit en Belgique indiqué dans
+les convocations ; celles-ci se font conformément aux dispositions légales.
+Article 12. - Exercice social.
+L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
+année.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+30
+/0
+
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+A cette dernière date, les écritures sont arrêtées et la gérance dresse un inventaire et établit les
+comptes annuels.
+Article 13. - Répartition des bénéfices.
+Sur le solde bénéficiaire, il est prélevé cinq pour cent au moins pour la constitution du fonds de
+réserve légale ; ce prélèvement cesse d'être obligatoire dès que ce fonds atteint le dixième du capital
 social.
-Sur le bénéfice net il est prélevé cinq pour cent pour la formation de la réserve légale. Ce
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-21
-/0
-
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-prélèvement cesse d'être obligatoire lorsque la réserve légale a atteint le dixième du capital social.
-Le solde reçoit l’affectation que lui donne l’assemblée générale statuant sur proposition de la
-gérance, dans le respect des dispositions légales.
-- En cas de dissolution de la société, pour quelque cause et à quelque moment que ce soit, la
-liquidation s'opère par les soins du gérant agissant en qualité de liquidateur, ou, à défaut, par un ou
-plusieurs liquidateurs nommés par l'assemblée générale.
-Le liquidateur disposera des pouvoirs les plus étendus prévus par les dispositions légales en la
-matière.
-Après apurement de toutes les dettes, charges et frais de liquidation ou consignation des sommes
-nécessaires à cet effet, l'actif net est réparti également entre toutes les parts.
-DISPOSITIONS TEMPORAIRES.
-A. ASSEMBLÉE GÉNÉRALE.
-Et immédiatement après, les comparants, réunis en assemblée générale, ont décide ce qui suit :
-1) GERANCE.
-Sont nommés gérants, sans limitation de durée :
-Monsieur LA HAYE Alexis et Madame LEROY Valentine, prénommés,
-Leur mandat est exercé à titre gratuit.
-2) COMMISSAIRE.
-Il n'est pas nommé de commissaire.
-3) CLOTURE DU PREMIER EXERCICE SOCIAL.
-Le premier exercice social se clôturera le 31 décembre 2017.
-4) PREMIERE ASSEMBLÉE GÉNÉRALE.
-La première assemblée générale se tiendra en 2018
-B. RATIFICATION DES ENGAGEMENTS PRIS AU NOM DE LA SOCIÉTÉ EN FORMATION.
-Tous les engagements pris au nom de la société en formation depuis le 30 août 2016 sont ratifiés
-par le gérant.
-Cette reprise d’engagements n’aura d’effet qu’au moment où la société acquerra la personnalité
+Le surplus recevra l'affectation lui donnée par l'assemblée générale.
+Après l'adoption des comptes annuels, l'assemblée générale se prononce par un vote distinct sur la
+décharge à donner au(x) gérant(s) et commissaire(s) éventuel(s).
+Article 14. - Dissolution - Liquidation.
+En cas de dissolution pour quelque cause et à quelque moment que ce soit, l'assemblée générale
+des associés désignera le ou les liquidateurs et déterminera leurs pouvoirs, leurs émoluments
+éventuels et le mode de liquidation.
+La société n'est point dissoute par le décès, l'incapacité, la faillite ou la déconfiture d'un associé.
+Article 15. - Répartition.
+Après réalisation de l'actif et apurement du passif ou consignation des sommes nécessaires à cet
+effet, le solde bénéficiaire sera affecté au remboursement des parts à concurrence de leur libération
+et le solde sera réparti entre les associés proportionnellement au nombre de parts possédées par
+eux.
+…/…
+DISPOSITIONS FINALES
+A. Nominations des premiers gérants.
+Sont nommés en qualité de gérants non statutaires, pour une durée illimitée, les comparants.
+Ce mandat sera exercé à titre gratuit pendant toute la durée de celui-ci à moins qu'une assemblée
+ultérieure n'en décide autrement, conformément à l'article 8 des statuts.
+La nomination des gérants n'aura d'effet qu'au jour de l'acquisition par la société de la personnalité
 morale.
+B. Commissaire.
+Il n'est pas nommé de commissaire étant donné que, suivant les estimations faites, la société répond
+pour son premier exercice social aux critères visés par l'article 141 du Code des sociétés.
+C. Premier exercice social.
+Le premier exercice social commencera le jour de l'acquisition par la société de la personnalité
+morale et finira le trente et un décembre deux mille dix-sept.
+La première assemblée générale ordinaire aura donc lieu en deux mille dix-huit.
+D. Début des activités.
+Le début des activités de la société est fixé à son immatriculation en qualité de commerçant.
+…/…
+Pour extrait analytique conforme.
+Déposé en même temps : expédition et procuration
+(signé) Damien HISETTE, notaire associé à Bruxelles.
  
- 
-POUR EXTRAIT ANALYTIQUE CONFORME DELIVRÉ UNIQUEMENT DANS LE BUT D'ETRE
-DEPOSE AU GREFFE DU TRIBUNAL DE COMMERCE
- 
-JEAN DIDIER GYSELINCK.
-Notaire associé à Bruxelles.
- 
-Annexe : NEANT
 
 Bi
 jla
@@ -389,10 +530,10 @@ bl
 ad
  - 
 
-21
+30
 /0
 
-9/
+5/
 20
 
 16

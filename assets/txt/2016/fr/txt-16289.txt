@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-CoSounders
+RIETVELDEN
 
-Chaussée de Tervueren 43A
-1160 Auderghem
+Avenue du Bois de la Cambre 115
+1050 Ixelles
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Suivant acte reçu par Maître Bruno le Maire, notaire à Bruxelles, le 30 septembre 2016
-ONT COMPARU :
-Monsieur FRIPIAT François Philippe Jacques Suzanne, né à Ixelles  le trois septembre mil neuf cent
-quatre-vingt-six, domicilié à 1160 Auderghem, Chaussée de Tervueren 43/A,
-Monsieur VOGLAIRE Roland Youenn Morgan Lancelot, né à Pertuis Vaucluse (France) le sept
-décembre mil neuf cent quatre-vingt-cinq, domicilié à 1040 Etterbeek, Rue des Boers 60,
-CONSTITUTION:
-Les comparants remettent au notaire soussigné un plan financier projetant les activités de la
-société sur une période de trois ans.
-Les comparants constituent une société privée à responsabilité limitée sous la dénomination
-«CoSounders» dont le siège est fixé actuellement à 1160 AUDERGHEM, Chaussée de Tervuren
-43A.
-Le capital est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 €).
-Il est représenté par CENT  (100) parts sociales sans désignation de valeur nominale.
-Apport en numéraire:
-Monsieur FRIPIAT François, précité, souscrit à l'instant NONANTE  (90) parts sociales pour SEIZE
-MILLE SEPT CENT QUARANTE EUROS (16.740,00 €).
-Monsieur VOGLAIRE Roland, précité, souscrit à l'instant DIX  (10) parts sociales pour MILLE HUIT
-CENT SOIXANTE EUROS (1.860,00 €).
-Le capital social est ainsi intégralement souscrit.
-Les comparants déclarent et reconnaissent que chaque part sociale ainsi souscrite est libérée à
-concurrence d’un/tiers soit pour un total de six mille deux cents euros (6.200,00 €).
-Les fonds affectés à la libération des apports en numéraire ont été déposés à un compte spécial
-ouvert au nom de la société à constituer à la BNP PARIBAS FORTIS
-Une attestation justifiant ce dépôt a été remise par les comparants au notaire soussigné.
-Ensuite, les comparants arrêtent comme suit les statuts de la société.
-STATUTS:
-Article un  Forme et dénomination:
-La société a la forme d'une société privée à responsabilité limitée.
-Elle est dénommée « CoSounders ».
-Article deux  Siège:
-Le siège social pourra être transféré par simple décision de la gérance à publier aux annexes du
-Moniteur belge.
-Article trois  Objet:
-La société a pour objet, pour son compte propre, pour le compte de tiers ou en participation, aussi
-bien en Belgique qu’à l’étranger, les activités suivantes:
-- la production, l'adaptation, la reproduction, l'enregistrement, la duplication, la transmission, l'édition
-et la diffusion au sens le plus large, de contenu graphique et audiovisuel et de toutes œuvres d’
+Aux termes d’un acte reçu par Maître Bruno MICHAUX, Notaire à Etterbeek, le 20 mai 2016, il
+ressort que Monsieur de BRUYN Benoît Pierre Anne Antoine, né à Uccle le 26 mars 1969, de
+nationalité belge, domicilié à 1560 Hoeilaart, Koedaalstraat, 71, constitue une société commerciale et
+d’arrêter les statuts d’une société privée à responsabilité limitée dénommée "RIETVELDEN", ayant
+son siège à 1050 Bruxelles (Ixelles), avenue du Bois de la Cambre, 115, au capital de dix-huit mille
+six cents euros (18.600 euros), représenté par mille huit cent soixante parts sociales (1.860 parts
+sociales) sans valeur nominale, représentant chacune un/mille huit soixantième (1/1.860ème) de
+l’avoir social.
+Il déclare que les mille huit cent soixante parts sociales (1.860 parts sociales) sont souscrites en
+espèces, au prix de dix euros (10 euros) chacune, par Monsieur Benoît de BRUYN, seul.
+Le comparant déclare que chacune des parts ainsi souscrites est libérée, à concurrence de
+deux/tiers.
+Ensuite, le comparant a établi les statuts de la société comme suit :
+Article 1 : Forme
+La société, commerciale, adopte la forme de la société privée à responsabilité limitée.
+Article 2 : Dénomination
+Elle est dénommée « RIETVELDEN ».
+Dans tous documents écrits émanant de la société, la dénomination sociale doit être précédée ou
+suivie immédiatement de la mention “ société privée à responsabilité limitée ” ou des initiales “
+S.P.R.L. ”.
+ 
+Article 3 : Siège social
+Le siège social est établi à 1050 Bruxelles (Ixelles), avenue du Bois de la Cambre, 115.
+Il peut être transféré en tout autre endroit de la région de langue française de Belgique ou de la
+région de Bruxelles-Capitale par simple décision de la gérance qui a tous pouvoirs pour faire
+constater authentiquement la modification des statuts qui en résulte.
+La société peut établir, par simple décision de la gérance, des sièges administratifs, d’exploitation,
+agences et succursales en Belgique ou à l’étranger.
+Article 4 : Objet
+La société a pour objet, pour compte propre, pour compte de tiers ou en participation, en Belgique et
+à l’étranger :
+I)
+- l’exploitation d’une entreprise de vente à distance, vente en salon de matériel électronique et
+modélisme ;
+- la conception, la fabrication, la réparation, la recherche et le développement de circuits et
+d’appareils électroniques ;
+- le montage, assemblage, configuration et formation au pilotage d’aéronefs télécommandés, ainsi
+que toutes prestations liées aux aéronefs télécommandés ;
 
- *16320006*
+ *16311354*
 Déposé
-03-10-2016
+25-05-2016
 
-0663733188
+0654963992
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-05
-/1
+27
+/0
 
-0/
+5/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-artistes ;
-- la prestation de tous services ayant un rapport à l’audiovisuel, à la communication et aux médias. Il
-peut s'agir de services relatifs à la production de musiques, de programmes radio, d'œuvres
-audiovisuelles, de films, d'oeuvres littéraires et/ou théâtrales, de programmes informatiques, de jeux
-vidéo, de catalogues, de livres, etc.
-- la fabrication, l’impression, l’édition, la distribution, l’importation et l’exportation, la prise et la mise
-en location, le négoce en général, de tout support du son et de l’image qui en permet
-l’enregistrement, la conservation et la diffusion ainsi que de tous appareils et accessoires relatifs à
-ces supports, de tout matériel audiovisuel, électronique et informatique et la maintenance s’y
-rapportant ;
-- la formation de futurs professionnels de l'audiovisuel et de l'informatique et toute activité de conseil
-dans les domaines de l’audiovisuel, de l’informatique, du graphisme, de la publicité et de la
-communication ;
-- la conception, la réalisation et l'installation de studios d'enregistrement ainsi que la gestion de ceux-
-ci chez des particuliers et des professionnels, l'isolation, l'insonorisation et le traitement acoustique ;
-- la Recherche et développement dans le secteur de l'informatique, l'audiovisuel et l'éléctronique en
-général, l'installation de réseaux IT, l'installation domotique ;
-- l'achat, l'inscription, l'exploitation et la gestion de droits d'auteurs, de licences et autres droits ou
-intérêts dans toute oeuvre de nature artistique, littéraire, théâtrale, musicale, visuelle, intellectuelle ou
-autre ainsi que dans tout enregistrement sonore, musical, film, émission de télévision et toute forme
-de marque, brevet, modèle, procédé, dénomination commerciale ou autre propriété intellectuelle ou
-industrielle ;
-- la production de spectacles vivants, le management d’artistes et l’édition de musique de tout genre
-et de toute forme, l’organisation de tous événements ;
-- le management et la direction artistique ;
-- la prise de participation directe ou indirecte dans toutes sociétés, associations ou entreprises
-commerciales, industrielles, financières, mobilières et immobilières, et notamment par :
-- le contrôle de leur gestion ou la participation à celle-ci par la prise de tous mandats au sein desdites
-sociétés, associations ou entreprises;
-- l’acceptation et l’exercice de mandats relatifs à l’administration, à la gestion, à la direction, au
-contrôle et à la liquidation desdites sociétés, associations ou entreprises ;
-- l’achat, l’administration, la vente de toutes valeurs mobilières et immobilières, de tous droits sociaux
-et dune manière plus générale toutes opérations de gestion du portefeuille ainsi constitué ;
-- la constitution et la valorisation d’un patrimoine immobilier, et notamment par :
-- la réalisation d’opérations d’achat, de vente, de location d’immeubles ;
-- l’achat, l’échange, la vente, la prise en location et en sous-location, ainsi que la cession en location
-et en sous-location, le tout avec ou sans option d’achat, l’exploitation et l’entretien de maisons,
-appartements, bureaux, magasins, fonds de commerce, terrains, terres et domaines, et de manière
-générale, de tous biens immobiliers, ainsi que toutes opérations de financement.
-- l’érection de toutes constructions pour son compte ou pour compte de tiers, en tant que maître de
-l’ouvrage ou entrepreneur général, et la réalisation, éventuellement aux biens immobiliers, de
-transformations et mises en valeur ainsi que l’étude et l’aménagement de lotissements y compris la
-construction de routes et égouts; la souscription des engagements en tant que conseiller en
-construction (études de génie civil et des divers équipements techniques des immeubles); l’achat de
-tous matériaux, la signature de tous contrats d’entreprises qui seraient nécessaires; la réalisation de
-toutes opérations de change, commission et courtage, ainsi que la gérance d’immeubles ;
-- l’achat, l’exploitation et la construction tant pour elle-même que pour des tiers, par location ou
-autrement, de tous parkings et garages.
-- la consultance et/ou la prestation de services dans les domaines précités, de l’audiovisuel, de
-l’informatique et du graphisme, et notamment par la prestation de services, la formation, et l’expertise
-dans les domaines de la conception et la mise au point de modèles numériques, algorithmes et
-logiciels de tous types, la réalisation d’études, la programmation et la mise en route des systèmes
-d’organisation, de vente, de publicité, de marketing, la mise en application des systèmes pour traiter
-des données et toutes techniques en rapport avec la gestion technique, administrative, économique
-et générale d’entreprises;
-- la conception, l’étude, la promotion et la réalisation de tous projets informatiques, bureautiques et
-tout ce qui s’y rapporte;
-- la réalisation d’études, sur base des domaines précités, et en particulier, la réalisation de
-simulations et analyses numériques ainsi que l’étude de l’optimisation de procédés et/ou procédures;
-- la confection d’avis financiers, techniques, commerciaux ou administratifs dans le sens le plus large
-du terme;
-- l’assistance et l’exécution de services directement ou indirectement sur le plan de l’administration et
-des finances, de la vente, de la production et de la gestion en général;
+- la création, l’acquisition, la location, la prise à bail, l’installation, l’exploitation de tous
+établissements, fonds de commerce, usine, ateliers, se rapportant à l’activité spécifiée ;
+- la participation directe ou indirecte de la société dans toutes opérations ou entreprises
+commerciales ou industrielles pouvant se rattacher à son objet social.
+II)
+- toutes fonctions de consultance et/ou de service liées aux domaines du management, de la
+communication et du marketing ;
+- le conseil, la formation, l’expertise technique et l’assistance dans le domaine précité ;
+- la prestation de service de conseil en organisation et gestion d’entreprises actives dans ce ou ces
+domaines, la représentation et l’intervention en tant qu’intermédiaire commercial.
+III)
+La société a également pour activité complémentaire, pour son propre compte ou en participation
+avec des tiers, la constitution, la gestion, l’exploitation, la mise en valeur d’un patrimoine mobilier et
+immobilier, et pour ce faire l’aliénation, l’acquisition, la location de tout bien ou droit réel immobilier et
+en général, de toutes les opérations relatives à la gestion des valeurs immobilières et mobilières
+constituées ou les biens immobiliers et mobiliers qui peuvent être obtenus en pleine propriété, en
+emphytéose, en usufruit temporaire, en nue-propriété et toutes les possibilités de droit attachées, où
+l’activité concernée ne prend pas la forme d’activités commerciales.   Elle pourra, pour ce faire,
+emprunter toutes sommes sous forme de prêt ou d’ouverture de crédit, constituer hypothèque,
+donner toutes autres garanties mobilières et immobilières, stipuler la solidarité et l’indivisibilité.
+Au cas où l’exercice de certaines activités serait soumis à des conditions préalables d’accès à la
+profession, la société subordonnera son action, en ce qui concerne l’exercice de ses activités, à la
+réalisation de ces conditions.
+Elle peut notamment se porter caution et donner toute sûreté personnelle ou réelle en faveur de
+toute personne ou société liée ou non.
+Elle peut accomplir toutes opérations commerciales, industrielles, financières, mobilières ou
+immobilières se rapportant directement ou indirectement à son objet.
+Elle peut s’intéresser par toutes voies dans toutes sociétés, associations ou entreprises ayant un
+objet similaire ou connexe au sien ou susceptible de favoriser le développement de ses activités.
+La société peut être administrateur, gérant ou liquidateur.
+Article 5 : Durée
+La société est constituée pour une durée illimitée.
+Elle peut être dissoute par décision de l'assemblée générale délibérant comme en matière de
+modification des statuts.
+Article 6 : Capital
+Le capital social est fixé à dix-huit mille six cents euros (18.600 euros). Il est divisé en mille six cent
+soixante parts sociales (1.860 parts sociales) sans valeur nominale, représentant chacune un/mille
+huit cent soixantième (1/1.860ème) de l'avoir social, libérées à concurrence deux/tiers au moment de
+la constitution.
+Article 7 : Vote par l'usufruitier éventuel
+En cas de démembrement du droit de propriété de parts sociales, les droits y afférents sont exercés
+par l'usufruitier.
+Article 8 : Cession et transmission de parts
+Cessions soumises à agrément
+Tout associé qui voudra céder ses parts entre vifs devra, à peine de nullité, obtenir l'agrément de la
+moitié au moins des associés, possédant les trois/quarts au moins des parts sociales, déduction faite
+des parts dont la cession est proposée.
+A cette fin, il devra adresser à la gérance, sous pli recommandé, une demande indiquant les noms,
+prénoms, professions, domiciles du ou des cessionnaires proposés ainsi que le nombre de parts
+dont la cession est envisagée et le prix offert.
+Dans les huit jours de la réception de cette lettre, la gérance en transmet la teneur, par pli
+recommandé, à chacun des associés, en leur demandant une réponse affirmative ou négative par
+écrit dans un délai de quinze jours et en signalant que ceux qui s'abstiennent de donner leur avis
+seront considérés comme donnant leur agrément. Cette réponse devra être envoyée par pli
+recommandé.
+Dans la huitaine de l'expiration du délai de réponse, la gérance notifie au cédant le sort réservé à sa
+demande.
+Les héritiers et légataires qui ne deviendraient pas de plein droit associés aux termes des présents
+statuts seront tenus de solliciter, selon les mêmes formalités, l'agrément des associés.
+Le refus d'agrément d'une cession entre vifs est sans recours; néanmoins, l'associé voulant céder
+tout ou partie de ses parts pourra exiger des opposants qu'elles lui soient rachetées à leur valeur
+fixée par un expert choisi de commun accord ou, à défaut, par le président du tribunal de commerce
+du siège social, statuant comme en référé. Il en sera de même en cas de refus d'agrément d'un
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-05
-/1
+27
+/0
 
-0/
+5/
 20
 
 16
@@ -324,69 +324,69 @@ au
 
 Mod PDF 11.1
 
-- toutes prestations de service et l’exécution de tous mandats sous forme d’études d’organisations,
-d’expertises, d’actes et de conseils techniques ou autres dans tout domaine rentrant dans son objet
-social;
-- la recherche, la conception, le développement, l’engineering, la production, le commerce, la
-diffusion, le marketing, l’amélioration et la réalisation de tous matériels et concepts dans les
-domaines précités pour tout particulier, toute industrie ou administration publique ou privée.
-Certaines de ces activités seront autorisées si les accès à la profession nécessaires sont octroyés et
-respectés.
-Elle pourra d’une façon générale faire en Belgique et à l’étranger tous actes de transaction ou
-opérations commerciales, financières, mobilières ou immobilières se rapportant directement ou
-indirectement, en tout ou en partie, à son objet social ou qui seraient de nature à en faciliter ou en
-développer la réalisation.
-La société pourra également s’intéresser, par voie d’apport, de fusion, de souscription ou de toute
-autre manière dans toutes entreprises, associations ou sociétés ayant un objet similaire, analogue ou
-connexe ou de nature à en favoriser celui de la société.
-Article quatre  Durée:
-La société a été constituée pour une durée illimitée.
-Article cinq  Capital:
-Lors de la constitution le capital a été fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 €).
-Il est représenté par CENT  (100) parts sociales sans désignation de valeur nominale.
-Article six  Registre des parts:
-Il est tenu au siège social un registre des parts, dans lequel la gérance indique les souscriptions,
-cessions et transmissions de parts.
-Article sept  Cession et transmission:
-La cession de parts entre vifs ou la transmission pour cause de mort sont soumises:
-1)Au droit de préférence au profit des associés en proportion des parts de chacun d'eux avec, en cas
-de non exercice par certains d'entre eux, accroisse-ment au profit des autres;
-2)En cas de non exercice total ou partiel du droit de préférence, à l'agrément du nouvel associé par
-la moitié au moins des associés possédant les trois quarts au moins du capital, déduction faite des
-droits dont la cession est proposée.
-Le refus d'agrément ne donne lieu à aucun recours.
-Toutefois, la cession ou la transmission ne sont soumises à aucune restriction si elles ont lieu au
-profit:
-a)d'un associé,
-b)d'un conjoint, ainsi que d'un ascendant ou d'un descendant d'un associé;
-Cette énumération étant limitative.
-Les héritiers ou légataires d'un associé défunt, qui ne peuvent pas devenir associés, ont droit à la
-valeur des parts de leur auteur. A cet effet, de même que pour l'exercice du droit de préférence, le
-prix d'achat des parts sera fixé anticipativement chaque année par l'assemblée générale après
-l'adoption du bilan et figurera dans l'ordre du jour.
-Article huit  Gestion et surveillance:
-     La société est gérée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
-générale, qui pourra limiter ou étendre les pouvoirs leur conférés par la loi et fixer la durée de leur
-mandat.
-Les activités de la société sont surveillées conformément au Code des sociétés.
-Article neuf  Assemblée générale:
-Il est tenu une assemblée générale ordinaire chaque année le troisième mardi du mois de juin à
-treize heures.
-Lorsque la société ne comprend en qualité d'associé qu'une seule personne physique, cette dernière
-exerce seule les pouvoirs attribués à l'assemblée générale.
-Chaque part sociale donne droit à une voix, l’assemblée délibère valablement quelle que soit la
-por-tion du capital représenté et les décisions sont prises à la majorité simple des voix.
-Au cas où la société ne compte qu’un seul associé, celui-ci exerce tous les pouvoirs dévolus à
-l’assemblée générale mais sans qu’il puisse les déléguer.
-En cas d’égalité des parts sociales (cinquante – cinquante), ce sera le nombre de personnes
-représentant la moitié des parts sociales qui l’emportera.
-Article dix  Exercice social et comptes:
-L'exercice social commence le premier janvier. Il finit le trente et un décembre suivant. 
-Article onze  Dispositions légales:
-Pour tout ce qui n'est pas spécialement stipulé dans les présents statuts, il convient de s'en référer
-aux dispositions du Code des sociétés, notamment pour ce qui concerne les sociétés d'une
-personne, les bénéfices distribuables, les acquisitions par la société de biens d'associés, les
-augmentations et réductions du capital, le droit de préférence des associés et les dissolutions.
+héritier ou d'un légataire. Dans l'un et l'autre cas, le paiement devra intervenir dans les six mois du
+refus.
+Les dispositions du présent article sont applicables dans tous les cas de cessions entre vifs, soit à
+titre onéreux, soit à titre gratuit, tant volontaires que forcées (cas de l’exclusion et du retrait d’un
+associé), tant en usufruit qu’en nue-propriété ou pleine propriété, qui porte sur des parts ou tous
+autres titres donnant droit à l’acquisition de parts.
+Par dérogation à ce qui précède, au cas où la société ne compterait plus qu’un associé, celui-ci sera
+libre de céder tout ou partie de ses parts librement.
+Article 9 : Registre des parts
+Les parts, nominatives, sont inscrites dans un registre tenu au siège social dont tout associé ou tout
+tiers intéressé pourra prendre connaissance. Y seront relatés, conformément à la loi, les transferts
+ou transmissions de parts.
+Article 10 : Gérance
+La société est administrée par un ou plusieurs gérants, personnes physiques ou personnes morales,
+associés ou non, nommés avec ou sans limitation de durée.
+Lorsqu’une personne morale est nommée gérante, celle-ci est tenue de désigner parmi ses associés
+et gérants, un représentant permanent chargé de l’exécution de cette mission au nom et pour le
+compte de la personne morale.  Ce représentant est soumis aux mêmes conditions et encourt les
+mêmes responsabilités civiles et pénales que s’il exerçait cette mission en nom et pour compte
+propre sans préjudice de la responsabilité solidaire de la personne morale qu’il représente.   Celle-ci
+ne peut révoquer son représentant qu’en désignant simultanément son successeur.
+L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat et, en cas de pluralité, leurs
+pouvoirs. S'il n'y a qu'un seul gérant, la totalité des pouvoirs de la gérance lui est attribuée.
+Article 11 : Pouvoirs du gérant
+Conformément à l'article 257 du Code des sociétés et sauf organisation par l'assemblée d'un collège
+de gestion, chaque gérant représente la société à l'égard des tiers et en justice et peut poser tous les
+actes nécessaires ou utiles à l'accomplissement de l'objet social, sauf ceux que la loi réserve à
+l'assemblée générale.
+Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
+Article 12 : Rémunération
+L’assemblée générale décide si le mandat du gérant est rémunéré ou pas.
+Article 13 : Contrôle
+Tant que la société répond aux critères énoncés à l'article 15 du Code des sociétés, il n'est pas
+nommé de commissaire, sauf décision contraire de l'assemblée générale.
+Dans ce cas, chaque associé possède individuellement les pouvoirs d'investigation et de contrôle du
+commissaire. Il peut se faire représenter par un expert comptable. La rémunération de celui ci
+incombe à la société s'il a été désigné avec son accord ou si cette rémunération a été mise à sa
+charge par décision judiciaire.
+Article 14 : Assemblées générales
+L'assemblée générale annuelle se réunit chaque année au siège social ou à l'endroit indiqué dans la
+convocation, le 1er lundi du mois de juin, à 18 heures.
+Si ce jour est férié, l'assemblée est remise au plus prochain jour ouvrable, autre qu'un samedi.
+Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois que
+l'intérêt social l'exige ou sur la requête d'associés représentant le cinquième du capital.
+Les assemblées se réunissent au siège social ou à l'endroit indiqué dans la convocation, à l'initiative
+de la gérance ou des commissaires. Les convocations sont faites conformément à la loi. Toute
+personne peut renoncer à cette convocation et, en tout cas, sera considérée comme ayant été
+régulièrement convoquée si elle est présente ou représentée à l'assemblée.
+Article 15 : Représentation
+Tout associé peut se faire représenter à l'assemblée générale par un autre associé porteur d'une
+procuration spéciale.
+Toutefois, les personnes morales peuvent être représentées par un mandataire non associé.
+Article 16 : Prorogation
+Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
+semaines au plus par la gérance. La prorogation annule toutes les décisions prises.
+La seconde assemblée délibère sur le même ordre du jour et statue définitivement.
+Article 17 : Présidence - Délibérations – Procès-verbaux
+L'assemblée générale est présidée par un gérant ou, à défaut, par l'associé présent qui détient le
+plus de parts.
+Sauf dans les cas prévus par la loi, l'assemblée statue quelle que soit la portion du capital
+représentée et à la majorité des voix.
+Chaque part donne droit à une voix.
+Les procès-verbaux des assemblées générales sont signés par les membres du bureau et les
 
 Bi
 jla
@@ -415,10 +415,10 @@ bl
 ad
  - 
 
-05
-/1
+27
+/0
 
-0/
+5/
 20
 
 16
@@ -461,44 +461,69 @@ au
 
 Mod PDF 11.1
 
-Article douze  Election de domicile:
-Pour l'exécution des présents statuts, tout associé, gérant, commissaire ou liquidateur fait élection de
-domicile au siège social.
-DISPOSITIONS FINALES ET TRANSITOIRES:
-Les comparants déclarent ce qui suit:
-1)Siège actuel:
-Le siège social de la société est établi actuellement à 1160 AUDERGHEM, Chaussée de Tervuren
-43A.
-2)Premier exercice:    
-Le premier exercice social commence ce jour et prendra fin le trente et un décembre deux mille dix-
-sept.
-3)Première assemblée:
-La première assemblée générale ordinaire se réunira en deux mille dix-huit.
-4)Avertissements:
-Les comparants reconnaissent avoir été éclairés par le notaire soussigné au sujet des dispositions
-légales et plus particulièrement celles relatives à la dénomination des sociétés, à l'accès à certaines
-activités, aux obligations sociales des sociétés et de leurs organes, aux obligations et à la
-responsabilité des fondateurs, des gérants, commissaires et autres personnes chargées de la
-gestion ou de la surveillance des sociétés et de leur conjoint commun en biens, ainsi qu'à
-l'interdiction pour certaines personnes de participer à l'administration, la gestion ou la surveillance
-des sociétés. 
-5)Dispense de nomination de commissaires:
-Les comparants estiment que pour le premier exercice la société répondra aux critères les
-dispensant de la nomination de commissaires.
-ASSEMBLEE GENERALE EXTRAORDINAIRE:
-Nomination:
-Et à l'instant même, l'assemblée générale extraordi-naire de la société cidessus constituée prend, à
-l'unanimité des voix, les décisions suivantes:
-Le nombre de gérants est fixé à un.
-L'assemblée appelle aux fonctions de gérant: Monsieur FRIPIAT François, précité, et qui accepte.
-Ces fonctions prennent cours ce jour sans limitation de durée. Le mandat de gérant est à tout
-moment révocable par l'assemblée générale.
-Chaque gérant est investi des pouvoirs les plus étendus pour faire seul tous actes qui intéressent la
-société. Il a dans sa compétence tous les actes qui ne sont pas réservés par la loi à l'assemblée
-générale. Il peut déléguer les pouvoirs qu'il déterminera à un ou plusieurs mandataires associés ou
-non.
-Chaque gérant représente la société à l’égard des tiers et en justice, soit en demandant, soit en
-défendant.
+associés qui le demandent. Les expéditions à délivrer aux tiers sont signées par un ou plusieurs
+gérants, conformément à ce que prévoient les statuts.
+Article 18 : Exercice social
+L'exercice social commence le 1er janvier et se clôture le 31 décembre de chaque année.
+Article 19 : Affectation du bénéfice
+Sur le bénéfice net, tel qu'il découle des comptes annuels arrêtés par la gérance, il est prélevé
+annuellement au moins cinq (5 %) pour cent pour être affectés au fonds de réserve légale. Ce
+prélèvement cesse d'être obligatoire lorsque la réserve légale atteint le dixième du capital.
+Le solde reçoit l'affectation que lui donne l'assemblée générale statuant sur proposition de la
+gérance, dans le respect des dispositions légales.
+Article 20 : Dissolution   Liquidation
+En cas de dissolution de la société, la liquidation est effectuée par le ou les gérants en exercice, à
+moins que l'assemblée générale ne désigne un ou plusieurs liquidateurs dont elle déterminera les
+pouvoirs et les émoluments.
+Après le paiement de toutes les dettes, charges et frais de liquidation ou consignation des sommes
+nécessaires à cet effet, l'actif est réparti également entre toutes les parts.
+Toutefois, si toutes les parts sociales ne sont pas libérées dans une égale proportion, les liquidateurs
+rétablissent préalablement l'équilibre soit par des appels de fonds, soit par des remboursements
+partiels.
+Article 21 : Election de domicile
+Pour l'exécution des statuts, tout associé, gérant ou liquidateur, domicilié à l'étranger, fait élection de
+domicile au siège social, où toutes communications, sommations, assignations, significations
+peuvent lui être valablement faites s’il n’a pas élu un autre domicile en Belgique vis-à-vis de la
+société.
+Article 22 : Droit commun
+Les dispositions du Code des Sociétés auxquelles il ne serait pas licitement dérogé sont réputées
+inscrites dans les présents statuts et les clauses contraires aux dispositions impératives du Code des
+Sociétés sont censées non écrites.
+Article 23 : Compétence judiciaire
+Pour tout litige entre la société, ses associés, gérants, liquidateurs relatifs aux affaires de la société
+et à l’exécution des présents statuts, compétence exclusive est attribuée aux tribunaux du siège
+social, à moins que la société n’y renonce expressément.
+Le comparant prend à l'unanimité les décisions suivantes :
+1) Le premier exercice social commencera le jour du dépôt pour se terminer le 31 décembre 2017.
+2) La première assemblée générale annuelle se tiendra le 1er lundi du mois de juin à 18 heures, à
+2018.
+3) Est désigné en qualité de gérant non statutaire et représentant permanent, Monsieur Benoît de
+BRUYN, prénommé. Il est nommé jusqu'à révocation et peut engager valablement la société sans
+limitation de sommes.
+Son mandat est exercé à titre onéreux.
+4) Le comparant ne désigne pas de commissaire réviseur.
+5) Reprise d'engagements
+Tous les engagements, ainsi que les obligations qui en résultent, et toutes les activités entreprises
+depuis le 1er mars 2016, par le constituant, au nom et pour compte de la société en formation sont
+repris par la société présentement constituée.
+Le constituant est autorisé à souscrire, pour le compte de la société en formation, les actes et
+engagements nécessaires ou utiles à la réalisation de l’objet social.
+Les opérations accomplies en vertu de ce mandat et prises pour compte de la société en formation et
+les engagements qui en résultent seront réputés avoir été souscrits dès l'origine par la société ici
+constituée.
+6) Pouvoirs particuliers
+Un pouvoir particulier est conféré individuellement – sous la condition du dépôt de l’extrait de l’acte
+constitutif au greffe du Tribunal de commerce compétent – à  la société « BCHDM », dont le siège
+social est établi à 1060 Bruxelles (Saint-Gilles), rue de Lombardie, 21; avec pouvoir de substitution, à
+l’effet de requérir l’inscription de la société au Registre des Personnes Morales de Bruxelles, à
+l’Administration de la Taxe sur la Valeur Ajoutée, si nécessaire et auprès de tout autre administration,
+ou en vue de l’inscription à la Banque carrefour des Entreprises.
+Aux effets ci-dessus, le mandataire ad hoc aura le pouvoir de prendre tous engagements au nom de
+la société, faire telles déclarations qu’il y aura lieu, signer tous documents et en général faire tout ce
+qui sera utile ou nécessaire pour l’exécution du mandat lui confié.
+Pour extrait analytique conforme.
+Signé : Bruno MICHAUX, Notaire à Etterbeek.
+Dépôt simultané d’une expédition de l’acte.
 
 Bi
 jla
@@ -527,10 +552,85 @@ bl
 ad
  - 
 
-05
-/1
+27
+/0
 
-0/
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+ 
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+27
+/0
+
+5/
 20
 
 16

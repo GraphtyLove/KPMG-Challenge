@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-HORIZONS SANTE
+CLEAN SPACE SERVICES
 
-Rue du Géomètre 43 bte 7
+Rue de l'Ecole 28 bte 3
 1080 Molenbeek-Saint-Jean
 
-Société civile sous forme de société privée à responsabilité limitéeForme juridique :
+Société privée à responsabilité limitéeForme juridique :
 
 Dénomination
 
 Constitution
 
-Il résulte d'un acte reçu par Hendrik Schavemaker, notaire à Drogenbos, le 22 décembre 2016, que
-Monsieur WAFFO TCHOUNGA Eric Arnaud, docteur en médecine, demeurant à 1080 Molenbeek-
-Saint-Jean, rue du Géomètre 43 boîte 7, a constitué une société dont les statuts et l'acte de
-constitution contiennent, entre autres, les dispositions suivantes:
- 
-- Forme juridique: société civile à forme de société privée à responsabilité limitée
- 
-- Dénomination: HORIZONS SANTE
- 
-- Siège social: à 1080 Molenbeek-Saint-Jean, rue du Géomètre 43 boîte 7
- 
-- Durée: illimitée
- 
-- Objet social:
-La société a pour objet l’exercice, en son nom et pour son compte, de la médecine, et ce, par ses
-organes médecins légalement habilités à pratiquer la médecine en Belgique, et qui apportent à la
-société la totalité de leur activité médicale. En cas de pluralité d’associés, ceux-ci mettent en
-commun la totalité de leur activité médicale au sein de la société. Les honoraires sont perçus au nom
-et pour le compte de la société.
-L’objet social ne pourra être poursuivi que dans le respect des prescriptions d’ordre déontologique,
-notamment celles relatives au libre choix du médecin par le patient, à l’indépendance diagnostique et
-thérapeutique du médecin, au respect du secret médical, à la dignité et à l’indépendance
-professionnelle du praticien.
-La société a pour but de pratiquer une médecine de qualité par l’amélioration et la rationalisation de
-l’équipement professionnel notamment en assurant la gestion d’un cabinet médical, en ce compris,
-l’acquisition, la location et l’entretien du matériel médical et des biens d’équipement, la facturation et
-la perception d’honoraires médicaux, la mise à disposition de tout ce qui est nécessaire à l’exercice
-de l’art de guérir. La société s’interdit toute exploitation commerciale de la médecine, toutes formes
-de collusion directe ou indirecte, de dichotomie ou de surconsommation.
-La société pourra d’une façon générale accomplir toutes les opérations financières, mobilières ou
-immobilières se rapportant directement ou indirectement à son objet social mais n’altérant pas le
-caractère civil de la société et la vocation exclusivement médicale de la société.
-Accessoirement, la société a pour objet toutes formes d’investissements mobiliers et immobiliers
-n’ayant pas de lien avec l’exercice de l’Art de Guérir, aux conditions cumulatives suivantes :
-- ces opérations ne peuvent en aucun cas porter atteinte au caractère civil de la société;
-- rien ne peut en aucune façon conduire au développement d’une quelconque activité commerciale ;
-- tels investissement ne peuvent être faits que moyennant l’accord de l’assemblée générale, statuant
-conformément aux quotas et majorités prescrites pour la modification aux statuts.
+~~D’après un acte reçu par Maître Damien HISETTE, notaire associé à Bruxelles, le 09 mai 2016, il
+résulte que :
+…/…
+1. Monsieur AL CABIR Zakaria, né à Segangan (Maroc), le 01 juillet 1985, domicilié à 1080
+Molenbeek-Saint-Jean, rue de l’Ecoles, 28/3, inscrit au Registre National sous le numéro 85.07.01-
+669.68.
+2. Madame CHEIKH-ALI Nora Shirley, née à Bruxelles, le 12 juillet 1993, domiciliée à 1080
+Molenbeek-Saint-Jean, rue de l’Ecoles, 28/3, inscrite au Registre National sous le numéro 93.07.12-
+468.10.
+…/…
+Ci-après dénommés : "les comparants".
+…/…
+CONSTITUTION.
+A. Forme Juridique - Dénomination - Siège.
+Il est constitué une société sous forme d'une société privée à responsabilité limitée, qui sera
+dénommée CLEAN SPACE SERVICES.
+Le siège social est établi pour la première fois à 1080 Molenbeek-Saint-Jean, rue de l’Ecoles, 28/3.
+B. Capital – Parts Sociales - Libération.
+Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est entièrement souscrit et
+est libéré à concurrence d’un tiers.
+Il est représenté par cent (100) parts sociales, souscrites en espèces au prix de cent quatre-vingt-six
+euros (186 EUR) chacune, comme suit :
+- Monsieur AL CABIR Zakaria déclare souscrire septante-huit (78) parts sociales qu'il libère à
+concurrence d’un tiers, restant redevable de la libération du solde.
+- Madame Cheikh-Ali Nora déclare souscrire vingt-deux (22) parts sociales qu'elle libère à
+concurrence d’un tiers, restant redevable de la libération du solde.
+Les comparants déclarent et reconnaissent que toutes et chacune de ces parts sociales ont été
+souscrites et libérées comme dit ci-dessus et qu'en conséquence, la société a, dès à présent, à sa
+disposition une somme de six mille deux cents euros (6.200 EUR)
+…/…
+STATUTS
+Article 1. - Forme - Dénomination.
+La société a la forme d'une société privée à responsabilité limitée.
+Elle porte la dénomination CLEAN SPACE SERVICES.
+Article 2. - Siège.
+Le siège social est établi à 1080 Molenbeek-Saint-Jean, rue de l’Ecoles, 28/3, arrondissement
+judiciaire de Bruxelles.
+Il peut être transféré en tout autre lieu en Belgique par décision de la gérance.
 
- *16327381*
+ *16310591*
 Déposé
-28-12-2016
+13-05-2016
 
-0668500838
+0654716346
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-30
-/1
+18
+/0
 
-2/
+5/
 20
 
 16
@@ -187,69 +187,205 @@ au
 
 Mod PDF 11.1
 
-Accessoirement, la société à pour objet, pour autant que ces activités soient conformes à la
-Déontologie médicale:
-- la consultance dans le secteur médical,
-- la contribution aux recherches scientifiques,
-- exercice de l’activité de professeur d’université.
-L’article 34 §2 du Code de Déontologie médicale prévoit que la responsabilité professionnelle du
-(des) médecin(s) doit être assurée de façon à permettre la réparation du dommage éventuellement
-causé.
+Tout transfert du siège social sera publié aux annexes au Moniteur belge par les soins de la gérance.
+Article 3. - Objet.
+La société a pour objet, en Belgique et à l'étranger, tant pour son compte propre que pour compte de
+tiers ou en participation avec des tiers :
+1) Toutes activités généralement quelconques se rapportant directement ou indirectement à :
+- nettoyage intérieur de bâtiments de tous types, y compris les bureaux, les ateliers, les usines, les
+locaux d’institutions et les autres locaux à usage commercial ou professionnel ainsi que les maisons
+unifamiliales et les immeubles à appartements, le nettoyage des vitres, le repassage ainsi que toutes
+activités dans le cadre des titres services au domicile et hors domicile de l’utilisateur des titres
+services ;
+- l’entreprise générale de construction et notamment le gros œuvre, la maçonnerie et le béton, les
+travaux de démolition, plafonnage, cimentage, pose de chape, tailleur de pierre, marbrier, carrelage,
+toiture et étanchéité, sanitaire et plomberie, installation chauffage au gaz, de chauffage central,
+zinguerie et couvertures métalliques et non métalliques, travaux de vitrage, menuiserie charpenterie,
+peinture, pose revêtements murs et sols, électricité générale ainsi que tous placements de système
+d’alarme, de climatisation et de domotique, électrotechnique, lavage de vitres, horticulture, élagage
+d’arbres, aménagement de parcs et de jardin, construction de pavillons démontables et
+baraquements non métalliques, placement de clôture, ramonage de cheminées, installation
+d’échafaudage, de rejointoiement et nettoyage de façades, travaux d’égout, travaux de pose de
+câbles et de canalisations diverses, fabrication et d’installation de cheminées ornementales,
+nettoyage et désinfection de maisons et de locaux, meubles, ameublement et objets divers,
+fabrication et garnissage de meubles non métallique, installation de ventilation et d’aération, de
+chauffage à air chaud, de conditionnement d’air et de tuyauteries industrielles, travaux de drainage,
+placement de cuisines équipées, construction, réfection et entretien des routes ;
+-  la restauration en général et le secteur Horeca, l’organisation de banquets et réceptions, le service
+traiteur, y compris l’organisation, la gestion et l’exploitation de restaurants, sandwicheries, snack-
+bars, bars, cafétérias, débits de boissons, ainsi que toutes opérations de tourisme, d’hôtellerie, de
+divertissements et de loisirs en ce compris l’achat, la vente en gros et au détail, l’import-export de
+tous produits se rapportant directement ou indirectement à ces activités ;
+- fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
+- transport national et international par route de personnes et de marchandises, courrier express ;
+- l’informatique au sens le plus large du terme, tels que la création de sites internet et de logiciels
+informatique, l’étude, la recherche, la conception, le développement, la mise en place et la
+commercialisation de technologies et de systèmes informatisés, de systèmes de régulations,
+d’exploitations, de gestion assistées, administratifs, commerciaux, industriels ; la création et la
+commercialisation de programme informatiques, d’application relatives au domaine IT et de tout «
+software » ;
+- le commerce ambulant ;
+2) La vente en gros et en détail, l’import-export de :
+- matériels de construction, de bricolage, matériel électrique et électronique, sanitaire et de
+plomberie, machines industrielles ;
+- tous produits alimentaires tels que fruits, légumes, conserves, produits laitiers, produits de la mer,
+poissons, boucherie, articles de ménage et articles cadeaux ;
+- tous textiles en général, vêtements divers, chaussures, cordonnerie, serrurerie, maroquinerie dans
+le sens le plus large ;
+- tous produits de l’artisanat en général, tapisseries, antiquités, brocantes, objets de décoration et
+tous mobiliers ;
+- tous les articles de parfumerie, de toilette, cosmétiques, produits de beauté, maquillage ainsi que
+savons et détergents ;
+- tous les articles d’horticulture tels que fleurs, plantes, articles de jardinage, aménagement et
+entretien de jardins et de pépinières ;
+- tous bijoux, orfèvrerie,
+- tous appareils électroménagers, audio, vidéo, électronique, télécommunication, livres et revues,
+matériel de bureau et informatique ;
+3) L’exploitation de :
+- commerce d'alimentation générale dans le sens plus large du terme, cabines téléphoniques, night-
+shop ;
+- l'achat, la vente, l'importation, l'exportation, la location à court ou à long termes, le leasing, la
+représentation, la fabrication, le montage, la démolition, le transport de réparation, le lavage,
+l’entretien de tous les véhicules automobiles, voitures mixtes, utilitaires, camions, motos,
+cyclomoteurs, vélos ainsi que des accessoires et pièces de ces véhicules, le tout neuf ou d'occasion,
+en ce compris le commerce de détail et de gros de pièces détachées et d'équipements divers, le
+commerce des huiles, essences, carburants, lubrifiants, moteurs, pneumatiques et d'une manière
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+18
+/0
+
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
  
-- Capital social: € 18.600,00, représenté par 100 parts sociales égales sans valeur nominale,
-souscrites par le fondateur et libérées chacune à concurrence de 2/3, soit pour € 12.400,00 au total,
-au moyen d’un versement en numéraire sur un compte spécial ouvert au nom de la société en
-constitution auprès de la SA CBC Banque
- 
-- Exercice social: commence 1er janvier et se termine le 31 décembre de chaque année. Le premier
-exercice social se termine le 31 décembre 2017
- 
-- Constitution des réserves et répartition des bénéfices:
-Les honoraires sont perçus au nom et pour le compte de la société.
-L'assemblée générale décidera chaque année de l'affectation du bénéfice net, déduction faite des
-charges légales, elle le portera soit à un compte de réserves ou le distribuera sous forme de
-dividendes ou autrement, sous réserve des stipulations des articles 283 à 285, 319 à 320 et 328 du
-Code des sociétés.
-L’excédent favorable du compte de résultats, déduction faite des frais généraux, charges sociales et
-amortissements résultants du bilan approuvé, constituera le bénéfice net de l’exercice de la société
-sur lequel seront prélevés 5% au moins, pour constituer un fond de réserve légale. Ce prélèvement
-cessera d’être obligatoire, dès que ledit fond aura atteint le dixième du capital social. Des réserves
-exceptionnelles justifiées et décidées par l’assemblée générale pourront être constituées, en
-respectant les directives du Conseil National de l’Ordre des Médecins.
-L'importance de la réserve doit coïncider avec l'objet social et ne peut dissimuler des buts spéculatifs
-ou compromettre les intérêts de certains associés. La fixation d'une réserve conventionnelle
-requérant toujours l'accord unanime des associés.
-La réserve n'excédera pas un montant normal pour faire face aux investissements futurs.
-Conformément aux règles de la déontologie médicale, l'associé ne retirera qu'un intérêt normal des
-capitaux investis.
- 
-- Répartition du boni résultant de la liquidation:
-Après apurement de toutes les dettes, l'actif net sert d'abord à rembourser le montant libéré des
-parts sociales.
-Si les parts ne sont pas toutes libérées en une égale proportion, les liquidateurs, avant de procéder à
-la répartition, rétabliront l'équilibre en mettant toutes les parts sur pied d'égalité, soit par des appels
-de fonds complémentaires à charge des parts insuffisamment libérées, soit par des remboursements
-préalables en espèces au profit des parts libérées dans une proportion supérieure.
-Le solde sera réparti entre les associés proportionnellement au nombre de parts qu'ils possèdent,
-conformément aux règles de la déontologie médicale.
- 
-- Gérance:
-La société est administrée par un ou plusieurs gérants, associés, nommés par l'assemblée générale
-et toujours révocable par elle.
-Conformément aux règles de la déontologie médicale, la fonction de gérant a une durée déterminée
-et est rémunérée. L’assemblée générale de désignation fixe la durée et la rémunération du mandat.
-Le mandat peut être reconduit. Lorsque la société ne comprend qu’un associé, celui-ci est nommé
-gérant pour la durée de la société. En cas de pluralité d’associés, le mandat sera ramené à six ans
-renouvelable.
-Dès lors qu’il y a plusieurs associés, la rémunération du mandat de gérant ne peut être allouée au
-détriment d’un ou de plusieurs associés et son montant doit correspondre à des prestations de
-gestion réellement effectuées.
-Le gérant a les pouvoirs d'administration et de disposition les plus étendus pour agir au nom de la
-société, dans le cadre de son objet social, à l'exception de ceux que la Loi réserve à l'assemblée
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+générale de produits quelconques se rapportant à l'automobile, atelier de réparation de carrosserie
+automobile et de tous les véhicules, car-wash, station-service ;
+- dépôt et atelier de fabrication de tous produits de boulangerie et de pâtisserie, de tous produits
+alimentaires et non alimentaires ; ;
+- libraire dans le sens le plus large du mot, c’est à dire, le commerce de détail en journaux, les
+magazines, les hebdomadaires, les revues, les livres, les articles de papeterie, les cartes routières,
+les plans de villes et similaires, les billets de loterie, le lotto, le tiercé, les articles pour fumeurs dans
+le sens le plus large du mot ;
+- boucherie, charcuterie, ainsi que la vente, l’achat, l’import, l’export, la distribution, la
+commercialisation, la fabrication, la conception, la préparation et le commerce en général de tous
+produits ayant un rapport avec la boucherie, la charcuterie, l’épicerie fine ;
+- l'exploitation de salons de coiffure hommes, dames et enfants, les conseils en beauté et en soins
+de visage et corps, les soins de la peau et d'épilation, les soins de manucure et de pédicure ;
+- l’exploitation d’une entreprise de taxis, de bureaux de centralisation d’appels téléphoniques et de
+transmissions pour taxis, la location de tous types de véhicules, avec ou sans chauffeur et le
+covoiturage, une mise en relation entre chauffeur et utilisateur de transport via des plateformes
+(application Smartphone).
+ Elle peut accomplir toutes opérations civiles, industrielles ou commerciales, immobilières ou
+mobilières se rapportant directement ou indirectement, en tout ou en partie, à l'une ou l'autre branche
+de son objet ou qui seraient de nature à en développer ou à en faciliter la réalisation.
+Elle peut s'intéresser par toutes voies à toute société ou entreprise ayant un objet similaire ou
+connexe au sien ou dont l'objet serait de nature à faciliter, même indirectement, la réalisation du sien.
+Elle peut de même conclure toutes conventions de collaboration, de rationalisation, d'association ou
+autres avec de telles sociétés ou entreprises.
+Elle peut se porter caution et donner toute sûreté personnelle ou réelle en faveur de toute personne
+ou société, liée ou non. Elle peut exercer les fonctions d'administrateur, gérant et liquidateur.
+Article 4. - Durée.
+La durée de la société est illimitée.
+Article 5. - Capital.
+Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est représenté par cent (100)
+parts sociales sans désignation de valeur nominale.
+…/…
+Article 8. - Gérance.
+La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
 générale.
-Il représente la société à l'égard des tiers et en justice, tant en demandant qu'en défendant.
-Il a tous les pouvoirs d'agir seul pour et au nom de la société.
-Dans tous actes engageant la société, la signature du gérant doit être précédée ou suivie
+S'il y a plusieurs gérants, ceux-ci forment un collège appelé le conseil de gérance.  Le gérant unique
+ou le conseil de gérance constitue "la gérance" de la société.
+Une rémunération annuelle, fixe ou variable, peut leur être attribuée par l'assemblée générale.
+Article 9. - Représentation à l'égard des tiers.
+Chaque gérant représente seul la société à l'égard des tiers et en justice et peut accomplir seul tous
+les actes nécessaires ou utiles à l'accomplissement de l'objet de la société, sauf ceux que la loi
+réserve à l'assemblée générale.
+La gérance peut déléguer des pouvoirs spéciaux à tout mandataire.
+…/…
+Article 11. - Assemblées générales.
+Lorsque la société ne compte qu'un seul associé, ce dernier exerce les pouvoirs dévolus à
+l'assemblée générale ; il ne peut les déléguer.
+Il sera tenu chaque année une assemblée générale ordinaire le premier lundi du mois de juin à dix-
+huit heures.
+Si ce jour est férié, l'assemblée se tiendra le premier jour ouvrable suivant, à la même heure.
+La gérance peut, en outre, convoquer une assemblée générale chaque fois que les intérêts de la
+société l'exigent.
+Toute assemblée générale se tient au siège social ou à tout autre endroit en Belgique indiqué dans
+les convocations ; celles-ci se font conformément aux dispositions légales.
+Article 12. - Exercice social.
+L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
+année.
+A cette dernière date, les écritures sont arrêtées et la gérance dresse un inventaire et établit les
+comptes annuels.
+Article 13. - Répartition des bénéfices.
+Sur le solde bénéficiaire, il est prélevé cinq pour cent au moins pour la constitution du fonds de
+réserve légale ; ce prélèvement cesse d'être obligatoire dès que ce fonds atteint le dixième du capital
 
 Bi
 jla
@@ -278,10 +414,10 @@ bl
 ad
  - 
 
-30
-/1
+18
+/0
 
-2/
+5/
 20
 
 16
@@ -324,28 +460,44 @@ au
 
 Mod PDF 11.1
 
-immédiatement de la qualité en laquelle il agit.
-Etant entendu que seuls les actes sans portée médicale peuvent être délégués à un mandataire non
-médecin, chaque gérant peut, sous sa responsabilité, déléguer soit la gestion journalière, en ce
-compris pouvoir de recevoir tous plis recommandés, assurés ou autres, soit certains pouvoirs
-spéciaux pour des fins déterminées à telle personne associée qu'il désignera ; ces délégations ne
-pourront être accordées pour une durée de plus d'un an que moyennant accord de l'assemblée
-générale, laquelle indiquera l'étendue des pouvoirs délégués et leur durée ; moyennant cet accord
-de l'assemblée générale, le gérant déléguant sera déchargé de toute responsabilité à raison des
-suites de cette délégation.
-A été nommé gérant unique: Monsieur WAFFO TCHOUNGO, prénommé. Son mandat a une durée
-illimitée et est rémunéré.
+social.
+Le surplus recevra l'affectation lui donnée par l'assemblée générale.
+Après l'adoption des comptes annuels, l'assemblée générale se prononce par un vote distinct sur la
+décharge à donner au(x) gérant(s) et commissaire(s) éventuel(s).
+Article 14. - Dissolution - Liquidation.
+En cas de dissolution pour quelque cause et à quelque moment que ce soit, l'assemblée générale
+des associés désignera le ou les liquidateurs et déterminera leurs pouvoirs, leurs émoluments
+éventuels et le mode de liquidation.
+La société n'est point dissoute par le décès, l'incapacité, la faillite ou la déconfiture d'un associé.
+Article 15. - Répartition.
+Après réalisation de l'actif et apurement du passif ou consignation des sommes nécessaires à cet
+effet, le solde bénéficiaire sera affecté au remboursement des parts à concurrence de leur libération
+et le solde sera réparti entre les associés proportionnellement au nombre de parts possédées par
+eux.
+…/…
+DISPOSITIONS FINALES
+A. Nominations des premiers gérants.
+Est/Sont nommés en qualité de gérants non statutaires, pour une durée illimitée :
+- Monsieur AL CABIR Zakaria, prénommé ;
+- Madame Cheikh-Ali Nora, prénommée.
+Ce mandat sera exercé à titre gratuit pendant toute la durée de celui-ci à moins qu'une assemblée
+ultérieure n'en décide autrement, conformément à l'article 8 des statuts.
+La nomination des gérants n'aura d'effet qu'au jour de l'acquisition par la société de la personnalité
+morale.
+B. Commissaire.
+Il n'est pas nommé de commissaire étant donné que, suivant les estimations faites, la société répond
+pour son premier exercice social aux critères visés par l'article 141 du Code des sociétés.
+C. Premier exercice social.
+Le premier exercice social commencera le jour de l'acquisition par la société de la personnalité
+morale et finira le trente et un décembre deux mille dix-sept.
+La première assemblée générale ordinaire aura donc lieu en deux mille huit.
+D. Début des activités.
+Le début des activités de la société est fixé à son immatriculation en qualité de commerçant.
+…/…
+Pour extrait analytique conforme.
+Déposé en même temps : expédition et procuration
+(signé) Damien HISETTE, notaire associé à Bruxelles.
  
-- Assemblée générale ordinaire: se réunit annuellement le dernier vendredi de mai à 18.00 heures
- 
-- Procuration spéciale: donnée à BP TAX AUDIT & ACCOUNTING, à 1050 Bruxelles, avenue Louise
-137 boîte 16, BCE 0597.750.622, avec pouvoir de substitution, afin d’accomplir toutes formalités
-administratives nécessaires ensuite de la constitution de la société et notamment les formalités à
-accomplir au guichet d’entreprises.
- 
-POUR EXTRAIT ANALYTIQUE CONFORME
-Hendrik Schavemaker, notaire à Drogenbos
-Dépôt simultané: expédition de l'acte de constitution
 
 Bi
 jla
@@ -374,10 +526,10 @@ bl
 ad
  - 
 
-30
-/1
+18
+/0
 
-2/
+5/
 20
 
 16

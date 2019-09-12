@@ -2,4 +2,5 @@
 .idea
 __pycache__
 .DS_Store
-pdf/*
+assets/pdf/*
+assets/csv/2016/fr/articles.csv
