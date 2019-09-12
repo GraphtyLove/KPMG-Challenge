@@ -12,3 +12,5 @@ def ocr_core(filename):
 
 text_of_the_document = ocr_core('img/img6.jpg')
 print(text_of_the_document)
+
+text = pytesseract.image_to_string(Image.open('pathHERE'))
