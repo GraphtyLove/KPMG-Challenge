@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-JARIMMO
+OKOZ
 
-Rue Joseph Mathieu 39
-1300 Wavre
+Rue de Trèves 1
+1050 Ixelles
 
-Société civile sous forme de société privée à responsabilité limitéeForme juridique :
+Société coopérative à responsabilité limitéeForme juridique :
 
 Dénomination
 
 Constitution
 
-D’un acte reçu par le notaire Géry van der ELST, résidant à Perwez le 26 mai 2016, il résulte que :
-1.  Monsieur VANDEKERCKHOVE Justin Marie Bernard Eric, né à Uccle le 14 JUILLET 1991,
-numéro national 91.07.14-255.24, célibataire, domicilié à Paris(FRANCE),  avenue de Breteuil, 59.
-2. Monsieur VANDEKERCKHOVE Jordan Marie Christian Nathalie, né à Uccle le 20 AOÛT 1992,
-numéro national 92.08.20-357.61, célibataire, domicilié à 1300 Wavre, Rue Joseph Mathieu, 39.
-3. Monsieur VANDEKERCKHOVE Jasper Marie Christian Marc, né à Ixelles le 14 JUILLET 1995,
-numéro national 95.07.14-527.30, célibataire, domicilié à 1300 Wavre, Rue Joseph Mathieu, 39.
-ont requis le Notaire soussigné d'acter que par suite de la scission de JARINVEST, ils constituent
-une société et nous demandent d'établir les statuts d'une société privée à responsabilité limitée
-dénommée "JARIMMO", ayant son siège à 1300 Limal, rue Joseph Mathieu, 39, au capital de vingt
-mille euros (20.000 EUR), représenté par 300 parts sociales  sans mention de valeur nominale
-représentant chacune une portion identique du capital social.
-Les fondateurs ont  remis au Notaire le plan financier, conformément à l'article 215 du Code des
-Sociétés.
-Ils déclarent souscrire chacun cent parts sociales soit ensemble la totalité des parts sociales comme
-suit :
-APPORT EN NATURE
-Les comparants, préqualifiés, déclarent apporter à la société la branche d’activité immobilière issue
-de la société scindée JARINVEST définie comme suit :
-les éléments actifs et passifs de la société scindée partiellement sont transférés à la société
-JARIMMO sur base de la situation arrêtée au 31 décembre 2015.
-A) Description générale
-L’affectation comptable de l’apport s’établit comme suit :
-Actifs  
-    
-      
-IMMOBILISATIONS INCORPORELLES  357.389,87   
-GOODWILL    357.389,87 
-      
-TERRAINS ET CONSTRUCTIONS  498.370,92   
-IMMEUBLES    498.370,92 
-      
-INSTALLATIONS, MACHINES ET OUTILLAGE  117.610,31   
-INSTALLATIONS, RENOVATIONS, AMENAGEMENTS    117.252,36 
-MACHINES ET OUTILLAGE    357,95 
-      
-MOBILIER ET MATERIEL ROULANT  4.760,62   
-MOBILIER    3.500,00 
+Aux termes d'un acte reçu par Maître Dimitri CLEENEWERCK de CRAYENCOUR, Notaire associé
+résidant à Bruxelles (1050 Bruxelles), Avenue Louise, 126, faisant partie de la Société Civile à forme
+de Société Privée à Responsabilité Limitée "Gérard INDEKEU - Dimitri CLEENEWERCK de
+CRAYENCOUR", BCE n° 0890.388.338, le dix-neuf avril deux mil seize, a été constituée la Société
+Coopérative à Responsabilité Limitée dénommée « OKOZ», dont le siège social sera établi à Ixelles
+(1050 Bruxelles), Rue de Trèves, 1 et au capital de dix-huit mille six cents euros (18.600,00 €) ,
+représenté par sept cent quarante-quatre parts sociales (744) d’une valeur nominale de vingt-cinq
+euros (25,00 €) chacune réparties en cinq catégories (Fondateurs, Administrateurs, Gestionnaires,
+Financiers, Fonds Commerce).
+Associés
+-Monsieur PETIT JEAN Paul, domicilié à Ixelles (1050 Bruxelles), Avenue de la Forêt 4/b012.
+-Madame DE MEDTS Solange Lucienne Marcel, domiciliée à 2970 Schilde, Vloeyenbergdreef, 34.
+- Monsieur NICOLA Victor, domicilié à 2970 Schilde, Vloeyenbergdreef, 34.
+Forme  - dénomination
+La société revêt la forme d’une société coopérative à responsabilité limitée et porte le nom de «
+OKOZ », 
+La société exerce ses activités sous le nom de « OKOZ ».
+Siège social
+Le siège social est établi à Ixelles (1050 Bruxelles), Rue de Trèves, 1.
+Objet social
+La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre, pour compte de tiers,
+en franchise, sous licence ou en participation avec ceux-ci, les activités suivantes dans leur sens le
+plus large:
+Food :
+- l’activité de traiteur et de service traiteur, en magasin, surface commerciale ou à domicile ;
+- la gestion de Food truck et autres type de vente ambulante de produits et préparations alimentaires,
+boissons et autres.
+- l'achat, la vente, l'importation, l'exportation, la distribution, la représentation (en gros ou au détail)
+de toutes boissons généralement quelconques, tant alcoolisées que non alcoolisées;
+- l'achat, la vente, l'importation, l'exportation, la distribution, la représentation (en gros ou au détail)
+de tous produits alimentaires et plats cuisinés généralement quelconques, tant alcoolisées que non
+alcoolisées;
+- la recherche et le développement, la fabrication et la confection tant artisanale, semi-artisanale,
+qu’industrielle, la commercialisation, le courtage, le négoce de gros et de détail, l’importation et
+l’exportation, la préparation et le conditionnement de tous produits alimentaires et/ou de boissons au
+sens le plus large;
+- la création, la gestion et l’exploitation d’établissements HORECA, d’établissements de petite
+restauration et/ou restauration rapide, restaurant d’entreprise ou administration publique, cantine et
 
- *16311674*
+ *16308898*
 Déposé
-30-05-2016
+20-04-2016
 
-0655767807
+0652693105
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-AUTRE MATERIEL ROULANT    1.260,62 
-      
-CREANCES A MOINS D'UN AN  309.191,81   
-CREANCES LOCATIVES    303.014,19 
-C/C ADMINISTRATION TVA    3.289,62 
-PROVISIONS VERSEES    2.888,00 
-      
-VALEURS DISPONIBLES  330.695,09   
-BANQUE - COMPTE COURANT    414,06 
-BANQUE - COMPTE D'EPARGNE    330.281,03 
-      
-COMPTES DE REGULARISATION D'ACTIF  5.657,85   
-CHARGES A REPORTER    5.657,85 
-      
-TOTAL DE L'ACTIF APPORTE  1.623.676,47   
-Passif    
-      
-CAPITAUX PROPRES  858.867,73   
-      
-CAPITAL SOUSCRIT    0 
-RESERVE LEGALE    2.000,00 
-+VALUES REALISEES IMMUNISABLES    1.221.500,00 
-RESERVES INVESTISSEMENT    3.500,00 
-RESERVES DISPONIBLES (TAXEES)    315.809,36 
-PERTES REPORTEES    -683.941,63 
-      
-DETTES A PLUS D'UN AN  303.749,76   
-      
-CREDIT BANCAIRE IMMOBILIER    199.921,80 
-GARANTIES LOCATIVES RECUES    3.189,00 
-DETTE PRIVEE A PLUS D'UN AN    100.638,96 
-      
-DETTES A MOINS D'UN AN  441.058,98   
-      
-CREDIT BANCAIRE IMMOBILIER    36.734,11 
-DETTE PRIVEE A MOINS D'UN AN    323.518,13 
-FOURNISSEURS    29.668,32 
-TVA A REGULARISER    17.918,95 
-PRECOMPTES A PAYER    8.286,05 
-BANQUE - CREDIT EN COMPTE COURANT    24.933,42 
-      
-TOTAL DU PASSIF APPORTE  1.603.676,47   
-Cet apport comprend notamment :
-B) Absence de modification sensible de la situation comptable
-Depuis la date du 31 décembre 2015, la situation comptable de la société scindée n’a pas enregistré
-de modifications sensibles.
-C) Transfert des éléments corporels et incorporels
-L’ensemble du patrimoine immobilier et ses accessoires qui constituent une branche d’activité au
-sens de l’article 679 du Code des sociétés, de la société scindée est transféré à la société nouvelle.
-Ce transfert comprend outre les immeubles propriétés de la société scindée, les éventuels éléments
-incorporels tels que le goodwill, les garanties locatives, les contrats de location, d’assurances, de
-crédits immobiliers et autres, l’organisation technique,  administrative et know-how, se rapportant au
-patrimoine transféré.
- Dans la partie du patrimoine de la société scindée transférée à la société nouvelle issue de la
-scission sont compris les immeubles dont la description et l'origine de propriété, sont décrites ci
-après, lequel constitue un élément dudit patrimoine soumis à publicité particulière. Les conditions de
-transfert et les conditions spéciales seront reprises dans les statuts de la société nouvelle.
-1) Commune de BEERSEL – troisième division – section de DWORP
-a) Une maison d’habitation sur et avec terrain, sise Zevenbronnenstraat, 108, cadastrée d’après titre
-et extrait de la matrice cadastrale datant de moins d’un an, section D, numéro 407/X, pour une
-contenance de 35 ares 5 centiares.
-Revenu cadastral non indexé : quatre mille cent nonante-neuf euros (4.199,00 €).
-b) Une parcelle de terrain en nature de prairie sise au lieu-dit « Zevenborrweg, cadastrée d’après
+débit de boisson ;
+- l’organisation de réceptions, les services de traiteur, la location de salles et de matériel de réception
+(mobilier, vaisselle, sonorisation, éclairage, repas, boisson) ;
+- fournir des services alimentaires ou logistique à des restaurants, entreprises, et de façon générale
+à des collectivités,
+Non-food :
+- La vente en gros ou au détail d’articles et de produits de soins corporels ou non, cosmétiques, de
+parfumerie, esthétiques , coiffures et autres accessoires.
+- La vente en gros ou au détail de d’articles de textiles et maroquinerie dans leur sens le plus large
+- toute activité d’achat et de vente de tout article lié à l’art de la table et de décoration
+- La création, la gestion et l’exploitation d’établissements de bien être;
+- Organisation d’activités de recyclage, de stage et de séminaire, conférences, cours et journées
+d’étude liés à une des activités précitées, en ligne ou non.
+- La rédaction, liée à une des activités précitées , d’articles de presse, de revues, de newsletters,
+d’articles sur blog et site internet, livres ou tout autres formes de publications (en ce compris les
+vidéos). La société pourra en outre recueillir tout revenus provenant d’une de ces activités sous
+quelque forme que ce soit (notamment les revenus publicitaires)
+- l'achat, la vente, l'importation, l'exportation, la distribution, la représentation (en gros ou au détail)
+de tous matériel nécessaire à une des activité précitées, en ce compris les camions aménagés et
+équipés.
+Toutes les activités soumises à autorisation ou agrément quelconque ne seront exercées que pour
+autant que les conditions d’accès soient remplies.
+Dans le cadre de ces activités, la société pourra notamment acquérir, aliéner, donner à bail tous
+biens meubles et immeubles, contracter et consentir tous emprunts et/ou crédits hypothécaires ou
+non, cette énumération n’étant pas limitative.
+La société pourra de façon générale, réaliser toute opération financière, mobilières ou immobilières
+se rapportant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter,
+directement ou indirectement, entièrement ou partiellement, la réalisation.
+La société pourra également s’intéresser par voie d’apport, de souscription, apport, fusion,
+absorption, coopération, participation, intervention financière ou toute autre manière, participer à
+toute entreprise, société ou association ayant un objet similaire, analogue ou connexe au sien, ou
+dont l’objet pourrait faciliter la réalisation de son objet, même indirectement
+La société peut également se porter caution et donner toute sûreté personnelle ou réelle en faveur
+de toute personne ou société liée ou non.
+Elle peut accepter tout mandat de gestion, d’administration et de liquidateur dans toute société,
+entreprise et association quelconque.
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d’accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions
+Cette énonciation est exemplative et non limitative.
+Capital social
+Le capital social est illimité. La part fixe du capital social s'élève à dix-huit mille six cents euros
+(18.600,00 €).
+Le capital social est composé de parts d’une valeur nominale de vingt-cinq euros (25,00 €).
+Chaque part doit être libérée à hauteur du minimum légal. Tout montant non-libéré portera intérêt au
+taux légal de plein droit et sans mise en demeure.
+Les parts sociales sont réparties en cinq classes, à savoir: 
+Capital social :
+Catégorie Fondateurs : six cent quatre-vingt-quatre (684) parts sociales.
+- Monsieur PETIT JEAN Paul, à concurrence de deux cent vingt-huit (228) parts sociales de
+catégorie « Fondateurs », pour un apport total de cinq mille sept cent euros (5.700,00 €), libérés
+partiellement à concurrence de mille neuf cents euros (1.900,00 €) ;
+- Madame DE MEDTS Solange, à concurrence de deux cent vingt-huit (228) parts sociales de
+catégorie « Fondateurs », pour un apport total de cinq mille sept cent euros (5.700,00 €), libérés
+partiellement à concurrence de mille neuf cents euros (1.900,00 €) ;
+- Monsieur NICOLA Victor, à concurrence de deux cent vingt-huit (228) parts sociales de catégorie «
+Fondateurs », pour un apport total de cinq mille sept cent euros (5.700,00 €), libérés partiellement à
+concurrence de mille neuf cents euros (1.900,00 €) ;
+Catégorie Administrateurs :trente (30) parts sociales.
+- Monsieur PETIT JEAN Paul, à concurrence de dix (10) parts sociales de catégorie «
+Administrateurs », pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement
+à concurrence de quatre-vingt-quatre euros (84,00 €) ;
+- Madame DE MEDTS Solange, à concurrence de dix (10) parts sociales de catégorie «
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
 20
 
 16
@@ -324,69 +324,69 @@ au
 
 Mod PDF 11.1
 
-titre et extrait de la matrice cadastrale datant de moins d’un an, section D, numéro 407/M, pour une
-contenance de 17 ares 55 centiares.
-Revenu cadastral non indexé : six euros (6,00 €).
-2) Commune de FOREST – première division
- Dans un immeuble à usage de garage/atelier et bureaux, avec toutes dépendances, sur et avec
-terrain, sis rue du Croissant numéros 122/124 et d’après cadastre, numéros 122 et 122+, cadastré
-d’après titre et extrait de la matrice cadastrale datant de moins d’un an, section A, numéros 33/E/10
-et 33/F/10, pour une contenance totale de 6 ares 90 centiares :
- Le lot A étant l’atelier en façade arrière, un passage carrossable, un accès latéral dans ce dernier et
-des caves au sous-sol, comprenant :
- a) en propriété privative et exclusive : l’atelier proprement dit avec ses fondations, une cour couverte
-et l’accès couvert.
- b) en copropriété et indivision forcée : trois mille/dix millièmes (3.000/10.000èmes) des parties
-communes générales, dont le terrain.
- Tel que ce bien figure à l’acte de base reçu par le notaire Gilberte RAUCQ, ayant résidé à Bruxelles,
-le 9 août 1990, transcrit au deuxième bureau des hypothèques à Bruxelles, le 21 septembre suivant,
-volume 10.492, numéro 1.
- Revenu cadastral total non indexé : cinq mille sept cent quatre-vingt-deux euros (5.782,00 €).
-3) Commune d’IXELLES – septième division
- Une maison de commerce et de rapport, avec toutes dépendances sur et avec terrain, sise
-chaussée de Vleurgat, 324, cadastrée d’après titre et extrait de la matrice cadastrale datant de moins
-d’un an, section B, numéro 137/K/3, pour une contenance d’1 are 70 centiares.
-Revenu cadastral non indexé : deux mille quarante-sept euros (2.047,00 €).
-4) Ville de BRUXELLES – quatrième division
- Un immeuble de commerce et de rapport à usage de bureaux avec dépendances, sur et avec
-terrain, sis Coudenberg, 70, cadastré d’après titre et extrait de la matrice cadastrale datant de moins
-d’un an, section D, numéro 655/D, pour une contenance d’1 are 34 centiares.
- Revenu cadastral non indexé : sept mille cinq cent quarante-trois euros (7.543,00 €).
-5) Ville de BRUXELLES – onzième division
- Dans un immeuble de commerce avec toutes dépendances sur et avec terrain sis rue Paul Devaux,
-9, cadastré d’après titre et extrait de la matrice cadastrale datant de moins d’un an, section M,
-numéro 2620/P/2, pour une contenance de 62 centiares :
- - le rez-de-chaussée avec entresol et sous-sol, dénommé Lot 1 et comprenant :
- a) en propriété privative et exclusive : une grande surface privative avec réserve arrière et escalier
-privatif vers le rez-de-chaussée, un grand magasin en façade avant avec escalier vers les sous-sols
-et escalier vers l’entresol et local sanitaire entre le rez-de-chaussée et l’entresol et une surface
-commerciale avec escalier privatif vers le rez-de-chaussée.
- b) en copropriété et indivision forcée : trente-deux/centièmes (32/1000èmes) des parties communes
-dont le terrain.
- Tel que ce bien figure à l’acte de base reçu par le notaire Gilberte RAUCQ, précitée, le 9 août 1990,
-transcrit au premier bureau des hypothèques à Bruxelles, le 19 septembre suivant, volume 6990
-numéro 19.
-D) Clause résiduelle
-S’il se présente un bien, un droit, une obligation, une charge ou tout autre élément patrimonial qui
-n’aurait pas été expressément attribué dans le projet de scission partielle, il restera attribué à la
-société scindée pour autant qu’il ne se rapporte pas spécifiquement à l’activité immobilière
-transférée.
-E) Conditions générales du transfert
-1. Les éléments du patrimoine de la société scindée sont transférés sur base de la situation
-comptable arrêtée à la date du 31 décembre 2015. Les éléments d’actif et de passif sont repris dans
-la comptabilité et les comptes annuels de la société bénéficiaire à la valeur pour laquelle ils figuraient
-dans les comptes de la société scindée à la date précitée.
-2. Toutes les opérations faites à partir du  1er janvier 2016 par la présente société relativement au
-patrimoine transféré sont considérées, du point de vue comptable, comme accomplies pour le
-compte de la société nouvelle.
-L’apport sera rémunéré par l’attribution aux fondateurs de 300 parts sociales représentatives du
-capital sans valeur nominale re présentant chacune une même portion du capital social fixé à vingt
-mille euros (20.000 EUR).
-En rémunération de ces apports, il est attribué à:
-- Justin VANDEKERCKHOVE : 100 parts sociales ;
-- Jordan VANDEKERCKHOVE : 100 parts sociales ;
-- Jasper VANDEKERCKHOVE: 100 parts sociales.
-Madame Joëlle BACQ, Reviseur d’entreprises, à Rhode Saint Genèse, avenue de la Fauvette, 7,
+Administrateurs », pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement
+à concurrence de quatre-vingt-quatre euros (84,00 €) ;
+- Monsieur NICOLA Victor, à concurrence de dix (10) parts sociales de catégorie « Administrateurs »,
+pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement à concurrence de
+quatre-vingt-quatre euros (84,00 €) ;
+Catégorie Gestionnaires :trente (30) parts sociales.
+- Monsieur PETIT JEAN Paul, à concurrence de dix (10) parts sociales de catégorie « Gestionnaires
+», pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement à concurrence
+de quatre-vingt-deux euros (82,00 €) ;
+- Madame DE MEDTS Solange, à concurrence de dix (10) parts sociales de catégorie «
+Gestionnaires », pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement à
+concurrence de quatre-vingt-trois euros (83,00 €) ;
+- Monsieur NICOLA Victor, à concurrence de dix (10) parts sociales de catégorie « Gestionnaires »,
+pour un apport total de deux cent cinquante euros (250,00 €), libérés partiellement à concurrence de
+quatre-vingt-trois euros (83,00 €) ;
+Catégorie Financiers : zéro (0) part sociale.
+Catégorie Fonds de Commerce :zéro (0) part sociale.
+Total : sept cent quarante-quatre parts sociales (744).
+Capital obligataire :
+- les obligations de classe K (ci-après « les obligations K »)
+Les obligations K ne font pas partie du capital social et sont à considérer comme des obligations au
+sens de l’article 356 du Code des sociétés. Ces obligations K peuvent ouvrir au droit de vote selon
+les modalités des présents statuts reprises au tableau votatif en article 43 ( ci-après mentionné)
+Chaque obligation K aura une valeur nominale de cinq cents euros (500,00 €).
+Les droits respectifs de chaque classe de parts sont déterminés dans les présents statuts (tableau
+votatif en article 43).
+Répartition bénéficiaire
+Sur ce bénéfice net il est prélevé un montant de cinq pour cent pour la constitution de la réserve
+légale. Ce prélèvement n'est plus obligatoire lorsque la réserve atteint dix pour cent de la part fixe du
+capital social.
+L‘affectation du bénéfice net est déterminée sur· base des règles suivantes :
+La détermination du revenu distribuable global est déterminée conformément à l’article 429 du code
+des sociétés.
+A la fin de chaque exercice, l’assemblée validera la répartition mécanique du bénéfice calculé selon
+la méthode ci-après.
+Sauf décision de l’Assemblée Générale prise à la majorité « Modificative » telle que décrite à l’article
+43, l’entièreté du bénéfice sera personnalisé entre les associés tout en conservant l’aspect collectif
+de l’utilisation de la part non distribuée de bénéfice pour le seul bien de l’entreprise et sera
+comptabilisé dans un compte de réserve nominatif au nom de chacun des associé ou ancien
+associé.
+Tout bénéfice non personnalisé sera considéré comme collectif et appartenant à chacun des
+associés en proportion de ses parts.
+Pour certains types de part de compte de réserve personnelle, cette réserve pourra être subdivisée
+en plusieurs comptes, chacun personnalisé au nom de son bénéficiaire:
+Un compte de réserve légale.
+Un compte de réserve disponible.
+Un compte de réserve indisponible.
+Tout compte de réserve que la législation pourrait être amenée à créer.
+La réserve indisponible personnelle ne pourra être distribuée à son bénéficiaire que lors de son
+retrait ou de son exclusion ou si une décision de transformation partielle des réserves indisponibles
+ainsi constituées en réserves disponibles est prise par l’assemblée générale à la majorité «
+Modificative »
+Les règles de « mécaniques » de répartition et de personnalisation du bénéfice sont les suivantes :
+Au terme de chaque exercice comptable, sur le bénéfice commun et général, s’il existe, tel qu’issu de
+la comptabilité, une première partie est prélevée afin de provisionner l’impôt estimé, d’alimenter la
+réserve légale selon le code économique et de combler d’éventuelles pertes antérieures.
+Ensuite, s’il reste un bénéfice au terme de cette première phase, il sera réparti successivement au
+cours des étapes suivantes étant entendu que aucun bénéfice ne subsiste aux termes d’une étape,
+les étapes suivantes de répartition n’auront pas lieu.
+Il faudra faire la distinction entre un bénéfice issu de la vente partielle ou totale du ou d’un fonds de
+commerce ou du bénéfice hors vente du ou d’un fonds de commerce
+Lors de la vente d’un ou du fonds de commerce, le calcul sera différent et repris après le calcul hors
+survenance de cet événement
 
 Bi
 jla
@@ -415,10 +415,10 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
 20
 
 16
@@ -461,68 +461,69 @@ au
 
 Mod PDF 11.1
 
-désigné par Monsieur Etienne VANDEKERCKHOVE, a dressé le rapport prescrit par l’article 219 du
-Code des Sociétés.
-Ce rapport daté du 17 MAI 2016, conclut dans les termes suivants : «
-« La SPRL JARINVEST se propose d’effectuer à la SPRL  “JARIMMO”, l’apport en nature d’un
-ensemble d’éléments d’actifs et d’un ensemble d’éléments de passif présentant une valeur nette de
-20.000,00 €.
-La rémunération proposée pour cet apport d’une valeur de 20.000,00 € sera rémunérée par
-l’attribution de 300 parts sociales.
-L'opération a fait l'objet des vérifications conformément aux normes de révision de l’Institut des
-Reviseurs d’Entreprises, tant en ce qui concerne l'existence et la description que l'évaluation des
-apports.
-La description répond à des conditions normales de précision et de clarté
-L’organe de gestion de la société est responsable de l’évaluation des biens à céder ainsi que de la
-détermination de la rémunération attribuée en contrepartie
-Nous croyons  enfin utile de rappeler que notre mission ne consiste pas à nous prononcer sur le
-caractère légitime et équitable de la transaction..»
-II. - STATUTS.
-Article 1 - Forme.
-La société civile adopte la forme de la société privée à responsabilité limitée.
-Article 2 - Dénomination.
-Elle est dénommée " JARIMMO ". Dans tous documents écrits émanant de la société, la
-dénomination sociale doit être précédée ou suivie immédiatement de la mention " société privée à
-responsabilité limitée" ou des initiales "SPRL" ou SCPRL.
-Article 3 - Siège social.
-Le siège social est établi à Wavre (Limal), rue Joseph Mathieu, 39.
-Il peut être transféré en tout autre endroit de la région de langue française de Belgique ou de la
-région de Bruxelles-Capitale par simple décision de la gérance qui a tous pouvoirs pour faire
-constater authentiquement la modification des statuts qui en résulte.
-Article 4 - Objet.
-La société a pour objet toutes opérations ayant trait à tous biens et/ou tous droits immobiliers, par
-nature, par incorporation ou par destination et aux biens et/ou à tous droits mobiliers qui en
-découlent, ainsi que toutes opérations civiles, commerciales, industrielles ou financières qui s’y
-rapportent directement ou indirectement, comme à titre d’exemple l’achat, la mise en valeur, le
-lotissement, l’échange, l’amélioration, la location meublée ou non, la vente, la location-financement,
-la cession, la gestion, la transformation, la construction de biens immobiliers et mobiliers.
-La société pourra par accomplir toutes opérations généralement quelconques, commerciales,
-industrielles, financières, mobilières ou immobilières, se rapportant directement ou indirectement à
-son objet.
- Article 5 - Durée.
-La société est constituée pour une durée illimitée.
-Elle peut être dissoute par décision de l'assemblée générale délibérant comme en matière de
-modification des statuts.
-Article 6 - Capital.
-Le capital social est fixé à vingt mille euros (20.000 EUR). Il est représenté par trois cents parts
-sociales sans valeur nominale représentant chacune une portion identique du capital social.
-Article 7 – Démembrement du droit de propriété.
-A défaut d’accord entre les titulaires, en cas de démembrement du droit de propriété d'une ou de
-parts sociales, les droits y afférents sont exercés par l'usufruitier, s’il en existe ou à défaut par le
-détenteur du plus grand nombre de quotités de la part démembrée et en cas de parité de quotités, le
-représentant des titulaires sera nommé à la majorité de quotité, à défaut le droit de vote relatif à la
-part démembrée sera  suspendu jusqu’à ce qu’un représentant unique ait été désigné.
-Article 8 - Cession et transmission de parts.
-A/ Cessions libres.
-Les parts peuvent être cédées entre vifs ou transmises pour cause de mort, sans agrément, à un
-associé, au conjoint du cédant ou du testateur, aux ascendants ou descendants en ligne directe des
-associés.
-B/ Cessions soumises à agrément.
-Tout associé qui voudra céder ses parts entre vifs à une personne autre que celles visées à l'alinéa
-précédent devra, à peine de nullité, obtenir l'agrément de la moitié au moins des associés, possédant
-les trois/quarts au moins des parts sociales, déduction faite des parts dont la cession est proposée.
-À cette fin, il devra adresser à la gérance, sous pli recommandé, une demande indiquant les nom,
-prénom, profession, domicile du ou des cessionnaires proposés ainsi que le nombre de parts dont la
+Sans vente du ou d’un fonds de commerce (ou à l’exclusion de la part, après impôts et réserve
+légale, issue de la vente du ou d’un fonds de commerce) :
+Les premiers associés à se voir personnaliser une partie du bénéfice seront les titulaires de parts de
+« Fondateurs »
+Lors de cette première phase, il sera totalisé le nombre de jours d’existence de chaque part
+Fondateur dans la société au cours de l’exercice. Ce nombre de jour est défini comme les
+JoursFondateurs de l’exercice en question
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+La part des bénéfices de l’exercice attribuée au Fondateurs dans leur ensemble sera calculée en
+multipliant par vingt-cinq euros le TauxRémunérateurFondateurs de l’exercice tel que défini ci-
+dessous par les JoursFondateurs de l’exercice tels que calculés et définis ci-avant et en divisant ce
+produit par 360.
+Mathématiquement :
+25 x JoursFondateursexercice x TauxRémunérateurFondateursexercice
+360
+Le « taux rémunérateur des Fondateurs » de l’année est défini comme l’addition de quatre cents
+points de base au taux Euribor du dernier jour de l’exercice. A défaut d’existence du taux Euribor le
+dernier jour de l’exercice, le taux le plus proche sera choisi par la banque centrale en charge du
+siège social de la Société et remplacera valablement ce dernier.
+Chaque part de Fondateur se verra attribuer une part du bénéfice ainsi déterminé pour l’ensemble
+des titulaires des parts de Fondateurs en proratisant ce bénéfice de l’ensemble des titulaires de parts
+de Fondateur par le nombre de jour d’existence de la part au cours de l’exercice par rapport aux
+JoursFondateurs de l’exercice.
+Lorsque chaque titulaire de part de Fondateur s’est vu attribué, tel que calculée ci-avant, sa part
+dans le bénéfice, cette dernière est comptabilisée au passif à son nom dans le compte nominatif de
+réserve disponible qui lui est destiné.
+S’il reste un bénéfice non personnalisé au terme de la répartition entre les titulaires de parts de
+Fondateur, seront prioritairement rémunérés les titulaires de part Financiers.
+Les associés suivant à se voir personnaliser une partie du bénéfice seront les titulaires de parts de «
+Financiers »
+Lors de cette deuxième phase, il sera totalisé le nombre de jours d’existence de chaque part
+Financiers dans la société au cours de l’exercice. Ce nombre de jour est défini comme les
+JoursFinanciers de l’exercice en question
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+La part des bénéfices de l’exercice attribuée au Financiers dans leur ensemble sera calculée en
+multipliant par vingt-cinq euro le TauxRémunérateurFinanciers de l’exercice tel que défini ci-dessous
+par les JoursFinanciers de l’exercice tels que calculés et définis ci-avant et en divisant ce produit par
+360.
+Mathématiquement :
+25 x JoursFinanciersexercice x TauxRémunérateurFinanciersexercice
+360
+Le « taux rémunérateur des Financiers » de l’année est défini comme l’addition de sept cents points
+de base au taux Euribor du dernier jour de l’exercice. A défaut d’existence du taux Euribor le dernier
+jour de l’exercice, le taux le plus proche sera choisi par la banque centrale en charge du siège social
+de la Société et remplacera valablement ce dernier.
+Chaque part de Financier se verra attribuer une part du bénéfice ainsi déterminé pour l’ensemble des
+titulaires des parts de Financiers en proratisant ce bénéfice de l’ensemble des titulaires de parts de
+Financier par le nombre de jour d’existence de la part au cours de l’exercice par rapport aux
+JoursFinanciers de l’exercice.
+Lorsque chaque titulaire de part de Financier s’est vu attribué, tel que calculée ci-avant, sa part dans
+le bénéfice, cette dernière est comptabilisée au passif à son nom dans le compte nominatif de
 
 Bi
 jla
@@ -551,10 +552,10 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
 20
 
 16
@@ -597,69 +598,69 @@ au
 
 Mod PDF 11.1
 
-cession est envisagée et le prix offert.
-Dans les huit jours de la réception de cette lettre, la gérance en transmet la teneur, par pli
-recommandé, à chacun des associés, en leur demandant une réponse affirmative ou négative par
-écrit dans un délai de quinze jours et en signalant que ceux qui s'abstiennent de donner leur avis
-seront considérés comme donnant leur agrément. Cette réponse devra être envoyée par pli
-recommandé.
-Dans la huitaine de l'expiration du délai de réponse, la gérance notifie au cédant le sort réservé à sa
-demande.
-Les héritiers et légataires qui ne deviendraient pas de plein droit associés aux termes des présents
-statuts seront tenus de solliciter, selon les mêmes formalités, l'agrément des associés.
-Le refus d'agrément d'une cession entre vifs est sans recours; néanmoins, l'associé voulant céder
-tout ou partie de ses parts pourra exiger des opposants qu'elles lui soient rachetées à leur valeur
-fixée par un expert. Il en sera de même en cas de refus d'agrément d'un héritier ou d'un légataire.
-Dans l'un et l'autre cas, le paiement devra intervenir dans les six mois du refus. 
-Article 9 - Registre des parts sociales.
-Les parts, nominatives et numérotées, sont inscrites dans un registre tenu au siège social dont tout
-associé ou tout tiers intéressé pourra prendre connaissance. Y seront relatés, conformément à la loi,
-les transferts ou transmissions de parts.
-Des certificats constatant ces inscriptions sont remis aux associés.
-    Article 10 - Gérance.
-La société est administrée par un ou plusieurs gérants, personnes physiques, associés ou non,
-nommés avec ou sans limitation de durée et pouvant, dans cette dernière hypothèse, avoir la qualité
-de gérant statutaire.
-L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat et, en cas de pluralité, leurs
-pouvoirs. S'il n'y a qu'un seul gérant, la totalité des pouvoirs de gérance lui est attribuée. 
-Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
-Est désigné comme gérant statutaire pour une durée indéterminée, Monsieur VANDEKERCKHOVE
-Etienne René Marie Godelieve, né à Mortsel, le vingt-trois décembre mille neuf cent soixante-trois,
-numéro national: 631223-433-90 demeurant à 1300 Wavre (Limal), rue Joseph Mathieu, 39.
-Article 11 - Pouvoirs du gérant.
-Sauf organisation par l'assemblée d'un collège de gestion, chaque gérant représente la société à
-l'égard des tiers et en justice et peut poser tous les actes nécessaires ou utiles à l'accomplissement
-de l'objet social, sauf ceux que la loi réserve à l'assemblée générale.
-Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
-Article 12 - Rémunération.
-L’assemblée déterminera à la simple majorité des voix, le montant des rémunérations fixes et
-proportionnelles qui seront allouées au gérant et portées aux frais généraux, indépendamment de
-tous frais éventuels de représentation, voyages et déplacements.
-Article 13 - Contrôle.
-Conformément à l’article 15 du Code des Sociétés, il n'est pas nommé de commissaire, sauf décision
-contraire de l'assemblée générale , tant que la société reste une petite société.
-Dans ce cas, chaque associé possède individuellement les pouvoirs d'investigation et de contrôle du
-commissaire. Il peut se faire représenter par un expert-comptable. La rémunération de celui-ci
-incombe à la société s'il a été désigné avec son accord ou si cette rémunération a été mise à sa
-charge par décision judiciaire.
-Article 14 - Assemblées générales.
-L'assemblée générale annuelle se réunit chaque année le troisième mercredi du mois de mai à dix-
-huit heures, au siège social ou à l'endroit indiqué dans la convocation.
-Si ce jour est férié, l'assemblée est remise au plus prochain jour ouvrable.
-Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois que
-l'intérêt social l'exige ou sur la requête d'associés représentant le cinquième du capital.
- 
-Les convocations aux assemblées générales contiennent l'ordre du jour et sont adressées à chaque
-associé et gérant, quinze jours francs au moins avant l'assemblée par lettre recommandée. Elles ne
-sont pas nécessaires lorsque toutes les personnes à convoquer consentent à se réunir.
-Article 15 - Représentation.
-Tout associé peut se faire représenter à l'assemblée générale par un autre associé porteur d'une
-procuration spéciale.
-Toutefois, les personnes morales peuvent être représentées par un mandataire non associé.
-Article 16 - Prorogation.
-Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
-semaines au plus par la gérance.
-La seconde assemblée délibère sur le même ordre du jour et statue définitivement.
+réserve disponible qui lui est destiné.
+Le solde du bénéfice sera attribué aux parts Administrateurs et aux parts Gestionnaires à l’exclusion
+des autres parts.
+Chaque part d’Administrateur et chaque part de Gestionnaire se verra gratifier d’une partie du solde
+du bénéfice issu des prélèvements au profit des Fondateurs et des Financiers en fonction du nombre
+de jours d’existence (JE) de la part en question durant l’exercice sur la somme de l’ensemble des
+nombres de jours d’existence (JE) de chaque part d’Administrateur et de Gestionnaire ; sachant que
+les nombre de jours d’existence calendrier des parts d’Administrateur donnent lieu à deux jours
+d’existence (JE) et ceux de gestionnaire à un jour d’existence (JE).
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+Lorsque chaque titulaire de part d’Administrateur ou de Gestionnaire s’est vu attribué, tel que
+calculée ci-avant, sa part dans le bénéfice, cette dernière est comptabilisée au passif à son nom
+dans le compte nominatif de réserve disponible qui lui est destiné.
+En cas de vente partielle ou totale d’un ou du fonds de commerce de la société durant l’exercice, la
+répartition du bénéfice (après provisionnement de l’impôt, comblement des pertes antérieures
+éventuelles et prélèvement de la réserve légale) sera la suivante :
+Vingt pour cent du bénéfice sera prélevé et attribués aux parts Fondateurs et Financiers.
+Chaque part de Fondateur et chaque part de Financier se verra gratifier d’une partie de ces vingt
+pour cent du bénéfice en fonction du nombre de jours d’existence (JE) de la part en question durant
+l’exercice sur la somme de l’ensemble des nombres de jours d’existence (JE) de chaque part de
+Fondateur et de Financier ; sachant que les nombre de jours d’existence calendrier des parts de
+Fondateur donnent lieu à deux jours d’existence (JE) et ceux de Financier à un jour d’existence (JE).
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+Lorsque chaque titulaire de part de Fondateur ou de Financier s’est vu attribué, tel que calculée ci-
+avant, sa part dans le bénéfice, cette dernière est comptabilisée au passif à son nom dans le compte
+nominatif de réserve disponible qui lui est destiné.
+Trente pour cent du bénéfice sera prélevé et attribués aux parts d’Administrateurs et de
+Gestionnaires.
+Chaque part d’Administrateur et chaque part de Gestionnaire se verra gratifier d’une partie du de ces
+trente pourcents du bénéfice en fonction du nombre de jours d’existence (JE) de la part en question
+durant l’exercice sur la somme de l’ensemble des nombres de jours d’existence (JE) de chaque part
+d’Administrateur et de Gestionnaire ; sachant que les nombre de jours d’existence calendrier des
+parts d’Administrateur donnent lieu à deux jours d’existence (JE) et ceux de gestionnaire à un jour
+d’existence (JE).
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+Lorsque chaque titulaire de part d’Administrateur ou de Gestionnaire s’est vu attribué, tel que
+calculée ci-avant, sa part dans le bénéfice, cette dernière est comptabilisée au passif à son nom
+dans le compte nominatif de réserve disponible qui lui est destiné.
+Le solde du bénéfice de l’exercice au cours duquel a été vendu un ou le fonds de commerce (après
+prélèvement de la part des Fondateurs, Financiers, Administrateurs et Gestionnaires) sera réparti
+entre les titulaires de parts Fonds de Commerce en fonction de leur nombre de jour d’existence au
+cours de l’exercice en question
+Il faut entendre par nombre de jour d’existence le nombre de jour entre le début de l’exercice et la fin
+de ce denier si la part n’a subi aucune mutation de propriétaire ni de modification (souscription,
+destruction, …) au cours de l’exercice ; si elle a été créée au cours de l’exercice, le nombre de jour
 
 Bi
 jla
@@ -688,10 +689,10 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
 20
 
 16
@@ -734,56 +735,69 @@ au
 
 Mod PDF 11.1
 
-Article 17 - Présidence - Délibérations - Procès-verbaux.
-L'assemblée générale est présidée par un gérant ou, à défaut, par l'associé présent qui détient le
-plus de parts.
-Sauf dans les cas prévus par la loi, l'assemblée statue quelle que soit la portion du capital
-représentée et à la majorité des voix.
-Chaque part donne droit à une voix.
-Les procès-verbaux des assemblées générales sont consignés dans un registre. Ils sont signés par
-les associés qui le demandent. Les copies ou extraits sont signés par un gérant.
-Article 18 - Exercice social.
-L'exercice social commence le premier janvier et finit le trente et un décembre de chaque année.
-L'inventaire et les comptes annuels sont établis et publiés conformément aux dispositions légales.
-Article 19 - Affectation du bénéfice.
-Sur le bénéfice net, tel qu'il découle des comptes annuels arrêtés par la gérance, il est prélevé
-annuellement au moins cinq (5) pour cent pour être affectés au fonds de réserve légale. Ce
-prélèvement cesse d'être obligatoire lorsque la réserve légale atteint le dixième du capital.
-Le solde reçoit l'affectation que lui donne l'assemblée générale statuant sur proposition de la
-gérance.
-Article 20 - Dissolution - Liquidation.
-En cas de dissolution de la société, l’assemblée nomme un ou plusieurs liquidateurs et détermine
-leurs pouvoirs et leurs émoluments.  Les liquidateurs n'entreront en fonction qu'après confirmation,
-par le tribunal de commerce, de leur nomination.
-Les liquidateurs transmettent au cours des sixième et douzième mois de la première année de la
-liquidation, un état détaillé de la situation de la liquidation au greffe du tribunal de commerce dans
-l'arrondissement duquel se trouve le siège de la société.
-           Cet état détaillé comporte notamment l'indication des recettes, des dépenses, des répartitions,
-ainsi que de ce qu'il reste à liquider. 
-           A partir de la deuxième année de la liquidation, cet état détaillé n'est transmis au greffe et
-versé au dossier de liquidation que tous les ans. 
-           Avant la clôture de la liquidation, les liquidateurs soumettent le plan de répartition de l'actif
-entre les différentes catégories de créanciers pour accord au tribunal de commerce dans
-l'arrondissement duquel se trouve le siège de la société.
-Article 21 - Election de domicile.
-Pour l'exécution des statuts, tout associé, gérant ou liquidateur, domicilié à l'étranger, fait élection de
-domicile au siège social.
-Article 22 - Droit commun.
-Pour les objets non expressément réglés par les statuts, il est référé à la loi.
-III. - DISPOSITIONS TRANSITOIRES.
-Les comparants déclarent que les décisions suivantes ne deviendront effectives qu'à dater  et sous
-la condition suspensive du dépôt de l'extrait de l'acte constitutif au greffe du tribunal de commerce,
-moment où la société acquerra la personnalité morale.
-1°- Le premier exercice social commence à la date d’effet de la scission soit le premier janvier 2016
-pour se terminer le trente et un décembre deux mille seize.
-2°- La première assemblée générale annuelle se tiendra en l'an deux mille dix-sept.
-3°- Le mandat du gérant sera gratuit.
-4°- L'assemblée décide de ne pas nommer de commissaire-réviseur.
-5°- Tous pouvoirs sont conférés au gérant, à l'effet d'effectuer les formalités d'immatriculation de la
-société.
- Pour extrait conforme.
-Géry van der ELST, Notaire
-Déposé en même temps : expédition, rapports des fondateurs et du reviseur, procurations
+entre sa création et la fin de l’exercice (si elle n’a pas été détruite entretemps), entre sa création et sa
+destruction (si elle avait été créée et détruite au cours de l’exercice), entre le début de l’exercice et
+sa destruction (si elle existait au premier jour de l’exercice et qu’elle a été détruite au cours de
+l’exercice).
+Lorsque chaque titulaire de part d’Administrateur, de Gestionnaire, de Fondateur ou de Financier
+s’est vu attribué, tel que calculée ci-avant, sa part dans le bénéfice, cette dernière est comptabilisée
+au passif à son nom dans le compte nominatif de réserve disponible qui lui est destiné.
+Dans tous les cas (vente ou pas du ou d’un fonds de commerce), une partie des bénéfices ainsi
+personnalisés sera rendue indisponible pour les parts Administrateurs et les parts Gestionnaires.
+Cette partie inscrite en moins à la réserve disponible du titulaire de la part
+Administrateur/Gestionnaire et en plus à sa réserve indisponible sera de vingt-cinq pourcents du
+bénéfice personnalisé pour cette part Administrateur ou Gestionnaire durant l’exercice.
+L’assemblée, statuant à la majorité modificative pourra ne pas appliquer cette mise en indisponibilité
+et le vote à ce point de vue sera réputé irrévocablement faire partie de l’ordre du jour de l’assemblée
+générale ordinaire même s’il n’est repris dans les convocations.
+Dans tous les cas (vente ou pas du ou d’un fonds de commerce), une partie des bénéfices ainsi
+personnalisés pourra être rendue indisponible pour les parts Fondateurs et Financiers.
+Cette partie inscrite en moins à la réserve disponible du titulaire de la part Fondateur/Financier et en
+plus à sa réserve indisponible sera de vingt-cinq pourcents du bénéfice personnalisé pour cette part
+Fondateur/Financier durant l’exercice.
+L’assemblée, statuant à la majorité modificative pourra appliquer cette mise en indisponibilité et le
+vote à ce point de vue sera réputé irrévocablement faire partie de l’ordre du jour de l’assemblée
+générale ordinaire même s’il n’est repris dans les convocations.
+En cas de dissolution, après apurement de toutes les dettes, charges et frais de liquidation, l'actif net
+servira en premier lieu au remboursement, en espèces ou en nature, du montant libéré et non encore
+remboursé des parts. Si le solde éventuel ne suffit pas à rembourser toutes les parts, les liquidateurs
+remboursent les associés intégralement, catégorie par catégorie, selon la priorité  suivante :
+Fondateurs, Administrateurs, Financiers, Gestionnaires, Fonds de Commerce
+Le surplus éventuel est réparti selon les règles ordinaires de distribution du bénéfice sachant qu’il
+n’est pas mis de somme en indisponibilité et que la notion de fin d’exercice dans le calcul des jours
+d’existence est la date de liquidation.
+Exercice social
+L'exercice social commence le premier janvier et se termine le trente-et-un décembre de chaque
+année.
+Assemblée générale ordinaire
+L’assemblée générale annuelle se réunit après la clôture de chaque exercice comptable au siège
+social de la société sauf si la convocation prévoit un autre lieu. Elle aura lieu le dernier vendredi du
+mois de mai à 12h45 à moins qu'il s'agisse d'un jour férié. Dans ce cas, elle sera tenue le premier
+jour ouvrable qui suit et au plus tard avant la fin du mois de Juin.
+Les décisions du conseil sont prises à la majorité simple des membres présents ou représentés, sauf
+dans les cas prévus ci-après.
+En cas d’abstention d’un ou de plusieurs administrateurs, ils seront considérés comme présents et
+les décisions seront valablement prises à la majorité des voix des autres membres du conseil.
+Les décisions et les actes suivants ne peuvent être pris qu’après décision favorable du conseil
+d’administration requérant au minimum trois quarts des voix de l’ensemble des administrateurs :
+- des dépenses et investissements en actifs pour un montant excédant 10.000 €;
+- des aliénations d’actifs qui ont une valeur du marché qui excède 5.000 € ;
+- la conclusion de toutes conventions entre la société et un administrateur;
+- la conclusion ou la résiliation de contrats qui lient la société pour une période non déterminée ou
+pour une durée excédant trente six mois, à l’exception des contrats usuels excédant pas 250 € par
+mois tels qu’abonnements ou locations;
+- la détermination des conditions de travail, la conclusion ou la résiliation des contrats de travail, à
+l’exclusion des contrats de travail étudiant et ceux relatifs au personnel d’entretien et à l’exclusion
+des licenciements pour motif grave ;
+- la détermination de l’indemnité éventuelle de base d’un administrateur ainsi que attribution
+éventuelle de rémunérations exceptionnelles à un ex-administrateur, conformément aux principes
+contenus dans le règlement d'ordre intérieur ;
+- la modification du secteur géographique d’activité.
+Les décisions et les actes suivants ne peuvent être pris par le conseil d’administration statuant à la
+majorité simple des membres présents ou représentés qu’après avis conforme des associés
+Fondateurs.
+-  l’établissement ou la modification de principes et pratiques comptables importants, ainsi que la
+désignation, le remplacement et la révocation du (des) comptable(s);
 
 Bi
 jla
@@ -812,10 +826,271 @@ bl
 ad
  - 
 
-01
+22
 /0
 
-6/
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+- la détermination ainsi que toute modification du budget des dépenses.
+Les décisions du conseil d’administration peuvent être prises, par consentement unanime des
+administrateurs, exprimé par écrit, par télégramme, télécopie, télex, e-mail, ou tout autre moyen de
+transmission démontrable.
+A l’exception des cas prévus par le Code des sociétés les décisions sont prises par majorités et
+pouvoir spéciaux repris dans le tableau votatif de l’article 43 des présents statuts
+Toute décision pour laquelle une majorité spéciale n’aura pas été requise par les présents statuts
+sera prise à la majorité réputée de Normale par le tableau votatif de l’article 43 des présents statuts,
+comme suit:
+Toute décision sera prise aux conditions précisée dans les statuts. Chaque type de parts donnant
+droit au vote selon les modalités reprises dans le tableau ci-dessous
+                                                                         Ordinaire    Spéciale        Modificative        Unanimité
+                                                                                         Chaque part donne lieu à
+Parts Fondateurs                                                    6        6                       8                             6
+Parts Administrateurs                                             4         4                       6                             4
+Parts Financiers                                                     2         2                        2                            2
+Parts Gestionnaires                                                2        2                        2                            2
+Parts Fonds de Commerce                                    1        1                        1                            1
+                                                                                   votes
+                                                                          La majorité requise pour un vote positif est de
+                                                                      50%+1      75%+1           85%+1                 100%
+Désignation des personnes autorisées à gérer et leurs pouvoirs
+La société est administrée par un conseil d’administration composé d’un ou plusieurs
+administrateurs, qui doivent être des associés Administrateur, sauf dans le cas prévu à l’article 17.6
+des présents statuts.
+Chaque administrateur individuellement, ainsi que le conseil d’administration, constituent les organes
+de la société.
+Les administrateurs sont nommés par l’assemblée générale par une décision recueillie à la majorité
+«Modificative» telle que reprise dans le tableau votatif repris dans l’article 43 des présents statuts.
+Leur nombre et la durée de leur mission sont déterminés par l’assemblée générale. Leur mandat ou
+mission est gratuit sauf disposition contraire de leur nomination
+La société est valablement représentée, tant en justice qu’à l’égard des tiers, par un administrateur
+agissant seul dans les matières suivantes :
+- L’accomplissement de tous les actes indiqués à l’article 19.2.1, comme suite:
+Chaque administrateur dispose individuellement des pouvoirs les plus étendus pour accomplir tous
+les actes qui sont nécessaires ou utiles à la réalisation par la société de son objet social tel que
+décrit à l’article 3 des présents statuts, sans préjudice des autres limitations apportées par les statuts
+aux pouvoirs de l’administrateur.
+ -L’accomplissement de tous les actes indiqués à l'article 19.2.2, comme suit
+Chaque administrateur est également individuellement habilité à prendre les décisions suivantes et à
+poser les actes suivants au nom et pour le compte de la société :
+-la conclusion ou la résiliation de contrats qui lient la société, pour un montant de maximum 500 € et
+d'une durée n’excédant pas trois mois, et les contrats usuels qui n’engagent pas la société pour un
+montant mensuel supérieur à 100 EUR par mois tels que abonnements et locations, à l’exclusion de
+tout contrat de travail.
+-des dépenses et investissements en actifs pour un montant de maximum 500 €;
+-la signature, la négociation et l’endossement pour compte de la société de tous effets de commerce,
+lettres de change, mandats, chèques, billets à ordre et documents équivalents à concurrence d’un
+maximum de
+2.500 €;
+-recevoir toutes sommes ou valeurs dues à la société en principal, intérêts ou accessoires; délivrer
+des quittances au nom de la société pour un montant s‘élevant à 2.500 € maximum;
+-recevoir au nom de la société, avec possibilité de substitution, toutes lettres, colis et paquets, qu’ils
+soient recommandés ou non, qu'ils aient une valeur enregistrée ou non, des postes, douanes,
+chemins de fer, et  de tous services de messagerie; le renvoi de toutes les marchandises qui  ont été
+stockées, consignées ou gardées en dépôt de quelque manière que ce soit, pour compte de la
+société;
+-établir et signer toutes pièces et documents pour l'exercice des compétences indiquées ci-dessus.
+- Le licenciement des travailleurs de la société pour motif grave; 
+La société est valablement représentée, tant en justice qu’à l'égard des tiers,  pour tous les actes
+autres que ceux mentionnés à l'article 25.1, par un administrateur agissant conjointement avec un
+autre administrateur, ainsi que par deux administrateurs agissant conjointement qui doivent justifier
+d’une décision préalable du conseil d’administration.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+22
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+La société est également valablement représentée par des mandataires spéciaux, agissant dans les
+limites de leur mandat, désignés par : 
+- un administrateur agissant seul, pour les matières indiquées à l'article 25.1;
+- deux administrateurs agissant  conjointement et justifiant d’une décision préalable du conseil 
+d’administration pour tous les actes autres que ceux visés à l’article 25.1.
+Le contrat de société étant clôturé et les statuts sociaux étant arrêtés, les comparants ont pris, à
+terme, les décisions suivantes, lesquelles deviendront effectives lors de l'obtention par la société de
+la personnalité juridique, conformément à l'article 2 § 4 du Code des Sociétés :
+1) Administrateurs
+Les comparants décident de nommer trois (3) administrateurs.
+Monsieur PETIT JEAN Paul ;
+Monsieur VICTOR Nicolas ;
+Monsieur DE MEDTS Solange, qui ont accepté, sont désignés en qualité d'administrateur, pour un
+terme indéterminé.
+Le mandat de chaque administrateur est exercé initialement à titre gratuit, jusqu’à une autre décision
+de l’assemblée générale. Si un mandat devient rémunéré, l’organe de gestion devra s’assurer de la
+couverture sociale du mandataire, lequel est tenu de l’informer par voie de copie. La société peut
+prendre à charge les cotisations sociales résultant du mandat conféré.
+2) Commissaire
+Les comparants constatent et déclarent qu'il résulte d'estimations faites de bonne foi qu'à tout le
+moins pour son premier exercice, la société répondra aux critères énoncés à l'article 141, 2° du Code
+des Sociétés, du fait qu'elle est considérée comme "petite société" au sens de l'article 15 dudit Code.
+En conséquence, ils décident à l'unanimité de ne pas nommer de commissaire.
+3) Date de la clôture du premier exercice social
+Les comparants décident que le premier exercice social commencé le jour de l'acte de constitution
+se clôturera le 31 décembre 2017.
+4) Date de la première assemblée générale ordinaire
+Les comparants décident que la première assemblée générale ordinaire se tiendra en mai 2018.
+5) Délégation de pouvoirs
+Les comparants déclarent constituer pour mandataire spécial de la société, avec faculté de
+substitution, la  à forme de société coopérative à responsabilité limitée JPMCA”, dont les bureaux
+sont établis à 1030 Bruxelles, Boulevard Général Wahis 238, aux fins de procéder à l'immatriculation
+de la présente société à la Banque Carrefour des Entreprises. A ces fins, le mandataire pourra au
+nom de la société, faire toutes déclarations, signer tous documents et pièces et, en général, faire le
+nécessaire auprès de toute administration et/ou société généralement quelconque.
+6) Reprise d'engagements pris au nom de la société en formation
+Les comparants déclarent, conformément à l'article 60 du code des Sociétés, reprendre et
+homologuer, au nom de la société présentement constituée, tous les actes, opérations et facturations
+effectués au nom de la société en formation, par eux-mêmes ou leurs préposés depuis le 01 janvier
+2016
+POUR EXTRAIT ANALYTIQUE CONFORME
+Les expéditions et extraits sont déposés avant enregistrement de l’acte dans l’unique but du dépôt
+au Greffe du Tribunal de Commerce et pour les formalités en rapport avec l’obtention du numéro
+d’entreprise.
+ 
+ 
+ 
+
+Dimitri CLEENEWERCK de CRAYENCOUR, Notaire.
+Déposé en même temps : expédition conforme de l'acte, procurations.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+22
+/0
+
+4/
 20
 
 16

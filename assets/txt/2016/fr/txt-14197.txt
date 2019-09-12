@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-VerbaTeam
+A.L. Construct
 
-Chaussée de Waterloo 141
-1060 Saint-Gilles
+Rue Vandenbroeck 41
+1050 Ixelles
 
-Société privée à responsabilité limitéeForme juridique :
+Société privée à responsabilité limitée StarterForme juridique :
 
 Dénomination
 
 Constitution
 
-Aux termes d'un acte reçu par Maître Dimitri CLEENEWERCK de CRAYENCOUR, Notaire associé
-résidant à Bruxelles (1050 Bruxelles), Avenue Louise, 126, faisant partie de la Société Civile à forme
-de Société Privée à Responsabilité Limitée "Gérard INDEKEU - Dimitri CLEENEWERCK de
-CRAYENCOUR", BCE n° 0890.388.338, le quatorze janvier deux mil seize, a été constituée la
-Société Privée à Responsabilité Limitée dénommée « VerbaTeam », dont le siège social sera établi
-à Saint-Gilles (1060 Bruxelles), chaussée de Waterloo numéro 141, et au capital de dix-huit mille six
-cents euros (18.600,- €), représenté par cent quatre-vingt-six parts sociales (186), sans désignation
-de valeur nominale.
-Associés
--Monsieur SCHNEIDER Tommaso, domicilié à Saint-Gilles (1060 Bruxelles), chaussée de Waterloo
-numéro 141.
--  Madame VANNELLI Chiara, domiciliée à Saint-Gilles (1060 Bruxelles), chaussée de Waterloo
-numéro 141.
-Forme dénomination
-La société a adopté la forme juridique de société privée à responsabilité limitée.
- Elle est dénommée « VerbaTeam ».
-Siège social
-Le siège social est établi à Saint-Gilles (1060 Bruxelles), chaussée de Waterloo numéro 141.
-Objet social
-La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre, pour compte d'autrui ou
-en participation :
-1) Tout service d’interprétation de conférences ou de traduction, et toutes autres activités
-linguistiques au sens large du terme;
-- tout service littéraire en ce compris le copywriting, l’adaptation de texte, tous travaux de
-journalisme, écrits, toutes activités de communication et de consultance en relations publiques, avec
-les médias, ainsi que tous travaux de recherche y relatifs ;
-- toute composition ou production ainsi que toute publication et distribution dans tous les médias
-actuels et futurs dans les domaines cités ci-avant.
-Elle a également pour objet l’organisation de cours de langues privés et collectifs et toutes activités
-linguistiques au sens large, telles que la consultance, l’enseignement, l’organisation de séminaires,
-dans le domaine linguistique.
-2) Toute activité qui couvre le secteur de la consultance, et notamment toute contribution à
-l'établissement et au développement d'entreprises et en particulier de dispenser des avis financiers,
-techniques, commerciaux ou administratifs dans le sens le plus large du terme, à l'exception des
-conseils de placement d'argent et autres, fournir des conseils, son assistance et exécuter des
-services directement ou indirectement sur le plan de l'administration et des finances, de la vente, de
-la production, des techniques d’organisation et de distributions commerciales, et plus généralement
-de la gestion en général et de l’exercice de toutes activités de services et de management au sens le
+D’un acte reçu par nous, Maître Catherine HATERT, notaire à Saint-Josse-ten-Noode, le 29 avril
+2016, non enregistré, il résulte que :
+1. COMPARANT :
+Monsieur PEQUENO FERNANDES LIMA Alberto, né à Amadora (Portugal), le 26 août 1974,
+domicilié à Ixelles (1050 Bruxelles), rue Vandenbroeck 43.
+2. FORME ET DENOMINATION : société privée à responsabilité limitée - starter « A.L. Construct ».
+3. SIEGE SOCIAL : Ixelles (1050 Bruxelles), rue Vandenbroeck 41.
+4. OBJET
+La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre ou pour compte de tiers
+:
+- Entreprise générale de construction et du bâtiment.
+- L’étude de la création et l’exploitation de toute entreprise du domaine de l'immobilier au sens large
+du terme, notamment et sans être exhaustif, la pose et dépose d'échafaudage, le nettoyage,
+l'aménagement, l'embellissement, l'entretien, la désinfection de tous locaux, lieux de travail, espaces
+verts et immeubles généralement quelconques, industriels, commerciaux, publics ou privés, ainsi
+que le nettoyage de façade et de vitres, fenêtres, glaces et tous ornements tant intérieurs
+qu'extérieurs, l'entretien de piscine.
+- Tout, travail immobilier de construction, de transformation, d'achèvement, revêtements de murs et
+de sols, travaux de plafonnage, travaux de carrelage, tailleur de pierre, travail du marbre.
+- Tout travail de peinture, tapissage, installation de chauffage central, sanitaires et plomberie-
+zinguerie et travaux de toitures.
+- Entreprise d'installation d'échafaudage, de rejointoyage, de ramonage de cheminée.
+ - La mise en œuvre de cloisons, consultance technique pour la mise en œuvre de cloison en plaque
+de plâtre et autre produit.
+- Le parachèvement du bâtiment, pose de portes, mobilier intégré, petite démolition.
+- L’exécution de tous travaux pour le bâtiment.
+- L'entreprise de la construction de tous travaux publics et privés.
+- Le commerce des matériaux de construction et de tout ce qui se rapporte à l'industrie de la
+construction. Elle peut donc acheter, vendre, louer et prendre en location tout matériel, tous
+matériaux et toutes marchandises généralement quelconques.
+- Les travaux d'ameublement, de décoration, d'installation et d'aménagement d'immeubles ou de
+parties d'immeubles.
+- Elle peut entreprendre, exploiter, affermer toutes entreprises de chauffage, d'éclairage,
+d'ascenseurs, monte-charges et autres accessoires de la construction.
+- Toutes les activités de menuiserie, pose de parquets etc…
+- Elle peut emprunter avec ou sans garantie pour l'exécution des travaux entrepris par elle; elle peut
+également prêter à des tiers des fonds pour l'exécution de travaux publics ou privés.
+- Elle peut exercer toutes activités d’intermédiaire commercial.
 
- *16301449*
+ *16309796*
 Déposé
-18-01-2016
+02-05-2016
 
-0646708502
+0652992914
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-20
+04
 /0
 
-1/
+5/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-plus large de ces termes à toutes personnes physiques ou morales quelconques; exécuter tous
-mandats sous forme d'études d'organisation, d'expertises, d'actes et de conseils techniques ou
-autres dans tout domaine rentrant dans son objet social.
-3) L’organisation dans tous ses aspects de tous types de manifestations et/ou d’évènements
-notamment et de manière non exhaustive et non limitative, des expositions, des foires, des salons,
-des congrès, des Workshops, des tournois et des conférences, tant pour son propre compte que
-pour le compte de tiers, ou en participation avec des tiers, en qualité d’agent, de représentant ou de
-commissaire, en tous lieux, de toutes les manières et suivant les modalités qui lui paraîtront les
-mieux appropriées, toutes les opérations se rapportant :
-- au conseil et l’étude en stratégie commerciale, animation de vente, merchandising et prospection,
-communication, management et recrutement;
-- la conception, la réalisation, la production, l’organisation, la gestion et la commercialisation
-d’actions, d’animation de vente, de merchandising, de prospection et de toute campagne
-promotionnelle ou publicitaire ;
-- l’activité de communication et de relations publiques comprenant la création et la réalisation
-d’évènements promotionnels, publicitaires ;
-- toutes prestations de services dans le domaine du merchandising, des forces de vente et des
-animations en points de vente ;
-- toutes activités dans le domaine de la publicité et du marketing, au sens le plus large de ces
-termes, et de toutes autres études, créations et réalisation dans le domaine de la communication en
-général ;
-4) Toutes activités en relation avec le secteur HORECA au sens le plus large du terme, et
-notamment :
-- Le commerce sous toutes ses formes et notamment l'importation, l'exportation, l'achat et la vente
-en gros ou au détail, la représentation et le courtage, ainsi que la fabrication, la transformation et le
-transport de toutes marchandises et de tous produits et notamment tout ce qui concerne
-l’alimentation, entre autres : vins, liqueurs, boissons, épicerie fine, charcuterie, boucherie, pâtisserie,
-fruits, légumes ;
-- L'acquisition, la location, la gestion et/ou l'exploitation de snacks-bars, brasseries, cafés, tavernes,
-débits de boissons, locaux de consommation et toutes autres installations autres établissements
-similaires ayant trait à la petite restauration et à la vente de boissons, ainsi que la reprise,
-l’aménagement, la transformation et décoration des lieux destinés à toute exploitation de type horeca
-;
-- La préparation, livraison et la vente au détail de plats préparés, repas sur commande, sandwichs, et
-plats divers à emporter ou à consommer sur place, en général toutes préparations au sens le plus
-large ;
-- L’organisation de réceptions, banquets, prestations de services horeca.
-5) Toute activité lie directement ou indirectement aux objets susmentionnés.
-Cette énumération est exemplative et nullement limitative.
-Au cas où la prestation de certains actes serait soumise à des conditions préalables d’accès à la
-profession, la société subordonnera son action, en ce qui concerne ces prestations, à la réalisation
-de ces conditions.
-La société peut d’une façon générale, accomplir toutes opérations commerciales, industrielles,
-financières, mobilières ou immobilières, soit pour son compte, soit pour le compte de tiers, se
-rapportant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter
-directement ou indirectement, entièrement ou partiellement la réalisation.
-La société peut exercer toutes fonctions et mandats et s’intéresser par voie d’apport, de fusion, de
-souscription ou de toute autres manière dans toutes autres affaires, entreprises, associations ou
-sociétés ayant un objet identique, analogue ou connexe au sien ou qui sont de nature à favoriser le
-développement de son entreprise, à lui procurer des ressources ou à faciliter l’écoulement des
-services et produits.
- Seule l'assemblée générale des associés a qualité pour interpréter cet objet.
- 
-Capital social
-Le capital social est fixé à la somme de dix-huit mille six cents euros (18.600,- €), représenté par
-cent quatre-vingt-six parts sociales (186), sans désignation de valeur nominale, représentant
-chacune un/cent quatre-vingt-sixième (1/186ième) du capital social souscrit intégralement et libéré
-partiellement de la manière suivante:
-- Monsieur SCHNEIDER Tommaso, prénommé, à concurrence de nonante-trois parts sociales (93),
-pour un apport de neuf mille trois cents euros (9.300,- €), libéré partiellement à concurrence de trois
-mille cent euros (3.100,- €) ;
-- Madame VANNELLI Chiara, prénommée, à concurrence de nonante-trois parts sociales (93), pour
-un apport de neuf mille trois cents euros (9.300,- €), libéré partiellement à concurrence de trois mille
+- Toutes les activités de jardinage et notamment l’entretien des parcs et jardins, l’horticulture, la
+production, l’achat et la vente de plantes, de produits biologiques et phytobiologiques, la culture de
+toutes plantes en serres ou pépinières.
+- Le nettoyage industriel en général.
+- Le nettoyage et l’entretien d’immeubles, le nettoyage de vitres et de bureaux, de petites travaux de
+bureau, services intérimaires, sous-traitance.
+- Le nettoyage de locaux, de maisons, d'appartements, d'espaces commerciaux, d'entreprises,
+d'espaces industriels et tous autres espaces et bâtiments.
+- L’entretien de ces mêmes locaux.
+- L'entretien des outils de travails en tout genre.
+- Le nettoyage de pièces et produits en tout genre, et ceci de toutes façons possibles, dont entre
+autres par sablage.
+- Toutes activités de nature ménagères réalisées au domicile de l’utilisateur : le nettoyage du
+domicile y compris, le lavage des vitres, la lessive et le repassage, les petits travaux de couture
+occasionnels, la préparation de repas.
+- Toutes activités de nature ménagère réalisées en dehors du domicile de l’utilisateur : faire des
+courses ménagères, du transport accompagné de personnes à mobilité réduite, du repassage y
+compris le raccommodage du linge à repasser.
+Et toutes les activités précitées dans le cadre du nettoyage éventuellement par titres-services pour
+celles qui y sont autorisées.
+- Les services de formation en aide familiale et aide- ménagère, et d’une façon générale, toutes
+activités qui seraient intégrées à l’avenir dans le cadre de législation des titres-services.
+A ce sujet, il est précisé que toutes les activités de la société qui peuvent être exercées dans le
+cadre des titres-services constituent une « section SUI generis » en soi, pour laquelle un agrément
+particulier doit être obtenu.
+- Le commerce de gros et détail, sous toutes ses formes, importation, exportation, marché intérieur,
+en ce compris l’achat, la vente, la location, l’entretien et la réparation, de tous produits de droguerie
+et de produits d’entretien, de toutes machines, matériels, appareils et articles se rapportant
+directement ou indirectement au nettoyage, à l’entretien et la désinfection et à toutes les activités
+précitées.
+La société a également pour objet :
+- toutes les activités du secteur Horeca, tels que l’exploitation d’hôtels, de restaurants, pizzeria,
+snackbars, friterie, de cafés, de bars, de brasseries, de tavernes, de bed & Breakfast, de chambres
+d’hôtes, de salles de consommation, de salle de spectacle et discothèques ;
+- tous services de traiteur et de service livraison à domicile;
+- l’import et l’export, le commerce de produits alimentaires et de boissons quelles qu'elles soient
+(eaux, limonades, bières, vins, liqueurs, spiritueux et alcools quels qu'ils soient) ;
+- l’organisation d’événements (musique, culture, son, vidéos, images) ;
+- la location de salles.
+- l’import, l’export, la vente, l’achat, le commerce en gros ou au détail, de tous types d’articles.
+- le transport routier par camions ou camionnettes ;
+- le transport de personnes (taxi, limousine, minibus, etc) ;
+ - Tout transport de personnes, de marchandises, de colis, de courriers et courrier express ;
+- Tout type de transport terrestre, de personnes et de choses, tels que services de messagerie,
+transport spécialisé et autres.
+- Transport poids légers et lourds de toutes marchandises par route et/ou par mer ;
+Elle pourra également dans le cadre de cet objet exercer  toutes activités de relations publiques et de
+prospection de clientèles.
+La société pourra d'une façon générale, accomplir toutes opérations commerciales, industrielles,
+financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet
+social ou qui seraient de nature à en faciliter directement ou indirectement, entièrement ou
+partiellement, la réalisation.
+Elle pourra s'intéresser par voie d'apports, de souscrip-tion, de fusion ou de toute autre manière dans
+toutes sociétés, associations ou entreprises ayant un objet similaire ou connexe au sien ou
+susceptible de favoriser le développement de ses activités ou ayant avec elle un lien économique.
+La société peut également exercer les fonctions d'adminis-trateur ou de liquidateur dans d'autres
+sociétés.
+Cette énumération est énonciative et non limitative.
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions.
+5. DUREE : illimitée.
+6. CAPITAL :
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-20
+04
 /0
 
-1/
+5/
 20
 
 16
@@ -324,69 +324,68 @@ au
 
 Mod PDF 11.1
 
-cent euros (3.100,- €).
-Total : cent quatre-vingt-six parts sociales (186).
-Répartition bénéficiaire
-Sur le bénéfice net, après impôts et transfert aux réserves immunisées, il est prélevé cinq pour cent
-au moins pour former le fonds de réserve légale, ce prélèvement cessant d'être obligatoire lorsque le
-fonds de réserve atteindra le dixième du capital social.
- Le solde sera réparti également entre toutes les parts, sauf le droit de l'assemblée générale de
-l'affecter à un fonds de réserve spéciale, de le reporter à nouveau ou de lui donner toute autre
-affectation.
-En cas de dissolution, après réalisation de l'actif, apurement du passif ou consignation des sommes
-nécessaires à cet effet, le solde éventuel sera réparti entre les associés dans la proportion des parts
-sociales par eux possédées.
- Si les parts sociales ne sont pas libérées dans une égale proportion, le(s) liquidateur(s)
-rétablisse(nt) préalablement l'équilibre, soit par des appels de fonds, soit par des remboursements
-partiels.
-Exercice social
-L'exercice social commence le premier juillet de chaque année et se clôture le trente juin de l'année
-suivante.
-Assemblée générale ordinaire
- L'assemblée générale ordinaire se réunit chaque année à l'initiative de la gérance ou des
-commissaires au siège social ou à l'endroit indiqué dans la convocation, le deuxième mardi du mois
-de décembre à dix-huit heures.
- Si ce jour est férié, l'assemblée se réunit le premier jour ouvrable suivant, à la même heure.
-Sauf dans les cas où la loi en décide autrement, chaque part sociale donne droit à une voix,
-l'assemblée délibère valablement quelle que soit la portion du capital représenté et les décisions sont
-prises à la majorité simple des voix.
-Désignation des personnes autorisées à gérer et leurs pouvoirs
-La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
+Le capital social est fixé à mille euros (1.000,00 €).
+Il est représenté par cent (100) parts sociales avec droit de vote sans mention de valeur nominale,
+représentant chacune un/centième de l'avoir social, intégralement souscrites et entièrement libérées
+en espèces par le comparant.
+7. GESTION – POUVOIRS DES GERANTS
+Tant que la société ne comporte qu'un seul associé, elle est administrée soit par l'associé unique,
+soit par une ou plusieurs personnes physiques, associées ou non, nommées avec ou sans limitation
+de durée, soit dans les statuts, soit par l'associé unique agissant en lieu et place de l'assemblée
 générale.
- L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat, leur rémunération et, s'ils
-sont plusieurs, leurs pouvoirs.
- S'il n'y a qu'un seul gérant, la totalité des pouvoirs attribués à la gérance lui sont dévolus.
- S'il y a plusieurs gérants, ils forment ensemble le conseil de gérance. Dans ce cas, chaque gérant a
-tous pouvoirs pour agir seul au nom de la société et représente la société à l'égard des tiers et en
-justice; il peut accomplir en son nom tous actes d'administration et de disposition; tout ce qui n'est
-pas expressément réservé par la loi ou les présents statuts à l'assemblée générale est de sa
-compétence.
- Chaque gérant peut constituer sous sa responsabilité des mandataires spéciaux pour des actes
-déterminés.
-Le contrat de société étant clôturé et les statuts sociaux étant arrêtés, les comparants ont pris, à
-terme, les décisions suivantes, lesquelles deviendront effectives lors de l'obtention par la société de
-la personnalité juridique, conformément à l'article 2 § 4 du Code des Sociétés :
-1) Gérants
- Les comparants décident de nommer deux (2) gérants, et appellent à ces fonctions, pour un terme
-indéterminé : Monsieur SCHNEIDER Tommaso, et Madame VANNELLI Chiara,  qui acceptent.
-Le mandat des gérants est exercé à titre non rémunéré.
-2) Commissaire
-Les comparants constatent et déclarent qu'il résulte d'estimations faites de bonne foi qu'à tout le
-moins pour son premier exercice, la société répondra aux critères énoncés à l'article 141, 2° du Code
-des Sociétés, du fait qu'elle est considérée comme "petite société" au sens de l'article 15 dudit Code.
-En conséquence, ils décident à l'unanimité de ne pas nommer de commissaire.
-3) Date de la clôture du premier exercice social
-Les comparants décident que le premier exercice social commencé le jour de l'acte de constitution
-se clôturera le trente juin deux mil dix-sept.
-4) Date de la première assemblée générale ordinaire
-Les comparants décident que la première assemblée générale ordinaire se tiendra en décembre
-deux mil dix-sept.
- 
- 
- 
- 
- 
- 
+En cas de pluralité d'associés, la société est administrée par un ou plusieurs mandataires, personnes
+physiques, associés ou non.
+S'il n'y a qu'un seul gérant, la totalité des pouvoirs de la gérance lui est attribuée. S'ils sont plusieurs
+et sauf organisation par l'assemblée d'un collège de gestion, chaque gérant agissant seul, peut
+accomplir tous les actes d'administration et de disposition qui intéressent la société sauf ceux que la
+loi réserve à l'assemblée générale.
+Chaque gérant représente la société à l'égard des tiers et en justice, soit en demandant, soit en
+défendant.
+Chaque gérant peut déléguer des pouvoirs spéciaux à tout mandataire.
+La société est également valablement représentée par les mandataires repris ci-dessus, désignés
+par procuration spéciale.
+8. ASSEMBLEE GENERALE – DROIT DE VOTE :
+Il est tenu chaque année, au siège social ou à l'endroit indiqué dans les convocations, une
+assemblée générale ordinaire le premier lundi du mois de juin  à dix-neuf heures. Si ce jour est férié,
+l'assemblée est remise au premier jour ouvrable suivant. S'il n'y a qu'un seul associé, c'est à cette
+même date qu'il signe pour approbation les comptes annuels.
+La première assemblée générale ordinaire aura donc lieu en deux mille dix-sept.
+Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois due
+l'intérêt social l'exige ou sur requête d'associés représentant le cinquième du capital social.
+Les convocations aux assemblées générales sont faites conformément à la loi.
+Toute personne peut renoncer à la convocation et, en tout cas, sera considérée comme ayant été
+régulièrement convoquée si elle est présente ou représentée à l'assemblée.
+L'assemblée générale peut se réunir par voie de conférence téléphonique ou vidéoconférence.
+L'assemblée générale est présidée par un gérant ou, à défaut, par l'associé présent qui détient le
+plus de parts.
+Sauf dans les cas prévus par la loi, l'assemblée statue quelle que soit la portion du capital
+représentée et à la majorité des voix.
+Dans les assemblées, chaque part donne droit à une voix sous réserve des dispositions légales.
+Sauf dans les cas prévus par la loi, tout associé peut donner à toute autre personne, associée ou
+non, par tout moyen de transmission, une procuration écrite pour le représenter à l'assemblée et y
+voter en ses lieu et place.
+En cas de démembrement du droit de propriété d'une part sociale entre usufruitier et nu(s)-
+propriétaire(s), les droits y afférents sont exercés par l'usufruitier.
+9. EXERCICE SOCIAL :
+L'exercice social commence le premier janvier et finit le trente et un décembre.
+Le premier exercice social débutera le jour du dépôt au greffe d'un extrait du présent acte et finira le
+trente et un décembre deux mille seize.
+10. RESERVE - REPARTITION DES BENEFICES :
+L'assemblée générale fait annuellement, sur les bénéfices nets, un prélèvement d'un quart au moins,
+affecté à la formation d'un fonds de réserve. Cette obligation de prélèvement existe jusqu'à ce que le
+fonds de réserve ait atteint le montant de la différence entre dix-huit mille cinq cent cinquante euros
+(18.550,00 €) et le capital souscrit.
+Toute réduction de capital est interdite aussi longtemps que la société a le statut de starter.
+Le solde est mis à la disposition de l'assemblée générale qui en détermine l'affectation, étant
+toutefois fait observer que chaque part sociale confère un droit égal dans la répartition des bénéfices.
+11. REPARTITION DU BONI DE LIQUIDATION : 
+Après le paiement ou la consignation des sommes nécessaires à l'apurement de toutes les dettes et
+charges et des frais de liquidation et, en cas d'existence de parts sociales non entièrement libérées,
+après rétablissement de l'égalité entre toutes les parts soit par des appels de fonds, soit par des
+distributions préalables aux profit des parts libérées dans une proportion supérieure, l'actif net est
+réparti entre tous les associés suivant le nombre de leurs parts sociales et les biens conservés leur
+sont remis pour être partagés dans la même proportion.
+12. PREMIERE ASSEMBLEE GENERALE :
 
 Bi
 jla
@@ -415,10 +414,10 @@ bl
 ad
  - 
 
-20
+04
 /0
 
-1/
+5/
 20
 
 16
@@ -461,31 +460,24 @@ au
 
 Mod PDF 11.1
 
- 
- 
-5) Délégation de pouvoirs
-Les comparants déclarent constituer pour mandataire spécial de la société, avec faculté de
-substitution, Monsieur SCHNEIDER Tommaso et/ou Madame VANNELLI Chiara,  aux fins de
-procéder à l'immatriculation de la présente société à la Banque Carrefour des Entreprises. A ces fins,
-le mandataire pourra au nom de la société, faire toutes déclarations, signer tous documents et pièces
-et, en général, faire le nécessaire auprès de toute administration et/ou société généralement
-quelconque.
- 
-6) Reprise d'engagements pris au nom de la société en formation
-Les comparants déclarent, conformément à l'article 60 du code des Sociétés, reprendre et
-homologuer, au nom de la société présentement constituée, tous les actes, opérations et facturations
-effectués au nom de la société en formation, par eux-mêmes ou leurs préposés depuis le premier
-juillet deux mil quinze.
-Les expéditions et extraits sont déposés avant enregistrement de l’acte dans l’unique but du dépôt
-au Greffe du Tribunal de Commerce et pour les formalités en rapport avec l’obtention du numéro
-d’entreprise.
-POUR EXTRAIT ANALYTIQUE CONFORME
- 
- 
- 
+1. Gérance.
+Est appelé aux fonctions de gérant non statutaire pour une durée illimitée :
+- Monsieur PEQUENO FERNANDES LIMA Alberto.
+Le mandat du gérant est gratuit.
+2. Commissaire.
+Compte tenu des critères légaux, les comparants décident de ne pas nommer de commissaire.
+3. Tous pouvoirs sont conférés à la société civile sous forme de société privée à responsabilité
+limitée "B.E.C.F. Fisc-Audit", dont le siège social est établi à Jette (1090 Bruxelles), rue Van
+Bortonne 44, représentée par Monsieur PINON Santalla Fernando, aux fins d'accomplir toutes
+formalités en vue de l'inscription de la société auprès de la Banque-Carrefour des Entreprises,
+auprès de l’administration de la taxe sur la valeur ajoutée et pour l’accomplissement de toutes autres
+démarches administratives.
 
-Dimitri CLEENEWERCK de CRAYENCOUR, Notaire associé.
-Déposé en même temps: expédition conforme de l'acte.
+POUR EXTRAIT ANALYTIQUE CONFORME.
+Catherine HATERT,
+Notaire
+Déposé simultanément une expédition de l’acte.
+ 
 
 Bi
 jla
@@ -514,10 +506,10 @@ bl
 ad
  - 
 
-20
+04
 /0
 
-1/
+5/
 20
 
 16

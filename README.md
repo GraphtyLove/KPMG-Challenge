@@ -6,12 +6,12 @@ A challenge from [KPMG](https://home.kpmg/be/en/home.html) for our datascientist
 
 Scrap data and status from a maximum of enterprises in Belgium.
 
-Then, extract meta-data.
-Then, for the scanned documents, extract the text with some OCR.
-Then, if the document is not in english, translate it.
-Then, identify articles.
-Then, classify them.
-Then, put everythink in a database.
+- Then, extract meta-data.
+- Then, for the scanned documents, extract the text with some OCR.
+- Then, if the document is not in english, translate it.
+- Then, identify articles.
+- Then, classify them.
+- Then, put everythink in a database.
 
 ## Team:
 

@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-BAKKERIJ HASS
+PROMAZINC
 
-Rue Vanderstraeten 40
-1080 Molenbeek-Saint-Jean
+Rue des Ardennes,Wolkrange 89
+6780 Messancy
 
-Société privée à responsabilité limitéeForme juridique :
+Société anonymeForme juridique :
 
 Dénomination
 
 Constitution
 
-Il résulte d'un acte reçu le premier décembre deux mille seize, par Maître Peter VAN MELKEBEKE,
-Notaire à Bruxelles, 
-que :
-1) Monsieur BOUGHAF El Hassan, domicilié à 9400 Ninove, Ooststraat 1 ; et,
-2) Monsieur Boughaf Brahim, domicilié à 1600 Sint-Pieters-Leeuw, Wilgenhofpark 55,
-ont constitué la société suivante :
-FORME - DENOMINATION.
-La société revêt la forme d'une société privée à responsabilité limitée, et est dénommée "BAKKERIJ
-HASS".
-SIEGE SOCIAL.
-Le siège est établi à 1080 Molenbeek-Saint-Jean, Rue Vanderstraeten 40.
-OBJET.
-La société a pour objet, tant en Belgique qu'à l'étranger, exclusivement en son propre nom et pour
-son propre compte, l'exploitation d'une boulangerie/pâtisserie, et salon de consommation, ainsi que
-la vente, l'achat, l'import, l'export, la distribution, la commercialisation, la fabrication, la conception, la
-préparation, et le commerce en général de tous produits ayant un rapport avec la boulangerie, la
-boulangerie de banquet, les biscuits, les tartes, les pralines, les sucreries, et tous produits
-alimentaires au sens le plus large.
-La société a également comme objet: a) exclusivement en son propre nom et pour son propre
-compte: la construction, le développement et la gestion du patrimoine immobilier; toutes les
-opérations, oui ou non sous le système de la TVA, relatives aux biens immobiliers et aux droits
-immobiliers, tels que l'achat et la vente, la construction, la rénovation, l'aménagement et la
-décoration d'intérieur, la location ou la prise en location, l'échange, le lotissement et, en général,
-toutes les opérations qui sont liées directement ou indirectement à la gestion ou à l'exploitation de
-biens immobiliers ou de droits réels immobiliers; b) exclusivement en son propre nom et pour son
-propre compte: la construction, le développement et la gestion d'un patrimoine mobilier ; toutes les
-opérations relatives à des biens et des droits mobiliers, de quelque nature que ce soit, tels que la
-vente et l'achat, la location et la prise en location, l'échange, en particulier la gestion et la valorisation
-de tous biens négociables, actions, obligations, fonds d'État; c) exclusivement en son propre nom et
-pour son propre compte: faire des emprunts et consentir des prêts, crédits, financements et la
-négociation de contrats de leasing, dans le cadre des buts décrits ci-dessus.
-À cet effet, la société peut collaborer et prendre part, ou prendre un intérêt dans d'autres entreprises,
-directement ou indirectement, de quelque manière que ce soit.
-La société peut donner caution tant pour ses propres engagements que pour les engagements de
-tiers, entre autres en donnant ses biens en hypothèque ou en gage, y compris son propre fonds de
-commerce.
-La société peut d'une façon générale accomplir toutes opérations commerciales, industrielles,
-financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social
+~~Extrait de l’acte reçu par le notaire associé Pierre NICAISE  à Grez-Doiceau, en date du 29 avril
+2016, en cours d’enregistrement.
+En tant que fondateur :
+1. La société anonyme "PROMACO", dont le siège social est établi à 6780 Messancy (Wolkrange),
+rue des Ardennes, 89. Société immatriculée auprès de la Banque-Carrefour des entreprises sous le
+numéro 0452.311.592. .
+En tant que souscripteur :
+2. La société anonyme "ARMA ", dont le siège social est établi à 6780 Messancy, route des
+Ardennes, 89. Société dont le numéro d’entreprises est le 0423.980.367.
+A.  CONSTITUTION
+Les comparants déclarent souscrire les 100 actions, en espèces, au prix de 750,- euros  chacune,
+comme suit :
+- par la société anonyme PROMACO : 99 actions, soit 74.250,- euros ;
+- par la société anonyme ARMA : 1 action, soit 750,- euros.
+Soit ensemble 100 actions ou l'intégra¬lité du capital.
+Les comparants déclarent et reconnaissent que chacune des actions ainsi souscrites a  été libérée
+entièrement par un versement en espèces et que le montant de ces versements, soit  septante-cinq
+mille euros (€ 75.000,00) euros, a été déposé à un compte spécial ouvert au nom de la société en
+formati¬on auprès de la Banque CBC .Une attestation de ladite banque en date du 27  avril 2016,
+justifiant ce dépôt, a été remise au notaire associé soussigné par les comparants.
+B. STATUTS
+FORME-DENOMINATION
+La société adopte la forme de la société anonyme.
+Elle est dénommée "PROMAZINC ».
+SIEGE
+Le siège social est établi à  6780 Messancy, rue des Ardennes 89
+OBJET
+La société a pour objet  tant en Belgique et  qu’à l'étranger, dans la mesure ou il est satisfait aux
+règles relatives aux accès à la profession, soit par l'entreprise, soit par ses sous-traitants :
+- la transformation, la promotion, la commercialisation, la distribution, l'achat et la vente de tous
+produits de zinc, d'autres métaux non-ferreux et d'accessoires, destinés principalement à la
+construction de bâtiments;
+- l'analyse et le développement des marchés spécifiques à ces produits ;
+- le service de conseil et l'assistance technique pour l'utilisation appropriée de ces produits et
+accessoires.
+ Elle pourra s'intéresser par voie d'apports, de fusion ou d'absorption  ou  de  toutes  autres 
+manières,  a  toutes autres entreprises  ayant un objet similaire, connexe ou annexe de nature à
+faciliter la réalisation de son objet social.
 
- *16324818*
+ *16309699*
 Déposé
-02-12-2016
+29-04-2016
 
-0666918352
+0652973712
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-06
-/1
+03
+/0
 
-2/
+5/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-ou qui seraient de nature à en faciliter la réalisation.
-DUREE.
-La société est constituée pour une durée illimitée et commence ses opérations à la date du premier
-décembre deux mille seize.
-CAPITAL.
-Le capital est entièrement souscrit et est fixé à dix-huit mille six cents euros (€ 18.600,00).
-Il est représenté par cent (100) parts sociales sans mention de valeur.
-Les parts sociales sont souscrites en espèces, comme suit :
-- par Monsieur BOUGHAF El Hassan, à concurrence de 70 parts sociales ;
-- par Monsieur Boughaf Brahim, à concurrence de 30 parts sociales.
-Total : 100 parts sociales.
-Chacune des parts sociales souscrites a été libérée à concurrence d'un tiers.
-Le capital a été libéré à concurrence de six mille deux cents euros (€ 6.200,00).
-ATTESTATION BANCAIRE.
-Les susdits apports en espèces ont été déposés, conformément à l'article 224 du Code des sociétés,
-sur un compte spécial numéro BE68 0017 9964 4434 ouvert au nom de la société en formation
-auprès de la banque BNP Paribas Fortis ainsi qu'il résulte d'une attestation délivrée par cette
-institution financière, le 10 novembre 2016. Cette attestation a été remise au notaire qui la gardera
-dans son dossier.
-ASSEMBLEE GENERALE.
-L'assemblée générale ordinaire des associés se réunit annuellement le premier lundi du mois de juin
-à dix-huit heures.
-Si ce jour est un jour férié légal, l'assemblée a lieu le jour ouvrable suivant.
-L'assemblée générale ordinaire se tient au siège de la société ou dans la commune du siège de la
-société. Elle peut également se tenir dans une des dix-neuf communes de la Région Bruxelles-
-Capitale.
-REPRESENTATION
-Tout associé empêché peut, donner procuration à une autre personne, associé ou non, pour le
-représenter à une réunion de l'assemblée. Les procurations doivent porter une signature (en ce
-compris une signature digitale conformément à l'article 1322, paragraphe 2 du Code civil).
-Les procurations doivent être communiquées par écrit, par fax, par e-mail ou tout autre moyen
-mentionné à l'article 2281 du code civil et sont déposées sur le bureau de l'assemblée. En outre, le
-gérant peut exiger que celles-ci soient déposées trois jours ouvrables avant l'assemblée à l'endroit
-indiqué par lui.
-Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
-l'application de cet article.
-LISTE DE PRESENCE.
-Avant de participer à l'assemblée, les associés ou leurs mandataires sont tenus de signer la liste de
-présence, laquelle mentionne le nom, les prénoms et l'adresse ou la dénomination sociale et le siège
-social des associés et le nombre de parts sociales qu'ils représentent.
-DROIT DE VOTE
-Chaque part sociale donne droit à une voix.
-Le vote par écrit est admis. Dans ce cas la lettre dans laquelle le vote est émis doit mentionner
-chaque poste de l'ordre du jour et les mots "accepté" ou "rejeté" doivent être manuscrits et suivis de
-la signature, le tout de la même main; cette lettre doit être adressée à la société par envoi
-recommandé et elle sera délivrée au siège au moins un jour avant l'assemblée.
-ADMINISTRATION.
-La société est administrée par un ou plusieurs gérants, personnes physiques ou personnes morales,
-associés ou non.
-Lorsqu'une personne morale est nommée gérant, celle-ci est tenue de désigner parmi ses associés,
-gérants, administrateurs ou travailleurs, un représentant permanent, personne physique, chargé de
-l'exécution de cette mission au nom et pour le compte de la personne morale.
-La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
-règles de publicité que s'il exerçait cette mission en nom et pour compte propre.
-Le(s) gérant(s) sont nommés par l'assemblée générale pour une durée à déterminer par elle.
-POUVOIRS DES GERANTS.
-Les gérants peuvent accomplir tous actes nécessaires ou utiles à la réalisation de l'objet social, à
-l'exception de ceux réservés par le Code des sociétés à l'assemblée générale.
-En cas d'existence de deux gérants ils exerceront l'administration conjointement.
-En cas d'existence de trois ou de plusieurs gérants, ils formeront un collège qui désigne un président
-et qui, par la suite, agira comme le fait une assemblée délibérante.
-Les gérants peuvent par procuration spéciale déléguer une partie de leurs pouvoirs à un préposé de
-la société. S'il existe plusieurs gérants, cette procuration sera donnée conjointement.
+ Pour son propre compte, elle a aussi pour objet la constitution et la gestion d'un patrimoine
+immobilier et la location-financement de biens immeubles aux tiers, l'acquisition par l'achat ou
+autrement, la vente, l'échange, la construction, la transformation, l'amélioration, l'équipement,
+l'aménagement, l'embellissement, l'entretien, la location, la prise en location, le lotissement, la
+prospection et l'exploitation de biens immobiliers, ainsi que toutes opérations qui, directement ou
+indirectement sont en relation avec cet objet et qui sont de nature à favoriser l'accroissement et le
+rapport d'un patrimoine immobilier, de même que se porter caution pour la bonne fin d'engagements
+pris par des tiers qui auraient la jouissance de ces biens immobilier.
+ Elle peut accomplir d'une manière générale toutes opérations industrielles et commerciales,
+financiè¬res et civiles, mobilières et immobilières ayant un rapport direct ou indirect avec son objet et
+pouvant en faciliter directe¬ment ou indirectement, entièrement ou partiellement, la réalisa¬tion.
+ Elle peut s'inté¬resser par voie d'asso¬ciation, d'apport, de fusion, d'intervention finan¬cière ou
+autrement dans toutes sociétés, associations ou entreprises dont l'objet est analogue ou connexe au
+sien ou susceptible de favori¬ser le développement de son entreprise ou de constituer pour elle une
+source de débouchés.
+ Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions.
+CAPITAL - ACTIONS
+Le capital social est fixé à septante-cinq mille euros (€ 75.000,00).
+Il est représenté par 100 actions sans désignation de valeur nominale.
+Tous les titres de la société sont nominatifs. Ils portent un numéro d’ordre.
+Il est tenu au siège social un registre pour chaque catégorie de titres nominatifs. Tout titulaire de
+titres peut prendre connaissance du registre relatif à ses titres.
+ En cas de démembrement du droit de propriété d'une ac¬tion, les droits y afférents sont exercés par
+l'usufruitier.
+ADMINISTRATION SURVEILLANCE.
+La société est administrée par un conseil de trois administrateurs au moins, nommés pour six ans au
+plus par l'as¬semblée générale des actionnaires, et rééligibles.
+Toutefois, dans les cas prévus par la loi, la composition du conseil d'administration peut être limitée à
+deux membres.
+Si une personne morale est nommée administrateur ou membre du comité de direction, elle devra
+désigner parmi ses associés, gérants, administrateurs, membres du conseil de direction ou
+travailleurs, un représentant permanent chargé de l’exécution de cette mission au nom et pour le
+compte de la personne morale. Ce représentant est soumis aux mêmes conditions et encourt les
+mêmes responsabilités civiles et pénales que s’il exerçait cette mission en nom et pour compte
+propre, sans préjudice de la responsabilité solidaire de la personne morale qu’il représente.
+Sauf décision contraire de l'assemblée générale, le mandat d'administrateur est gratuit.
+Le conseil d'administration peut élire, parmi ses membres, un président.
+Il peut déléguer ses pouvoirs de gestion à un comité de direction, sans que cette délégation puisse
+porter sur la politique générale de la société ou sur l’ensemble des actes réservés au conseil
+d’administration en vertu de la loi. Si un comité de direction est institué, le conseil d’administration est
+chargé de surveiller celui-ci.
+Le conseil d’administration peut, en outre, déléguer la gestion journalière de la société à une ou
+plusieurs personnes, administrateurs ou non.
+Il peut, enfin, déléguer à toute personne des pouvoirs spéciaux et limités.
+Le conseil d'administration se réunit, en Belgique ou à l'étranger, sur convocation de son président
+ou de deux administrateurs.
+Les convocations sont écrites ou verbales, et sont faites par tout moyen de transmission. Tout
+administrateur peut renoncer à la convocation et, en tout cas, sera considéré comme ayant été
+régulièrement convoqué s'il est présent ou représenté à la réunion.
+Le conseil d'administration ne peut délibérer et statuer valablement que si la moitié au moins de ses
+membres est présente ou représentée.
+Tout administrateur empêché ou absent, peut donner, par écrit, par tout moyen de transmis¬sion, à
+un de ses collè¬gues, déléga¬tion pour le représ¬enter aux réunions du conseil et y voter en ses lieu
+et place. Le mandant est, dans ce cas, réputé présent.
+Dans les cas prévus par la loi, les décisions du conseil d'administration peuvent être prises par
+consentement unanime des administrateurs exprimé par écrit.
+Les décisions du conseil d’administration sont prises à la majorité simple des voix, sans tenir compte
+des abstentions. En cas de partage, la voix de celui qui préside la réunion est prépondérante.
+Toutefois, si le conseil d’administration est composé de deux membres, la voix de celui qui préside la
+réunion cesse d’être prépondérante jusqu’à ce que le conseil d’administration soit à nouveau
+composé de trois membres au moins.
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-06
-/1
+03
+/0
 
-2/
+5/
 20
 
 16
@@ -324,65 +324,69 @@ au
 
 Mod PDF 11.1
 
-Le(s) gérant(s) règlent entre eux l'exercice de la compétence.
-REPRESENTATION.
-Chaque gérant - aussi lorsqu'il y en a plusieurs - représente la société vis-à-vis de tiers, ainsi qu'en
-justice, tant comme demandeur que comme défendeur.
-La société est en même temps engagée valablement par tout représentant désigné par procuration
-spéciale.
-EXERCICE SOCIAL.
-L'exercice social commence le premier janvier pour se terminer le trente et un décembre de chaque
-année.
-DISTRIBUTION.
-Sur le bénéfice net il est prélevé au moins un vingtième pour la réserve légale. Ce prélèvement
-cesse d'être obligatoire lorsque le fonds de réserve atteint le dixième du capital social.
-Il est décidé annuellement par l'assemblée générale, sur proposition des gérants, sur la destination à
-donner à l'excédent.
-Aucune distribution ne peut être faite lorsqu'à la date de clôture du dernier exercice, l'actif net tel qu'il
-résulte des comptes annuels, est ou devient à la suite d'une telle distribution, inférieur au montant du
-capital libéré, augmenté de toutes les réserves que la loi ou les statuts ne permettent pas de
-distribuer.
-DISSOLUTION - LIQUIDATION.
-Lors de la dissolution avec liquidation, le(s) liquidateur(s) est/sont, le cas échéant, nommé(s) par
-l'assemblée générale.
-La nomination du/des liquidateur(s) doit être soumise au président du tribunal de commerce pour
-confirmation, conformément à l'article 184, §2 du Code des sociétés.
-Ils disposent de tous les pouvoirs prévus aux articles 186 et 187 du Code des sociétés, sans
-autorisation spéciale de l'assemblée générale. Toutefois, l'assemblée générale peut à tout moment
-limiter ces pouvoirs par décision prise à une majorité simple de voix.
-Tous les actifs de la société seront réalisés, sauf si l'assemblée générale en décide autrement.
-Si les parts sociales ne sont pas toutes libérées dans une égale proportion, les liquidateurs
-rétablissent l'équilibre, soit par des appels de fonds complémentaires, soit par des remboursements
-préalables.
-DISPOSITIONS TRANSITOIRES.
-NOMINATION DES GERANTS NON-STATUTAIRES
-Les fondateurs ont décidé de nommer à la fonction de premier gérant non statutaire, et ceci pour une
-durée illimitée :
-- par Monsieur BOUGHAF El Hassan, domicilié à 9400 Ninove, Ooststraat 1 ; et,
-- par Monsieur BOUGHAF Brahim, domicilié à 1600 Sint-Pieters-Leeuw, Wilgenhofpark 55.
-Leur mandat est non rémunéré.
-PREMIER EXERCICE SOCIAL.
-Le premier exercice social commence le premier décembre deux mille seize et prend fin le 31
-décembre 2017.
-PREMIERE ASSEMBLEE GENERALE ORDINAIRE.
-La première assemblée générale ordinaire se tiendra en 2018.
-PROCURATION REGISTRE DES PERSONNES MORALES, ADMINISTRATION TVA et BANQUE
-CARREFOUR DES ENTREPRISES
-Tous pouvoirs ont été conférés à Monsieur BOUGHAF El Hassan, Monsieur Boughaf Brahim, tous
-deux prénommés, chacun agissant séparément, ainsi qu'à ses employés, préposés et mandataires,
-avec droit de substitution, afin d'assurer les formalités auprès du registre des personnes morales et,
-le cas échéant, auprès de l'Administration de la Taxe sur la Valeur Ajoutée, ainsi qu'à un guichet
-d'entreprise en vue d'assurer l'inscription/la modification des données dans la Banque Carrefour des
-Entreprises.
- 
-POUR EXTRAIT ANALYTIQUE CONFORME.
-(Déposés en même temps que l'extrait : une expédition de l'acte).
-Cet extrait est délivré avant enregistrement conformément à l'article 173,1° bis du Code des Droits
-d'Enregistrement.
- 
-Peter VAN MELKEBEKE
-Notaire
- 
+Le Conseil d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la
+réalisation de l'objet social, à l'exception de ceux que la loi ou les statuts réservent à l'assemblée
+générale.
+La société est représentée dans tous les actes, y compris ceux où interviennent un fonctionnaire
+public ou un officier ministériel et en justice, soit par l’administrateur-délégué agissant seul, soit par
+deux adminis¬trateurs conjointement. Elle est en outre représentée par toute autre personne
+agissant dans les limites des pouvoirs délégués par ou en vertu d'une décision du conseil d'admi-
+nistration.
+CONTRÔLE
+Lorsque la loi l'exige et dans les limites qu'elle prévoit, le contrôle de la société est assuré par un ou
+plusieurs commissaires, nommés pour trois ans et rééligi¬bles.
+ASSEMBLEES GENERALES.
+L'Assemblée Générale ordinaire se réunit annuellement le 1er lundi de DECEMBRE à 18 heures.
+Si ce jour est un jour férié légal, l'Assemblée a lieu le jour ouvrable suivant, même endroit, même
+heure.
+Les assemblées se réunissent au siège social ou à l'endroit indiqué dans la convocation, à l'initiative
+du conseil d'administration ou des commissaires.
+Les convocations sont faites conformément à la loi.
+Tout personne peut renoncer à cette convocation et, en tout cas, sera considérée comme ayant été
+régulièrement convoquée si elle est présente ou représentée à l'assemblée.¬
+Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
+semaines au plus par le conseil d’administration. Cette prorogation annule toute décision prise. La
+seconde assemblée délibèrera sur le même ordre du jour et statuera définitivement.
+Sauf dans les cas prévus par la loi, les décisions sont prises, quel que soit le nombre de titres
+représentés à l'assemblée, à la majorité des voix.
+Tout actionnaire peut donner à toute autre personne, actionnaire ou non, par tout moyen de
+transmission, une procuration écrite pour le représenter à l'assemblée et y voter en ses lieu et place.
+L'assemblée générale est présidée par le président du conseil d'administration ou, à défaut, par une
+personne désignée par l'assemblée.
+Le président peut désigner un secrétaire.
+L'assemblée peut choisir, parmi ses membres, un ou plusieurs scrutateurs.
+Chaque action donne droit à une voix.
+ECRITURES   AFFECTATION DES RESULTATS.
+L'exercice social commence le premier JUILLET et se termine le trente JUIN de chaque année.
+L'assemblée générale annuelle statue sur les comptes annuels et sur les affectations et
+prélèvements. Elle affecte à la réserve légale une dotation de cinq pour cent au moins des bénéfices
+nets de l'exercice. Cette affecta¬tion cesse d'être obligatoire lorsque la réserve légale atteint dix pour
+cent du capital social.
+Le conseil d'administration peut décider le paiement d'acomptes sur dividendes.
+DISSOLUTION   LIQUIDATION.
+En cas de dissolution de la société pour quelque raison que ce soit et à n'importe quel moment, la
+liquidation s'opère par les liquidateurs nommés par l'assemblée géné¬rale.
+A défaut de nomination, la liquidation se fait par les administrateurs en fonction qui agissent en
+qualité de comi¬té de liquidation.
+A cette fin les liquidateurs disposent des pouvoirs les plus étendus prévus par la loi.
+L'assemblée fixe la rémunération des liquidateurs.
+La nomination du liquidateur ou des liquidateurs doit être soumise au président du tribunal pour
+confirmation.
+Après payement de toutes les dettes, charges et frais de liquidation, ou après consignation des
+montants à cette fin, les liquidateurs répartissent l'actif net en espèces ou en titres, entre les
+actionnaires au prorata du nombre d'actions qu'ils possèdent.
+En outre les biens qui subsistent en nature sont répar¬tis de la même façon.
+Si toutes les actions ne sont pas libérées de la même façon les liquidateurs doivent rétablir l'équilibre
+avant de pro¬céder au partage précité, en mettant toutes les actions sur pied d'égalité, soit en
+inscrivant des verse¬ments supplémen¬taires à charge des actions qui ne sont pas suffisamment
+libérées, soit en remboursant en espèces ou en titres les actions libérées dans des proportions
+supérieu¬res.
+C. DISPOSITIONS TRANSITOIRES
+Le premier exercice social débutera le jour du dépôt d’un extrait du présent acte au greffe du tribunal
+de commerce et se termine¬ra le 30 juin 2017.
+La première assemblée générale annuelle se tiendra en décembre 2017.
+Les comparants décident de fixer le nombre d'administrateurs à deux et appellent à cette fonction,
+pour un terme de six ans:
 
 Bi
 jla
@@ -411,10 +415,110 @@ bl
 ad
  - 
 
-06
-/1
+03
+/0
 
-2/
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+- la société anonyme PROMACO, qui désigne en application de l’article 61§2 du Code des sociétés
+en qualité de représentant permanent, Monsieur Christophe John, qui accepte ;
+- la société anonyme ARMA, qui désigne en application de l’article 61§2 du Code des sociétés en
+qualité de représentant permanent, Monsieur Michel Fauconnier, qui accepte.
+présents et qui acceptent.
+Le mandat des administrateurs est gratuit.
+Compte tenu des critères légaux, les comparants décident de ne pas nommer de commissaire-
+reviseur.
+La société privée à responsabilité limitée OUTCOME, représentée par Madame GETTEMAN ou
+Monsieur DE SMET, ayant son siège social à 1150 Woluwe-Saint-Pierre, avenue des Camélias 10,
+ou toute autre personne désignée par elle, est désignée en qualité de mandataire ad hoc de la
+société, afin de signer tous docu¬ments et de faire toutes les déclarations néces¬saires et toutes
+formalités d’inscription auprès de toutes administrations publiques et privées (Banque-Carrefour des
+Entreprises et Taxe sur la Valeur Ajoutée compris)
+Aux effets ci-dessus, le mandataire ad hoc aura le pouvoir de prendre tous engagements au nom de
+la société, faire telles déclarations qu'il y aura lieu; signer tous docu¬ments et en général faire tout ce
+qui sera utile ou néces¬saire pour l'exécution du mandat lui confié.
+CONSEIL D'ADMINISTRATION
+A l'unanimité, le conseil décide d'appeler aux fonc¬tions de président et d'administrateur-délégué, la
+société anonyme ARMA, qui a désigné en application de l’article 61§2 du Code des sociétés en
+qualité de représentant permanent, Monsieur Michel Fauconnier, qui accepte.
+En sa qualité d'administrateur-délégué, elle est chargée de la gestion journalière de la société et de
+la représen¬tation de la société en ce qui concerne cette gestion.
+Pour extrait analytique conforme,
+Pierre NICAISE , Notaire associé
+Déposé en même temps : expédition  électronique de l’acte.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+03
+/0
+
+5/
 20
 
 16

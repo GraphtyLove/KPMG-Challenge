@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-AUTOS PNEUS NOURI
+SC TECHNICOM
 
-Rue de Visé 481
-4020 Liège
+Rue Belvaux 153
+4030 Liège
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,31 +69,36 @@ Dénomination
 
 Constitution
 
-D’un acte reçu le 2 juin 2016 par Maître Aline Hugé, Notaire associé de la société civile ayant pris la
+D’un acte reçu le 26 mai 2016 par Maître Aline Hugé, Notaire associé de la société civile ayant pris la
 forme d'une société privée à responsabilité limitée « Mottard & Hugé - Notaires associés », à Liège,
 en cours d’enregistrement, il apparaît que :
-1. Monsieur NOURI Mohammed Saïd, né à Liège, le vingt et-un juillet mille neuf cent nonante-deux,
-célibataire, déclarant ne pas avoir fait de déclaration de cohabitation légale, domicilié à 4430 Ans,
-Rue Gilles Magnée, 164.
-2. Monsieur NOURI Helal Din, né à Liège,le vingt et-un juillet mille neuf cent nonante-deux,
-célibataire, déclarant ne pas avoir fait de déclaration de cohabitation légale, domicilié à 4430 Ans,
-Rue Gilles Magnée, 164.
-Ont constitué une société privée à responsabilité limitée, sous la dénomination de «AUTOS PNEUS
-NOURI».
+1. Monsieur SLIMANI Yassir, né à Hasselt, le dix avril mille neuf cent quatre-vingt-cinq, époux de
+Madame EL HAJJI Yousra, domicilié 4020 Liège, Quai de la Boverie, 102/0091.
+2. Monsieur CAN Burhan, né à Liège,le vingt-huit juin mille neuf cent quatre-vingt-six, célibataire,
+déclarant ne pas avoir fait de déclaration de cohabitation légale, domicilié à 4030 Liège, Rue
+Belvaux, 153
+Ont constitué une société privée à responsabilité limitée, sous la dénomination de «SC
+TECHNICOM».
 SIÈGE SOCIAL
-Le siège social est établi à 4020 Wandre, rue de Visé, 481.
+Le siège social est établi à 4030 Liège, Rue Belvaux, 153
+Il pourra être transféré en tout autre endroit, par simple décision de la gérance, qui devra être publiée
+aux annexes du Moniteur Belge.
 OBJET
 La société a pour objet, tant en Belgique qu'à l'étranger, pour son compte ou pour le compte d'autrui,
-toutes opérations se rapportant directement ou indirectement à :
-- l’importation, l’exportation, l’achat-vente de pneumatiques et accessoires automobiles, en gros ou
-au détail, avec ou sans montage,
-- l’entretien et la réparation d’automobiles et autres véhicules automobiles légers (3,5 tonnes),
-- l’importation, l’exportation, l’achat-vente de véhicules d’occasion ;
-- la location de plaques d’immatriculation de type Z ;
-- le dépannage ;
-- l’exploitation d’un car-wash ;
--toutes activités liées à la carrosserie ;
-- toutes activités dépendant de l’exploitation d’un garage, achat-vente, concession de véhicules.
+toutes opérations se rapportant directement ou indirectement à toutes activités dans les domaines de
+la téléphonie, d’internet et de l’électricité, et notamment :
+-La sous-traitance pour les fournisseurs d’accès à la téléphonie et internet,
+-L’achat, la vente, l’importation et l’exportation de tous types de matériels, tant électriques
+qu’électroniques,
+-La vente de tous types de contrats,
+- L’installation de systèmes de télécommunication et les installations informatiques,
+- L’achat et la vente et la réparation de tout matériel et appareillage électrique, le placement
+l’entretien et la réparation  de tous câbles électriques et téléphoniques ainsi que le pointage, la vente
+la fourniture, l’installation, la maintenance, la réparation, la modification et l’extension de centrales
+téléphoniques, de centrales d’alarme, de centrales de télémétrie, de centrales de télétransmission et
+des appareillages, accessoires et périphériques de cuivre et en fibre optique,
+- Electricité générale,
+- Dépannage informatique.
 Elle pourra aussi se livrer en Belgique ou à l'étranger, d'une manière générale et sans que
 l'énumération qui va suivre soit limitative, à toutes exploitations et opérations commerciales et
 industrielles, financières et civiles, mobilières et immobilières ayant un rapport quelconque direct ou
@@ -102,17 +107,12 @@ d'apport ou de fusion, de souscription, de participation, d'intervention financi
 toutes les sociétés ou entreprises existantes ou à créer, dont l'objet social serait analogue ou
 connexe au sien ou qui seraient susceptibles pour elle de favoriser son développement.
 Elle pourra assurer la représentation, sur le territoire belge, de sociétés étrangères, accomplir toutes
-formalités légales, nouer des relations avec les autorités fédérales et régionales, exercer, pour toutes
-sociétés, des mandats d’administrateur, gérance et bureau d’administration.
-Elle peut notamment se porter caution et donner toute sûreté personnelle ou réelle en faveur de
-toute personne ou société liée ou non.
-Il est précisé par les fondateurs que toute activité ci-dessus nécessitant un accès à la profession
 
- *16312058*
+ *16311419*
 Déposé
-03-06-2016
+26-05-2016
 
-0655921621
+0655688227
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-07
+30
 /0
 
-6/
+5/
 20
 
 16
@@ -187,11 +187,16 @@ au
 
 Mod PDF 11.1
 
+formalités légales, nouer des relations avec les autorités fédérales et régionales, exercer, pour toutes
+sociétés, des mandats d’administrateur, gérance et bureau d’administration.
+Elle peut notamment se porter caution et donner toute sûreté personnelle ou réelle en faveur de
+toute personne ou société liée ou non.
+Il est précisé par les fondateurs que toute activité ci-dessus nécessitant un accès à la profession
 et/ou règlementée ne sera exercée qu’à compter du moment où un membre actif de la présente
 société aura accès à ladite activité et/ou remplira les conditions règlementaires.
 CAPITAL
-Le capital social souscrit est fixé à, représenté par cent (100) parts sociales nominatives sans
-désignation de valeur nominale. 
+Le capital social souscrit est fixé à DIX-HUIT MILLE SIX CENTS (18.600,00) EUROS, représenté par
+cent (100) parts sociales nominatives sans désignation de valeur nominale.
 Le capital est libéré à concurrence d’un tiers.
 Les parts sociales sont nominatives.
 GÉRANCE
@@ -245,11 +250,6 @@ siège de la société ou en tout autre endroit indiqué dans les convocations, 
 du ou des gérants et, le cas échéant, du commissaire, approuver les comptes annuels et en général
 sur tous les points à l'ordre du jour.
 Les convocations pour toute assemblée générale contiennent l'ordre du jour avec l'indication des
-sujets à traiter.
-Elles sont faites par lettres recommandées envoyées quinze jours avant l'assemblée aux associés,
-porteurs d'obligation, commissaires et gérants.
-En même temps que la convocation à l'assemblée générale, il est adressé aux associés, porteurs
-d'obligation, commissaires et gérants une copie des documents qui doivent leur être transmis en
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-07
+30
 /0
 
-6/
+5/
 20
 
 16
@@ -324,6 +324,11 @@ au
 
 Mod PDF 11.1
 
+sujets à traiter.
+Elles sont faites par lettres recommandées envoyées quinze jours avant l'assemblée aux associés,
+porteurs d'obligation, commissaires et gérants.
+En même temps que la convocation à l'assemblée générale, il est adressé aux associés, porteurs
+d'obligation, commissaires et gérants une copie des documents qui doivent leur être transmis en
 vertu du Code des Sociétés.
 Il est tenu à chaque assemblée générale une liste des présences.
 Les gérants répondent aux questions qui leur sont posées par les associés au sujet de leur rapport
@@ -382,11 +387,6 @@ solidaire de toutes les obligations de la société nées après la réunion de 
 mains jusqu'à l'entrée d'un nouvel associé dans la société ou la publication de sa dissolution.
 Le décès de l'associé unique n'entraîne pas la dissolution de la société. Sans préjudice de ce qui est
 prévu dans le Code des Sociétés et sauf dispositions contraires des statuts, les droits afférents aux
-parts sociales sont exercés par les héritiers et légataires régulièrement saisis ou envoyés en
-possession, proportionnellement à leurs droits dans la succession, jusqu'au partage desdites parts
-ou jusqu'à la délivrance des legs portant sur celles-ci.
-SOUSCRIPTION-LIBERATION
-Les cent (100) parts sociales sont à l’instant souscrites en numéraire par :
 
 Bi
 jla
@@ -415,10 +415,10 @@ bl
 ad
  - 
 
-07
+30
 /0
 
-6/
+5/
 20
 
 16
@@ -461,17 +461,22 @@ au
 
 Mod PDF 11.1
 
-1.  Monsieur NOURI Helal, à concurrence de nonante-cinq parts sociales,
-2. Monsieur NOURI Mohammed, à concurrence de cinq parts sociales, 
+parts sociales sont exercés par les héritiers et légataires régulièrement saisis ou envoyés en
+possession, proportionnellement à leurs droits dans la succession, jusqu'au partage desdites parts
+ou jusqu'à la délivrance des legs portant sur celles-ci.
+SOUSCRIPTION-LIBERATION
+Les cent (100) parts sociales sont à l’instant souscrites en numéraire par :
+1.  Monsieur SLIMANI Yassir, à concurrence de cinquante (50) parts sociales,
+2. Monsieur CAN Burhan, à concurrence de cinquante (50) parts sociales, 
 TOTAL : cent (100) parts sociales
 Les comparants déclarent et reconnaissent que les cent parts sociales ont été intégralement
 souscrites.
 Elles sont libérées à concurrence de six mille deux cents (6.200,00) euros, de sorte que cette somme
 se trouve dès maintenant à la disposition de la société.
 NOMINATION DU GERANT
-Les associés fixent le nombre des gérants à UN et appellent à cette fonction Monsieur NOURI Helal,
-comparant, lequel accepte et déclare ne faire l’objet d’aucune procédure l’empêchant d’exercer ces
-fonctions.
+Les associés fixent le nombre des gérants à DEUX et appellent à cette fonction Monsieur SLIMANI
+et Monsieur CAN, comparants, lequels acceptent et déclarent ne faire l’objet d’aucune procédure
+l’empêchant d’exercer ces fonctions.
 Les comparants décident de fixer l’éventuelle rémunération du gérant hors la présence du Notaire.
 CONTROLE DE LA SOCIETE
 Conformément aux dispositions de l'article quinze des statuts et des articles concernés du Code des
@@ -481,14 +486,25 @@ Exceptionnellement, le premier exercice social débutera ce jour pour se clôtur
 2016. 
 En conséquence, la première assemblée générale se tiendra le dernier jeudi du mois de juin deux mil
 2017.
+POUVOIRS – TERME SUSPENSIF
+Les fondateurs confèrent aux gérants, individuellement, tous pouvoirs pour l'exécution des
+résolutions qui précèdent et pour tout ce qui serait utile entre la constitution de la société et son
+dépôt au greffe du Tribunal de commerce de Liège.
+Toutes les résolutions prises en suite de la constitution de la société ne sortiront leurs effets qu’à
+compter du dépôt au greffe du Tribunal de commerce de Liège des documents et formulaires
+destinés notamment à la publication de la présente constitution et des résolutions prises
+subséquemment audit greffe du Tribunal de commerce.
 RATIFICATION DES ENGAGEMENTS PRIS
 En vertu de l'article 60 du Code des sociétés, les fondateurs de la société déclarent que la société
 présentement constituée reprend en son nom tous les engagements pris au nom de la société en
-formation à partir du 1er mai 2016.
+formation à partir du premier avril 2016.
 Ces engagements sont réputés avoir été contractés par la société présentement constituée dès
 l'origine.
+ 
 Pour extrait analytique conforme
 Documents déposés en même temps que les présentes : l’expédition de l’acte constitutif.
+ 
+ 
 
 Bi
 jla
@@ -517,10 +533,10 @@ bl
 ad
  - 
 
-07
+30
 /0
 
-6/
+5/
 20
 
 16

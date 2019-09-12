@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-car2go Belgium
+IMMO FADAN
 
-Avenue du Péage 68
-1200 Woluwe-Saint-Lambert
+Rue des Carmélites 88
+1180 Uccle
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-~~D’après un acte reçu par Maître Damien HISETTE, notaire associé à Bruxelles, le 01 juin 2016, il
-résulte que :
-…/…
-La société de droit allemand « car2go Europe GmbH », ayant son siège à Fasanenweg 15-17, 70771
-Leinfelden-Echterdingen, Allemagne,
-…/…
-Ci-après dénommé : "la comparante".
-…/…
-CONSTITUTION.
-A. Forme Juridique - Dénomination - Siège.
-Il est constitué une société sous forme d'une société privée à responsabilité limitée, qui sera
-dénommée « car2go Belgium ».
-Le siège social est établi pour la première fois à Woluwe-Saint-Lambert (1200 Bruxelles), avenue du
-Péage 68.
-B. Capital – Parts Sociales - Libération.
-Le capital social est fixé à dix-huit mille cinq cent cinquante euros (18.550 EUR). Il est entièrement
-souscrit et est libéré entièrement.
-Il est représenté par mille (1.000) parts sociales, toutes souscrites en espèces au prix de dix-huit
-euros cinquante-cinq cents (18,55 EUR) chacune, par la comparante qui les libère entièrement.
-La comparante déclare que toutes et chacune de ces parts sociales ont été souscrites et libérées
-comme dit ci-dessus et qu'en conséquence, la société a, dès à présent, à sa disposition une somme
-de dix-huit mille cinq cent cinquante euros (18.550 EUR)
-…/…
-STATUTS
-Article 1. - Forme - Dénomination.
-La société a la forme d'une société privée à responsabilité limitée.
-Elle porte la dénomination « car2go Belgium ».
-Article 2. - Siège.
-Le siège social est établi à Woluwe-Saint-Lambert (1200 Bruxelles), avenue du Péage 68,
-arrondissement judiciaire de Bruxelles.
-Il peut être transféré en tout autre lieu en Belgique par décision de la gérance, dans le respect des
-dispositions légales en vigueur en matière d'emploi des langues.
-Tout transfert du siège social sera publié aux annexes au Moniteur belge par les soins de la gérance.
-La société peut, par simple décision de la gérance, créer en Belgique des unités d'établissement,
-que ce soit sous forme de sièges d'exploitation, de divisions ou de tout autre lieu d'activité
-économique. La gérance peut également créer des agences, succursales et filiales à l'étranger.
-Article 3. - Objet.
-La société a pour objet la poursuite des activités suivantes, pour compte propre ou pour compte de
+Aux termes d'un acte reçu par Maître Dimitri CLEENEWERCK de CRAYENCOUR, Notaire associé
+résidant à Bruxelles (1050 Bruxelles), Avenue Louise, 126, faisant partie de la Société Civile à forme
+de Société Privée à Responsabilité Limitée "Gérard INDEKEU - Dimitri CLEENEWERCK de
+CRAYENCOUR", BCE n° 0890.388.338, le sept juin deux mil seize, a été constituée la Société
+Privée à Responsabilité Limitée dénommée « IMMO FADAN », dont le siège social sera établi à
+Uccle (1180 Bruxelles), Rue des Carmélites, 88 et au capital de dix-huit mille cinq cent cinquante
+euros (18.550,00 €), représenté par cent parts sociales (100), sans désignation de valeur nominale.
+Associés
+- Monsieur ARNET Jérémie Philippe Emmanuel, domicilié à 1640 Rhode-Saint-Genèse, Avenue des
+Canards, 2.
+-   Monsieur ARNET Dan Paul, domicilié à 1640 Rhode-Saint-Genèse, Avenue des Chênes, 35.
+Forme dénomination
+La société a adopté la forme juridique de société privée à responsabilité limitée.
+ Elle est dénommée « IMMO FADAN ».
+Siège social
+Le siège social est établi à Uccle (1180 Bruxelles), Rue des Carmélites, 88
+Objet social
+ La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre, pour compte d'autrui
+ou en participation :
+ 1) Toutes opérations immobilières et toutes études ayant trait à tous biens et/ou à tous droits
+immobiliers, par nature, par incorporation ou par destination, et aux biens et/ou à tous droits
+mobiliers qui en découlent, ainsi que toutes opérations civiles, commerciales, industrielles ou
+financières, qui s'y rapportent directement ou indirectement, comme, à titre d'exemple, l'achat, la
+mise en valeur, le lotissement, l'échange, l'amélioration, la location meublée ou non, la vente, la
+cession, la gestion comme syndic ou non, la transformation, la construction et la destruction de biens
+immobiliers et mobiliers et ce en qualité au non d’agent immobilier agréé par l’Institut Professionnels
+des Agents Immobiliers.
+ Aux fins de réaliser son objet, la société peut émettre des emprunts obligataires, des certificats
+fonciers et tout autre emprunt analogue.
+ La société peut agir pour son compte, par commission, comme intermédiaire ou comme
+représentant.
+Elle peut également constituer, développer, promouvoir et gérer un patrimoine immobilier.
+Elle peut hypothéquer ses immeubles et mettre en gage tous ses autres biens y compris son fonds
+de commerce.
+Elle peut également - en fonction de ses intérêts propres - se porter caution ou accorder son aval
+pour tous prêts ou engagements quelconques tant pour elle-même que pour tous tiers-particuliers, y
+compris les gérants, les associés, le personnel et les préposés de la société.
+2) Toute contribution à l'établissement et au développement d'entreprises et en particulier de
 
- *16311872*
+ *16312351*
 Déposé
-01-06-2016
+08-06-2016
 
-0655823532
+0656475412
 
 Bi
 jla
@@ -141,7 +141,7 @@ bl
 ad
  - 
 
-03
+10
 /0
 
 6/
@@ -187,205 +187,69 @@ au
 
 Mod PDF 11.1
 
-tiers, tant en Belgique qu’à l’étranger :
-(1) L’exploitation d’un concept de mobilité urbaine sous la forme d’un système de location de voitures
-totalement automatisé, en particulier l’exploitation de ce système de location de voitures à travers
-une location à très courte durée avec des véhicules moteurs en libre circulation, la location et
-l’échange avec des véhicules moteurs ainsi que la prestation de services de planification,
-consultance et autres services en relation avec les activités susmentionnées.
-(2) La société peut poursuivre toute transaction et prendre toute mesure qui sont liées à ou qui
-servent directement ou indirectement l’objet social de la société tel que décrit au paragraphe (1).
-(3) La société peut ouvrir et fermer des succursales en Belgique et à l’étranger, établir des filiales et
-acquérir, louer, participer dans (à travers un apport en espèces ou en nature, une fusion, une
-souscription, une participation, une intervention financière ou autrement) et représenter ou gérer, des
-sociétés, existantes ou à constituer, tant en Belgique qu’à l’étranger, dont l’objet social est similaire
-ou correspond à l’objet social de la société.
-(4) La société est autorisée à accomplir toutes activités commerciales, industrielles et financières et
-toutes transactions personnelles et immobilières qui sont directement ou indirectement liées à son
-objet social, ou accomplir toutes activités qui sont bénéfiques au développement de la société.
-(5) La société est autorisée à exercer, en sa capacité d’administrateur, liquidateur ou toute autre
-capacité, la gestion de et la supervision sur, et conseiller, des entreprises liées et des filiales.
-Article 4. - Durée.
-La durée de la société est illimitée.
-Article 5. - Capital.
-Le capital social est fixé à dix-huit mille cinq cent cinquante euros (18.550 EUR). Il est représenté par
-mille (1.000) parts sociales sans désignation de valeur nominale.
-…/…
-Article 8. - Gérance.
-La société est administrée par un ou plusieurs gérants (dans les présents statuts, "la gérance"),
-associés ou non, nommés par l'assemblée générale.
-Sauf décision contraire de l'assemblée générale, le mandat de gérant n'est pas rémunéré.
-En cas de pluralité de gérants, une réunion des gérants peut être convoquée par chaque gérant à
-tout moment moyennant le respect d'un délai de convocation de deux jours ouvrables au moins ou
-de tout délai plus court requis par l'urgence.
-Tout gérant peut, au moyen d'un document portant sa signature (en ce compris la signature digitale
-au sens de l'article 1322 alinéa 2 du Code civil ou autrement autorisé par la législation applicable)
-transmis par lettre, télécopie, courrier électronique ou par tout autre moyen de communication visé à
-l'article 2281 du même Code, donner mandat à un autre gérant pour le représenter à une réunion
-déterminée des gérants et y voter en ses lieu et place.
-Un gérant peut représenter un ou plusieurs de ses collègues absents et émettre en sus de sa propre
-voix autant de voix que le nombre de procurations qu'il a reçues. Néanmoins, si la société ne compte
-que deux gérants, la présence des deux gérants sera indispensable.
-Les décisions de la réunion des gérants sont prises à la majorité simple des voix.
-Les gérants pourront délibérer et prendre toutes décisions par conférence téléphonique (conference
-call) ou vidéoconférence. Un gérant participant d'une telle façon à une délibération sera considéré
-comme étant présent en personne à la réunion.
-Si, dans une réunion, valablement composée, un ou plusieurs gérants ou leurs mandataires
-s'abstiennent de voter, les décisions seront valablement prises à la majorité des voix des autres
-gérants présents ou représentés.
-Par dérogation aux dispositions ci-dessus relatives à la gestion et aux réunions des gérants, les
-gérants peuvent également toujours, dans la mesure où ils l'approuvent expressément par écrit,
-prendre toute décision par consentement unanime et écrit sans qu'une réunion des gérants ne soit
-nécessaire.
-Article 9. - Représentation à l'égard des tiers.
-La société sera valablement représentée dans tous ses actes, y compris la représentation en justice,
-par le gérant ou, en cas de pluralité de gérants, par deux gérants agissant conjointement, et n'ayant
-pas à justifier à l'égard des tiers d'une décision préalable de la gérance.
-La gérance peut déléguer des pouvoirs spéciaux à tout mandataire.
-…/…
-Article 11. - Assemblées générales.
-Lorsque la société ne compte qu'un seul associé, ce dernier exerce les pouvoirs dévolus à
-l'assemblée générale ; il ne peut les déléguer.
-Il sera tenu chaque année une assemblée générale ordinaire le premier jeudi du mois de mai à dix-
-huit heures.
-Si ce jour est férié, l'assemblée se tiendra le premier jour ouvrable suivant, à la même heure.
-La gérance peut, en outre, convoquer une assemblée générale chaque fois que les intérêts de la
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-03
-/0
-
-6/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-société l'exigent.
-Toute assemblée générale se tient au siège social ou à tout autre endroit en Belgique indiqué dans
-les convocations ; celles-ci se font conformément aux dispositions légales.
-Article 12. - Exercice social.
-L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
+dispenser des avis techniques, commerciaux ou administratifs dans le sens le plus large du terme, à
+l'exception des conseils de placement, d'argent et autres, fournir des conseils, son assistance et
+exécuter des services directement ou indirectement sur le plan de l'administration et des finances, de
+la vente, de la production, des techniques d’organisation et de distributions commerciales, et plus
+généralement de la gestion en général et de l’exercice de toutes activités de services et de
+management au sens le plus large de ces termes à toutes personnes physiques ou morales
+quelconques; exécuter tous mandats sous forme d'études d'organisation, d'expertises, d'actes et de
+conseils techniques ou autres dans tout domaine rentrant dans son objet social.
+Elle peut constituer, développer et gérer un patrimoine mobilier et faire toutes opérations mobilières
+quelconques y compris celles se rapportant à tous droits mobiliers comme l'acquisition par voie
+d'inscription ou de cession et la gestion d'actions, de parts sociales, d'obligations convertibles ou
+non, de prêts de consommation, de prêts ordinaires, de bons de caisse ou autres valeurs mobilières,
+de quelque forme que ce soit, tant de personnes morales que d'entreprises, belges ou étrangères,
+existantes ou encore à constituer.
+La société pourra exercer tout mandat généralement quelconque ainsi que toute fonction autorisée
+dans toute personne morale belge ou étrangère en ce compris la fonction d’administrateur, de
+délégué à la gestion journalière, de gérant et de liquidateur. Ce mandat pourra être rémunéré ou
+gratuit.
+La société peut, par voie d'apport en espèces ou en nature, de fusion, de souscription, de
+participation, d'intervention financière ou autrement, prendre des participations dans d'autres
+sociétés ou entreprises existantes ou à créer, que ce soit en Belgique ou à l'étranger, dont l'objet
+social serait semblable ou analogue au sien ou de nature à favoriser son objet social.
+Elle peut également consentir tous prêts ou garantir tous prêts consentis par des tiers, étant entendu
+que la société n'effectuera aucune activité dont l’exercice serait soumis à des dispositions légales ou
+réglementaires applicables aux établissements de crédits et/ou financiers.
+Elle peut faire toutes opérations commerciales, industrielles et financières, immobilières et
+mobilières, se rapportant directement ou indirectement à son objet social ou susceptibles de
+favoriser son développement, à l'exception des opérations sur valeurs mobilières et immobilières
+réservées par la loi aux banques et aux sociétés de bourse.
+Au cas où l'accomplissement de certains actes serait soumis à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne l’accomplissement de ces actes,
+à la réalisation de ces conditions.
+Capital social
+Le capital social est fixé à la somme de dix-huit mille cinq cent cinquante euros (18.550,00 €),
+représenté par cent parts sociales (100), sans désignation de valeur nominale, représentant chacune
+un/centième (1/100ième) du capital social souscrit intégralement et libéré partiellement de la manière
+suivante :
+- Monsieur ARNET Jérémie, à concurrence de nonante-neuf parts sociales (99), pour un apport de
+dix-huit mille trois cent soixante-cinq euros (18.365,00 €) libéré partiellement à concurrence de six
+mille cent trente-huit euros (6.138,00 €) ;
+-  Monsieur ARNET Dan, à concurrence d’une part sociale (1), pour un apport de cent quatre-vingt-
+cinq euros (185,00 €) libéré partiellement à concurrence de soixante-deux euros (62,00 €).
+Total : cent parts sociales (100).
+Répartition bénéficiaire
+Sur le bénéfice net, après impôts et transfert aux réserves immunisées, il est prélevé cinq pour cent
+au moins pour former le fonds de réserve légale, ce prélèvement cessant d'être obligatoire lorsque le
+fonds de réserve atteindra le dixième du capital social.
+ Le solde sera réparti également entre toutes les parts, sauf le droit de l'assemblée générale de
+l'affecter à un fonds de réserve spéciale, de le reporter à nouveau ou de lui donner toute autre
+affectation.
+En cas de dissolution, après réalisation de l'actif, apurement du passif ou consignation des sommes
+nécessaires à cet effet, le solde éventuel sera réparti entre les associés dans la proportion des parts
+sociales  possédées par eux.
+ Si les parts sociales ne sont pas libérées dans une égale proportion, le(s) liquidateur(s)
+rétablisse(nt) préalablement l'équilibre, soit par des appels de fonds, soit par des remboursements
+partiels.
+Exercice social
+L’exercice social commence le premier janvier et se clôture le trente et un décembre de chaque
 année.
-A cette dernière date, les écritures sont arrêtées et la gérance dresse un inventaire et établit les
-comptes annuels.
-Article 13. - Répartition des bénéfices.
-Sur le solde bénéficiaire, il est prélevé cinq pour cent au moins pour la constitution du fonds de
-réserve légale ; ce prélèvement cesse d'être obligatoire dès que ce fonds atteint le dixième du capital
-social.
-Le surplus recevra l'affectation lui donnée par l'assemblée générale.
-Après l'adoption des comptes annuels, l'assemblée générale se prononce par un vote distinct sur la
-décharge à donner au(x) gérant(s) et commissaire(s) éventuel(s).
-Article 14. - Dissolution - Liquidation.
-En cas de dissolution pour quelque cause et à quelque moment que ce soit, l'assemblée générale
-des associés désignera le ou les liquidateurs et déterminera leurs pouvoirs, leurs émoluments
-éventuels et le mode de liquidation.
-La société n'est point dissoute par le décès, l'incapacité, la faillite ou la déconfiture d'un associé.
-Article 15. - Répartition.
-Après réalisation de l'actif et apurement du passif ou consignation des sommes nécessaires à cet
-effet, le solde bénéficiaire sera affecté au remboursement des parts à concurrence de leur libération
-et le solde sera réparti entre les associés proportionnellement au nombre de parts possédées par
-eux.
-…/…
-DISPOSITIONS FINALES
-A. Nominations des premiers gérants.
-Sont nommés en qualité de gérants, pour une durée illimitée :
--  M. Thomas Beermann, domicilié à Kreuzacker 10, 25462 Rellingen, Allemagne.
--  M. Benedikt Lang, domicilié à Robert-Koch-Str. 66, 73760 Ostfildern, Allemagne.
-Ces mandats seront exercés à titre gratuit.
-La nomination des gérants n'auront d'effet qu'au jour de l'acquisition par la société de la personnalité
-morale.
-B. Commissaire.
-Est appelée à la fonction de commissaire pour un terme qui prendra fin immédiatement après
-l'assemblée générale ordinaire qui se tiendra en 2019: la société coopérative privée à responsabilité
-limitée "KMPG Réviseurs d'Entreprises", société civile à forme commerciale, ayant son siège social à
-1130 Haeren, Avenue du Bourget 30, identifiée sous le numéro d'entreprise TVA BE 0419.122.548
-RPM Bruxelles, représentée par M. Luc Oeyen, réviseur d'entreprises.
-Les émoluments du commissaire seront fixés ultérieurement par l'assemblée générale.
-C. Premier exercice social.
-Le premier exercice social commencera le jour de l'acquisition par la société de la personnalité
-morale et finira le trente et un décembre deux mille seize.
-La première assemblée générale ordinaire aura donc lieu en deux mille dix-sept.
-D. Début des activités.
-Le début des activités de la société est fixé à son immatriculation à la Banque-Carrefour des
-Entreprises.
-E. Formalités administratives - Procuration
-La comparante déclare par les présentes donner procuration, avec faculté de substituer, à Marie
-VANDENBRANDE et Kim STAS, élisant domicile chez 'Baker & McKenzie', à Bruxelles (1050
-Bruxelles), Avenue Louise 149, avec pouvoir d’agir ensemble ou séparément, pour effectuer au nom
-et pour compte de la société, suite à sa constitution toutes les formalités administratives légalement
-requises, par l'intermédiaire d'un guichet d'entreprises agréé de son choix, dans la Banque-Carrefour
-des Entreprises (activation du numéro d'entreprise en qualité d'entreprise de commerce et demande
-d'un numéro d'unité d'établissement), ainsi que dans l’office de contrôle TVA compétent (demande
-d’identification à la TVA).
-…/…
-Pour extrait analytique conforme.
-Déposé en même temps : expédition et procuration
-(signé) Damien HISETTE, notaire associé à Bruxelles.
- 
+Assemblée générale ordinaire
+ L'assemblée générale ordinaire se réunit chaque année à l'initiative de la gérance ou des
+commissaires au siège social ou à l'endroit indiqué dans la convocation, le deuxième mercredi du
+mois de juin à dix-huit heures.
 
 Bi
 jla
@@ -414,7 +278,141 @@ bl
 ad
  - 
 
-03
+10
+/0
+
+6/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+ 
+ 
+
+ Si ce jour est férié, l'assemblée se réunit le premier jour ouvrable suivant, à la même heure.
+Sauf dans les cas où la loi en décide autrement, chaque part sociale donne droit à une voix,
+l'assemblée délibère valablement quelle que soit la portion du capital représenté et les décisions sont
+prises à la majorité simple des voix.
+Désignation des personnes autorisées à gérer et leurs pouvoirs
+La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
+générale.
+ L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat, leur rémunération et, s'ils
+sont plusieurs, leurs pouvoirs.
+ S'il n'y a qu'un seul gérant, la totalité des pouvoirs attribués à la gérance lui sont dévolus.
+ S'il y a plusieurs gérants, ils forment ensemble le conseil de gérance. Dans ce cas, chaque gérant a
+tous pouvoirs pour agir seul au nom de la société et représente la société à l'égard des tiers et en
+justice; il peut accomplir en son nom tous actes d'administration et de disposition; tout ce qui n'est
+pas expressément réservé par la loi ou les présents statuts à l'assemblée générale est de sa
+compétence.
+ Chaque gérant peut constituer sous sa responsabilité des mandataires spéciaux pour des actes
+déterminés.
+Le contrat de société étant clôturé et les statuts sociaux étant arrêtés, les comparants ont pris, à
+terme, les décisions suivantes, lesquelles deviendront effectives lors de l'obtention par la société de
+la personnalité juridique, conformément à l'article 2 § 4 du Code des Sociétés :
+1) Gérant
+ Les comparants décident de nommer en tant que gérant, pour un terme indéterminé :
+Monsieur ARNET Jérémie, prénomé qui accepte.
+Le mandat du gérant est exercé à titre rémunéré.
+2) Commissaire
+Les comparants constatent et déclarent qu'il résulte d'estimations faites de bonne foi qu'à tout le
+moins pour son premier exercice, la société répondra aux critères énoncés à l'article 141, 2° du Code
+des Sociétés, du fait qu'elle est considérée comme "petite société" au sens de l'article 15 dudit Code.
+En conséquence, ils décident à l'unanimité de ne pas nommer de commissaire.
+3) Date de la clôture du premier exercice social
+Les comparants décident que le premier exercice social commencé le jour de l'acte de constitution
+se clôturera le 31 décembre 2016.
+4) Date de la première assemblée générale ordinaire
+Les comparants décident que la première assemblée générale ordinaire se tiendra en juin 2017.
+5) Délégation de pouvoirs
+Les comparants déclarent constituer pour mandataire spécial de la société, avec faculté de
+substitution, Madame Annick BAZARD, dont les bureaux sont établis à 1440 Braine-Le-Château,
+Rue Landuyt, 127, aux fins de procéder à l'immatriculation de la présente société à la Banque
+Carrefour des Entreprises. A ces fins, le mandataire pourra au nom de la société, faire toutes
+déclarations, signer tous documents et pièces et, en général, faire le nécessaire auprès de toute
+administration et/ou société généralement quelconque.
+ 
+6) Reprise d'engagements pris au nom de la société en formation
+Les comparants déclarent, conformément à l'article 60 du code des Sociétés, reprendre et
+homologuer, au nom de la société présentement constituée, tous les actes, opérations et facturations
+effectués au nom de la société en formation, par eux-mêmes ou leurs préposés depuis le 01 janvier
+2016.
+ 
+Les expéditions et extraits sont déposés avant enregistrement de l’acte dans l’unique but du dépôt
+au Greffe du Tribunal de Commerce et pour les formalités en rapport avec l’obtention du numéro
+d’entreprise.
+ 
+POUR EXTRAIT ANALYTIQUE CONFORME
+ 
+
+Dimitri CLEENEWERCK de CRAYENCOUR, Notaire associé.
+Déposé en même temps: expédition conforme de l'acte.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+10
 /0
 
 6/

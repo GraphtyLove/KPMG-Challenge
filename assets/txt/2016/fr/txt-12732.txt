@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-PYLOT
+GREEN WOK
 
-Rue du Pérréon(LVG) 115
-4141 Sprimont
+Rue Saint-Georges 30 A
+1400 Nivelles
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-D'un acte reçu par Maître Stéphane DELANGE, notaire à Liège, le 02 août 2016, en cours
-d'enregistrement, il résulte que s'est constituée la société à responsabilité limitée "PYLOT", dont le
-siège social est établi à 4141 Sprimont (Louveigné), rue du Pérréon, 115.
-ONT COMPARU:
- 
-1) Monsieur JACQMIN Pierre-Yves Luc Michel, né à Verviers, le 30 avril 1977, époux de Madame
-MEYER Julie, domicilié à 4141 Sprimont, rue du Pérréon 115.
- 
-2) Madame MEYER Julie Thérèse Annie Maurice, née à Malmedy, le 10 mars 1985, épouse de
-Monsieur JACQMIN Pierre-Yves, domiciliée à 4141 Sprimont, rue du Pérréon 115.
- 
-Le notaire soussigné certifie l'exactitude de l'identité des comparants au vu du registre national des
-personnes physiques. Le numéro du registre national est mentionné avec l'accord exprès des parties
-concernées.
-Les comparants prénommés sont ci-après dénommés "LE FONDATEUR”.
- 
-Lesquels comparants fondateurs ont requis le notaire Stéphane DELANGE soussigné, de constater
-authentiquement les statuts d'une société privée à responsabilité limitée qu'ils constituent sous la
-dénomination : « PYLOT ».
- 
-A. PLAN FINANCIER
-Préalablement à la passation de l'acte constitutif, le fondateur a remis au notaire Stéphane
-DELANGE soussigné, un plan financier établi et signé par lui ou son mandataire, dans lequel il
-justifie le montant du capital social de la société en formation pour une somme de DIX HUIT MILLE
-SIX CENTS EUROS (18.600,00 €).
-Ledit plan financier est conservé par Nous Notaire selon les prescriptions de l'article 215 du Code
-des Sociétés.
-Les comparants reconnaissent que le notaire soussigné a attiré leur attention sur la portée de l’article
-229 du Code des Sociétés concernant la responsabilité des fondateurs en cas de faillite de la société
-constituée avec un capital manifestement insuffisant.
- 
- 
+~~Il résulte d’un acte reçu par le notaire Philippe VAN CAUWENBERGH,  à Châtelineau le 18 avril
+2016 qu’a été constitué par 
+-Monsieur JIANG Haiyun, né à Ningbo (Chine), le 24 novembre 1984 (numéro national 841124
+327.18), époux de Madame Wu Jing, domicilié à 1420 Braine L’Alleud, rue de l’Ancien Bourg, 17
+-Monsieur DELLA-PELLE Christophe, Dominique, François, Olivier, né à Charleroi le 7 octobre 1985
+(numéro national 851007 115.75), célibataire, domicilié à 6181 Courcelles (Gouy-lez-Piéton), rue du
+Bosquet 75
+-Monsieur MATHEYS Ludovic, né à Charleroi le 12 mai  1986 (numéro national 860512 199.21),
+célibataire, domicilié à 1400 Nivelles, rue Saint-Georges 30 A
+une société privée à responsabilité limitée dénommée  «GREEN WOK », ayant son siège à 1400
+Nivelles, rue Saint-Georges 30 A au capital de  dix-huit mille six cents euros (18.600,00 EUR),
+représenté par cent quatre-vingt-six (186) parts sociales sans désignation de valeur nominale,
+représentant chacune un/cent quatre-vingt-sixième de l’avoir social.
+Dont les statuts sont :
+TITRE I – CARACTERES DE LA SOCIETE
+ Article 1 – Forme- Dénomination.
+ La société est une société commerciale et adopte la forme d'une société privée à responsabilité
+limitée.
+Elle est dénommée « GREEN WOK ».
+La dénomination doit toujours être précédée ou suivie immédiatement des mots "société privée à
+responsabilité limitée" ou des initiales "SPRL". Elle doit, en outre, dans ces mêmes documents, être
+accompagnée de l'indication précise du siège de la société, de l'indication du siège du Tribunal, dans
+le ressort duquel la société a son siège social, ainsi que des numéros d'immatriculation auprès de la
+banque carrefour des entreprises et, le cas échéant, à la taxe sur la valeur ajoutée.
+ Article 2
+Le siège social est établi à 1400 Nivelles, rue Saint Georges 30 A  dans l’arrondissement judiciaire
+du Tribunal de commerce de Nivelles.
+Il peut être transféré en tout autre endroit de la région wallonne ou de la région de langue française
+de Belgique par simple décision de la gérance qui a tous pouvoirs aux fins de faire constater
+authentiquement la modification des statuts qui en résulte.
+La société peut établir, par simple décision de la gérance, des sièges administratifs, d’exploitation,
+agences et succursales en Belgique ou à l’étranger.
+ Article 3
+La société a pour objet,  tant en Belgique qu’à l’étranger, d’une façon résidante ou
+ambulante, pour compte propre ou compte de tiers ou en participation avec ceux-ci :
+1) l’exercice de tous commerces et activités relevant du secteur de l’HORECA et entre autres,
+l’exploitation de restaurants, de brasserie, de taverne, de friterie, de cafés, de salons de thé, de
+salons de dégustation, de snacks, de sandwicheries, de débits de boisson, de buvettes,  …
 
- 
-Premier rôle
- 
- 
- 
-
- *16316353*
+ *16308710*
 Déposé
-03-08-2016
+18-04-2016
 
-0660663139
+0652601449
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-05
+20
 /0
 
-8/
+4/
 20
 
 16
@@ -187,69 +187,206 @@ au
 
 Mod PDF 11.1
 
-B. souscription – liberation
-Le capital social de dix-huit mille six cents euros (18.600,00 €) est représenté par mille (1.000) parts
-sociales sans désignation de valeur nominale, représentant chacune un/millième (1/1.000ème) du
-capital.
-Les 1.000 parts sociales sont intégralement souscrites au pair et en espèces par :
-Monsieur Pierre-Yves JACQMIN prénommé : à concurrence de 999 parts.
-Madame Julie MEYER prénommée : à concurrence de 1 part.
+2) toutes activités de traiteur, à savoir principalement la préparation, la transformation, la vente  de
+plats cuisinés, pâtisserie, biscuiterie, …au comptoir ou à domicile, le catering, 
+3) l’achat, la vente, l’importation, l’exportation, la distribution, la représentation (en gros ou au détail),
+la fabrication de toutes boissons généralement quelconques, tant alcoolisées que non alcoolisées, et
+entre autres, bières, vins, eau, jus de fruit, soft,…
+4) l’exploitation, sous sa propre enseigne ou par voie de franchise ou licence,  d'un magasin
+notamment  la commercialisation,  l'achat et la vente, l'exportation, l'importation, en gros, demi-gros,
+et en détail de tous produits alimentaires en général (fruit, légumes, viandes fraîches, salaisons,
+œufs, margarine, beurre, fromages et autres produits laitiers,  épices,  conserves en général, produit
+surgelés, …) d’articles de confection en général, d’articles de tables, linges de tables, d’articles
+ménagers, d’ articles liés à l’art de la table, et à la décoration en général
+5) la recherche et le développement, la fabrication et la confection tant artisanale, semi-artisanale,
+industrielle, la préparation, le conditionnement de tous produits alimentaires
+6) toutes activités de cours, formations, enseignement
+7) l’organisation d’évènements (fêtes privées, conférences, séminaires, exposition, concerts,
+théâtres, cabarets, soirées, spectacles en tout genre, voyages, …et les activités liées, animation
+musicale, incentive, réception, décoration, animations,
+8) la location de salles et de matériel, la mise à disposition de personnel
+9) toutes activités immobilières pour compte propre
+Elle peut accomplir d’une manière générale toutes opération industrielles ou commerciales,
+financières et civiles, mobilières et immobilières ayant un rapport direct ou indirect avec son objet
+social et pouvant en faciliter  ou en développer directement ou indirectement, entièrement ou
+partiellement, la réalisation.
+De manière générale, la société peut réaliser son objet social directement ou indirectement et
+notamment conclure toute convention d'association, de rationalisation, de collaboration , tout contrat
+de travail ou d'entreprise, prêter son concours financier sous quelque forme que ce soit, consentir
+hypothèques, exécuter tous travaux et études pour toute entreprise, association ou société à laquelle
+elle se sera intéressée ou à laquelle elle aura apporté son concours financier, vendre, acheter,
+donner à bail ou prendre en location tout bien corporel ou incorporel, mobilier ou immobilier, donner
+à bail ou affermir tout ou partie de ses installations, exploitations et fonds de commerce.
+La société peut être administrateur, gérant ou liquidateur.
+Cette énumération est énonciative et non limitative.
+Article 4
+La société est constituée pour une durée indéterminée
+ TITRE II. CAPITAL
+ Article 5
+Le capital social est fixé à dix-huit mille six cents (18.600,00 EUR).  Il est représenté par cent quatre-
+vingt-six (186) parts sans désignation de valeur nominale.
+ Les parts sociales souscrites en numéraire ont été totalement libérées.
+ TITRE III. TITRES
+ Article 6
+ Les titres sont nominatifs. Ils portent un numéro d’ordre.
+Il est tenu au siège social un registre des parts. Les titulaires de parts ou d’obligations peuvent
+prendre connaissance du registre relatif à leurs titres. Tout tiers intéressé peut prendre connaissance
+du registre.
+La propriété des titres s'établit par une inscription sur le registre les concernant.
+ Article 7
+ Les titres sont indivisibles.
+La société ne reconnaît, quant à l’exercice des droits accordés aux associés, qu'un seul propriétaire
+pour chaque titre.
+Si le titre fait l’objet d’une copropriété, la société a le droit de suspendre l’exercice des droits y
+afférents jusqu’à ce qu’une seule personne soit désignée comme étant à son égard propriétaire du
+titre.
+En cas de démembrement du droit de propriété d’une seule part, les droits y afférents seront exercés
+par l'usufruitier.
+ Article 8- Droit de préemption- Agrément
+ L’associé qui veut céder une ou plusieurs parts sociales doit aviser la société par lettre
+recommandée de son projet de cession, en fournissant sur la cession projetée, les renseignements
+d’identification du ou de cessionnaires proposés, le nombre de part sociales dont la cession est
+proposée, ainsi que le prix offert.
+ Dans les huit jours de cet avis, le gérant doit informer, par lettre recommandé, chaque associé du
+projet de cession en lui indiquant les renseignements ci-énoncés à l’alinéa premier et en demandant
+à chaque associé s’il est disposé à acquérir tout ou partie des parts sociales offertes ou, à défaut, s’il
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+20
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
  
-Les comparants déclarent et reconnaissent que le capital social est libéré à concurrence de SIX
-MILLE DEUX CENTS EUROS (6.200,00 €) et que cette somme se trouve à la disposition de la
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+autorise la cession au ou aux cessionnaires par le cédant éventuel.
+ Dans la quinzaine de cet avis chaque associé doit adresser au gérant une lettre recommandée
+faisant connaître  ses décisions, soit qu’il exerce son droit de préemption, soit que, à défaut
+d’exercice de ce droit, il autorise la cession.  Sa   décision ne doit pas être motivée.  Faute par lui
+d’avoir adressé sa réponse dans les formes et délais ci-dessus, il sera réputé autoriser la cession.
+Le gérant doit notifier au cédant éventuel, ainsi qu’à chacun des associés ayant déclaré vouloir
+exercer le droit de préemption, le résultat de la consultation des associés, par lettre recommandée,
+dans les trois jours de l’expiration du délai imparti aux associés pour faire connaître leur décision.
+L’exercice du droit de préemption, pour les associés, ne sera effectif et définitif que :
+1°/ si la totalité des parts offertes a fait l’objet de l’exercice du droit de préemption, de manière  à ce
+que le cédant soit assuré de la cession, par l’effet de ce droit de préemption, de la totalité de ces
+parts
+2°/ si  le cédant déclare accepter de céder seulement les parts faisant l’objet de l’exercice du droit de
+préemption.
+Si plusieurs associés usent simultanément du droit de préemption, et sauf accord différent entre eux,
+il sera procédé à la répartition des parts sociales à racheter proportionnellement au nombre de parts
+possédées par chacun d’eux.  Si la répartition proportionnelle laisse des parts sociales à racheter
+non attribuées entre les associés ayant exercé le droit de préemption, le tirage au sort aura lieu en
+présence des intéressés ou après qu’ils auront été appelés par lettre recommandée.
+Les dispositions qui précèdent sont applicables dans tous les cas de cession de parts sociales entre
+vifs, soit à titre onéreux, soit à titre gratuit, alors même que la cession aurait lieu en vertu d’une
+déclaration de justice ou par voie d’adjudication aux enchères.  L’avis de cession, point de départ
+des délais, peut être donné en ce dernier cas, soit par le cédant, soit par l’adjudicataire.
+Cessions soumises à agrément
+ Les parts qui ne sont pas absorbées par l’exercice du droit de préemption ne peuvent être cédées
+au cessionnaire proposé ou transmises aux héritiers et légataires, ou données aux donataires que
+moyennant l’agrément de la moitié au moins des associés possédant les trois quarts au moins du
+capital, déduction faite des droits dont la cession, donation ou transmission est proposée et pour
+autant que de ce fait, le nombre des associés ne dépasse pas la limite fixée par le Code.
+Les cessions, donations, ou transmissions des parts n’auront d’effet vis-à-vis de la société et des
+tiers qu’à dater de leur inscription dans le registre des parts sociales où elles seront datées et
+signées par le cédant et le cessionnaire, en cas de cession entre vifs, par le donateur et le donataire
+en cas de donation entre vifs et le bénéficiaire en cas de transmission pour cause de mort.
+ Le refus d’agrément d’une cession entre vifs est sans recours ; néanmoins, l’associé voulant céder
+tout ou partie de ses parts pourra exiger des opposants qu’elles lui soient rachetées à leur valeur
+fixée de commun accord ou par un expert choisi de commun accord ou, à défaut, par le président du
+tribunal de commerce su siège social, statuant comme en référé.   Il en sera de même en cas de
+refus d’agrément d’un héritier ou d’un légataire.  Dans l’un et l’autre cas, le paiement devra intervenir
+dans les six mois du refus.
+ TITRE IV. GESTION - SURVEILLANCE
+ Article 9
+ La société est administrée par un ou plusieurs gérants, associés ou non, nommés avec ou sans
+limitation de durée et pouvant, dans cette dernière hypothèse, avoir la qualité de gérant statutaire.
+Si une personne morale est nommée gérante, celle-ci est tenue de désigner parmi ses associés,
+gérants, administrateurs, membres du conseil de direction ou travailleurs, un représentant permanent
+chargé de l'exécution de cette mission au nom et pour le compte de la personne morale. Ce
+représentant est soumis aux mêmes conditions et encourt les mêmes responsabilités civiles et
+pénales que s’il exerçait cette mission en nom et pour compte propre, sans préjudice de la
+responsabilité solidaire de la personne morale qu’il représente.
+L’assemblée qui les nomme fixe leur nombre, la durée de leur mandat et, en cas de pluralité, leurs
+pouvoirs.
+ Article 10
+ S’il n’y a qu’un seul gérant, la totalité des pouvoirs de la gérance lui est attribuée.
+S’ils sont plusieurs et sauf organisation par l’assemblée d’un collège de gestion, chaque gérant
+agissant seul, peut accomplir tous les actes d’administration et de disposition qui intéressent la
 société.
-La totalité des apports en espèces a été déposé à un compte spécial ouvert au nom de la société en
-formation auprès de la Banque CBC sur le numéro BE59 7320 4073 7526.
-Une attestation de ladite Banque, justifiant ce dépôt, a été remise au notaire soussigné.
-Le notaire soussigné atteste le dépôt du capital libéré, conformément aux dispositions du Code des
-sociétés.
- 
-C. QUASI-APPORTS
-Les comparants déclarent en outre que le notaire soussigné les a éclairé sur l'obligation de faire
-établir un rapport pour tout apport ne consistant pas en numéraire ou pour toute acquisition dans un
-délai de deux ans à dater de la constitution, d'un bien appartenant à l'un des fondateurs, à un
-associé ou à un gérant.
- 
-FRAIS DE CONSTITUTION
-Le montant des frais, dépenses, rémunérations et charges sous quelque forme que ce soit,
-incombant à la société ou qui seront mis à sa charge, en raison de sa constitution, s'élève à environ
-mille quatre cents euros (1.400,00 €).
- 
-II. STATUTS
- 
-TITRE PREMIER – CARACTERE DE LA SOCIETE
- 
-Article premier - DENOMINATION
-La société est constituée sous forme de société privée à responsabilité limitée.  Elle est dénommée «
-PYLOT ».
-La dénomination doit dans tous les actes, factures, annonces, publications, lettres, notes de
-commande et autres documents émanant de la société, être précédée ou suivie immédiatement de
-la mention "société privée à responsabilité limitée" ou des initiales "SPRL", reproduites lisiblement.
-Elle doit en outre, être accompagnée de l'indication précise du siège social de la société, des mots
-"registre des personnes morales" ou l’abréviation "RPM" suivi de l'indication du siège du tribunal
-dans le ressort territorial duquel la société a son siège social et des sièges d'exploitation, ainsi que le
-numéro d’entreprise.
- 
-Article deux - SIEGE SOCIAL
-Le siège social est établi à 4141 Louveigné, rue du Pérréon 115.
- 
- 
-Deuxième rôle
- 
-Le siège social peut être transféré en tout endroit de la région de langue française de Belgique ou de
-la région de Bruxelles-Capitale par simple décision de la gérance, qui veillera à la publication à
-l'annexe au Moniteur belge de tout changement du siège social.
- 
-Article trois - OBJET
-La société a pour objet, tant en Belgique qu’à l’étranger, pour compte propre ou pour compte de tiers
-ou en participation avec ceux-ci :
-- La fabrication, la mise en bouteille, le conditionnement, l’emballage, la distribution, l’achat, la vente,
-l’importation, l’exportation de boissons, alcoolisées ou non, ainsi que de tout autres produits
-alimentaires.
-- La fabrication, l’importation, l’exportation, le commerce en gros et en détail de tout type de matériel
-neuf ou d’occasion destiné au secteur horeca.
-- L’exploitation de restaurants, de cafés, de brasseries, de tavernes ainsi que l’activité de traiteur, en
-ce compris la fabrication et la vente de plats à emporter.
+Chaque gérant représente la société à l’égard des tiers et en justice, soit en demandant, soit en
+défendant.
+ Article 11
+ Un gérant ne contracte aucune obligation personnelle relativement aux engagements de la société,
+mais il est responsable de l'exécution de son mandat et des fautes commises dans sa gestion,
+conformément au droit commun et au Code des sociétés.
+ Article 12
 
 Bi
 jla
@@ -278,10 +415,10 @@ bl
 ad
  - 
 
-05
+20
 /0
 
-8/
+4/
 20
 
 16
@@ -324,69 +461,190 @@ au
 
 Mod PDF 11.1
 
-- L’organisation, la création et la coordination de tous évènements, banquets, réceptions et soirées.
-- La prestation de services, conseils et formations sous quelque forme que ce soit dans les matières
-industrielles, commerciales, financières, immobilières, juridiques, fiscales ainsi qu’en marketing,
-communication, management et stratégie.
-- Toute activité de gestion, d’administration, de direction et d’organisation de sociétés.
-- la gestion, au sens le plus large du terme, l’amélioration et la mise en valeur du portefeuille et du
-patrimoine mobilier et immobilier qui lui sera apporté par ses associés, ou qu’elle acquerra
-autrement.
-- L’activité d’intermédiaire, sous quelque qualification que ce soit, en matière commerciale ou
-immobilière.
-- l’achat, la vente, la prise ou la concession en location, l’échange de tous biens immeubles et/ou
-droits réels immobiliers.
-La société est en outre autorisée à participer à la création et au développement d’entreprises
-industrielles, commerciales, financières ou immobilières et leur apporter tout concours sous la forme
-jugée la plus appropriée, et pour quelque durée que ce soit, et notamment par le biais de prêts, de
-financements, de garanties hypothécaires ou non-hypothécaires, etc.
-Elle dispose, d’une manière générale, d’une pleine capacité juridique pour accomplir tous les actes et
-opérations de nature industrielle, financière, commerciale ou civile ayant un rapport direct ou indirect
-avec son objet ou qui seraient de nature à faciliter, directement ou indirectement, la réalisation de cet
-objet.
-La société s’interdit d’exercer toute activité en infraction avec des dispositions légales ou
-règlementaires pour lesquelles elle ne disposerait pas de l’agrément.
-L’assemblée, statuant comme en matière de modification des statuts, a qualité pour interpréter l’objet
-social.
+ Sauf décision contraire de l’assemblée générale, le mandat de gérant est exercé gratuitement.
+ Article 13
+ Lorsque la loi l’exige et dans les limites qu’elle prévoit, le contrôle de la société est exercé par un ou
+plusieurs commissaires, nommés pour trois ans et rééligibles.
+ TITRE V. ASSEMBLEE GENERALE
+ Article 14
+ Il est tenu chaque année, le premier mardi du mois de juin à dix-huit heures au siège social ou à
+l'endroit indiqué dans la convocation une assemblée générale ordinaire,
+Si ce jour est férié, l’assemblée est remise au premier jour ouvrable suivant, autre qu’un samedi.
+S’il n’y a qu’un seul associé, c’est à cette même date qu’il signe pour approbation les comptes
+annuels.
+ Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois que
+l’intérêt social l’exige ou sur requête d’associés représentant le cinquième du capital.
+Les convocations aux assemblées générales contiennent l’ordre du jour. Elles sont faites
+conformément à la loi. Toute personne peut renoncer à la convocation et, en tout cas, sera
+considérée comme ayant été régulièrement convoquée si elle est présente ou représentée à
+l’assemblée.
+ Article 15
+Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
+semaines au plus par la gérance. Cette prorogation annule toute décision prise. La seconde
+assemblée générale délibère sur le même ordre du jour et statue définitivement.
+Article 16
+ L’assemblée générale est présidée par un gérant ou, à défaut, par l’associé présent qui détient le
+plus de parts.
+Sauf dans les cas prévus par la loi, l’assemblée statue quelle que soit la portion du capital
+représentée et à la majorité des voix.
+ Article 17
+ Dans les assemblées, chaque part donne droit à une voix sous réserve des dispositions légales.
+Sauf dans les cas prévus par la loi, tout associé peut donner à un autre associé, par tout moyen de
+transmission, une procuration écrite pour le représenter à l’assemblée et y voter en ses lieux et
+place.
+Les associés peuvent, à l’unanimité, prendre par écrit toutes les décisions qui relèvent du pouvoir de
+l’assemblée générale, à l’exception de celles qui doivent être passées par un acte authentique.
+ TITRE VI. EXERCICE SOCIAL – REPARTITION - RESERVES
+ Article 18
+ L’exercice social commence le premier janvier et finit le trente et un décembre de chaque année.
+ Article 19
+ Sur le bénéfice net, chaque année il est prélevé tout d’abord cinq pour cent (5 %) au moins pour
+constituer la réserve légale.  Ce prélèvement cesse d’être obligatoire lorsque la réserve légale a
+atteint le dixième du capital social, mais doit être repris si, pour quelque motif que ce soit, le fonds de
+réserve vient à être entamé.
+ Le solde est mis à la disposition de l’assemblée générale qui en détermine l’affectation, étant
+toutefois fait observer que chaque part sociale confère un droit égal dans la répartition des bénéfices.
+ TITRE VII. DISSOLUTION -LIQUIDATION
+ Article 20
+ La société peut être dissoute en tout temps, par décision de l’assemblée générale délibérant dans
+les formes prévues pour les modifications de statuts.
+ Article 21
+ En cas de dissolution de la société, pour quelque cause et à quelque moment que ce soit, la
+liquidation s’opère par le ou les gérants en fonction, sous réserve de la faculté de l’assemblée
+générale de désigner un ou plusieurs liquidateurs et de déterminer leurs pouvoirs et émoluments.
+ Les liquidateurs n’entrent en fonction qu’après confirmation, par le tribunal de commerce, de leur
+nomination.
+ Article 22
+ Après le paiement ou la consignation des sommes nécessaires à l’apurement de toutes les dettes et
+charges et des frais de liquidation et, en cas d’existence de parts sociales non entièrement libérées,
+après rétablissement de l’égalité entre toutes les parts soit par des appels de fonds, soit par des
+distributions préalables au profit des parts libérées dans une proportion supérieure, l’actif net est
+réparti entre toutes les associés suivant le nombre de leurs parts sociales et les biens conservés leur
+sont remis pour être partagés dans la même proportion.
+ TITRE VIII. DISPOSITIONS DIVERSES
+ Article 23
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+20
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
  
-Article quatre - DUREE
-La société est constituée pour une durée illimitée à partir du jour où elle acquiert la personnalité
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+ Pour l’exécution des statuts, tout associé, gérant, commissaire, directeur, liquidateur domicilié à
+l’étranger, fait élection de domicile au siège social où toutes les communications peuvent lui être
+valablement faites s’il n’a pas élu un autre domicile en Belgique vis-à-vis de la société.
+ Article 24
+ Pour tout litige entre la société, ses associés, gérants, commissaires et liquidateurs, relatifs aux
+affaires de la société et à l'exécution des présents statuts, compétence exclusive est attribuée aux
+tribunaux du siège social, à moins que la société n'y renonce expressément.
+ Article 25
+ Les dispositions du Code des sociétés auxquelles il ne serait pas licitement dérogé sont réputées
+inscrites dans les présents statuts et les clauses contraires aux dispositions impératives du Code des
+sociétés sont censées non écrites.
+III. – DISPOSITIONS TRANSITOIRES
+ Les fondateurs ont pris à l’unanimité les décisions suivantes qui ne deviendront effectives qu’à dater
+du dépôt de l’extrait de l’acte constitutif au greffe du tribunal de commerce de Nivelles,
+conformément à la loi.
+ 1°- Premier exercice social et assemblée générale ordinaire
+Le premier exercice social commencera ce jour et finira le trente et un décembre 2016
+La première assemblée générale ordinaire aura donc lieu le premier mardi du mois de juin 2017.
+ 2°- Gérance
+Ont été nommés en qualité de gérant pour une durée illimitée avec effet immédiat :  Monsieur JIANG
+Haiyun, Monsieur DELLA-PELLE Christophe et Monsieur MATHEYS Ludovic précités.
+Chacun des gérants pourra engager la société à l’égard des tiers pour toute somme ou  engagement
+n’excédant pas deux mille euros (2.000,00 EUR).  Pour toute somme et/ou engagement au-delà de
+ce montant, la signature de deux gérants est requise.
+Le mandat des gérants est gratuit.
+ 3°- Commissaire
+Compte tenu des critères légaux, les fondateurs ont décidé de ne pas désigner de commissaire-
+réviseur.
+ 4° Engagements pris au nom de la société en formation
+1. Antérieurs à la signature de l'acte constitutif
+Tous les engagements, ainsi que les obligations qui en résultent, pris par les fondateurs dans les 3
+mois qui ont précédé la constitution de la société, au nom et pour compte de la société en formation,
+ont été repris par la société.
+Les fondateurs ont déclaré avoir parfaite connaissance desdits engagements
+2. Postérieurs à la signature de l'acte constitutif et antérieurs à l'acquisition de la personnalité
+juridique - Mandat
+Pour la période comprise entre la date du présent acte et la date de dépôt de son extrait au greffe du
+tribunal compétent, les fondateurs ont déclaré constituer pour mandataire Monsieur Ludovic
+MATHEYS prénommé, et lui donner pouvoir de, pour eux et en leur nom, conformément à l'article 60
+du Code des sociétés, prendre les engagements nécessaires ou utiles à la réalisation de l'objet
+social, au nom et pour le compte de la société en formation.
+3. Reprise
+Les engagements pris dans les conditions visées sub 4.1., de même que les opérations accomplies
+en vertu du mandat conféré sub 4.2. pour compte de la société en formation et les engagements qui
+en résultent, seront réputés avoir été contractés dès l'origine par la société ici constituée.
+Toutefois, ces reprises n'auront d'effet qu'au moment où la société aura acquis la personnalité
 juridique.
  
-TITRE DEUX – CAPITAL
- 
-Article cinq - CAPITAL
-Le capital social est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 €).
-Il est représenté par mille (1.000) parts sociales sans désignation de valeur nominale, représentant
-chacune un/millième (1/1.000ème) du capital, et est libéré à concurrence d’un/tiers (1/3) à la
-constitution de la société.
- 
-Article six - NATURE DES PARTS SOCIALES
-Les parts sociales sont nominatives. Un numéro de suite leur est attribué.
-Les parts sociales sont inscrites dans un registre des parts tenu au siège social et qui contiendra la
-désignation précise de chaque associé et le nombre de parts lui appartenant, ainsi que l'indication
-des versements effectués.
-Seul le registre des parts fait foi de la propriété des parts sociales. Des certificats constatant ces
-inscriptions seront délivrés aux titulaires des parts.
- 
-Article sept - INDIVISIBILITE DES TITRES
-Les parts sociales sont indivisibles. S'il y a plusieurs propriétaires d'une part sociale, l'exercice des
-droits y afférents sera suspendu jusqu'à ce qu'une personne ait été désignée comme étant
-propriétaire de cette part à l'égard de la société.
-Les droits afférents aux parts sociales seront, à défaut de convention contraire, exercés par
-l'usufruitier.
- 
-Article huit - CESSION ET TRANSMISSION DES PARTS
-A. CESSION ENTRE VIFS ET TRANSMISSION DES PARTS AU CAS OU LA SOCIETE NE
-COMPREND QU'UN ASSOCIE
-a) La cession entre vifs
-Si la société ne comprend qu'un associé, celui-ci sera libre de céder tout ou partie des parts à qui il
-l'entend.
-b) La transmission pour cause de mort
-Le décès de l'associé unique n'entraîne pas la dissolution de la société.
-Si l'associé unique n'a laissé aucune disposition de dernières volontés concernant l'exercice des
-droits afférents aux parts sociales, lesdits droits seront exercés par les héritiers et légataires
-régulièrement saisis ou envoyés en possession, proportionnellement à leurs droits dans la
 
 Bi
 jla
@@ -415,392 +673,10 @@ bl
 ad
  - 
 
-05
-/0
-
-8/
 20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-succession, jusqu'au partage desdites parts ou jusqu'à la délivrance de legs portant sur celles-ci.
-Pour le cas où il y aurait des parts sociales non proportionnellement partageables, lesdits héritiers et
-légataires auront l'obligation, pour lesdites parts sociales, de désigner un mandataire; en cas de
-désaccord, le mandataire sera désigné par le Président du Tribunal de Commerce du lieu où la
-société a son siège social, siégeant en référé à la requête de la partie la plus diligente.
-A défaut de désignation d'un mandataire spécial, l'exercice des droits afférents aux parts sociales
-non proportionnellement partageables sera suspendu.
-Par dérogation à ce qui précède, celui qui hérite de l'usufruit des parts d'un associé unique exerce
-les droits attachés à celles-ci.
-B. CESSION ENTRE VIFS ET TRANSMISSION DES PARTS AU CAS OU LA SOCIETE
-COMPREND PLUSIEURS ASSOCIES
-La cession entre vifs ou la transmission pour cause de mort des parts d'un associé est soumise, à
-peine de nullité, à l'agrément:
-a) de l'autre associé, si la société ne compte que deux associés au moment de la cession ou de la
-transmission;
- 
- 
-Troisième rôle
- 
-b) si la société compte plus de deux associés, de la moitié au moins des associés qui possèdent les
-trois/quarts au moins des parts sociales autres que celles cédées ou transmises.
-Toutefois, cet agrément ne sera pas requis en cas de cession ou de transmission s'opérant au profit
-d'un associé, de son conjoint, de ses ascendants ou descendants en ligne directe.
-En cas de refus d'agrément d'une cession entre vifs ou d'une transmission pour cause de mort, il
-sera référé aux dispositions légales applicables.
- 
-TITRE TROIS - GERANCE ET contrôle
- 
-Article neuf - GERANCE
-La gérance de la société est confiée à un ou plusieurs gérants, personnes physiques ou personnes
-morales, associés ou non.
-Lorsqu'une personne morale est nommée gérant de la société, celle-ci est tenue de désigner parmi
-ses associés, gérants, administrateurs ou travailleurs, un représentant permanent chargé de
-l'exécution de cette mission au nom et pour le compte de cette personne morale.
-Sauf décision contraire de l'assemblée générale, le mandat de gérant est rémunéré.
- 
-Article dix – POUVOIRS
-* En cas de pluralité de gérants, chacun des gérants agissant séparément a pouvoir d'accomplir tous
-les actes nécessaires ou utiles à l'accomplissement de l'objet social de la société, sauf ceux que la
-loi réserve à l'assemblée générale.
-Ils peuvent représenter la société à l'égard des tiers et en justice, soit en demandant soit en
-défendant.
-Agissant conjointement, les gérants peuvent déléguer certains pouvoirs pour des fins déterminées à
-telles personnes que bon leur semble.
-* En cas de gérant unique, il exercera seul les pouvoirs conférés ci-avant et pourra conférer les
-mêmes délégations.
- 
-Article onze - CONTROLE
-Chaque associé a individuellement les pouvoirs d'investigation et de contrôle d'un commissaire tant
-que la société ne sera pas astreinte à désigner, conformément à la loi, un commissaire.
- 
-TITRE QUATRE – ASSEMBLEE GENERALE
- 
-Article douze - REUNION
-Il est tenu une assemblée générale ordinaire chaque année le dernier jeudi du mois de juin à 18
-heures.
-Si ce jour était férié, l'assemblée se réunit le premier jour ouvrable suivant, à la même heure.
-Le ou les gérants peuvent convoquer l'assemblée chaque fois que l'intérêt de la société l'exige.
-Toute assemblée générale se tient au siège social de la société ou en tout autre endroit mentionné
-dans les avis de convocation.
-Toutes les parts sociales étant nominatives, les convocations contenant l’ordre du jour, se font par
-lettres recommandées, lesquelles seront adressées, quinze jours avant l’assemblée, aux associés,
-aux gérants et, le cas échéant, aux commissaires.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-05
 /0
 
-8/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-Une copie des documents qui doivent être mis à la disposition des associés, des gérants et, le cas
-échéant, des commissaires en vertu du Code des Sociétés, leur est adressée en même temps que la
-convocation.
-Tout associé, gérant ou commissaire qui assiste à une assemblée générale ou s'y est fait
-représenter est considéré comme ayant été régulièrement convoqué.  Un associé, gérant ou
-commissaire peut également renoncer d’une part à être convoqué et d’autre part à se plaindre de
-l'absence ou d'une irrégularité de convocation avant ou après la tenue de l'assemblée à laquelle il n'a
-pas assisté.
- 
-Article treize – NOMBRE DE VOIX
-a) En cas de pluralité d'associés, chaque associé peut voter par lui-même ou par mandataire,
-associé ou non.
-Le vote peut également être émis par écrit.  Chaque part ne confère qu'une seule voix.  L'associé qui
-possède plusieurs parts sociales dispose d'un nombre de voix égal à celui de ses parts.
-b) En cas d'associé unique, celui-ci exerce les pouvoirs dévolus à l'assemblée générale et il ne peut
-les déléguer.
- 
-Article quatorze – DELIBERATION
-Aucune assemblée ne peut délibérer sur un sujet qui n'est pas annoncé à l'ordre du jour, à moins
-que toutes les personnes devant être convoquées, soient présentes ou représentées, que la
-procuration l'autorise, et que l'unanimité des voix s'y est résolue.
-Les associés peuvent, à l'unanimité, prendre par écrit toutes les décisions qui relèvent de
-l'assemblée générale, à l'exception de celles qui doivent être passées par un acte authentique.
- 
-Article quinze - PROCES-VERBAL
-En cas de pluralité d'associés, le procès-verbal de l'assemblée générale est signé par tous les
-associés présents et en cas d'associé unique par ce dernier.
-Le procès-verbal de l'assemblée générale est consigné dans un registre tenu au siège social.
-Les expéditions ou extraits à produire en justice ou ailleurs sont signés par un gérant.
- 
-TITRE CINQ – EXERCICE SOCIAL - DISTRIBUTION
- 
-Article seize - EXERCICE SOCIAL
-L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
-année.
-Les écritures sociales sont établies et publiées conformément aux dispositions légales en vigueur.
- 
-Article dix-sept - DISTRIBUTION
-Le bénéfice net de l'exercice est déterminé conformément aux dispositions légales.
-Sur le bénéfice net il est fait annuellement un prélèvement d'un/vingtième au moins, affecté à la
-formation d'un fonds de réserve. Le prélèvement cesse d'être obligatoire lorsque le fonds de réserve
-a atteint le dixième du capital social.
-Le solde restant recevra l'affectation que lui donnera l'assemblée générale statuant à la majorité des
-voix sur proposition du ou des gérant(s).
- 
- 
- 
-Quatrième et dernier
-rôle
- 
-TITRE SIX - DISSOLUTION – LIQUIDATION
- 
-Article dix-huit - DISSOLUTION
-Outre les causes de dissolution légales, la société ne peut être dissoute que par décision de
-l'assemblée générale, statuant dans les formes et conditions requises pour les modifications aux
-statuts.
-En cas de liquidation, celle-ci s'opère par les soins du ou des gérant(s) en fonction à cette époque ou
-par les soins d'un ou plusieurs liquidateur(s), nommé(s) par l'assemblée générale, et cela suite à une
-décision de l'assemblée.
-Le(s) liquidateur(s) dispose(nt) à cette fin des pouvoirs les plus étendus conférés par les articles 186
-et suivants du Code des Sociétés.
-L'assemblée générale détermine le cas échéant les émoluments du ou des liquidateur(s).
- 
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-05
-/0
-
-8/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-Article dix-neuf - DROIT COMMUN
-Pour tout ce qui n'est pas prévu aux présentes, il est expressément référé aux dispositions du Code
-des Sociétés.
- 
-III. DISPOSITIONS TRANSITOIRES
- 
-1. Premier exercice social
-Par exception le premier exercice social commencera le jour où la société acquerra la personnalité
-juridique et se clôturera le 31 décembre 2017.
- 
-2. Première assemblée générale annuelle
-La première assemblée générale annuelle aura lieu en juin 2018, conformément aux statuts.
- 
-3. Reprise par la société des engagements pris par le gérant pendant la période de transition
-Le fondateur déclare savoir que la société n'acquerra la personnalité juridique et qu'elle n'existera
-qu'à partir du dépôt au greffe du Tribunal de commerce, d'un extrait du présent acte de constitution.
-Le fondateur déclare que, conformément aux dispositions du Code des Sociétés, la société reprend
-les engagements pris au nom et pour le compte de la société en constitution endéans les deux
-années précédant la passation du présent acte. Cette reprise sera effective dès que la société aura
-acquis la personnalité juridique.
-Les engagements pris entre la passation de l’acte constitutif et le dépôt au greffe susmentionné,
-doivent être repris par la société endéans les deux mois suivant l’acquisition de la personnalité
-juridique par la société, conformément aux dispositions du Code des Sociétés.
- 
-IV. Dispositions DIVERSEs
- 
-Le fondateur a en outre décidé:
-a. de fixer le nombre de gérant à UN.
-b. de nommer à ces fonctions Monsieur Pierre-Yves JACQMIN prénommé, qui déclare accepter et
-confirmer expressément qu'il n’est pas frappé d'une décision qui s'y oppose.
-c. de fixer le mandat de gérant pour une durée indéterminée.
-d. que le mandat de gérant sera rémunéré.
-e. de ne pas nommer un commissaire.
-POUR EXTRAI ANALYTIQUE CONFORME
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-05
-/0
-
-8/
+4/
 20
 
 16

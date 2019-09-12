@@ -53,64 +53,64 @@ N° d'entreprise :
 
 Dénomination
 
-(en entier) : Xannado T&C scs
+(en entier) : Snc 63
 
-(en abrégé) : Xannado
+(en abrégé) :
 
-Forme juridique  : Société en commandite simple
+Forme juridique  : Société en nom collectif
 
-Siège : Rue des Oiseaux (BUZ) 120
+Siège : Rue de la Clef 13
 
-6230
+4621
 
 Belgique
 
 Objet de l'acte : Constitution
 
-Pont-à-celles (Buzet)
+Fléron (Retinne)
 
-CONSTITUTION
-Le 15 novembre 2016,
-Sous seing privé,
 Les soussignés :
-Xavier THIRY, marié, ingénieur industriel, domicilié au 120 rue des Oiseaux à 6230 BUZET
-Anne GODARD, mariée, infirmière et traiteure, domiciliée au 120 rue des Oiseaux à 6230 BUZET
-ont établi les statuts d’une société en commandite simple (en abrégé : SCS) devant exister entre eux.
-Monsieur Xavier THIRY participe à la constitution de la société en tant qu’associé commandité, solidairement
-responsable.
-Madame Anne GODARD participe à la constitution de la société en tant qu’associé commanditaire simple.
- 
-STATUTS
-Article un : Forme
-Les associés désignés dans les présents statuts ont créé une société en commandite simple existant entre eux
-et les personnes qui deviendraient ultérieurement propriétaires de parts sociales.
-Article deux : Objet
-La société a pour objet, tant en Belgique qu’à l’étranger, pour compte propre ou pour compte tiers, toutes
-opérations se rapportant directement ou indirectement à ce qui suit :
-L’achat, la vente, la fourniture, la conception, le développement, l’adaptation, la maintenance et la réparation de
-matériel informatique et de bureau, des matériels et accessoires périphériques, de programmes et de licences
-informatiques, de sites intranet et internet, de systèmes et de réseaux, ainsi que la formation qui s’y rapporte ;
-La consultance, le conseil, et la formation en informatique, en management et organisation des entreprises, ainsi
-qu’en datawarehouse et business intelligence, en ce compris les aspects touchant à la commercialisation, à la
-logistique, à l’analyse et à la gestion des projets ;
-L’organisation de séminaires, de formations et d’événements ;
-La mise à disposition de personnel dans les domaines précités, en dehors des formes de mises à disposition
-réservées par la loi aux entreprises de travail intérimaire ;
-L’entremise et la représentation commerciale dans tous les domaines d’activité et sur tous les marchés ;
-La location de gîtes de vacances, d’appartement et de meublés de vacances, la tenue de chambres d’hôtes,
-d’hébergements touristiques ou de tout autre hébergement de courte durée ;
-La société a également pour objet l’achat, la vente, la location de tous biens et droits mobiliers et immobiliers,
-pour compte propre et de manière générale, toutes opérations quelconques, matérielles ou juridiques, réalisées
-pour compte propre, relatives à ces biens. Les biens et droits mobiliers et immobiliers peuvent être mis à
-disposition, gratuitement ou à titre onéreux, d’un ou plusieurs membres du conseil de gérance ou des membres
-de l’assemblée générale.
-Elle peut en outre, sous réserve des restrictions légales, faire toutes les opérations commerciales, industrielles,
+1) Madame ATCI Meryem, (NN 97.03.06-462.58) née le 06 mars 1997 à Liège et domiciliée à Rue Bacamelye,
+21 à 4620 Fléron
+2) Monsieur DABAN Haci Bektas (NN 81.03.01-437.91) né le 01 mars 1981 à Viransehir (Turquie) et domicilié
+rue Général de Gaulle, 344/21 à 4020 Liège
+Voulant former entre eux une société, ont convenus de ce qui suit :
+ARTICLE 1 – FORME, DENOMINATION              
+La société est en nom collectif, sous la raison sociale snc 63
+ARTICLE 2 – SIEGE SOCIAL
+Le siège social est établi à 4621 Fléron (Retinne), rue de la Clef, 13. Il peut être transféré en tout autre endroit
+de Belgique par simple décision de la gérance.
+ARTICLE 3 – OBJET
+La société à pour objet, pour compte propre, pour compte de tiers ou en  participation, en Belgique ou à
+l’étranger, l’exploitation d’un commerce de restauration rapide, snack, pita.
+Elle peut notamment se porter caution et donner toute sûreté personnelle ou réelle en faveur de toute personne
+ou société liée ou non.
+Elle peut accomplir toutes opérations commerciales, industrielles, financières, mobilières ou immobilières se
+rapportant directement ou indirectement à son objet.
+Elle peut s’intéresser par toutes voies dans toutes sociétés, associations ou entreprises ayant un objet similaire
+ou connexe au sien ou susceptible de favoriser le développement de ses activités.
+La société peut être administrateur, gérant ou liquidateur.
+ARTICLE 4 – CAPITAL - DUREE
+Les associés font apport à la société, à savoir :
+Madame ATCI Meryem, 3 parts d’une valeur de 100 euros chacune ; soit 300 �
+Monsieur DABAN Haci, 7 parts d’une valeur de 100 euros chacune ; soit  700 �
+Le capital social est donc de 1.000.-�. Il est représenté par 10 parts d’une valeur nominale de 100 �.
+Les fonds seront à disposition de la société dès la constitution.
+Le capital peut être augmenté ou réduit par décision de l’ensemble des associés réunis en assemblée générale.
+La société est constituée pour une durée indéterminée à partir des présents statuts.
+ARTICLE 5 – GERANCE
+Est appelée aux fonctions de gérant Madame ATCI Elif, (NN 92.04.17-504.73) née le 17 avril 1992 à Liège et
+domiciliée à Rue Bacamelye, 21 à 4620 Fléron.
+Ce mandat sera exercé à titre gratuit, aucune rémunération ne sera octroyée.
+Le gérant nommé ci-dessus peut déléguer ses pouvoirs à une personne ayant l’assentiment de tous les
+associés.
+ARTICLE 6 – REPRESENTATION DE LA SOCIETE
 
- *16323664*
+ *16309195*
 Déposé
-17-11-2016
+22-04-2016
 
-0666472548
+0652780603
 
 Bi
 jla
@@ -139,10 +139,10 @@ bl
 ad
  - 
 
-22
-/1
+27
+/0
 
-1/
+4/
 20
 
 16
@@ -183,74 +183,44 @@ belge
 Volet B - suite
 Mod PDF 11.1
 
-financières, mobilières, immobilières ou juridiques se rattachant à l’objet indiqué ci-dessus et visant à favoriser
-l’activité de l’entreprise ;
-Elle peut notamment s'intéresser par voie d'association, d'apport, de fusion, de souscription, d'achat, de
-participation ou d'intervention financière ou autres à toutes sociétés ou entreprises existantes ou à créer en
-Belgique ou à l'étranger dont l'objet sera analogue ou connexe au sien, ou susceptible d'accroître son activité
-sociale, celle -ci étant comprise dans son sens le plus étendu
-Article trois : Dénomination
-L’entreprise a pour dénomination Xannado T&C scs, ou Xannado en abrégé.
-Article quatre : Siège social
-Le siège social de la société est établi au 120 rue des Oiseaux à 6230 BUZET. Il pourra être transféré en un
-autre lieu sur simple décision de la gérance.
-Article cinq : Durée
-La société est créée pour une durée indéterminée. Elle pourra cependant être dissoute sur décision des associés
-réunis en assemblée générale et dans les conditions requises pour la modification des statuts.
-Article six : Apports
-Xavier THIRY effectue un apport en numéraire de 5580 �.
-Anne GODARD effectue un apport en numéraire de 620 �.
-Les apports en numéraire seront libérés et versés sur un compte ouvert au nom de la société en fonction des
-besoins de la société et sur simple demande du gérant.
-Article sept : Capital social
-Le capital s’élève à 6200 �. Il est constitué de 620 parts sociales ayant chacune une valeur nominale de 10 �.
-Ces parts sont réparties de la manière suivante :
-Parts détenues par les associés commandités :
-Xavier THIRY reçoit 558 parts.
-Parts détenues par les associés commanditaires :
-Anne GODARD reçoit 62 parts.
-Les parts ne peuvent en aucun cas être représentées par des titres négociables.
-Chaque propriétaire de parts est tenu d’adhérer aux présents statuts et aux décisions prises lors des
-assemblées.
-Chaque associé commandité a la qualité de commerçant et il est tenu responsable des pertes ainsi que du passif
-social de la société indéfiniment et solidairement avec les autres associés.
-Chaque associé commanditaire n’est tenu responsable des pertes et du passif social de la société qu’à
-concurrence de ses apports en capital.
-Article huit : Cession de parts - Retrait d’un associé
-Toute cession de parts sociales entre vifs doit faire l’objet d’un acte authentique ou sous seing privé. Si l’un des
-associés commanditaires souhaite céder ses parts à une personne qui n’est pas déjà associée de la société, le
-futur cessionnaire devra préalablement obtenir l’agrément de la majorité des associés réunis en assemblée
-générale extraordinaire.
-En ce qui concerne les associés commandités, ils ne peuvent céder leurs parts à un autre associé ou à un tiers
-qu’avec le consentement unanime de tous les associés.
-En outre, un associé peut se retirer totalement ou partiellement de la société après accord de la majorité des
-associés réunis en assemblée générale extraordinaire.
-L’associé qui souhaite se retirer doit notifier son souhait à la société et à chacun des autres associés par lettre
-recommandée avec accusé de réception au moins 6 mois avant la date de prise d’effet souhaitée pour son
-retrait. Si l’assemblée générale extraordinaire des associés donne son accord, la société lui rembourse la valeur
-de ses parts et le gérant réduit le capital en annulant les parts de l’associé qui s’est retiré.
-Article neuf : Cession de parts après le décès d’un associé - Liquidation judiciaire ou interdiction d’exercer d’un
-associé
-En cas de décès de l’associé commanditaire ou de l’associé commandité la présente société continuera d’exister
-avec les héritiers et représentants du prédécédé, lesquels seront tenus de déléguer l’un d’entre eux ou de
-constituer un mandataire commun agrée par tous les associés restants pour les représenter dans leurs rapports
-avec la société.
-En cas de liquidation judiciaire ou d’interdiction d’exercer d’un associé, les associés se réuniront en assemblée
-générale extraordinaire pour décider si la société poursuit son activité ou si elle est dissoute.
-Si l’assemblée décide de poursuivre l’activité de la société, les parts sociales de l’associé concerné sont
-annulées de plein droit et le capital de la société est réduit après remboursement de la valeur de ses parts (sauf
-si les associés rachètent lesdites parts ou les font racheter par des tiers dans les conditions prévues à l’article 8).
-Article dix : Nantissement des parts sociales
-Le nantissement des parts d’un associé peut se faire par acte authentique ou sous seing privé. Il n’est toutefois
-autorisé qu’après agrément du bénéficiaire du nantissement par les autres associés dans les conditions prévues
-par l’article 8 pour la cession de parts.
-Article onze : Nomination et pouvoirs du gérant
-Le gérant est obligatoirement un associé commandité.
-Les associés désignent en tant que premier gérant Xavier THIRY, qui accepte.
-Le gérant mènera la gestion administrative et technique de la société.
-Le gérant a tous pouvoirs pour prendre les décisions concernant la gestion courante de la société et pour la
-représenter auprès des tiers dans la limite de l’objet social. Cependant, il devra avoir obtenu l’autorisation de la
-majorité des associés pour acquérir des immeubles, pour souscrire des emprunts bancaires à moyen ou long
+La société sera valablement représentée dans tous les actes par le gérant. Néanmoins, les actes du gérant
+n’engagerons la société qu’aux conditions que l’intéressé agit au nom et pour le compte de celle-ci, qu’il respecte
+les limites légales et statutaires de ses pouvoirs et qu’il agit dans le cadre de l’objet social.
+ARTICLE 7 – EXERCICE SOCIAL
+L’exercice social commence le premier janvier et finit le trente-et-un décembre.
+Par exception, le premier exercice commencera le jour du dépôt  pour se terminer le trente-et-un décembre 2016.
+ARTICLE 8 – ASSEMBLEE GENERALE
+L’assemblée générale se réunit chaque année le dernier vendredi du mois de mai, à dix-heures, au siège social.
+ARTICLE 9 – REPARTITION DES BENEFICES ET DES PERTES
+L’assemblée générale décide chaque année, sur proposition de la gérance, de l’affectation du résultat. Les
+associés partageront les bénéfices et supporterons les pertes proportionnellement à leurs apports.
+ARTICLE 10 – RESPONSABILITE DES ASSOCIES
+Les associés mentionnés ci-dessus sont responsables personnellement et solidairement des engagements pris
+par la S.N.C constituée par les présents statuts.
+ARTICLE 11 – CESSION DES PARTS
+Toute cession de part doit être admise à l’unanimité des associés. Aucun associé ne pourra céder ses droits
+entre vifs à titre onéreux ou gratuit à une personne non associée qu’après que celle-ci ait été agréée à
+l’unanimité des associés.
+ARTICLE 12 – DECES D’UN ASSOCIE
+Le décès d’un des associés n’entraine pas la dissolution de la société.
+Celle-ci sera transformée en Société en Commandite Simple. Les héritiers revêtent alors la qualité d’associés
+commanditaires.
+Dans aucun cas, les héritiers du prédécédé ne pourront faire apposer les scellés ou procéder à un inventaire
+judiciaire, ni entraver d’aucune manière la marche de la société. Ils n’auront que le droit de réclamer la part
+revenant à leur auteur dans la société suivant le dernier bilan.
+ARTICLE 13 – DISSOLUTION DE LA SOCIETE
+Les associés, statuant à l’unanimité, peuvent décider de la liquidation de la société. De la même manière, ils
+nommeront un liquidateur.
+ARTICLE 14 – APPLICATION DU DROIT COMMUN
+Pour tout ce qui n’est pas prévu dans les présents statuts, les dispositions du code des sociétés sont applicables.
+ARTICLE 15 – DIVERS
+Les présents statuts ont été rédigés en cinq originaux. Un exemplaire sera remis à chacun des associés
+fondateurs, les deux autres exemplaires seront destinés respectivement à l’enregistrement et au greffe du
+tribunal de commerce.
+Les présents statuts seront déposés, conformément à l’article 67 du code des sociétés, au greffe du Tribunal de
+Commerce dans le ressort territorial duquel la société à son siège social.
+Fait en cinq exemplaires à Wibrin,  le 13 avril 2016.
+Madame ATCI Meryem                         Monsieur DABAN Haci                         Madame ATCI Elif                
 
 Bi
 jla
@@ -279,149 +249,10 @@ bl
 ad
  - 
 
-22
-/1
+27
+/0
 
-1/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-Mod PDF 11.1
-
-terme, pour consentir des hypothèques sur les immeubles de la société ou pour accepter d’engager celle-ci en
-tant que caution simple ou solidaire.
-En outre, toute convention conclue entre le gérant et la société ne pourra être appliquée qu'après avoir été
-approuvée par les associés réunis en assemblée générale extraordinaire.
-Enfin, il est tenu de consacrer tout le temps et les soins nécessaires à la gestion de la société.
-Article douze : Tenue des assemblées
-Les associés devront se réunir en assemblée générale ordinaire au moins une fois par an pour statuer sur les
-comptes clos à la fin de l’exercice écoulé et pour décider de l’affectation du résultat. Ils pourront aussi se réunir
-en assemblée générale extraordinaire à tout moment sur convocation du gérant.
-Lors des assemblées générales, les délibérations et les résolutions doivent être consignées sur un procès-verbal
-qui est signé par le gérant, par les associés présents et par les représentants des associés absents.
-L’assemblée générale ordinaire approuve les comptes de l’exercice clos si elle le juge opportun et elle décide de
-l’affectation du résultat.  Les bénéfices de la société, constatés par chaque inventaire, seront partagés dans la
-proportion des apports respectifs entre les associés. Les pertes, s’il en existe, seront supportées par les associés
-dans les mêmes proportions, sans néanmoins que l’associé Commanditaire, puisse être engagé au –delà de sa
-mise sociale.
-L’assemblée générale extraordinaire a compétence exclusive pour prendre toute décision aboutissant à une
-modification des présents statuts, moyennant l’assentiment de l’unanimité d’eux. Ils pourront décider notamment,
-et sans que cette énonciation soit limitative, tous changements dans la raison et la signature sociale,
-l’augmentation ou la réduction du capital social, l’adjonction de nouveaux associé, la prorogation, la dissolution
-anticipée de la société et sa transformation en société de toute autre forme belge.
-L’assemblée générale se réunira le premier vendredi du mois de juin de chaque année à 18h.
-La première assemblée générale ordinaire aura lieu au mois de juin 2017.
-Il sera établi chaque année au 31 décembre et pour la première fois le 31 décembre 2017 un inventaire de l’actif
-et du passif de la société. Cet inventaire sera transcrit sur un registre spécial et devra être approuvé et signé par
-tous les associés.
-Article treize : Quorum et majorité
-Pour que l’assemblée puisse délibérer valablement, les associés présents ou représentés doivent posséder au
-moins 51 % du capital social.
-Article quatorze : Exercice social
-L’exercice social débutera le premier janvier et se terminera le 31 décembre de chaque année.
-Le premier exercice social débutera le 1er janvier 2017 et se terminera le 31 décembre 2017.
-Article quinze : Tenue des comptes et information des associés
-Le gérant doit tenir une comptabilité conforme aux lois en vigueur.
-Il doit établir le bilan, le compte de résultats, les annexes et le rapport de gestion dans le mois qui suit la clôture
-de chaque exercice. Ces documents ainsi que le rapport de gestion devront être envoyés aux associés en même
-temps que les convocations aux assemblées générales ordinaires.
-Article seize : Dissolution
-La société pourra être dissoute par anticipation dans l’un des cas suivants :
-décision collective des associés,
-décision de justice,
-décès de tous les associés.
-Article dix-sept : Liquidation
-En cas de dissolution, la société est placée d’office en liquidation. Dans ce cas, sa dénomination sociale doit être
-suivie des mots « société en liquidation » sur tous les documents destinés aux tiers. Le liquidateur est désigné et
-ses pouvoirs sont fixés lors de l’assemblée qui décide la dissolution.
-Pendant la liquidation, le liquidateur représente la société et il procède à la vente des éléments d’actifs et au
-paiement des dettes.
-À la fin des opérations de liquidation, les associés se réunissent en assemblée pour donner quitus au liquidateur,
-pour répartir l’actif net et pour clore la liquidation.
-Article dix-huit : Contestations
-Toute contestation relative à l’interprétation ou à l’exécution de la présente convention devra être tranchée par un
-arbitre désigné de commun accord par les parties.
-Si un arbitre ou un accord amiable ne peuvent pas être trouvés, tous les litiges pouvant se produire entre les
-associés relèveront alors du tribunal de commerce dont dépend le siège social.
-Article dix-neuf : Frais et formalités de publicité
-La société prendra en charge les frais d’impression des présents statuts et d’insertion des avis légaux. Le gérant
-ou un mandataire habilité accomplira toutes ces formalités.
- 
-Fait le 15 novembre 2016 à BUZET en 3 exemplaires.  Chaque soussigné reconnaît avoir reçu un exemplaire
-original.
- 
-Xavier THIRY
-Le gérant,
- 
-Anne GODARD
-Associé commanditaire,
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-22
-/1
-
-1/
+4/
 20
 
 16
