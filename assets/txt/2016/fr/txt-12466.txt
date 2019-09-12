@@ -54,65 +54,67 @@ N° d'entreprise :
 
 Objet(s) de l'acte :
 
+Pdv Mgt
+
 (en entier) :
 
 (adresse complète)
 
-EmMaThe GEST
+Project, Development & Validation Management
 
-Rue Joseph Decooman 29
-1390 Grez-Doiceau
+Rue de la Hulpe 157
+1331 Rixensart
 
-Société civile sous forme de société privée à responsabilité limitéeForme juridique :
+Société privée à responsabilité limitéeForme juridique :
 
 Dénomination
 
 Constitution
 
-Aux termes d'un acte reçu par Maître Marc BOMBEECK, Notaire à Walhain-Saint-Paul, substituant
-son confrère, Maître Yves SOMVILLE, Notaire résidant à Court-Saint-Etienne, légalement empêché,
-le trente-et-un août deux mil seize, a été constituée la société civile à forme de société privée à
-responsabilité limitée " EmMaThe GEST ".
-Associés
-Monsieur de RUYVER Frédéric André Marie, né à Etterbeek, le 30 novembre 1977, époux de
-Madame FRANCOIS Clémence, domicilié à Grez-Doiceau, rue Joseph Decooman, 29.
-Forme-dénomination
-La société a adopté la forme juridique de société civile à forme de société privée à responsabilité
-limitée.
-Elle est dénommée « EmMaThe GEST ».
-Siège social
-            Le siège social est fixé à 1390 Grez-DOiceau, rue Joseph Decooman, 29.
-            Il peut être transféré en tout autre endroit de la région de langue française de Belgique ou de
-la région de Bruxelles-Capitale par simple décision de la gérance, qui a tous pouvoirs aux fins de
-faire constater authentiquement la modification de statuts qui en résulte.
-            La société peut établir, par simple décision de la gérance, des sièges administratifs,
-d’exploitations, agences et succursales en Belgique et/ou à l’étranger.
- 
-Objet social
- 
-La société a pour objet :
- 
-1 - la gestion en tant que gérant   de la  société civile sous forme de  société privée à responsabilité
-limitée , « NOTAIRES SOMVILLE – DE RUYVER – Notaires associés », en cours de constitution,  ci-
-après dénommée la « société professionnelle notariale » ou de toute(s) celle(s) qui lui
-succéderai(en)t sous quelque dénomination que ce soit, et ce dans le respect des dispositions
-légales, réglementaires et déontologiques régissant la profession de notaire, à l’exclusion de toute
-activité en dehors de la société professionnelle notariale dont elle est gérant .
-            En ce sens, elle est une société notariale de gestion.
-           
-2- la gestion de son patrimoine mobilier et immobilier de manière rationnelle et efficace. Dans les
-limites de cette gestion, la société pourra, pour son propre compte et sous forme de placements,
-acquérir, aliéner, prendre et donner en location, grever de droits personnels et réels tous biens
-mobiliers et immobiliers (y compris la mise à disposition de son dirigeant d’un bien immeuble à titre
-de résidence), pourvu que le caractère civil de la société ne soit pas mis en cause.
- 
-3- la conclusion d’emprunts, financements ou contrats de leasing, relativement aux opérations qui
+                                                             CONSTITUTION
+         D'un acte reçu par Maître Cécile LAMMERHIERT, notaire associée à Chaumont-Gistoux,  le
+quatorze avril deux mil seize, transmis au greffe du tribunal de commerce avant enregistrement en
+vue du dépôt,
+         Il résulte que :
+         Monsieur DE VOS Pascal Daniel Léa, Technical & Project Manager, né à Charleroi le 1 mai
+1975 (NN 750501-319.97), célibataire ;
+          Domicilié et demeurant à Rixensart  (1331 Rosières), 157, rue de La Hulpe ;
+          A constitué une société privée à responsabilité limitée sous la dénomination de  : «Project,
+Development & Validation Management », en abrégé « Pdv Mgt »,  dont le siège social sera établi à
+Rixensart  (1331 Rosières), 157, rue de La Hulpe
+           La société a pour objet social d’assurer la gestion de projets technologiques, pour l'aide au
+développement industriel ou domestique, validation de techniques et/ou de moyens de fabrication,
+de gestion ou de contrôle.
+          Elle pourra assurer le conseil, l’étude, la supervision ou la vente de services et/ou de biens
+dans les domaines technologiques tels que électromécanique, électrotechnique, informatique,
+électronique, robotique ou dans les techniques de régulation et de mesures notamment dans les
+milieux industriels ou domestiques, dans le milieu de la construction, sans que cela soit limité à ces
+domaines.
+          Elle pourra assurer la réalisation d'études technologiques ou techniques et leur exécution en
+utilisant tout outil ou moyen indispensable à celle-ci tels que logiciels informatiques, outils pour les
+matériaux tels que acier, plastique, bois ou assimilés.
+           Elle pourra assurer le conseil, l’étude, la supervision dans le domaine du management, de la
+gestion et/ou de l'organisation d'entreprises.
+           Elle pourra dispenser des formations dans les domaines tels que électromécanique,
+électrotechnique, informatique, électronique, robotique ou dans les techniques de régulation et de
+mesures, management, gestion et/ou organisation d'entreprises
+           C'est ainsi  qu'elle pourra notamment assurer la vente, l'achat, le courtage, l'importation,
+l'exportation, l'entretien, l'intégration, la réparation, la conception, la création et la réalisation de tous
+produits logiciels et matériels ainsi que tous les services associés, notamment le conseil, la
+planification, le développement, l'organisation, la gestion, la sécurisation, l'assistance et la
+surveillance, dans les domaines tels que électromécanique, électrotechnique, informatique,
+électronique, robotique ou dans les techniques de régulation et de mesures, management, gestion
+et/ou organisation d'entreprises
+          Cette énumération est énonciative et non limitative.
+          La société a également pour objet la mise à disposition de biens meubles ou immeubles en
+tant qu’élément de rémunération du gérant. 
+          La société pourra être administrateur, gérant ou liquidateur dans toutes autres entreprises
 
- *16317735*
+ *16308444*
 Déposé
-31-08-2016
+14-04-2016
 
-0661869897
+0651939176
 
 Bi
 jla
@@ -141,10 +143,10 @@ bl
 ad
  - 
 
-02
+18
 /0
 
-9/
+4/
 20
 
 16
@@ -187,69 +189,69 @@ au
 
 Mod PDF 11.1
 
-précèdent en ce compris la constitution de garanties sur ses biens même au profit de tiers.
- 
-4- l’acquisition d’un bien immeuble en tant qu’élément de rémunération du gérant.
- 
-Durée
-La société est constituée à partir de ce jour pour une durée illimitée. Elle peut prendre des
-engagements pour un terme dépassant la date de sa dissolution éventuelle.
- 
-Capital social
-Le capital social est fixé à dix-huit mille six cents euros (18.600-€). Il est représenté par cent (100)
-parts sociales sans désignation de valeur nominale.
- 
-Répartition bénéficiaire
-Sur le bénéfice annuel net, il est prélevé au moins cinq pour cent (5 %) pour constituer la réserve
-légale.
-Ce prélèvement cesse d'être obligatoire lorsque la réserve légale atteint le dixième du capital social.
-Le solde restant recevra l'affectation que lui donnera l'assemblée générale statuant sur proposition
-de la gérance.
-La société peut être dissoute en tout temps, par décision de l’assemblée générale délibérant dans
-les formes prévues pour les modifications aux statuts.
-Exercice social
-L'exercice social commence le premier janvier et finit le trente et un décembre de chaque année.
-Assemblée générale ordinaire
-L'assemblée générale ordinaire se réunit chaque année le deuxième mardi du mois de juin à dix-neuf
-heures.
- 
-Si ce jour est un jour férié légal, l'assemblée est remise au plus prochain jour ouvrable, autre qu'un
-samedi à la même heure.
- 
-Chaque part sociale donne droit à une voix.
- 
-Désignation des personnes autorisées à gérer et leurs pouvoirs
- 
-La gérance de la société ne peut être exercée que par un seul notaire titulaire ou associé, étant
-l’associé unique.
- 
-Monsieur Frédéric de RUYVER, préqualifié, est désigné gérant statutaire pour la durée de la société
-et sera le représentant permanent de la présente société.
- 
-La nomination d’une tierce personne comme gérant est exclue aussi longtemps que l’exercice de la
-fonction de notaire est reprise dans l’objet social.
- 
-Le mandat du gérant est exercé à titre onéreux ou à titre gratuit selon ce qui sera décidé par
-l'assem-blée générale.
-Le gérant peut accomplir tous les actes nécessaires ou utiles à l’accomplissement de l’objet social,
-sauf ceux que la loi réserve à l’assemblée générale ; le gérant représente seul la société à l’égard
-des tiers ainsi qu’en justice, soit en demandant, soit en défendant.
- 
-Le comparant a pris à terme les décisions suivantes :
- 
-1. Premier exercice social.
-Le premier exercice social commence le jour du dépôt au Greffe du Tribunal de Commerce et finira
-le 31 décembre 2017.
- 
-2. Première assemblée générale ordinaire.
-La première assemblée générale ordinaire se réunira en juin 2018.
- 
-3. Gérance - Rémunération.
-Le mandat du gérant statutaire est rémunéré.
- 
-4. Commissaire.
-Compte tenu des critères légaux et des présents statuts, le comparant décide de ne pas nommer de
-commissaire-réviseur.
+ayant un objet similaire, connexe ou annexe de nature à faciliter la réalisation de son objet social.
+          Elle pourra accomplir tant en Belgique qu'à l'étranger, tous actes, toutes opérations
+financières, industrielles, commerciales, mobilières ou immobilières se rattachant directement ou
+indirectement à son objet social et permettant d'en faciliter la réalisation.
+          Elle pourra notamment se porter caution et donner toute sûreté personnelle ou réelle en faveur
+de toute personne ou société liée ou non.
+          Elle pourra s'intéresser par voie d'apports, de fusion ou d'absorption ou de toutes autres
+manières, toutes autres entreprises ayant un objet similaire, connexe ou annexe de nature à faciliter
+la réalisation de son objet social.
+         Elle pourra en outre vendre ou concéder toutes marques de fabrique, secrets de fabrication ou
+brevets en rapport avec son objet social et participer sous forme de franchisage à la création
+d'entreprises de même type.
+         Elle peut accomplir toutes ces opérations en nom ou pour compte propre, ainsi que pour ses
+associés ou pour compte de tiers sous la réserve susénoncée, notamment à titre de
+commissionnaire.
+          La société est constituée pour une durée illimitée.  Le début des activités de la société est fixé
+à la date du dépôt de l’extrait de l’acte constitutif au greffe du tribunal de commerce de Nivelles.
+          Le capital social a été fixé lors de la constitution à dix-huit mille six cents (18.600,00 €) euros
+et représenté par cent quatre-vingt-six (186) parts sociales, sans attribution de valeur nominale,
+portant les numéros un (1) à cent quatre-vingt-six (186), qui furent souscrites en numéraire et
+totalement libérées à la constitution.
+           Le bénéfice annuel net de la société est déterminé conformément aux dispositions légales.
+           Sur ce bénéfice il est prélevé au minimum cinq pour cent pour la réserve légale; ce
+prélèvement cesse d'être obligatoire lorsque ce fonds de réserve atteint un dixième du capital social.
+Il redevient obligatoire si, pour une cause quelconque, la réserve vient à être entamée.
+           L'affectation du solde sera opérée librement par l'assemblée générale qui pourra notamment
+le répartir entre les parts sociales, l'affecter à un fonds de réserve extraordinaire ou le reporter à
+nouveau, en tout ou en partie.
+            Aucune distribution ne pourra toutefois être faite si à la date de clôture du dernier exercice,
+l'actif net tel qu'il résulte des comptes annuels est, ou devenait à la suite d'une telle distribution,
+inférieur au montant du capital libéré ou, si ce montant est supérieur, du capital appelé, augmenté de
+toutes les réserves que la loi ou les statuts ne permettent pas de distribuer.
+            Les dividendes sont payables chaque année à l'époque et de la manière fixées par
+l'assemblée générale, sur proposition de la gérance.
+             Lors de la dissolution de la société, pour quelque cause que ce soit, la liquidation se fera par
+les soins de la gérance, sauf décision de l'assemblée générale ou de l'associé unique désignant un
+ou plusieurs liquidateurs. 
+              Les liquidateurs n’entrent en fonction qu’après confirmation, par le tribunal de commerce, de
+leur nomination selon la procédure prévue par le code des sociétés.
+               Avant la clôture de liquidation, les liquidateurs soumettent le plan de répartition de l’actif
+entre les différentes catégories de créanciers pour accord au tribunal de commerce de
+l’arrondissement duquel se trouve le siège de la société.
+               Après le paiement de toutes les dettes et charges de la société ou consignation des
+sommes nécessaires à cet effet, le solde favorable de la liquidation servira d'abord à rembourser les
+parts sociales à concurrence de leur libération.
+                Si toutes les parts sociales ne se trouvent pas libérées dans une mesure égale, les
+liquidateurs rétabliront l'équilibre des parts au point de vue de leur libération, soit par des appels de
+fonds, soit par des remboursements partiels.
+                Le surplus éventuel de l'actif sera réparti de manière égale entre toutes les parts sociales.
+                L'année sociale commence le premier janvier et finit le trente et un décembre de chaque
+année.
+                Le premier exercice social prendra cours à la date du dépôt de l'extrait de l’acte constitutif
+au greffe du tribunal de commerce de Nivelles et finira le 31 décembre 2016.
+                L'assemblée générale ordinaire est tenue chaque année, soit au siège social, soit en tout
+autre local désigné dans la convocation, le deux mai à 18 heures,  conformément à ce qui est dit à
+l'article 27 des statuts, et pour la première fois le deux mai 2017 à 18 heures, sauf si ce jour est un
+jour férié.
+                a) En cas de pluralité d'associés, chaque associé peut voter par lui même ou par
+mandataire.
+                 Le vote peut aussi être émis par correspondance.
+                 Chaque part ne confère qu'une seule voix.
+                  L'associé qui possède plusieurs parts sociales dispose d'un nombre de voix égal au
+nombre de ses parts.
 
 Bi
 jla
@@ -278,10 +280,10 @@ bl
 ad
  - 
 
-02
+18
 /0
 
-9/
+4/
 20
 
 16
@@ -324,34 +326,46 @@ au
 
 Mod PDF 11.1
 
- 
-5. Représentant permanent.
-Monsieur Frédéric DE RUYVER, précité est désigné comme représentant permanent de la présente
-société dans le cadre de l’exercice du mandat de gérant par celle-ci dans la société civile à forme de
-SPRL « NOTAIRES SOMVILLE – DE RUYVER – Notaires associés », ayant son siège social à 1490
-Court-Saint-Etienne, Chaussée de Bruxelles, 10, en cours de constitution.
- 
-B/ REPRISE D’ENGAGEMENTS.
-Le comparant déclare, conformément à l'article 60 du code des Sociétés, reprendre et homologuer,
-au nom de la société présentement constituée, tous les actes, opérations et facturations effectués au
-nom de la société en formation, par eux-mêmes ou leurs préposés depuis le 1er juillet 2016.
- 
-C/ POUVOIRS
-L'assemblée générale confère tout pouvoir à Monsieur Pierre De Vriese, Expert-comptable & Conseil
-fiscal, associé de la société Fidunot Expertise SPRL, dont le siège est situé à Wavre, Avenue des
-Mésanges, 4, pour procéder aux formalités utiles et nécessaires pour l'exécution des présentes
-notamment auprès des guichets d'entreprises, l'administration de la taxe sur la valeur ajoutée et la
-banque carrefour.
-Aux effets ci-dessus signer, les actes, documents, procès-verbaux et registres, élire domicile,
-substituer et en général faire tout ce qui est nécessaire ou utile à l'exécution du présent mandat,
-avec promesse d'approbation et ratification si nécessaire.
-Les expéditions et extraits sont déposés avant enregistrement de l'acte dans l'unique but du dépôt au
-Greffe du Tribunal de Commerce de Nivelles et pour les formalités en rapport avec la TVA.
-POUR EXTRAIT ANALYTIQUE CONFORME
-Marc BOMBEECK, Notaire, substituant son confrère, maître Yves SOMVILLE, légalement empêché.
-Déposé en même temps :
-
-    •  Expédition de l'acte du 31 août 2016 avec attestation bancaire
+                  Les personnes morales peuvent être représentées par un mandataire de leur choix, un
+époux par son conjoint, le nu propriétaire par l'usufruitier et le mineur ou l'interdit par son tuteur, sans
+qu’il soit besoin de justifier ces qualités.
+                  L'assemblée générale statue sauf dans les cas prévus par la loi, quelle que soit la portion
+du capital représenté et à la simple majorité des voix pour lesquel¬les il est pris part au vote.
+                b) En cas d'associé unique, celui ci exerce les pouvoirs dévolus à l'assemblée générale et
+il ne peut les déléguer.
+                La société est administrée par un ou plusieurs gérant(s), personne physique ou morale,
+nommé(s) par l'assemblée générale ou les présents statuts, associé(s) ou non.
+                Lorsqu'une personne morale est nommée gérant, elle est obligée de renseigner parmi ses
+associés, gérants ou son personnel, un représentant permanent, personne physique, chargé de
+l'exécution de la mission de gérant au nom et pour compte de la personne morale. Lors de la
+nomination et de la fin de la fonction du représentant permanent, il y a lieu de remplir les mêmes
+règles de publicité que celles à respecter si la fonction était exercée en nom personnel et pour son
+propre compte. Si la société elle-même est nommée gérant dans une société, la compétence pour
+désigner un représentant permanent revient à l'organe de gestion.
+                S'il n'y a qu'un seul gérant, la totalité des pouvoirs attribués à la gérance  lui est dévolue
+conformément à l'article 257 du code des sociétés.
+                S'ils sont plusieurs, les gérants forment un collège qui délibère valablement lorsque la
+majorité de ses membres est présente; ses décisions sont prises à la majorité des voix. Agissant
+conjointement, les gérants peuvent, conformément à l'article 257 du Code des sociétés, accomplir
+tous les actes nécessaires ou utiles à l'accomplissement de l'objet social de la société, sauf ceux que
+la loi réserve à l'assemblée générale.
+                 La société est représentée dans les actes, y compris ceux où interviennent un
+fonctionnaire public ou un officier ministériel et en justice:
+                 -  s'il n'y en a qu'un seul, par le gérant;
+                 - s’ils sont plusieurs, par l’ensemble des gérants agissant conjointement.
+                  Le ou les gérants pourront, sous leur responsabilité, déléguer leurs pouvoirs relatifs à la
+gestion journalière des affaires de la société à un ou plusieurs gérants ou à des directeurs, associés
+ou non associés, pourvu que cette délégation soit spéciale et régulièrement portée à la connaissance
+des tiers.
+                 Ils pourront de même, dans leurs rapports avec les tiers, se faire représenter, sous leur
+responsabilité, par des mandataires de leur choix, pourvu que ces pouvoirs ne soient ni généraux ni
+permanents.
+                Monsieur Pascal DE VOS, préqualifié, est désigné en qualité de gérant non statutaire pour
+une durée illimitée. Il exercera son mandat pour le moment à titre onéreux selon les modalités à fixer
+lors d’une prochaine assemblée générale. Lequel a accepté ledit mandat ainsi que le caractère
+onéreux de celui-ci.
+                Il n'est pas nommé de commissaire-réviseur.
+                POUR EXTRAIT ANALYTIQUE CONFORME.
 
 Bi
 jla
@@ -380,10 +394,10 @@ bl
 ad
  - 
 
-02
+18
 /0
 
-9/
+4/
 20
 
 16

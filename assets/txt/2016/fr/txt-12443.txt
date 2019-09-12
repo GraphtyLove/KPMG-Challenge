@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-D-Carré
+VERBRUGGEN-SODIVIN
 
-Rue Caroline Popp 19
-7130 Binche
+Avenue de Jette 278
+1090 Jette
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,49 +69,49 @@ Dénomination
 
 Constitution
 
-Aux termes d’un acte reçu par le notaire Gérard Debouche, à Feluy, le 04 avril 2016, en cours
-d’enregistrement, il résulte que :
-Monsieur DELLIS Frédéric, Freddy, Josse, né à Soignies, le vingt-sept mars mil neuf cent septante-
-quatre, domicilié à 7130 Binche, rue Caroline Popp, 19.
-A constitué une société privée à responsabilité limitée dont les caractéristiques sont les suivantes:
-- FORME - DENOMINATION: société privée à responsabilité limitée, dénommée « D-Carré »
-- SIEGE SOCIAL: 7130 Binche, rue Caroline Popp, 19.
-- OBJET: I. La société a pour objet :
-1°) Tant en Belgique qu'à l'étranger, pour compte propre, pour compte de tiers ou en participation
-avec ceux-ci:
-* d’effectuer toutes les opérations liées de manière directe ou indirecte à la gestion, l’achat, la vente,
-la location et le financement de biens mobiliers et  immobiliers propres et/ou des services ;
-* la gestion, l’administration et le conseil aux entreprises et sociétés ;
-* toutes les opérations de gestion ainsi que financières relatives au patrimoine mobilier et immobilier
-propre, comme entre autres le crédit et le financement, le placement du patrimoine mobilier et
-immobilier propre, la gestion du patrimoine mobilier et immobilier propre, la caution hypothécaire et
-autre, les opérations commissions et ducroire pour autant que tout ceci soit légalement autorisé ;
-* la prise de participations sous quelque forme que ce soit, dans toutes les sociétés et entreprises
-existantes et à créer, la gestion et la valorisation des valeurs et participations mobilières propres,
-l’octroi de soutien financier et autre aux sociétés et aux entreprises dans lesquelles elle a des
-intérêts ;    
-* l’intervention en tant que commissionnaire, intermédiaire, dans le cas d’activités à caractère
-immobilières et de toute activité commerciale ;
-l’acquisition et la location, en vue de la location et la sous-location de biens immobiliers et
-d’installations mobilières propres ;
-* la prestation de services liés à la comptabilité, le management, la gestion et l’entretien pour
-d’autres firmes, ainsi que la mise à disposition du personnel à disposition d’autres firmes.
-2°) Tant en Belgique qu’à l’étranger, pour compte propre, pour compte de tiers ou en participation
-avec ceux-ci, la location, la sous-location, l’achat et l’acquisition de tous droits réels ou de la pleine
-propriété de tout immeuble dans le but soit d’y établir son siège social, un siège d’exploitation soit d’y
-loger ses dirigeants et les membres de leur famille à titre de résidence principale ou secondaire, ainsi
-que l’achat et la vente de la pleine propriété ou de tous droits réels, la location, la mise en location, la
-construction, la transformation, la mise en valeur ou toutes opérations assimilées pour tout immeuble
-quelle qu’en soit son affectation, et, de manière plus générale, la constitution, la gestion et la
-valorisation d’un patrimoine mobilier et immobilier, avec ou sans lien direct avec ses autres activités.
-II. Dans le cadre de l’objet ci-avant, elle peut notamment se porter caution et donner toute sûreté
-personnelle ou réelle en faveur de toute personne ou société, liée ou non.
+Il résulte d'un acte reçu le treize avril deux mille seize, par Maître Eric SPRUYT, Notaire à Bruxelles, 
+que :
+Monsieur DUVILLIER Jean-Pierre, domicilié à 13490 Jouques (France), Chemin Citrani-24, le Jas,
+a constitué la société suivante :
+FORME - DENOMINATION.
+La société revêt la forme d'une société privée à responsabilité limitée, et est dénommée
+"VERBRUGGEN-SODIVIN".
+SIEGE SOCIAL.
+Le siège est établi à 1090 Jette, Avenue de Jette 278.
+OBJET.
+La société a pour objet:
+- l’achat et la vente de vins tranquilles, pétillants et spiritueux en Belgique et à l’Etranger, en gros,
+demi-gros et détail, en moûts ou en raisins, et plus généralement de toutes boissons alcoolisées ou
+non et de tous produits se rapportant à l’activité vinicole;
+- toutes opérations de négociation, de commission et de courtage;
+- l'organisation de dégustation de vins et alcools, le conseil et la formation en œnologie;
+- la création, le négoce de tous produits, objets ou articles ayant un lien avec la vigne ou le vin;
+- l’achat, la vente, la prise en location, la mise en valeur, directement ou indirectement, de tous
+immeubles bâtis ou non bâtis, notamment par voie de mise en location sous quelque forme que ce
+soit, meublé ou non, de courte, moyenne ou longue durée, avec ou sans fourniture de prestations
+complémentaires telles que la réception de clientèle, la fourniture de linge de maison, la fourniture de
+petit-déjeuner ou de repas, le nettoyage des locaux loués;
+- et plus généralement toutes opérations de quelque nature qu'elles soient, économiques ou
+juridiques, financières, civiles ou commerciales, pouvant se rattacher, directement ou indirectement,
+à cet objet ou à tous objets similaires, connexes ou complémentaires;
+- la participation, directe ou indirecte, de la société à toutes activités ou opérations industrielles,
+commerciales ou financières, mobilières ou immobilières, en Belgique ou à l'étranger, sous quelque
+forme que ce soit, dès lors que ces activités ou opérations peuvent se rattacher, directement ou
+indirectement, à l'objet social ou à tous objets similaires, connexes ou complémentaires.
+La société peut donner caution tant pour ses propres engagements que pour les engagements de
+tiers, entre autres en donnant ses biens en hypothèque ou en gage, y compris son propre fonds de
+commerce.
+DUREE.
+La société est constituée pour une durée illimitée et commence ses opérations à la date du treize
+avril deux mille seize.
+CAPITAL.
+Le capital est entièrement souscrit et est fixé à vingt-cinq mille euros (€ 25.000,00).
 
- *16308192*
+ *16308414*
 Déposé
-11-04-2016
+14-04-2016
 
-0651789025
+0651933832
 
 Bi
 jla
@@ -140,7 +140,7 @@ bl
 ad
  - 
 
-13
+18
 /0
 
 4/
@@ -186,69 +186,69 @@ au
 
 Mod PDF 11.1
 
-Elle peut réaliser toutes opérations généralement quelconques, commer¬ciales, industrielles,
-financières, mobilières ou immobilières ayant un rapport direct ou indirect avec son objet social ou de
-nature à en faciliter la réalisation et le développement.
-Elle peut s'intéresser, par voie d'apport, de souscription, de cession, de participation, de fusion,
-d’intervention financière ou autrement dans toutes sociétés, entreprises ou associations, tant en
-Belgique qu’à l’étranger.
-La société peut exercer la ou les fonctions d’administrateur, de gérant ou de liquidateur au sein de
-sociétés ou d’entreprises existantes ou à créer.
-- DUREE: illimitée.
-- CAPITAL: Le capital social est fixé à la somme de dix-huit mille six cents (18.600 EUR) euros. Il est
-divisé en cent quatre-vingt-six (186) parts sociales, sans mention de valeur nominale, représentant
-chacune un/cent quatre-vingt-sixième de l'avoir social, entièrement souscrites en espèces et libérées
-à concurrence  de plus de deux/tiers, soit de douze mille cinq cents (12.500) euros.
-- GERANCE: La société est administrée par un ou plusieurs gérants, associés ou non, nommés avec
-ou sans limitation de durée et pouvant, dans cette dernière hypothèse, avoir la qualité de gérant
-statutaire. L’assemblée qui les nomme fixe leur nombre, la durée de leur mandat et, en cas de
-pluralité, leurs pouvoirs. Conformément à l’article 257 du Code des sociétés et sauf organisation par
-l’assemblée d’un collège de gestion, chaque gérant représente la société à l’égard des tiers et en
-justice et peut poser tous les actes nécessaires ou utiles à l’accomplissement de l’objet social, sauf
-ceux que la loi réserve à l’assemblée générale. Un gérant peut déléguer des pouvoirs spéciaux à
-tout mandataire, associé ou non. Sauf décision contraire de l’assemblée générale, le mandat de
-gérant est gratuit.
-- ASSEMBLEE GENERALE ANNUELLE: le dernier lundi du mois de mai à 19 heures au siège social
-ou à tout autre endroit fixé par les avis de convocation. Si ce jour est férié, l’assemblée est remise au
-plus prochain jour ouvrable, autre qu’un samedi.
-- ADMISSION A L’ASSEMBLEE – DROIT DE VOTE – REPRESENTATION: Les assemblées se
-réunissent au siège social ou à l’endroit indiqué dans la convocation, à l’initiative de la gérance ou du
-commissaire. Les convocations sont faites conformément à la loi. Toute personne peut renoncer à
-cette convocation et, en tout cas, sera considérée comme ayant été régulièrement convoquée si elle
-est présente ou représentée à l’assemblée. Toute assemblée générale, annuelle ou extraordinaire,
-peut être prorogée, séance tenante, à trois semaines au plus par la gérance.  La  prorogation annule
-toutes les décisions prises. La seconde assemblée délibère sur le même ordre du jour et statue
-définitivement. Sauf dans les cas prévus par la loi, l’assemblée statue quelle que soit la portion du
-capital représenté et à la majorité des voix. Chaque part donne droit à une voix. Les procès-verbaux
-des assemblées générales sont consignés dans un registre. Ils sont signés par les associés qui le
-demandent. Les copies ou extraits sont signés par un gérant. Pour le surplus on fait référence aux
-dispositions légales.
-- EXERCICE SOCIAL: du premier janvier au trente et un décembre de chaque année.
-- REPARTITION DES BENEFICES: Sur le bénéfice net tel qu’il découle des comptes annuels arrêtés
-par la gérance, il est prélevé annuellement au moins cinq pour cent pour être affectés au fonds de
-réserve légale. Ce prélèvement cesse d’être obligatoire lorsque la réserve légale atteint le dixième du
-capital social. Le solde reçoit l’affectation que lui donne l’assemblée générale statuant sur proposition
-de la gérance, dans le respect des dispositions légales.
-- REPARTITION DU BONI DE LIQUIDATION: Après le paiement de toutes les dettes, charges et
-frais de liquidation ou consignation des sommes nécessaires à cet effet, l’actif est réparti également
-entre toutes les parts. Toutefois, si toutes les parts sociales ne sont pas libérées dans une égale
-proportion, les liquidateurs rétablissent préalablement l’équilibre soit par des appels de fonds, soit
-par des remboursements partiels.
-DISPOSITIONS TEMPORAIRES
-Les fondateurs ont pris les décisions suivantes qui ne sont devenues effectives qu’à dater du dépôt
-du présent extrait de l’acte constitutif au greffe du tribunal de commerce de Mons-Charleroi, division
-Charleroi:
-1°) Le premier exercice social commencé ce jour se terminera le 31 décembre 2016.
-2°) La première assemblée générale annuelle se tiendra en 2017.
-3°) A été désigné en qualité de gérant non statutaire monsieur Frédéric Dellis, qui a accepté.
-Il est nommé jusqu’à révocation et peut engager valablement la société sans limitation de sommes.
-Son mandat est exercé gratuitement.
-4°) Eu égard aux dispositions de l’article 15, §2 du Code des sociétés, le comparant estime de bonne
-foi que la présente société est une petite société au sens de l’article 15, § 1er dudit Code et il décide
-par conséquent ne pas la doter d’un commissaire.
-5°) Le gérant reprendra, le cas échéant et dans le délai légal, les engagements souscrits au nom de
-la société en formation.
-POUR EXTRAIT ANALYTIQUE CONFORME. Gérard DEBOUCHE, Notaire, délivré avant
+Il est représenté par deux mille cinq cents (2.500) parts sociales sans mention de valeur.
+La totalité des parts sociales est souscrite en espèces par monsieur DUVILLIER Jean-Pierre.
+Le capital a été entièrement libéré.
+ATTESTATION BANCAIRE.
+Les susdits apports en espèces ont été déposés, conformément à l'article 224 du Code des sociétés,
+sur un compte spécial numéro BE09 3631 5973 1657 ouvert au nom de la société en formation
+auprès de ING Belgique SA ainsi qu'il résulte d'une attestation délivrée par cette institution
+financière, le premier avril deux mille seize. Cette attestation a été remise au notaire qui la gardera
+dans son dossier.
+ASSEMBLEE GENERALE.
+L'assemblée générale des associés se réunit annuellement le 30 juin à onze heures.
+Si ce jour est un samedi, un dimanche ou un jour férié légal, l'assemblée a lieu le jour ouvrable
+suivant.
+L'assemblée générale ordinaire se tient au siège de la société ou dans la commune du siège de la
+société. Elle peut également se tenir dans une des dix-neuf communes de la Région Bruxelles-
+Capitale.
+REPRESENTATION
+Tout associé empêché peut, donner procuration à une autre personne, associé ou non, pour le
+représenter à une réunion de l'assemblée. Les procurations doivent porter une signature (en ce
+compris une signature digitale conformément à l’article 1322, paragraphe 2 du Code civil).
+Les procurations doivent être communiquées par écrit, par fax, par e-mail ou tout autre moyen
+mentionné à l’article 2281 du code civil et sont déposées sur le bureau de l'assemblée. En outre, le
+gérant peut exiger que celles-ci soient déposées trois jours ouvrables avant l'assemblée à l'endroit
+indiqué par lui.
+Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
+l'application de cet article.
+LISTE DE PRESENCE.
+Avant de participer à l'assemblée, les associés ou leurs mandataires sont tenus de signer la liste de
+présence, laquelle mentionne le nom, les prénoms et l'adresse ou la dénomination sociale et le siège
+social des associés et le nombre de parts sociales qu'ils représentent.
+DROIT DE VOTE
+Chaque part sociale donne droit à une voix.
+Le vote par écrit est admis. Dans ce cas la lettre dans laquelle le vote est émis doit mentionner
+chaque poste de l'ordre du jour et les mots "accepté" ou "rejeté" doivent être manuscrits et suivis de
+la signature, le tout de la même main; cette lettre doit être adressée à la société par envoi
+recommandé et elle sera délivrée au siège au moins un jour avant l'assemblée.
+ADMINISTRATION.
+La société est administrée par un ou plusieurs gérants, personnes physiques ou personnes morales,
+associés ou non.
+Lorsqu’une personne morale est nommée gérant, celle-ci est tenue de désigner parmi ses associés,
+gérants, administrateurs ou travailleurs, un représentant permanent, personne physique, chargé de
+l’exécution de cette mission au nom et pour le compte de la personne morale.
+La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
+règles de publicité que s’il exerçait cette mission en nom et pour compte propre.
+Les gérants sont nommés par l'assemblée générale pour une durée à déterminer par elle.
+POUVOIRS DES GERANTS.
+Les gérants peuvent accomplir tous actes nécessaires ou utiles à la réalisation de l'objet social, à
+l'exception de ceux réservés par le Code des sociétés à l'assemblée générale.
+En cas d'existence de deux gérants ils exerceront l'administration conjointement.
+En cas d'existence de trois ou de plusieurs gérants, ils formeront un collège qui désigne un président
+et qui, par la suite, agira comme le fait une assemblée délibérante.
+Les gérants peuvent par procuration spéciale déléguer une partie de leurs pouvoirs à un préposé de
+la société. S'il existe plusieurs gérants, cette procuration sera donnée conjointement.
+Le(s) gérant(s) règlent entre eux l'exercice de la compétence.
+REPRESENTATION.
+Chaque gérant - aussi lorsqu'il y en a plusieurs - représente la société vis-à-vis de tiers, ainsi qu'en
+justice, tant comme demandeur que comme défendeur.
+La société est en même temps engagée valablement par les représentants repris ci-dessus,
+désignés par procuration spéciale.
+EXERCICE SOCIAL.
+L'exercice social commence le premier janvier pour se terminer le trente et un décembre de chaque
+année.
+DISTRIBUTION.
 
 Bi
 jla
@@ -277,7 +277,7 @@ bl
 ad
  - 
 
-13
+18
 /0
 
 4/
@@ -323,9 +323,57 @@ au
 
 Mod PDF 11.1
 
-enregistrement à la seule fin de dépôt au Greffe du Tribunal de Commerce de Mons-Charleroi,
-division Charleroi.
- 
+Sur le bénéfice net il est prélevé au moins un vingtième pour la réserve légale. Ce prélèvement
+cesse d'être obligatoire lorsque le fonds de réserve atteint le dixième du capital social.
+Il est décidé annuellement par l'assemblée générale, sur proposition des gérants, sur la destination à
+donner à l'excédent.
+Aucune distribution ne peut être faite lorsqu'à la date de clôture du dernier exercice, l'actif net tel qu'il
+résulte des comptes annuels, est ou devient à la suite d'une telle distribution, inférieur au montant du
+capital libéré, augmenté de toutes les réserves que la loi ou les statuts ne permettent pas de
+distribuer.
+DISSOLUTION - LIQUIDATION.
+Lors de la dissolution avec liquidation, le(s) liquidateur(s) est/sont, le cas échéant, nommé(s) par
+l'assemblée générale.
+La nomination du/des liquidateur(s) doit être soumise au président du tribunal de commerce pour
+confirmation, conformément à l’article 184, §2 du Code des Sociétés.
+Ils disposent de tous les pouvoirs prévus aux articles 186 et 187 du Code des sociétés, sans
+autorisation spéciale de l'assemblée générale. Toutefois, l'assemblée générale peut à tout moment
+limiter ces pouvoirs par décision prise à une majorité simple de voix.
+Tous les actifs de la société seront réalisés, sauf si l'assemblée générale en décide autrement.
+Si les parts sociales ne sont pas toutes libérées dans une égale proportion, les liquidateurs
+rétablissent l'équilibre, soit par des appels de fonds complémentaires, soit par des remboursements
+préalables.
+DISPOSITIONS TRANSITOIRES.
+NOMINATION D'UN GERANT NON-STATUTAIRE
+A été nommé à la fonction de premier gérant non statutaire, et ceci pour une durée illimitée :
+monsieur DUVILLIER Jean-Pierre, domicilié à 13490 Jouques (France), Chemin Citrani-24, le Jas.
+Son mandat est non rémunéré.
+PREMIER EXERCICE SOCIAL.
+Le premier exercice social commence le treize avril deux mille seize et prend fin le trente et un
+décembre deux mille seize.
+PREMIERE ASSEMBLEE GENERALE ORDINAIRE. 
+La première assemblée générale ordinaire se tiendra en 2017.
+REPRISE DES ENGAGEMENTS 
+Tous les engagements, ainsi que les obligations qui en résultent, et toutes les activités entreprises
+depuis le premier mars 2016 par les fondateurs, au nom et pour compte de la société en formation,
+sont repris par la société présentement constituée, conformément à l’article 60 du Code des
+Sociétés.  Cette reprise n'aura d'effet qu'au moment où la société aura la personnalité morale, soit à
+partir du dépôt de l'extrait des statuts au greffe du tribunal de commerce de Bruxelles.
+PROCURATION REGISTRE DES PERSONNES MORALES, ADMINISTRATION TVA et BANQUE
+CARREFOUR DES ENTREPRISES
+Tous pouvoirs ont été conférés à Baker Tilly Belgium Accountants & Belastingconsulenten Civ.
+SCRL à 9300 Alost, Kareelstraat 122, ainsi qu’à ses employés, préposés et mandataires, avec droit
+de substitution, afin d'assurer les formalités auprès du registre des personnes morales et, le cas
+échéant, auprès de l'Administration de la Taxe sur la Valeur Ajoutée, ainsi qu’à un guichet
+d’entreprise en vue d’assurer l’inscription/la modification des données dans la Banque Carrefour des
+Entreprises.
+POUR EXTRAIT ANALYTIQUE CONFORME.
+(Déposés en même temps que l’extrait : une expédition de l’acte).
+Une procuration restera annexée à l’acte.
+Cet extrait est délivré avant enregistrement conformément à l'article 173,1° bis du Code des Droits
+d'Enregistrement.
+Tim CARNEWAL
+Notaire
 
 Bi
 jla
@@ -354,7 +402,7 @@ bl
 ad
  - 
 
-13
+18
 /0
 
 4/

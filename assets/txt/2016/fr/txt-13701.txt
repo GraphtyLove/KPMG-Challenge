@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-MEININGER Hotel Brussels Midi Station
+ANSELMO & Cie
 
-Rue de la Presse 4
-1000 Bruxelles
+Chaussée de Bruxelles 273
+1410 Waterloo
 
-Société anonymeForme juridique :
+Société privée à responsabilité limitéeForme juridique :
 
 Dénomination
 
 Constitution
 
-Il résulte d'un acte reçu le quatorze octobre deux mille seize, par Maître Tim Carnewal, Notaire à
-Bruxelles,
-que :
-1) La société de droit anglais "Meininger Hotel Europe Limited" dont le siège social est situé à
-Millbank, 30, 3ème étage, SW1P 4DU, Londres, Royaume-Uni;
-2) La société de droit anglais "Meininger Hotels Limited" dont le siège social est situé à Millbank, 30,
-3ème étage, SW1P 4DU, Londres, Royaume-Uni,
-ont constitué la société suivante:
-FORME JURIDIQUE - DENOMINATION.
-La société revêt la forme d'une société anonyme. Elle est dénommée "MEININGER Hotel Brussels
-Midi Station".
-SIEGE SOCIAL. 
-Le siège est établi à 1000 Bruxelles, rue de la Presse 4.
-OBJET.
-La société a pour objet, tant en Belgique qu'à l'étranger, tant pour son propre compte que pour le
-compte de tiers, l'exploitation et la gestion d'hôtels et des services connexes, tels que des services
-de restauration, des services de divertissement, l'offre de boissons alcoolisées et non alcoolisées,
-l'organisation événements et la location de salles d'événements et d'installations connexes. En outre,
-les services hôteliers connexes comprennent l'importation et l'exportation de plats chauds et froids,
-de boissons et de tous éléments y étant liés.
-A cet effet, la société peut collaborer et prendre part, ou prendre un intérêt dans d'autres entreprises,
-directement ou indirectement, de quelque manière que ce soit.
-La société peut donner caution tant pour ses propres engagements que pour les engagements de
-tiers, entre autres en donnant ses biens en hypothèque ou en gage, y compris son propre fonds de
-commerce.
-La société peut d'une façon générale accomplir toutes opérations commerciales, industrielles,
-financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social
-ou qui seraient de nature à en faciliter la réalisation.
-DUREE.
-La société existe pour une durée illimitée et commence ses opérations à la date du quatorze octobre
-deux mille seize.
-CAPITAL SOCIAL.
-Le capital social est fixé à soixante et un mille cinq cents euros (€ 61.500,00).
-Il est représenté par six cent quinze (615) actions, sans mention de valeur nominale représentant
-chacune un/six cent quinzième du capital social.
-Les actions du capital ont été à l'instant souscrites en espèces et au pair, comme suit :
-- Par Meininger Hotel Europe Limited, comparant(e) sub 1, à concurrence de 614 actions;    
-- Par Meininger Hotels Limited, comparant(e) sub 2, à concurrence de 1 action;
+~~D'un acte reçu par le notaire Enguerrand de Pierpont, à Braine-l'Alleud, en date du 26 avril 2016, il
+résulte que:
 
- *16321163*
+Mademoiselle DEBAILLE Aurèle Jeanine Ghislaine, née à Charleroi le 20 septembre 1990,
+domiciliée à 1420 Braine-l´Alleud, Avenue de Rohan, 10/B000.
+A constitué une société sous forme de Société privée à responsabilité limitée dénommée "ANSELMO
+& Cie".
+ 
+Que Mademoiselle Aurèle DEBAILLE a souscrit la totalité des parts.
+ 
+Que le capital est de 18.600,00 euros et est libéré à concurrence de 12.400,00 euros, chaque part
+étant libérée à concurrence de deux/tiers.
+
+Que cette somme a été déposée sur un compte  BELFIUS  dont l’attestation a été annexée à l’acte
+de constitution
+ 
+Et dont les statuts sont les suivants:
+Article 1 - DENOMINATION DE LA SOCIETE
+La société  est une société commerciale et adopte la forme d’une société privée à responsabilité
+limitée. Elle est dénommée "ANSELMO & Cie".
+En vertu de l’article 78 du Code des sociétés, tous documents écrits, actes, factures, annonces,
+publications, lettres, notes de commande, sites Internet, et autres documents émanant de la société,
+doivent contenir la dénomination sociale, suivie immédiatement de la mention "société privée à
+responsabilité limitée" ou des initiales "SPRL", le siège social, le numéro d’entreprise, le terme «
+registre des personnes morales » ou l’abréviation « RPM », suivi de l’indication du siège du tribunal
+dans le ressort territorial duquel la société a son siège social, et, le cas échéant, l’indication que la
+société est en liquidation.
+ Article 2 - SIEGE SOCIAL
+Le siège social est établi à 1410 Waterloo, Chaussée de Bruxelles, 273.
+Il peut être transféré partout ailleurs en Belgique par simple décision de la gérance qui a tous
+pouvoirs aux fins de faire constater authentiquement la modification des statuts qui en résulte.
+La société peut, par simple décision de la gérance, établir des sièges administratifs, agences,
+ateliers, dépôts ou succursales en Belgique ou à l'étranger.
+Article 3 - OBJET SOCIAL
+La société a pour objet, tant en Belgique, qu'à l'étranger, pour compte propre ou pour compte de tiers
+ou en participation avec ceux-ci :
+- la fabrication de gants et de ceintures en cuir,
+- la fabrication d'articles en fourrure,
+
+ *16309325*
 Déposé
-14-10-2016
+26-04-2016
 
-0664662410
+0652861369
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-18
-/1
+28
+/0
 
-0/
+4/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-Total : 615 actions.
-Chacune des actions souscrites a été libérée à concurrence de 100%.
-De sorte que la société a, dès à présent et de ce chef à sa libre disposition, une somme de soixante
-et un mille cinq cents euros (€ 61.500,00).
-Le capital a été entièrement libéré.
-ATTESTATION BANCAIRE.
-Les susdits apports en espèces ont été déposés, conformément à l'article 449 du Code des sociétés,
-sur un compte spécial numéro BE86 9490 0792 4650 ouvert au nom de la société en formation
-auprès de la banque HSBC ainsi qu'il résulte d'une attestation délivrée par cette institution financière,
-le 12 octobre 2016.
-RESPONSABILITE DE LA CONSTITUTION.
-La société de droit anglais "Meininger Hotel Europe Limited", prénommé sub 1/, a déclaré assumer
-l'entière responsabilité de la constitution actuelle, ceci conformément à l'article 450,2° du Code des
-sociétés.
-La société de droit anglais "Meininger Hotels Limited" est par conséquent à considérer comme
-simple souscripteur.
-COMPOSITION DU CONSEIL D'ADMINISTRATION.
-La société est administrée par un conseil composé de trois membres au moins, personnes physiques
-ou morales, actionnaires ou non, nommés pour six ans au plus par l'assemblée générale des
-actionnaires et en tout temps révocables par elle. Lorsque, lors d'une assemblée générale des
-actionnaires de la société, il est constaté que celle-ci n'a pas plus de deux actionnaires, la
-composition du conseil d'administration peut être limitée à deux membres jusqu'à l'assemblée
-générale ordinaire suivant la constatation par toute voie de droit de l'existence de plus de deux
-actionnaires. Aussi longtemps que le conseil d'administration est composé de deux membres, la
-clause - reprise sous l'article 15 des présents statuts - octroyant une voix décisive au président du
-conseil d'administration cesse de sortir ses effets.
-Lorsqu'une personne morale est nommée administrateur, celle-ci est tenue de désigner parmi ses
-associés, gérants, administrateurs ou travailleurs, un représentant permanent, personne physique,
-chargé de l'exécution de cette mission au nom et pour le compte de la personne morale.
-La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
-règles de publicité que s'il exerçait cette mission en nom et pour compte propre.
-Les administrateurs sont rééligibles.
-L'administrateur dont le mandat est venu à expiration, reste en fonction aussi longtemps que
-l'assemblée générale, pour quelque raison que ce soit, ne pourvoit pas au poste vacant.
-En cas de vacance prématurée au sein du conseil d'administration, pour quelque raison que ce soit,
-les administrateurs restants ont le droit de pourvoir provisoirement au poste vacant jusqu'à ce que
-l'assemblée générale nomme un nouvel administrateur. La nomination est portée à l'agenda de la
-plus prochaine assemblée générale.
-Le conseil d'administration peut élire parmi ses membres un président. A défaut d'élection, ou en cas
-d'absence du président, celui-ci sera remplacé par le doyen des administrateurs.
-REUNIONS-DELIBERATIONS ET RESOLUTIONS.
-Le conseil se réunit sur convocation de son président, d'un administrateur-délégué ou de deux
-administrateurs, effectuée trois jours au moins avant la date prévue pour la réunion.
-Les convocations sont valablement effectuées par lettre, télécopie ou e-mail.
-Tout administrateur qui assiste à une réunion du conseil ou s'y est fait représenter est considéré
-comme ayant été régulièrement convoqué. Un administrateur peut également renoncer à se plaindre
-de l'absence ou d'une irrégularité de convocation avant ou après la réunion à laquelle il n'a pas
-assisté.
-Les réunions du conseil d'administration se tiennent en Belgique ou à l'étranger au lieu indiqué dans
-la convocation.
-Tout administrateur peut, au moyen d'un document qui porte sa signature (y compris une signature
-digitale conformément à l'article 1322, alinéa 2 du Code civil) et qui a été communiqué par écrit, par
-téléfax, e-mail ou par tout autre moyen mentionné à l'article 2281 du Code civil, donner mandat à un
-autre membre du conseil afin de le représenter à une réunion déterminée. Un administrateur peut
-représenter plusieurs de ses collègues et émettre, en plus de sa propre voix, autant de votes qu'il a
-reçu de procurations.
-Sauf cas de force majeure, le conseil d'administration ne peut délibérer et statuer valablement que si
-la moitié au moins de ses membres est présente ou représentée. Si cette dernière condition n'est
-pas remplie, une nouvelle réunion peut être convoquée, qui, à condition que deux administrateurs au
-moins soient présents ou représentés, délibérera et statuera valablement sur les objets portés à
-l'ordre du jour de la réunion précédente.
-Le conseil d'administration peut se réunir par voie de conférence téléphonique ou vidéoconférence.
-Toute décision du conseil est prise à la majorité simple des administrateurs présents ou représentés,
+- la fabrication de chaussures,
+-la fabrication de gants de sport et de coiffures de sport en cuir,
+- la fabrication de vêtements de sécurité résistant au feu et de protection,
+- la réparation et la transformation d’articles d’habillement et de linge de maison: stoppage,
+remaillage, retouche,
+- la fabrication d’autres vêtements de dessus pour hommes, femmes et enfants à partir de tissus,
+d’étoffes à mailles, de non-tissés, etc.:  manteaux, costumes, complets, tailleurs, ensembles, vestes,
+vestons, pantalons, jupes, etc
+- la fabrication de vêtements de dessous et de nuit pour hommes, femmes et enfants à partir de
+tissus, d’étoffes à mailles, de dentelles, etc.: Chemises, chemisiers, chemisettes, slips, caleçons,
+pyjamas, chemises de nuit, robes de chambre, soutien-gorge, corsets, etc.
+- la confection sur mesure
+- la fabrication de vêtements en fourrure,
+- la fabrication de chapeaux,
+- la fabrication de vêtements en caoutchouc non assemblés par couture, mais simplement collés,
+- la fabrication de vêtements en matières plastiques non assemblés par couture, mais simplement
+collés,
+- la fabrication d’articles vestimentaires confectionnés en toutes matières textiles, y compris d’articles
+mis directement en forme au tricot ou au crochet: pull-overs, cardigans, chandails, gilets et articles
+similaires à mailles
+- le commerce de détail de vêtements pour dame, pour homme et pour bébé et enfants
+- le commerce de détail de sous-vêtements, de lingerie et de vêtements de bain
+-le commerce de détail d'accessoires du vêtement: chaussettes, bas, collants, gants, châles,
+ceintures, bretelles, chapeaux, bonnets, parapluies, etc.
+- le design industriel, c’est-à-dire la création et l’élaboration d’avant-projets et de spécifications qui
+optimisent la fonction, la valeur et l’apparence des produits, y compris le choix des matériaux, de la
+structure, des mécanismes, de la forme, de la couleur et du fini de surface du produit, compte tenu
+des facteurs humains, de la sécurité, de l’attrait commercial et de la facilité de production, de
+distribution, d’utilisation et d’entretien
+- la réalisation de maquettes et de modèles réduits
+- la conception de stands d'exposition
+- la production de comptes rendus textuels ou d’enregistrements sténographiques des délibérations
+des tribunaux et la transcription ultérieure du matériel enregistré, telles que:
+• services de transcription des délibérations des tribunaux ou de transcription sténographique
+• services de sténographes publics
+- les services de sous-titrage codé en temps réel (simultané) d’émissions de télévision en direct, de
+réunions ou de conférences
+- les services de codage par code-barres pour les adresses
+- les services d’impression de code-barres
+- les services de collectes de fonds, pour le compte de tiers
+- les services de collecte des pièces de parcmètres
+- les activités des commissaires-priseurs indépendants
+- l’administration des programmes de fidélisation
+- les activités d'aide à de jeunes entreprises durant leur période de démarrage (mise à disposition
+d'infrastructures et de services à des prix modérés, ...)
+- les autres activités de soutien généralement fournies aux entreprises non classées ailleurs
+- Conseils en beauté et soins du visage: massages fasciaux, traitement anti-rides, maquillage, etc.
+Elle pourra également s’occuper de toutes opérations généralement quelconques se rattachant à
+l'achat, la vente, l'échange, la gestion, la mise en valeur, la prise ou mise en location d’immeubles et
+notamment leur rénovation, leur entretien, leur réparation, leur décoration, leur transformation, leur
+aménagement, leur démolition.
+Elle pourra notamment prendre, acquérir, exploiter ou concéder tous brevets, licences, marques de
+fabrique ou procédés de fabrication relatifs à son objet, s'intéresser par voie d'apport de fusion, de
+cession, de participation, de souscription ou par tout autre moyen dans toutes sociétés existantes ou
+à créer d’entreprises ou opérations industrielles ou commerciales ayant en tout au en partie, un objet
+similaire au sien ou susceptible d'en assurer le développement, le tout tant en Belgique qu'a
+l'étranger.
+La société peut, d'une façon générale, accomplir toutes opérations commerciales, industrielles,
+financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social
+ou qui seraient de nature à en faciliter directement ou indirectement, entièrement ou partiellement, la
+réalisation.
+La société peut être administrateur, gérant ou liquidateur.
+Dans le cas où la prestation de certaines activités serait soumise à des conditions préalables d’accès
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-18
-/1
+28
+/0
 
-0/
+4/
 20
 
 16
@@ -324,330 +324,69 @@ au
 
 Mod PDF 11.1
 
-et en cas d'abstention de l'un ou plusieurs d'entre eux, à la majorité des autres administrateurs.
-En cas de partage, la voix de celui qui préside la réunion est décisive.
-Dans des cas exceptionnels, dûment justifiés par l'urgence et l'intérêt social, les décisions du conseil
-d'administration peuvent être prises par consentement unanime des administrateurs, exprimé par
-écrit. Il ne pourra cependant pas être recouru à cette procédure pour l'arrêt des comptes annuels ni
-pour l'utilisation du capital autorisé.
-Sauf les cas d'exception visés par le Code des sociétés, un administrateur qui a, directement ou
-indirectement, un intérêt opposé de nature patrimoniale à une décision ou une opération relevant du
-conseil d'administration, doit le communiquer aux autres administrateurs avant la délibération du
-conseil d'administration; le conseil d'administration et la société doivent s'en référer aux prescriptions
-de l'article 523 du Code des sociétés.
-Les décisions du conseil d'administration sont constatées dans des procès-verbaux qui sont signés
-par le président, le secrétaire et les membres qui le désirent. Ces procès-verbaux sont insérés dans
-un registre spécial. Les procurations sont annexées aux procès-verbaux de la réunion pour laquelle
-elles ont été données.
-Les copies ou extraits à produire en justice ou ailleurs sont signés par le président, l'administrateur-
-délégué ou par deux administrateurs.
-POUVOIR DE GESTION DU CONSEIL.
-§1. En général
-Le conseil d'administration est investi des pouvoirs les plus étendus pour accomplir tous les actes
-nécessaires ou utiles à la réalisation de l'objet social de la société, à l'exception de ceux que la loi
-réserve à l'assemblée générale.
-§2. Comités consultatifs.
-Le conseil d'administration peut créer en son sein et sous sa responsabilité un ou plusieurs comités
-consultatifs. Il décrit leur composition et leur mission.
-§3. Gestion journalière
-Le conseil peut déléguer la gestion journalière de la société, la gestion d'une ou plusieurs affaires de
-la société, ou l'exécution des décisions du conseil, à un ou plusieurs administrateurs, directeurs ou
-fondés de pouvoirs, actionnaires ou non. Lorsqu'un administrateur est chargé de la gestion
-journalière, celui-ci portera le titre de "administrateur-délégué" Lorsqu'une personne non-
-administrateur est chargée de la gestion journalière, celle-ci portera le titre de directeur ou directeur
-général ou tout autre titre par lequel elle a été indiquée dans l'arrêté de nomination.
-Le conseil ainsi que les délégués à la gestion journalière, dans le cadre de cette gestion, peuvent
-également conférer des pouvoirs spéciaux à une ou plusieurs personnes de leur choix.
-§4. Comité de direction
-Conformément à l'article 524bis du Code des sociétés le conseil d'administration peut déléguer ses
-pouvoirs de gestion à un comité de direction, sans pour autant que cette délégation puisse porter sur
-la politique générale de la société ou sur l'ensemble des actes réservés au conseil d'administration
-en vertu d'autres dispositions de la loi.
-Les conditions de désignation des membres du comité de direction, leur révocation, leur
-rémunération, la durée de leur mission et le mode de fonctionnement du comité de direction, sont
-déterminés par le conseil d'administration.
-Le conseil d'administration est chargé du contrôle du comité.
-Si un membre du comité de direction a, directement ou indirectement, un intérêt de nature
-patrimoniale opposé à une décision ou à une opération relevant du comité, il doit le communiquer
-aux autres membres avant la délibération du comité. En outre, les prescriptions de l'article 524ter du
-Code des sociétés doivent être prises en considération.
-REPRESENTATION DE LA SOCIETE.
-La société est valablement représentée vis-à-vis de tiers, en justice et dans les actes, y compris ceux
-pour lesquels le concours d'un officier ministériel ou d'un notaire serait requis, par deux
-administrateurs agissant conjointement.
-Dans les limites de la gestion journalière, la société est également valablement représentée par un
-délégué à cette gestion.
-La société est en outre, dans les limites de leur mandat, valablement représentée par des
-mandataires spéciaux.
-A l'étranger, la société peut être valablement représentée par toute personne mandatée
-spécialement à cet effet par le conseil d'administration.
-CONTROLE.
-Le contrôle de la situation financière, des comptes annuels et de la régularité des opérations à
-constater dans les comptes annuels doit être confié à un ou plusieurs commissaires. Les
-commissaires sont nommés par l'assemblée générale des actionnaires parmi les membres,
-personnes physiques ou morales, de l'Institut des Réviseurs d'Entreprises. Les commissaires sont
-nommés pour un terme renouvelable de trois ans. Sous peine de dommages-intérêts, ils ne peuvent
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-18
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-être révoqués en cours de mandat que par l'assemblée générale et pour un juste motif.
-Toutefois, aussi longtemps que la société pourra bénéficier des exceptions prévues à l'article 141, 2°
-du Code des sociétés, chaque actionnaire aura, conformément à l'article 166 du Code des sociétés,
-individuellement les pouvoirs de contrôle et d'investigation des commissaires.
-Nonobstant toute disposition légale en la matière, l'assemblée générale aura le droit de nommer un
-commissaire. S'il n'a pas été nommé de commissaire, chaque actionnaire pourra se faire représenter
-ou se faire assister par un expert-comptable. La rémunération de l'expert-comptable incombe à la
-société s'il a été désigné avec son accord ou si cette rémunération a été mise à sa charge par
-décision judiciaire. En ce cas les observations de l'expert-comptable sont communiquées à la
-société.
-ASSEMBLEE GENERALE ORDINAIRE.
-L'assemblée générale ordinaire des actionnaires se réunit annuellement le premier lundi du mois de
-juin à 10 heures.
-Si ce jour est un jour férié, l'assemblée générale a lieu le jour ouvrable suivant.
-L'assemblée générale ordinaire se tient au siège de la société ou dans la commune du siège de la
-société. Elle peut également se tenir dans une des dix-neuf communes de la Région Bruxelles-
-Capitale.
-ADMISSION À L'ASSEMBLEE GENERALE
-Pour être admis à l'assemblée générale, tout propriétaire de titres doit, si la convocation l'exige,
-effectuer au moins trois jours ouvrables avant ladite assemblée le dépôt de ses certificats d'actions
-nominatives, au siège social ou dans les établissements désignés dans les avis de convocation.
-Les titulaires d'obligations, de warrants et de certificats émis en collaboration avec la société peuvent
-assister à l'assemblée générale, mais avec voix consultative uniquement, en respectant les
-conditions d'admission prévues pour les actionnaires.
-Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
-l'application de cet article.
-REPRESENTATION.
-Tout actionnaire empêché peut donner procuration à une autre personne, actionnaire ou non, pour le
-représenter à une réunion de l'assemblée. Les procurations doivent porter une signature (en ce
-compris une signature digitale conformément à l'article 1322, alinéa 2 du Code civil).
-Les procurations doivent être communiquées par écrit, par fax, par e-mail ou tout autre moyen
-mentionné à l'article 2281 du code civil et sont déposées sur le bureau de l'assemblée. En outre, le
-conseil d'administration peut exiger que celles-ci soient déposées trois jours ouvrables avant
-l'assemblée à l'endroit indiqué par lui.
-Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
-l'application de cet article.
-LISTE DE PRESENCE.
-Avant de participer à l'assemblée, les actionnaires ou leurs mandataires sont tenus de signer la liste
-de présence, laquelle mentionne le nom, les prénoms et l'adresse ou la dénomination sociale et le
-siège social des actionnaires et le nombre d'actions qu'ils représentent.
-DROIT DE VOTE.
-Chaque action donne droit à une voix.
-Le vote se fait par main levée ou par appel nominal sauf si l'assemblée générale en décide
-autrement par la majorité simple des voix émises.
-Chaque actionnaire peut également voter au moyen d'un formulaire établi par le conseil
-d'administration, qui contient les mentions suivantes : (i) identification de l'actionnaire, (ii) le nombre
-de voix auquel il a droit et (iii) et pour chaque décision qui doit être prise selon l'ordre du jour de
-l'assemblée, la mention " oui " ou " non " ou " abstention ". L'actionnaire qui vote par écrit sera prié, le
-cas échant, de remplir les formalités nécessaires en vue de participer à l'assemblée générale
-conformément à l'article 23 des statuts.
-EXERCICE SOCIAL.
-L'exercice social commence le premier avril pour se terminer le trente et un mars de l'année
-suivante.
-REPARTITION DES BENEFICES.
-Sur les bénéfices nets de la société, il est effectué annuellement un prélèvement de cinq pour cent
-au moins qui est affecté à la constitution de la réserve légale. Ce prélèvement cesse d'être
-obligatoire lorsque ce fonds de réserve atteint le dixième du capital social.
-Sur la proposition du conseil d'administration, l'assemblée générale décide de l'affectation à donner
-au solde des bénéfices nets.
-ACOMPTE SUR DIVIDENDE.
-Le conseil d'administration est autorisé à distribuer un acompte à imputer sur le dividende qui sera
-distribué sur les résultats de l'exercice, conformément aux conditions prescrites par l'article 618 du
-Code des sociétés.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-18
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-DISSOLUTION - LIQUIDATION.
-Lors de la dissolution avec liquidation, le(s) liquidateur(s) est/sont, le cas échéant, nommé(s) par
+à la profession, la société subordonnera son action, en ce qui concerne la prestation de ces services,
+à la réalisation de ces conditions.
+Article 4 - DUREE
+La société est constituée, à partir de ce jour, pour une durée indéterminée.
+Elle peut être dissoute par décision de l'assemblée générale (ou de l'associé unique), prise comme
+en matière de modification des statuts.
+Article 5 - CAPITAL SOCIAL
+Le capital social est fixé à la somme de dix-huit mille six cents euros, divisé en 186 parts sans valeur
+nominale.
+Article 6 – VOTE PAR L’USUFRUITIER EVENTUEL
+En cas de démembrement du droit de propriété de parts sociales, les droits y afférents sont exercés
+par l’usufruitier.
+Article 7 – CESSION ET TRANSMISSION DE PARTS
+A/Cessions libres
+Les parts peuvent être cédées entre vifs ou transmises pour cause de mort, sans agrément, à un
+associé, au conjoint du cédant ou du testateur, aux ascendants ou descendants en ligne directe des
+associés.
+B/ Cessions soumises à agrément
+Tout associé qui voudra céder des parts entre vifs à une personne autre que celles visées à l’alinéa
+précédent devra, à peine de nullité, obtenir l’agrément de la moitié au moins des associés,
+possédant les trois/quarts au moins des parts sociales, déduction faite des parts dont la cession est
+proposée.
+A cette fin, il devra adresser à la gérance, sous pli recommandé, une demande indiquant les noms,
+prénoms, professions, domiciles du ou des cessionnaires proposés ainsi que le nombre des parts
+dont la cession est envisagée et le prix offert.
+Dans les huit jours de la réception de cette lettre, la gérance en transmet la teneur, par pli
+recommandé, à chacun des associés, en leur demandant une réponse affirmative ou négative par
+écrit dans un délai de quinze jours et en signalant que ceux qui s’abstiennent de donner leur avis
+seront considérés comme donnant leur agrément.  Cette réponse devra être envoyée par pli
+recommandé.
+Dans la huitaine de l’expiration du délai de réponse, la gérance notifie au cédant le sort réservé à sa
+demande.
+Les héritiers et légataires qui ne deviendraient pas de plein droit associés aux termes des présents
+statuts seront tenus de solliciter, selon les mêmes formalités, l’agrément des associés.
+Le refus d’agrément d’une cession entre vifs est sans recours ; néanmoins, l’associé voulant céder
+tout ou partie de ses parts pourra exiger des opposants qu’elles lui soient rachetées à leur valeur
+fixée par un expert choisi de commun accord ou, à défaut, par le président du tribunal de commerce
+du siège social, statuant comme en référé.  Il en sera de même en cas de refus d’agrément d’un
+héritier ou d’un légataire.  Dans l’un et l’autre cas, le paiement devra intervenir dans les six mois du
+refus.
+Article 8 DESIGNATION DU GERANT
+Tant que la société ne comporte qu'un seul associé, elle est administrée soit par l'associé unique,
+soit par une ou plusieurs personnes physiques ou morales, associées ou non, nommées avec ou
+sans limitation de durée, soit dans les statuts, soit par l'associé unique agissant en lieu et place de
 l'assemblée générale.
-La nomination du/des liquidateur(s) doit être soumise au président du tribunal de commerce pour
-confirmation, conformément à l'article 184, §2 du Code des sociétés.
-Ils disposent de tous les pouvoirs prévus aux articles 186 et 187 du Code des sociétés, sans
-autorisation spéciale de l'assemblée générale. Toutefois, l'assemblée générale peut à tout moment
-limiter ces pouvoirs par décision prise à une majorité simple de voix.
-Tous les actifs de la société seront réalisés, sauf si l'assemblée générale en décide autrement.
-Si les actions ne sont pas toutes libérées dans une égale proportion, les liquidateurs rétablissent
-l'équilibre, soit par des appels de fonds complémentaires, soit par des remboursements préalables.
-DISPOSITIONS FINALES ET TRANSITOIRES.
-NOMINATIONS DES PREMIERS ADMINISTRATEURS.
-Ont été nommés comme premiers administrateurs par les fondateurs :
-1/ Monsieur GOENKA Abhishek, domicilié à Greenwoods 34 Cuckoo Hill Pinner HA5 2AJ, Royaume-
-Uni;
-2/ Monsieur BALI Navneet, domicilié à 42 Bradbourne Street, London SW6 3TE, Royaume-Uni;
-3/ Monsieur SPANRING Hannes, domicilié à Treppendorfer Dorfstrasse 24a 15907 Lübben,
-Allemagne; et
-4/ Monsieur MAY Timothy, domicilié à 16 Dukes Walk, Hale, Cheshire WA15 8WB, Royaume-Uni.
-Le mandat des premiers administrateurs expirera à l'issue de l'assemblée ordinaire de l'an 2022.
-Le mandat des administrateurs est non rémunéré.
-NOMINATION DU PRESIDENT DU CONSEIL D'ADMINISTRATION
-Le conseil d'administration peut élire parmi ses membres un président et ce à la majorité simple.
-Dans le cas où le président est absent, le conseil d'administration désignera un ou plusieurs de ses
-membres pour remplacer le président.
-PREMIER EXERCICE SOCIAL.
-Le premier exercice social commence le 14 octobre 2016 et prend fin le 31 mars 2017.
-PREMIERE ASSEMBLEE GENERALE.
-La première assemblée générale se tiendra en 2017.
-PROCURATION REGISTRE DES PERSONNES MORALES, ADMINISTRATION TVA et BANQUE
-CARREFOUR DES ENTREPRISES.
-Tous pouvoirs ont été conférés à Yolande Meyvis, Aurore Ancion, Laurens Engelen, Samuel
-Berneman ou tout autre avocat ou collaborateur de la société "Dentons Europe LLP", ayant ses
-bureaux à Rue de la Régence 58, 1000 Bruxelles, chacun agissant séparément, avec droit de
-substitution, afin d'assurer les formalités auprès du registre des personnes morales et, le cas
-échéant, auprès de l'Administration de la Taxe sur la Valeur Ajoutée, ainsi qu'à un guichet
-d'entreprise en vue d'assurer l'inscription/la modification des données dans la Banque Carrefour des
-Entreprises.
-POUR EXTRAIT ANALYTIQUE CONFORME.
-(Déposées en même temps que l'extrait : une expédition de l'acte).
-Deux procurations restent annexées à l'acte.
-Cet extrait est délivré avant enregistrement conformément à l'article 173, 1° bis du Code des Droits
-d'Enregistrement.
- 
-Tim Carnewal
-Notaire
- 
- 
- 
+En cas de pluralité d'associés, la société est administrée par un ou plusieurs mandataires, personnes
+physiques ou morales, associés ou non.
+Article 9 - POUVOIRS DU (DES) GERANT(S)
+Conformément à l'article 257 du code des sociétés, chaque (ou : le) gérant peut accomplir tous les
+actes nécessaires ou utiles à l'accomplissement de l'objet social de la société, sauf ceux que la loi
+réserve à l'assemblée générale.
+Chaque (ou: Le) gérant représente la société à l'égard des tiers et en justice, soit en demandant, soit
+en défendant.
+Il peut déléguer des pouvoirs spéciaux à tout mandataire.
+Article 10 - REMUNERATION DU (DES) GERANT(S)
+Sauf décision contraire de l'assemblée générale, le mandat de gérant est gratuit.
+Si le mandat de gérant est rémunéré, l'assemblée générale statuant à la simple majorité des voix, ou
+l'associé unique, détermine le montant de cette rémunération fixe ou proportionnelle. Cette
+rémunération sera portée aux frais généraux, indépendamment de tous frais éventuels de
+représentation, voyages et déplacements.
+Article 11 - CONTROLE DE LA SOCIETE
+Tant que la société répond aux critères énoncés à l’article 15 du Code des sociétés, il n’est pas
+nommé de commissaire, sauf décision contraire de l’assemblée générale.
 
 Bi
 jla
@@ -676,10 +415,235 @@ bl
 ad
  - 
 
-18
-/1
+28
+/0
 
-0/
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+Dans ce cas, chaque associé a individuellement les pouvoirs d'investigation et de contrôle des
+commissaires; il peut se faire représenter par un expert-comptable. La rémunération de ce dernier
+n'incombe à la société que s'il a été désigné avec son accord ou si cette rémunération a été mise à
+sa charge par décision judiciaire; en ces derniers cas, les observations de l'expert-comptable sont
+communiquées à la société.
+Article 12 - REUNION DES ASSEMBLEES GENERALES
+L'assemblée générale ordinaire des associés se tient le quatrième mercredi du mois de juin de
+chaque année à 18 heures, soit au siège social, soit en tout autre endroit désigné dans la
+convocation. Si ce jour est férié, l'assemblée est remise au plus prochain jour ouvrable.
+S'il n'y a qu'un seul associé, c'est à cette même date qu'il signe pour approbation les comptes
+annuels.
+L'assemblée générale se réunit extraordinairement chaque fois que l'intérêt de la société l'exige ou
+sur la demande d'associés représentant le cinquième du capital.
+Les assemblées générales extraordinaires se tiennent à l'endroit indiqué dans les convocations.
+Les assemblées générales sont convoquées par un gérant. Les convocations contiennent l'ordre du
+jour et sont faites par lettre recommandée adressée à chaque associé quinze jours francs au moins
+avant l'assemblée; elles ne sont pas nécessaires lorsque tous les associés consentent à se réunir.
+Les titulaires de parts sans droit de vote peuvent participer à l'assemblée générale; ils disposent des
+mêmes droits que les titulaires de parts avec droit de vote si ce n'est le droit de vote.
+Article 13 - DROIT DE VOTE
+Dans les assemblées, chaque part donne droit à une voix, sous réserve des dispositions légales et
+statutaires régissant les parts sans droit de vote.
+Article 14 - COMPTES ANNUELS
+L’exercice social commence le premier janvier et finit le trente et un décembre.
+Le trente et un décembre de chaque année, les écritures sociales sont arrêtées et la gérance dresse
+un inventaire, ordonné de la même manière que le plan comptable.
+Article 15 - REPARTITION DES BENEFICES
+L'excédent favorable du compte de résultats, déduction faite des frais généraux, charges et
+amortissements, résultant des comptes annuels approuvés, constitue le bénéfice net.
+Sur ce bénéfice, il est prélevé annuellement cinq pour cent pour la formation du fonds de réserve
+légale; ce prélèvement cesse d'être obligatoire lorsque la réserve atteint le dixième du capital. Il
+redevient obligatoire si, pour une cause quelconque, la réserve vient à être entamée.
+Le solde de bénéfice de l'exercice écoulé est réparti entre tous les associés, au prorata de leur
+participation dans le capital, sous réserve du droit de l'assemblée générale de décider de toute autre
+affectation, comme prévu ci-après.
+L'assemblée générale décide de l'affectation du surplus du bénéfice; elle peut décider d'affecter tout
+au partie de ce surplus à la création de fonds de prévision ou de réserve, de le reporter à nouveau
+ou de l'affecter à des tantièmes à la gérance ou de lui donner toute autre affectation, dans le respect
+de l'article 320 du Code des Sociétés.
+Article 16 -DISSOLUTION DE LA SOCIETE
+La société n'est pas dissoute par l'interdiction, la faillite, la déconfiture ou la mort d'un des associés.
+Article 17 - LIQUIDATION - PARTAGE
+En cas dissolution de la société, pour quelque cause et à quelque moment que ce soit, la liquidation
+s'opère par le ou les gérants en exercice, sous réserve de la faculté de l'assemblée générale de
+désigner un ou plusieurs liquidateurs et de déterminer leurs pouvoirs et leurs émoluments, et sous
+réserve de l’homologation de la désignation du liquidateur par le tribunal de commerce compétent.
+Après apurement de tous les frais, dettes et charges de liquidation ou consignation des sommes
+nécessaires à cet effet, l'actif net est partagé entre les parts.
+Si les parts ne sont pas toutes libérées dans une égale proportion, les liquidateurs, avant de
+procéder aux répartitions, rétablissent l'équilibre soit par des appels de fonds complémentaires à
+charge des titres insuffisamment libérés, soit par des remboursements préalables en espèces au
+profit des titres libérés dans une proportion supérieure.
+S'il n'existe pas de parts sans droit de vote, l'actif net est partagé entre les associés en proportion
+des parts qu'ils possèdent, chaque part conférant un droit égal.
+Article 18 : DROIT COMMUN
+Pour les objets non expressément réglés par les statuts, il est référé à la loi.
+III. - DISPOSITIONS TRANSITOIRES
+1. - PREMIER EXERCICE SOCIAL
+Le premier exercice social commencera le jour du dépôt pour se terminer le trente et un décembre
+2017.
+2. - PREMIERE ASSEMBLEE GENERALE ANNUELLE
+La première assemblée générale annuelle aura lieu en 2018.
+3.- NOMINATION D'UN GERANT NON STATUTAIRE
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+28
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+L'associé unique décide de fixer le nombre de gérants à un.
+Il appelle à ces fonctions:
+Mademoiselle DEBAILLE Aurèle Jeanine Ghislaine, née à Charleroi le 20 septembre 1990,
+domiciliée à 1420 Braine-l´Alleud, Avenue de Rohan, 10/B000, qui déclare accepter.
+Elle est nommée jusqu'à révocation et peuvent engager valablement la société sans limitation de
+sommes. Son mandat est rémunéré.
+4. - REPRISE DES ENGAGEMENTS SOUSCRITS AU NOM DE LA SOCIETE EN FORMATION.
+En application de l'article 60 du Code des sociétés, la société reprendra, dans le délai légal, les
+engagements contractés en son nom tant qu'elle était en formation et ce depuis le 1er février 2016.
+Cette reprise n'aura d'effet qu'au moment où la société sera dotée de la personnalité morale, c'est-à-
+dire au jour du dépôt de l'extrait du présent acte au greffe du tribunal de commerce compétent.
+
+POUR EXTRAIT ANALYTIQUE CONFORME
+Enguerrand de PIERPONT, notaire associé
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+28
+/0
+
+4/
 20
 
 16

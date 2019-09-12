@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-LPJ PEINTURE
+BLACK LAB
 
-Rue de la Station 147
-1150 Woluwe-Saint-Pierre
+Rue du Montgras 45
+1430 Rebecq
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Extrait de l'acte reçu par le Notaire associé Bénédicte COLLARD à Fontaine-l'Evêque le 28 janvier
-2016:
-1. FONDATEURS
-1) Monsieur JACQUES Patrick Pierre Marcel, né à Saint-Josse-ten-Noode le 10 mai 1969 (numéro
-national 690510-007-13), époux de Madame HAYETTE Laurence, ci-après plus amplement
-nommée, domicilié à 1150 Woluwé-Saint-Pierre, rue de la Station, 147.
-2) Madame HAYETTE Laurence Michèle Christine, née à Charleroi le 17 octobre 1968 (numéro
-national 681017-084-31), épouse de Monsieur JACQUES Patrick, prénommé, domiciliée à 1150
-Woluwé-Saint-Pierre, rue de la Station, 147.
-2. FORME ET DENOMINATION
-La société adopte la forme d'une société privée à responsabilité limitée.
-Elle est dénommée LPJ PEINTURE.
-3. SIEGE SOCIAL
-Le siège social est établi à 1150 Woluwé-Saint-Pierre, rue de la Station, 147.
-4. OBJET
-La société a pour objet tant en Belgique qu'à l'étranger, pour son compte propre, pour compte de
-tiers, notamment à titre de commissionnaire, ou en participation avec ceux-ci, toutes opérations se
-rapportant à l’activité d’entreprise générale de peinture comprenant notamment :
-- la pose de papiers peints et de revêtements de murs et de sols en d’autres matériaux ;
-- la pose de revêtements en bois de sols et de murs ;
-- la peinture de bâtiments ;
-- la pose de carrelages en céramique, en béton ou en pierre de taille ;
--  travaux de plâtrerie ;
--  travaux de menuiserie ;
--  travaux de revêtement des sols et des murs ;
--  travaux de peinture et vitrerie ;
-- autres travaux de finition ;
-- la pose de chape ;
-- l’installation de cloisons et de faux plafonds ;
--  la pose de châssis et de volets en PVC.
-Cette liste étant énumérative et non exhaustive.
-La société a en outre pour objet tant en Belgique qu'à l'étranger, pour son compte propre, toutes
-opérations de gestion de son patrimoine immobilier, telles que notamment, l'achat, la vente,
-l'échange, la  location, la promotion, la construction, la restauration etc. d'immeubles bâtis ou non.
-Elle pourra également, dans le cadre de la gestion de ce patrimoine, mettre à disposition de ses
-gérants ou de ses associés, à titre gratuit ou moyennant payement d’un loyer, tout ou partie
-d’immeuble dont elle serait propriétaire ou locataire principal.
-La société peut accomplir tous actes nécessaires à la réalisation de son objet social.
+~~D'un acte reçu par le Notaire Gilles FRANCE, à Gilly, le 13 avril 2016, il résulte qu'il a été constitué
+par Monsieur MELIS Antoie André Jean, à Rebecq, rue du Montgras, 45 et Monsieur HARNIE Pierre
+François Alain, à Frasnes-lez-Gosselies, Chaussée de Bruxelles, 518 boîte 3, une Société Privée à
+Responsabilité Limitée dénommée "BLACK LAB".
+Les cents (100) parts sociales ont été souscrites comme suit :
+- par Monsieur MELIS Antoine, prénommé, à concurrence de  dix-huit mille quatre cent quatorze
+euros (18.414,00€), soit nonante-neuf (99) parts ;
+- par Monsieur HARNIE Pierre, prénommé, à concurrence de cent quatre-vingt-six euros, soit une (1)
+part sociale;
+Les cents (100) parts ainsi souscrites ont été libérées comme suit par versement en numéraire:
+- par Monsieur MELIS Antoine, prénommé, à concurrence de  six mille cent trente-huit euros
+6.138,00€ de sorte qu’il lui restera à libérer une somme de douze mille deux cent  septante-six euros
+(12.276,00€).
+- par Monsieur HARNIE Pierre, prénommé, à concurrence de  soixante-deux euros (62,00€) de sorte
+qu'il lui restera à libérer une somme de  cent vingt-quatre euros (124,00€).
+Le Notaire Gilles France atteste que les six mille deux cents euros (6.200,00€) de capital libéré ont
+été déposés auprès de la Banque BELFIUS.
+Il est extrait ce qui suit des statuts:
+Articel 3: Le siège social est établi à 1430 Rebecq, rue du Montgras, 45.
+Article 4: La société a pour objet, pour compte propre, pour compte de tiers ou en participation, tant
+en Belgique qu'à l'étranger :
+1°-      toutes prestations de services dans les domaines du graphisme, du design, de la publicité, de
+la photogravure et de la communication,
+- la consultance en marketing, publicité et communication,
+- la création, le développement et la mise en page de document pour impression ou pour tout autre
+système de diffusion,
+- l’impression de tous documents par tous systèmes connus ou à venir,
+- la création, la vente et le placement d’enseignes,
+- la vente de produits publicitaires,
+- la conception, la réalisation, l’impression, le commerce en gros, demi-gros et détail de matériels et
+supports publicitaires, création et placement de publicité, affiches, panneaux publicitaires, journaux
+lumineux, enseignes lumineuses, infographie, impression digitale, et de manière générale toute
+autres opérations ayant un lien direct ou indirect avec la publicité,
+- toutes opérations se rapportant directement ou indirectement à l’édition et la diffusion de toutes
+publications, et de manière générale, de tous médias, le conseil, la réalisation d’études, la prestation
+de services relatifs à toutes publications et tous médias,
+- la conception, la réalisation, la mise en œuvre, soit directement soit par sous-traitance, de toutes
+annonces, logos publicitaires, affiches, catalogues, étiquettes, sans que la présente énumération soit
 
- *16302435*
+ *16308590*
 Déposé
-28-01-2016
+15-04-2016
 
-0647609810
+0651969959
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-01
+19
 /0
 
-2/
+4/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-Elle pourra faire, de façon générale, tant en Belgique qu'à l'étranger, toutes opérations mobilières et
-immobilières, financières, industrielles et commerciales pouvant se rattacher directement ou
-indirectement à son objet social ou qui seraient de nature à en faciliter directement ou indirectement,
-entièrement ou partiellement la réalisation. Elle peut s'intéresser par voie d'apport, de fusion, de
-souscription, de participation, d'intervention financière ou autrement, dans toutes affaires,
-entreprises, associations ou sociétés ayant un objet identique, analogue ou connexe au sien ou qui
-sont de nature à favoriser le développement de son entreprise ou de constituer pour elle une source
-de débouchés.
-Elle peut se porter caution personnelle ou hypothécaire, au profit de sociétés ou entreprises dans
-lesquelles elle possède une participation, ou plus généralement, des intérêts.
-La société peut être outre administrateur ou gérant, liquidateur.
-5. CAPITAL SOCIAL
-Le capital social est fixé à la somme de DIX-HUIT MILLE SIX CENTS (18.600) euros, et est
-représenté par cents (100) parts sociales sans désignation de valeur nominale, souscrites en
-numéraire :
-- par Monsieur Patrick JACQUES à concurrence de TREIZE MILLE NEUF CENT CINQUANTE
-(13.950) euros et il lui est attribué SEPTANTE-CINQ (75) parts sociales libérées à concurrence de
-QUATRE MILLE SIX CENT CINQUANTE (4.650) euros (NEUF MILLE TROIS CENTS (9.300) euros
-encore à libérer);
-- par Madame Laurence HAYETTE à concurrence de QUATRE MILLE SIX CENT CINQUANTE
-(4.650) euros et il lui est attribué VINGT_CINQ (25) parts sociales libérées à concurrence de MILLE
-CINQ CENT CINQUANTE (1.550) euros (TROIS MILLE CENTS (3.100) euros encore à libérer);
-Le montant libéré des parts souscrites a été déposé au crédit du compte BE67 0017 7804 7887
-ouvert au nom de la société en formation auprès de BNP PARIBAS FORTIS. Le Notaire soussigné
-atteste que ce dépôt a été effectué conformément à la loi. La société a, par conséquent et dès à
-présent, de ce chef, à sa disposition une somme de SIX MILLE DEUX CENTS (6.200) euros.
-6. GERANCE
-ARTICLE 12. GERANCE
-La société est administrée par un ou plusieurs gérants, associés ou non, nommés soit dans les
-statuts, soit par l'assemblée générale.
-Lorsqu'une personne morale est nommée gérant, celle-ci est tenue de désigner parmi ses associés,
-gérants, administrateurs ou travailleurs un représentant permanent conformément aux dispositions
-légales.
-La durée de la fonction de gérant n'est pas limitée.
-Sauf décision contraire de l'assemblée générale, le mandat de gérant est gratuit.
-ARTICLE 13. POUVOIRS
-Chaque gérant peut accomplir seul tous les actes nécessaires ou utiles à l'accomplissement de
-l'objet de la société, à l'exception de ceux que la loi réserve à l'assemblée générale.
-ARTICLE 14. REPRESENTATION A L'EGARD DES TIERS
-Chaque gérant représente seul la société à l'égard des tiers et en justice, soit en demandant, soit en
-défendant, ainsi que dans tous les actes où intervient un officier ministériel ou un fonctionnaire
-public.
-Il peut déléguer des pouvoirs spéciaux à tout mandataire.
-7. ASSEMBLEE GENERALE ANNUELLE
-L'assemblée générale ordinaire se tient chaque année le deuxième vendredi de juin à dix-huit heures
-au siège social ou en tout autre endroit indiqué dans les convocations. Si ce jour est férié,
-l'assemblée se tiendra le premier jour ouvrable suivant à la même heure.
-S'il n'y a qu'un seul associé, c'est à cette même date qu'il signe pour approbation les comptes
-annuels.
-L'assemblée générale se réunit extraordinairement chaque fois que l'intérêt de la société l'exige ou
-sur la demande d'associés représentant le cinquième du capital.
-Les assemblées générales extraordinaires se tiennent à l'endroit indiqué dans les convocations.
-Les convocations sont faites conformément à la loi. Elles ne sont pas nécessaires lorsque tous les
-associés et autres personnes à convoquer conformément à la loi consentent à se réunir.
-Si la société ne compte qu'un seul associé, il exerce les pouvoirs dévolus à l'assemblée générale. Il
-ne peut les déléguer. Les décisions de l'associé unique, agissant en lieu et place de l'assemblée
-générale, sont consignées dans un registre tenu au siège social.
-8. EXERCICE SOCIAL
-L'exercice social commence le 1er janvier et finit le 31 décembre de chaque année.
-9. RESERVES - REPARTITION DES BENEFICES
-Le bénéfice annuel net de la société est déterminé conformément aux dispositions légales.
-Il est prélevé sur ce bénéfice cinq pour cent au moins destinés à la formation du fonds de réserve
-légale. Ce prélèvement cesse d'être obligatoire lorsque la réserve aura atteint un dixième du capital
+limitative,
+- l’organisation d’événements publicitaires et culturels dans son sens large,
+- la société pourra avoir recours à tous supports généralement quelconques, papiers, sons, images,
+informatiques, etc…
+- la photo et la vente de droits à l’image,
+- création de sites web
+- développement d’applications et de sites web
+- animation sur le web
+- formations à l’utilisation de nos produits et services
+ - Exploitation, création, conception, réalisation, organisation, gestion d’événements privés, publics,
+culturels, commerciaux.
+ -  Achat, vente, location, échange de tous produits, matériel, matériaux, machines et outils se
+rapportant à l’organisation d’événements.
+- Achat, vente, location, construction, réparation, mise en valeur, gestion, échange, aménagement,
+décoration de tous biens mobiliers et immobiliers non bâtis ou non bâtis.
+- Import-export, achat, vente, réparation, construction, aménagement de tous véhicules, à moteur ou
+non, neufs ou d’occasion, ainsi que des pièces et accessoires s’y rapportant.
+-  Exploitation, création, conception, réalisation et aménagement d’espaces, intérieurs et extérieurs.
+-  Tout ce qui se rapporte à l’édition.
+-  Achat, vente, organisations diverses et notamment soirées, concerts, séminaires, événements,
+foires, salons, prestations de services dans le domaine de l’événement.
+-  Achat, vente, importation et exportation de boissons et notamment de boissons fermentées et
+spiritueuses.
+-  Intermédiaire commercial, achat, vente et location de matériel divers.
+-  Prestations artistiques.
+-  Toutes prestations en matière de sons et lumières.
+-  L’exploitation, la construction, l’équipement et l’entretien de centres touristiques, de tout hôtel,
+restaurant, snack-bar, grill, tea-room, café, bar, brasserie, débit de boissons, taverne, les services de
+traiteurs et l’organisation de banquets et autres festivités, l’exploitation de salles de spectacle, salles
+de réunion et d’exposition, la location de salles, la location de chambres et d’appartements, et en
+général de toutes activités ayant un rapport avec le secteur HORECA, sous réserve des
+autorisations administratives en la matière;   
+2°- l’achat, la vente, la location de tous biens et droits mobiliers et immobiliers, pour compte propre,
+et de manière générale toutes opérations quelconques, matérielles ou juridiques, réalisées pour
+compte propre, relatives à ces biens.  Les biens et droits mobiliers et immobiliers peuvent être mis à
+disposition gratuitement ou à titre onéreux, d’un ou plusieurs membres du conseil de gérance ou de
+l’assemblée générale.
+La liste ci-dessus étant exemplative et non limitative.
+La société peut en outre accomplir toutes opérations commerciales, industrielles, financières,
+mobilières ou immobilières se rapportant directement ou indirectement à son objet social ou qui
+seraient de nature à en faciliter ou développer la réalisation.
+Elle peut s'intéresser par toutes voies dans toutes sociétés, associations ou entreprises ayant un
+objet similaire ou connexe au sien ou susceptible de favoriser le développement de ses activités.
+La société peut également, dans la mesure où la loi le permet, exercer les fonctions d'administrateur
+ou de liquidateur dans d'autres sociétés.
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession ou des réglementations particulières, la société subordonnera son action, en ce qui
+concerne ces prestations, à la réalisation de ces conditions.
+Article 6: Le capital social est fixé à la somme de dix-huit mille six cents euros (18.600,00 €).
+Article 15 : La société est gérée par un ou plusieurs gérants, associés ou non, nommés avec ou sans
+limitation de durée.
+L'assemblée qui les nomme fixe leur nombre, la durée de leur mandat et, en cas de pluralité, leurs
+pouvoirs. S'il n'y a qu'un seul gérant, la totalité des pouvoirs de gérance lui est attribuée.
+Si une personne morale est nommée gérante, elle devra impérativement nommer une personne
+physique en qualité de représentant permanent qui sera chargé de l’exécution de cette mission au
+nom et pour le compte de cette personne morale. Ce représentant sera soumis aux mêmes
+conditions et encourra les mêmes responsabilités civiles et pénales que s’il exerçait cette mission en
+nom et pour compte propre, sans préjudice de la responsabilité solidaire de la personne morale qu’il
+représente.
+Conformément à l'article 257 du Code des Sociétés et sauf organisation par l'assemblée générale
+d'un collège de gestion, chaque gérant représente la société à l'égard des tiers et en justice et peut
+poser tous les actes nécessaires ou utiles à l'accomplissement de l'objet social, sauf ceux que la loi
+réserve à l'assemblée générale.
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-01
+19
 /0
 
-2/
+4/
 20
 
 16
@@ -324,54 +324,69 @@ au
 
 Mod PDF 11.1
 
-social. Il redevient obligatoire si pour une cause quelconque, la réserve vient à être entamée.
-Le solde du bénéfice de l'exercice écoulé est réparti entre tous les associés au prorata de leur
-participation dans le capital, sous réserve du droit de l'assemblée de décider de toute autre
-affectation, comme prévu ci-après.
-L'assemblée générale peut décider d'affecter tout ou partie de ce surplus à la création de fonds de
-prévision ou de réserve, de le reporter à nouveau ou de l'affecter à des tantièmes à la gérance ou de
-lui donner toute autre affectation, dans le respect des dispositions légales.
-10. BONI DE LIQUIDATION
-Après apurement de tous les frais, dettes et charges, l'actif net sera affecté au remboursement des
-parts à concurrence de leur libération.
-Si les parts ne sont pas toutes libérées dans une égale proportion, le ou les liquidateurs, avant de
-procéder aux répartitions, rétablissent l'équilibre en mettant toutes les parts sur un pied d'égalité
-absolue, soit par des appels de fonds complémentaires à charge des parts insuffisamment libérées,
-soit par des remboursements préalables en espèces au profit des parts libérées dans une proportion
-supérieure.
-Le solde sera réparti entre les associés proportionnellement au nombre de parts qu'ils possèdent,
-chaque part conférant un droit égal.
-11. ASSEMBLEE GENERALE EXTRAORDINAIRE
-Les associés réunis en assemblée générale, déclarent que les décisions suivantes ne deviendront
-effectives qu'à dater et sous la condition suspensive du dépôt de l'extrait de l'acte constitutif au greffe
-du Tribunal de Commerce, moment où la société acquerra la personnalité morale.
-1) PREMIER EXERCICE SOCIAL
-Le premier exercice social commencera le jour du dépôt de l'extrait au greffe du tribunal de
-commerce francophone de Bruxelles pour se terminer le 31 décembre 2016.
-2) PREMIERE ASSEMBLEE GENERALE ANNUELLE
-La première assemblée générale annuelle aura donc lieu en deux mil dix-sept.
-3) NOMINATION DU GERANT
-L'assemblée décide de nommer un gérant.
-Est appelé à ces fonctions Monsieur Patrick JACQUES, ici présent et qui accepte.
-Il est nommé jusqu'à révocation et peut engager valablement la société conformément aux statuts.
-Son mandat est rémunéré.
-4) COMMISSAIRES
-L'assemblée générale décide de ne pas nommer de commissaire.
-5) REPRISE DES ENGAGEMENTS PRIS AU NOM DE LA SOCIETE EN FORMATION
-Reprise des actes antérieurs à la signature des statuts
-Tous les engagements, ainsi que les obligations qui en résultent, et toutes les activités entreprises
-depuis le 1er janvier 2016 par Monsieur Patrick JACQUES au nom et pour compte de la société en
-formation sont repris par la société présentement constituée.
-Reprise des actes postérieurs à la signature des statuts
-Les opérations accomplies par Monsieur Patrick JACQUES et prises pour compte de la société en
-formation, conformément à l'article 60 du Code des Sociétés, et les engagements qui en résultent
-seront réputés avoir été souscrits dès l'origine par la société ici constituée.
-Cette reprise n'aura d'effet que sous la condition de la réalisation desdits engagements et du dépôt
-de l'extrait des statuts au greffe du tribunal compétent.
-POUR EXTRAIT ANALYTIQUE CONFORME avant enregistrement aux fins de publication au
-Moniteur belge.
-Déposé en même temps: expédition de l’acte.
-(SIGNE) Bénédicte COLLARD, Notaire associé.
+Sauf décision contraire de l'assemblée générale, le mandat du gérant est gratuit.
+Article 16 : Nonobstant le pouvoir de représentation générale attribué au(x) gérant(s), la gestion
+journalière de la société, ainsi que la représentation relative à cette gestion, peuvent être attribués à
+une ou plusieurs personnes.
+Par ailleurs, le gérant, s'il n'y en a qu'un seul, ou les gérants agissant conjointement s'il y en a
+plusieurs, peuvent déléguer leurs pouvoirs pour un acte spécifique ou une catégorie d'actes
+spécifiques, par acte authentique ou sous seing privé, à un mandataire, associé ou non.  Dans les
+limites de son mandat, ce mandataire représente et engage la société. 
+Tant le gérant que la personne chargée de la gestion journalière, et le mandataire peuvent, dans les
+limites de leurs pouvoirs, subdéléguer leurs pouvoirs ou conférer des pouvoirs spéciaux à d'autres
+mandataires.
+Le gérant dispose du pouvoir de révoquer à tout moment les personnes désignées conformément au
+présent article.
+Article 19 : Chaque année l'assemblée générale annuelle se réunit de plein droit, le 30 juin .à dix-huit
+heures, au siège social ou au lieu indiqué par les convocations.
+Article 21 : Chaque part sociale donne droit à une voix, sauf suspension.  Un vote peut être émis
+valablement par le biais de tous moyens de télécommunication.  L'associé ayant ainsi émis son vote,
+est censé assister à la réunion.
+Tout associé peut se faire représenter à l'assemblée générale par un autre associé porteur d'une
+procuration spéciale.  En ce cas, le mandant est censé être présent.  Chaque mandataire, ainsi
+désigné peut représenter plusieurs associés.
+Toutefois, les personnes morales peuvent être représentées par un mandataire non associé.
+Article 22bis :Lorsque l’assemblée convoquée n’est pas amenée à prendre des décisions qui doivent
+faire l’objet d’un acte authentique, les associés peuvent prendre par écrit et à l’unanimité toutes
+décisions qui relèvent de la compétence de l’assemblée générale.
+ Le gérant ou le Conseil de gérance adressera à cet effet  par lettre recommandée, par fax, par e-
+mail ou par toute autre moyen de communication où il est possible d’avoir un accusé de réception, à
+tous les associés et au commissaire éventuel un document mentionnant l’ordre de jour et les
+propositions de décision en leur demandant d’approuver ces propositions de décision et de renvoyer
+ce document dûment complété et signé dans les huit jours de sa réception au siège de la société ou
+à tout autre endroit mentionné dans le document.
+ Si l’approbation de tous les associés aussi bien sur le principe même de la procédure écrite que sur
+les points à l’ordre du jour et sur les propositions de décisions n’est pas obtenue dans les huit jours,
+toutes les décisions proposées seront réputées ne jamais avoir été prises. Il en sera également ainsi
+si certaines décisions prises dans ledit délai n’ont pas été approuvées à l’unanimité des associés.
+ Les éventuels titulaires d’obligations, titulaires d’un droit de souscription en nom et titulaires de
+certificats nominatifs émis avec la collaboration de la société auront le droit de prendre connaissance
+des décisions prises au siège de la société.
+Article 24 : L'exercice social commence le premier janvier et se clôture le trente et un décembre de
+chaque année.
+Article 25 : Sur l'éventuel bénéfice net, tel qu'il découle des comptes annuels arrêtés par l'organe de
+gestion, il est prélevé annuellement au moins cinq pour cent (5%) pour être affectés au fonds de
+réserve légale. Ce prélèvement cesse d'être obligatoire lorsque la réserve légale atteint le dixième du
+capital.
+Le solde reçoit l'affectation que lui donne l'assemblée générale statuant sur proposition de l'organe
+de gestion, dans le respect des dispositions légales.
+Aucune distribution ne peut être faite lorsqu'à la date de clôture du dernier exercice, l'actif net tel qu'il
+résulte des comptes annuels est, ou deviendrait, à la suite d'une telle distribution, inférieur au
+montant du capital libéré ou, si ce montant est supérieur, du capital appelé, augmenté de toutes les
+réserves que la loi ou les statuts ne permettent pas de distribuer.
+Article 28 : Après liquidation du passif à l'égard des tiers et paiement de tous les frais de liquidation
+ou consignation de ces montants, le solde sera réparti entre les associés au prorata de leurs parts.
+Toutefois, si toutes les parts sociales ne sont pas libérées dans une égale proportion, le(s)
+liquidateur(s) rétabli(ssen)t préalablement l'équilibre soit par des appels de fonds, soit par des
+remboursements partiels.
+DISPOSITIONS TEMPORAIRES
+Les fondateurs ont pris les décisions suivantes : 1°La première assemblée générale annuelle se
+tiendra en 2017. 2°Exceptionnellement, le premier exercice commence le jour du dépôt du présent
+acte au greffe du Tribunal de Commerce et se clôturera le 31 décembre 2016. 3°Est désigné en
+qualité de gérant non statutaire pour une durée indéterminée : Monsieur MELIS Antoine, prénommé.
+4°Les fondateurs ont décidé de ne pas nommer de commissaire. 5°Tous pouvoirs ont été donnés au
+gérant, pour accomplir toutes les formalités nécessaires à l'immatriculation de la société auprès du
+Registre des Personnes Morales et, le cas échéant, auprès de la Taxe sur la Valeur Ajoutée.
 
 Bi
 jla
@@ -400,10 +415,87 @@ bl
 ad
  - 
 
-01
+19
 /0
 
-2/
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+Pour extrait analytique conforme
+Notaire Gilles FRANCE
+ 
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+19
+/0
+
+4/
 20
 
 16

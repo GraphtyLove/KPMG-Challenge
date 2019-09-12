@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-BIZIMMO
+JQ Visual Communications
 
-Boulevard du Souverain 68
-1170 Watermael-Boitsfort
+Rue de la Jonchaie 23 bte 28
+1040 Etterbeek
 
-Société anonymeForme juridique :
+Société privée à responsabilité limitée StarterForme juridique :
 
 Dénomination
 
 Constitution
 
-Il résulte d'un acte reçu le douze décembre deux mille seize, par Maître Carl OCKERMAN, Notaire à
-Bruxelles, 
-que :
-1-) La société anonyme "UNIBRA REAL ESTATE" dont le siège est situé à Watermael-Boitsfort
-(1170 Bruxelles), boulevard du Souverain 68 ; et,
-2-) La société anonyme "BELFIUS IMMO" dont le siège est situé à 1000 Bruxelles, Boulevard
-Pachéco, 44,
-ont constitué la société suivante :
-FORME JURIDIQUE - DENOMINATION.
-La société revêt la forme d'une société anonyme. Elle est dénommée "BIZIMMO".
-SIEGE SOCIAL.           
-Le siège est établi à Watermael-Boitsfort (1170 Bruxelles), boulevard du Souverain 68.
-OBJET.
-La société a pour objet, tant en Belgique qu'à l'étranger, toutes entreprises, initiatives ou opérations
-immobilières, foncières ou financières, destinées à créer, promouvoir, faciliter ou encourager soit
-directement, soit indirectement toutes affaires commerciales tant mobilières qu'immobilières. En
-conséquence, la société peut, sans que cette énonciation soit limitative:
-a. Entreprendre ou faire entreprendre l'étude et la réalisation pratique de tous les problèmes
-techniques, sociaux, économiques, fiscaux et d'organisation qui se posent en matière de son objet
-social.
-b. Préparer, rédiger et conclure en tant que mandataire ou pour compte propre, tous marchés de
-travaux ou de fourniture et faire toutes opérations se rattachant à ces objets.
-c. Prendre ou participer à des initiatives sous forme de participation ou aide à caractère technique,
-financière ou d'organisation.
-d. Représenter ses membres au sein de sociétés commerciales ou à forme commerciale.
-e. Prêter son assistance à des tiers en toutes matières sociale, technique, financière, organique,
-administrative et économique.
-f. Contracter des emprunts hypothécaires ou sous autre forme.
-g. Acquérir ou aliéner tous immeubles, procéder à tous lotissements, mises en valeur, promotions,
-locations et effectuer la gestion de tous immeubles bâtis et non bâtis.
-La société a également comme objet:
-a) exclusivement en son propre nom et pour son propre compte: la construction, le développement et
-la gestion du patrimoine immobilier; toutes les opérations, oui ou non sous le système de la TVA,
-relatives aux biens immobiliers et aux droits immobiliers, tels que l'achat et la vente, la construction,
-la rénovation, l'aménagement et la décoration d'intérieur, la location ou la prise en location,
-l'échange, le lotissement et, en général, toutes les opérations qui sont liées directement ou
-indirectement à la gestion ou à l'exploitation de biens immobiliers ou de droits réels immobiliers;
-b) exclusivement en son propre nom et pour son propre compte: la construction, le développement et
+~~D'un acte reçu le 18 avril  2016 par le Maître Béatrice Remy, notaire de résidence à Saint-Josse-
+ten-Noode, en cours d'Enregistrement, il résulte que:
+Monsieur QUESADA DE CORRAL Jesus, de nationalité espagnole, né à Madrid (Espagne) le vingt-
+trois décembre mille neuf cent septante et un, numéro national 71.12.23 485-12, époux de Madame
+KRESTYNOVA Jana, domicilié à 1040 Etterbeek, Rue de la Jonchaie 23/b 28.
+a constitué une société privée à responsabilité limitée sous la dénomination de « JQ Visual
+Communications », ayant son siège social à 1040 Etterbeek, Rue de la Jonchaie 23 boîte 28, dont le
+capital social est fixé à  DIX-HUIT MILLE CINQ CENT CINQUANTE EUROS (18.550,00 EUR),
+représenté par  MILLE (1000) parts sociales sans valeur nominale, qui toutes ont été souscrites en
+numéraires et libérées à concurrence  de DEUX MILLE HUIT CENT UN EUROS (2.801,00 EUR).
+Objet.
+La société a pour objet, tant en Belgique qu’à l’étranger, en son propre nom et pour son propre
+compte et au nom et pour compte de tiers, toutes opérations généralement quelconques se
+rapportant:
+ dans le domaine de la création graphique, du web design et de la création de site web :
+-référencement de sites web sur les principaux moteurs de recherche ;
+-référencement par Pack prédéfinis et vente via e-commerce ;
+-marketing et image sur internet ;
+-création et réalisation de sites web ;
+-développement d’applications et de sites web
+-webdesign
+-infographie
+-retouche photo
+-création, montage et retouche vidéo ;
+-animation sur le web ;
+-création graphique print/papier ;
+-création d’identité visuelle pour entreprises ;
+-formations à l’utilisation de nos produits et services.
+ dans le domaine de la communication, publicité et du marketing:
+-la création, la réalisation, l’achat et la vente de tous programmes radiophoniques, audiovisuels et
+musicaux, y compris les messages publicitaires sous toutes formes ;
+-la vente d’espaces publicitaires radiophoniques sous toutes formes ;
+-la prestation de tous conseils et services en relation avec les activités ci-dessus à une ou plusieurs
+stations émettrices privées de radiophonie ;
+-la conception, la réalisation, l’organisation, la commercialisation de tout événement médiatique et de
+tout système d’information en relation avec les activités ci-dessus ;
+-toutes activités se rapportant à la conception, la réalisation, l’exploitation, la commercialisation,
+l’achat, la location et la vente de toutes les formes de publicité généralement quelconques, et ce sur
 
- *16325647*
+ *16309014*
 Déposé
-13-12-2016
+21-04-2016
 
-0667687622
+0652740021
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-15
-/1
+25
+/0
 
-2/
+4/
 20
 
 16
@@ -187,584 +187,200 @@ au
 
 Mod PDF 11.1
 
-la gestion d'un patrimoine mobilier; toutes les opérations relatives à des biens et des droits mobiliers,
-de quelque nature que ce soit, tels que la vente et l'achat, la location et la prise en location,
-l'échange, en particulier la gestion et la valorisation de tous biens négociables, actions, obligations,
-fonds d'État;
-c) exclusivement en son propre nom et pour son propre compte: faire des emprunts et consentir des
-prêts, crédits, financements et la négociation de contrats de leasing, dans le cadre des buts décrits
-ci-dessus.
-A cet effet, la société peut collaborer et prendre part, ou prendre un intérêt dans d'autres entreprises,
-directement ou indirectement, de quelque manière que ce soit.
-La société peut donner caution tant pour ses propres engagements que pour les engagements de
-tiers, entre autres en donnant ses biens en hypothèque ou en gage, y compris son propre fonds de
-commerce.
-La société peut d'une façon générale accomplir toutes opérations commerciales, industrielles,
-financières, se rapportant directement ou indirectement à son objet social ou qui seraient de nature à
-en faciliter la réalisation.
-DUREE.
-La société est constituée pour une durée illimitée et commence ses opérations à la date du douze
-décembre deux mille seize.
-CAPITAL.
-Le capital social est entièrement souscrit et est fixé à huit cents mille euros (€ 800.000,00).
-Il est divisé en huit cents (800) actions de capital, nominatives, dont 400 actions de catégorie A et
-400 actions de catégorie B, sans mention de valeur nominale représentant chacune un/ huit
-centième (1/800ième) du capital social.
-Les actions du capital sont à l'instant souscrites en espèces et au pair, comme suit :
-- Par la société anonyme "UNIBRA REAL ESTATE", à concurrence de 400 actions de catégorie B
-;    
-- Par la société anonyme "BELFIUS IMMO", à concurrence de 400 actions de catégorie A;     
-Total : 800 actions.
-Chacune des actions souscrites a été libérée à concurrence de vingt-cinq pourcent (25 %).
-Le capital a été libéré à concurrence de deux cents mille euros (€ 200.000,00).
-ATTESTATION BANCAIRE.
-Les susdits apports en espèces ont été déposés, conformément à l'article 449 du Code des sociétés,
-sur un compte spécial numéro BE35 0689 3120 1037 ouvert au nom de la société en formation
-auprès de la Banque Belfius SA ainsi qu'il résulte d'une attestation délivrée par cette institution
-financière, le 12 décembre 2016. Cette attestation a été remise au notaire qui la gardera dans son
-dossier.
-RESPONSABILITE DE LA CONSTITUTION.
-La société anonyme "UNIBRA REAL ESTATE" et la société anonyme "BELFIUS IMMO", assument
-l'entière responsabilité de la constitution actuelle, ceci conformément à l'article 450,2° du Code des
+tous supports matériels, audio-visuels, informatiques et autres généralement quelconques ;
+-l’achat, la vente, la location, la commercialisation, l’exploitation, l’importation et l’exportation pour
+compte propre ou pour compte de tiers en Belgique ou à l’étranger, de tous types de relais
+d’information sur papier, audio-visuel, électronique ou non, de tout système d’affichages publicitaire
+ou non, mobilier urbain, signalisation routière ou communication audio-visuelle.
+ dans le domaine de la photographie, de la vidéo et de l’audiovisuel :
+1) toutes opérations se rapportant directement ou indirectement, d’une part à l’organisation, la
+création, la conception de toutes manifestations audio-visuelles  généralement quelconques,
+publiques ou privées, telles que: spectacles, concerts, soirées, thés dansants, garden-parties, le cas
+échéant animés par un disc-jockey ou un orchestre, campagnes publicitaires ou promotionnelles
+faisant appel aux techniques de l’audio-visuel, etc., la présente énumération étant exemplative et non
+limitative;
+d’autre part l’enregistrement, l’éclairage, la régie technique et la prise de son en studio ou en direct,
+quelque soit le support utilisé, de tous artistes et de tous spectacles généralement quelconques,
+ainsi que la production, la post-production (mixages, arrangements, etc.), la commercialisation sous
+toutes ces formes d’enregistrements;
+2) la mise à disposition, le prêt, la location, la prise en location de personnel et/ou de matériel
+généralement quelconque et en particulier tout le matériel de type audio-visuel et tout l’équipement
+logistique que nécessite la réalisation des opérations dont question au point 1) ci- dessus, ainsi que
+l’achat, la vente en gros et au détail, le financement, l’importation, l’exportation, la représentation et
+le courtage dudit matériel; le tout dans le cadre des opérations dont question au point 1) ci-dessus;
+3) la construction, l’acquisition, la vente, la location, l’investissement, l’exploitation et la gestion de
+salles de spectacles, salles de cinéma, salles de théâtre, salles d’expositions, musées, de
+restaurants, bars, cafétérias ou autres débits de boissons et de «petite restauration»;
+4) toutes activités de production et d’édition dans les secteurs artistique, didactique, informatique et
+publicitaire;
+toutes activités commerciales et promotionnelles y relatives, ainsi que la fourniture de biens et la
+prestation de service en rapport direct ou indirect avec lesdites activités, et de manière générale
+toutes activités en rapport avec l’audio-visuel et l’organisation de manifestations telles que décrites
+au point 1) ci-dessus.
+ dans le domaine de l’évènementiel :
+1) - toutes opérations se rapportant directement ou indirectement, d’une part à l’organisation, la
+création, la conception de toutes manifestations audio-visuelles généralement quelconques,
+publiques ou privées, telles que: spectacles, concerts, soirées, thés dansants, garden-parties, le cas
+échéant animés par un disc-jockey ou un orchestre, campagnes publicitaires ou promotionnelles
+faisant appel aux techniques de l’audio-visuel, etc., la présente énumération étant exemplative et non
+limitative;
+  - d’autre part l’enregistrement, l’éclairage, la régie technique et la prise de son en studio ou en
+direct, quel que soit le support utilisé, de tous artistes et de tous spectacles généralement
+quelconques, ainsi que la production, la post-production (mixages, arrangements, etc.), la
+commercialisation sous toutes ces formes d’enregistrements;
+2) la mise à disposition, le prêt, la location, la prise en location de personnel et/ou de matériel
+généralement quelconque et en particulier tout le matériel de type audio-visuel et tout l’équipement
+logistique que nécessite la réalisation des opérations dont question au point 1) ci-dessus, ainsi que
+l’achat, la vente en gros et au détail, le financement, l’importation, l’exportation, la représentation et
+le courtage dudit matériel; le tout dans le cadre des opérations dont question au point 1) ci-dessus;
+3) la construction, l’acquisition, la vente, la location, l’investissement, l’exploitation et la gestion de
+salles de spectacles, salles de cinéma, salles de théâtre, salles d’expositions, musées, de
+restaurants, bars, cafétérias ou autres débits de boissons et de «petite restauration»;
+4) toutes activités de production et d’édition dans les secteurs artistique, didactique, informatique et
+publicitaire; toutes activités commerciales et promotionnelles y relatives, ainsi que la fourniture de
+biens et la prestation de service en rapport direct ou indirect avec lesdites activités, et de manière
+générale toutes activités en rapport avec l’audio-visuel et l’organisation de manifestations telles que
+décrites au point 1) ci-dessus ;
+ la commercialisation, le transport, la logistique, l'encouragement et la promotion sous toutes leurs
+formes des activités mentionnées ci-dessus;
+ la participation de la société, par tous moyens, à toutes entreprises ou sociétés créées ou à créer,
+pouvant se rattacher â l'objet social, notamment par voie de création de sociétés nouvelles, d'apport,
+souscription ou rachat de titres ou , droits sociaux, fusion, alliance ou association en participation ou
+groupement d'intérêt économique ou de location gérance ;
+ la constitution de sûretés tant pour ses propres engagements que pour les engagements de tiers;
+Elle peut accomplir d'une manière générale toutes opérations industrielles et commerciales,
+financières et civiles, mobilières et immobilières ayant un rapport direct ou indirect avec son objet et
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+25
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+pouvant en faciliter directement ou indirectement, entièrement ou partiellement, la réalisation.
+Elle peut s'intéresser par voie d'association, d'apport, de fusion, d'intervention financière ou
+autrement dans toutes sociétés, associations ou entreprises dont l'objet est analogue ou connexe au
+sien ou susceptible de favoriser le développement de son entreprise ou de constituer pour elle une
+source de débouchés.
+Elle peut également exercer les fonctions d'administrateur ou de liquidateur dans toutes autres
 sociétés.
-COMPOSITION DU CONSEIL D'ADMINISTRATION.
-La société est administrée par un conseil composé de trois membres au moins, personnes physiques
-ou morales, actionnaires ou non, nommés pour six ans au plus par l'assemblée générale des
-actionnaires et en tout temps révocables par elle. Lorsque, lors d'une assemblée générale des
-actionnaires de la société, il est constaté que celle-ci n'a pas plus de deux actionnaires, la
-composition du conseil d'administration peut être limitée à deux membres jusqu'à l'assemblée
-générale ordinaire suivant la constatation par toute voie de droit de l'existence de plus de deux
-actionnaires.
-Les actionnaires de catégorie A, agissant conjointement, peuvent nommer trois administrateurs (les
-"Administrateurs A") ainsi que les actionnaires de catégorie B, agissant conjointement, peuvent
-nommer trois administrateurs (les "Administrateurs B").
-Lorsqu'une personne morale est nommée administrateur, celle-ci est tenue de désigner parmi ses
-associés, gérants, administrateurs ou travailleurs, un représentant permanent, personne physique,
-chargé de l'exécution de cette mission au nom et pour le compte de la personne morale.
-La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
-règles de publicité que s'il exerçait cette mission en nom et pour compte propre.
-Les administrateurs sont rééligibles.
-L'administrateur dont le mandat est venu à expiration, reste en fonction aussi longtemps que
-l'assemblée générale, pour quelque raison que ce soit, ne pourvoit pas au poste vacant.
-En cas de vacance d'une place d'administrateur, pour quelque raison que ce soit autre que la
-révocation d'un administrateur par l'assemblée générale, les administrateurs restants procèdent à la
-cooptation d'un nouvel Administrateur A ou d'un nouvel Administrateur B, selon que la place vacante
-était occupée respectivement par un Administrateur A ou un Administrateur B. Les administrateurs
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-15
-/1
-
-2/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
+Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions.
+Durée.
+La société est constituée pour une durée illimitée à partir de la date de sa constitution.
+Gérance :
+ La société est gérée par un ou plusieurs gérants, personnes physiques, associés ou non, nommés
+par l'assemblée générale des associés qui fixe leur nombre, la durée de leur mandat et leur
+rémunération éventuelle, celle-ci pouvant constituer en un traitement fixe ou variable à charge du
+compte de résultats.
+ Chaque gérant a tous pouvoirs pour poser tous les actes nécessaires ou utiles à l'accomplissement
+de l'objet social, sauf ceux que la loi réserve à l'assemblée générale, et pour représenter la société
+vis-à-vis des tiers ou en justice, soit en demandant, soit en défendant.
+ Les gérants sont révocables en tout temps par l'assemblée générale.
+ Le gérant s'il n'y en a qu'un seul, ou les gérants agissant conjointement s'il y en a plusieurs, peuvent
+conférer les pouvoirs qu'ils jugeront utiles à un ou plusieurs mandataires, directeurs choisis par eux,
+ou des pouvoirs spéciaux à des membres de la société, pour un ou plusieurs objets déterminés.
+Assemblée générale:
+ L'assemblée générale annuelle se réunit obligatoirement au siège social, le dernier vendredi du
+mois de juin de chaque année à dix-huit heures. Si ce jour est férié, l'assemblée se réunit le premier
+jour ouvrable suivant à la même heure.
+Exercice social:
+L'exercice social commence le premier janvier et finit le trente et un décembre de chaque année.
+Dispositions transitoires:
+a) Le premier exercice social sera clôturé le trente-et-un décembre deux mille seize,  le début des
+activités de la société étant fixé à la date d'aujourd'hui.
+ b) La première assemblée générale se tiendra en le 30 juin 2017.
+ c) quasi apports : si, dans les deux ans de sa constitution, la société se propose d'acquérir un bien à
+un fondateur, à un gérant ou à un associé, pour une contrevaleur au moins égale à un/dixième du
+capital souscrit, cette acquisition sera soumise à l'autorisation de l'assemblée générale, qui
+délibèrera conformément aux dispositions des articles 220, 221, 222 et 230 du Code des sociétés, et
+moyennant établissement préalable d'un rapport établi par un réviseur d'entreprises, désigné par
+le(s) gérant(s) et d'un rapport justificatif de la gérance, conformément aux susdites dispositions
+légales.
+Assemblée générale extraordinaire:
+D'un même contexte, les statuts de la société étant arrêtés, les associés se sont réunis en
+assemblée générale extraordinaire et, à l'unanimité, décident que la société sera administrée
+initialement par un gérant et appellent aux fonctions de gérants, sans limitation de la durée de son
+mandat et jusqu'à révocation par l'assemblée générale : Monsieur QUESADA DE CORRAL Jesus,
+prénommé. 
+Le mandat de gérant est rémunéré.
+ En sa qualité de gérant, Monsieur QUESADA DE CORRAL Jesus, prénommé, disposera des
+pouvoirs de représentation organique de la société, conformément aux articles 11 à 13 des statuts.
+ En outre, l'assemblée, constatant que, sur base des estimations reprises au plan financier remis au
+Notaire soussigné, la société répond aux critères énoncés à l'article 93 du Code des sociétés, décide
+de ne pas nommer de commissaire.
+Reprise des engagements souscrits au nom de la société en formation:
+En application de l'article 60 du Code des sociétés, la société reprend les engagements contractés
+en son nom tant qu'elle était en formation.
  
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-restants ont le droit de pourvoir provisoirement au poste vacant jusqu'à ce que l'assemblée générale
-nomme un nouvel administrateur.
-En cas de vacance prématurée au sein du conseil d'administration, pour quelque raison que ce soit,
-les administrateurs restants ont le droit de pourvoir provisoirement au poste vacant jusqu'à ce que
-l'assemblée générale nomme un nouvel administrateur. La nomination est portée à l'agenda de la
-plus prochaine assemblée générale.
-Le conseil d'administration peut élire parmi les Administrateurs A un président qui ne disposera pas
-d'une voix prépondérante. A défaut d'élection, ou en cas d'absence du président, celui-ci sera
-remplacé par le doyen des administrateurs.
-Les administrateurs choisissent un administrateur-délégué parmi les Administrateurs B.
-REUNIONS-DELIBERATIONS ET RESOLUTIONS.
-Le conseil se réunit sur convocation de son président, d'un administrateur-délégué ou de deux
-administrateurs, effectuée trois jours au moins avant la date prévue pour la réunion.
-Les convocations sont valablement effectuées par lettre, télécopie ou e-mail.
-Tout administrateur qui assiste à une réunion du conseil ou s'y est fait représenter est considéré
-comme ayant été régulièrement convoqué. Un administrateur peut également renoncer à se plaindre
-de l'absence ou d'une irrégularité de convocation avant ou après la réunion à laquelle il n'a pas
-assisté.
-Les réunions du conseil d'administration se tiennent en Belgique ou à l'étranger au lieu indiqué dans
-la convocation.
-Tout administrateur peut, au moyen d'un document qui porte sa signature (y compris une signature
-digitale conformément à l'article 1322, alinéa 2 du Code civil) et qui a été communiqué par écrit, par
-téléfax, e-mail ou par tout autre moyen mentionné à l'article 2281 du Code civil, donner mandat à un
-autre membre du conseil afin de le représenter à une réunion déterminée. Un administrateur peut
-représenter plusieurs de ses collègues et émettre, en plus de sa propre voix, autant de votes qu'il a
-reçu de procurations.
-Sauf cas de force majeure, le conseil d'administration ne peut délibérer et statuer valablement que si
-la moitié au moins de ses membres est présente ou représentée, dont au moins la moitié des
-Administrateurs A et la moitié des Administrateurs B. Si cette dernière condition n'est pas remplie,
-une nouvelle réunion peut être convoquée, qui, à condition que deux administrateurs au moins soient
-présents ou représentés, dont au moins un Administrateur A et un Administrateur B, délibérera et
-statuera valablement sur les objets portés à l'ordre du jour de la réunion précédente.
-Le conseil d'administration peut se réunir par voie de conférence téléphonique ou vidéoconférence.
-Toute décision du conseil est prise à la majorité simple des administrateurs présents ou représentés,
-avec au moins un vote positif d'un Administrateur A et un vote positif d'un Administrateur B. Les
-abstentions auront valeur de vote négatif. 
-En cas de partage, la voix de celui qui préside la réunion est décisive.
-Dans des cas exceptionnels, dûment justifiés par l'urgence et l'intérêt social, les décisions du conseil
-d'administration peuvent être prises par consentement unanime des administrateurs, exprimé par
-écrit. Il ne pourra cependant pas être recouru à cette procédure pour l'arrêt des comptes annuels ni
-pour l'utilisation du capital autorisé.
-Sauf les cas d'exception visés par le Code des sociétés, un administrateur qui a, directement ou
-indirectement, un intérêt opposé de nature patrimoniale à une décision ou une opération relevant du
-conseil d'administration, doit le communiquer aux autres administrateurs avant la délibération du
-conseil d'administration ; le conseil d'administration et la société doivent s'en référer aux
-prescriptions de l'article 523 du Code des sociétés.
-Les décisions du conseil d'administration sont constatées dans des procès-verbaux qui sont signés
-par le président, le secrétaire et les membres qui le désirent. Ces procès-verbaux sont insérés dans
-un registre spécial. Les procurations sont annexées aux procès-verbaux de la réunion pour laquelle
-elles ont été données.
-Les copies ou extraits à produire en justice ou ailleurs sont signés par le président, l'administrateur-
-délégué ou par deux administrateurs.
-POUVOIR DE GESTION DU CONSEIL.
-§1. En général
-Le conseil d'administration est investi des pouvoirs les plus étendus pour accomplir tous les actes
-nécessaires ou utiles à la réalisation de l'objet social de la société, à l'exception de ceux que la loi
-réserve à l'assemblée générale.
-§2. Comités consultatifs.
-Le conseil d'administration peut créer en son sein et sous sa responsabilité un ou plusieurs comités
-consultatifs. Il décrit leur composition et leur mission.
-§3. Gestion journalière
-Le conseil peut déléguer la gestion journalière de la société, la gestion d'une ou plusieurs affaires de
-la société, ou l'exécution des décisions du conseil, à un ou plusieurs administrateurs, directeurs ou
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-15
-/1
-
-2/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-fondés de pouvoirs, actionnaires ou non. Lorsqu'un administrateur est chargé de la gestion
-journalière, celui-ci portera le titre de "administrateur-délégué" Lorsqu'une personne non-
-administrateur est chargée de la gestion journalière, celle-ci portera le titre de directeur ou directeur
-général ou tout autre titre par lequel elle a été indiquée dans l'arrêté de nomination.
-Le conseil ainsi que les délégués à la gestion journalière, dans le cadre de cette gestion, peuvent
-également conférer des pouvoirs spéciaux à une ou plusieurs personnes de leur choix.
-§4. Comité de direction
-Conformément à l'article 524bis du Code des sociétés le conseil d'administration peut déléguer ses
-pouvoirs de gestion à un comité de direction, sans pour autant que cette délégation puisse porter sur
-la politique générale de la société ou sur l'ensemble des actes réservés au conseil d'administration
-en vertu d'autres dispositions de la loi.
-Les conditions de désignation des membres du comité de direction, leur révocation, leur
-rémunération, la durée de leur mission et le mode de fonctionnement du comité de direction, sont
-déterminés par le conseil d'administration.
-Le conseil d'administration est chargé du contrôle du comité.
-Si un membre du comité de direction a, directement ou indirectement, un intérêt de nature
-patrimoniale opposé à une décision ou à une opération relevant du comité, il doit le communiquer
-aux autres membres avant la délibération du comité. En outre, les prescriptions de l'article 524ter du
-Code des sociétés doivent être prises en considération.
-REPRESENTATION DE LA SOCIETE.
-La société est valablement représentée vis-à-vis de tiers, en justice et dans les actes, y compris ceux
-pour lesquels le concours d'un officier ministériel ou d'un notaire serait requis, par deux
-administrateurs agissant conjointement, dont au moins un Administrateur A et un Administrateur B,
-agissant conjointement.
-Dans les limites de la gestion journalière, la société est également valablement représentée par
-l'Administrateur Délégué à qui aura été confiée la gestion journalière de la Société.
-La société est en outre, dans les limites de leur mandat, valablement représentée par des
-mandataires spéciaux.
-A l'étranger, la société peut être valablement représentée par toute personne mandatée
-spécialement à cet effet par le conseil d'administration.
-CONTROLE.
-Le contrôle de la situation financière, des comptes annuels et de la régularité des opérations à
-constater dans les comptes annuels doit être confié à un ou plusieurs commissaires. Les
-commissaires sont nommés par l'assemblée générale des actionnaires parmi les membres,
-personnes physiques ou morales, de l'Institut des Réviseurs d'Entreprises. Les commissaires sont
-nommés pour un terme renouvelable de trois ans. Sous peine de dommages-intérêts, ils ne peuvent
-être révoqués en cours de mandat que par l'assemblée générale et pour un juste motif.
-Toutefois, aussi longtemps que la société pourra bénéficier des exceptions prévues à l'article 141, 2°
-du Code des sociétés, chaque actionnaire aura, conformément à l'article 166 du Code des sociétés,
-individuellement les pouvoirs de contrôle et d'investigation des commissaires.
-Nonobstant toute disposition légale en la matière, l'assemblée générale aura le droit de nommer un
-commissaire. S'il n'a pas été nommé de commissaire, chaque actionnaire pourra se faire représenter
-ou se faire assister par un expert-comptable. La rémunération de l'expert-comptable incombe à la
-société s'il a été désigné avec son accord ou si cette rémunération a été mise à sa charge par
-décision judiciaire. En ce cas les observations de l'expert-comptable sont communiquées à la
-société.
-ASSEMBLEE GENERALE.
-L'assemblée générale ordinaire des actionnaires se réunit le vingt-deux mai à dix (10) heures.
-Si ce jour est un samedi, un dimanche ou un jour férié, l'assemblée générale a lieu le jour ouvrable
-suivant.
-L'assemblée générale ordinaire se tient au siège de la société ou dans la commune du siège de la
-société. Elle peut également se tenir dans une des dix-neuf communes de la Région Bruxelles-
-Capitale.
-ADMISSION À L'ASSEMBLEE GENERALE
-Pour être admis à l'assemblée générale, tout propriétaire de titres doit, si la convocation l'exige,
-effectuer au moins trois jours ouvrables avant ladite assemblée le dépôt de ses certificats d'actions
-nominatives, au siège social ou dans les établissements désignés dans les avis de convocation.
-Les titulaires d'obligations, de warrants et de certificats émis en collaboration avec la société peuvent
-assister à l'assemblée générale, mais avec voix consultative uniquement, en respectant les
-conditions d'admission prévues pour les actionnaires.
-Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
-l'application de cet article.
-REPRESENTATION.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-15
-/1
-
-2/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-Tout actionnaire empêché peut donner procuration à une autre personne, actionnaire ou non, pour le
-représenter à une réunion de l'assemblée. Les procurations doivent porter une signature (en ce
-compris une signature digitale conformément à l'article 1322, alinéa 2 du Code civil).
-Les procurations doivent être communiquées par écrit, par fax, par e-mail ou tout autre moyen
-mentionné à l'article 2281 du code civil et sont déposées sur le bureau de l'assemblée. En outre, le
-conseil d'administration peut exiger que celles-ci soient déposées trois jours ouvrables avant
-l'assemblée à l'endroit indiqué par lui.
-Les samedi, dimanche et les jours fériés ne sont pas considérés comme des jours ouvrables pour
-l'application de cet article.
-LISTE DE PRESENCE.
-Avant de participer à l'assemblée, les actionnaires ou leurs mandataires sont tenus de signer la liste
-de présence, laquelle mentionne le nom, les prénoms et l'adresse ou la dénomination sociale et le
-siège social des actionnaires et le nombre d'actions qu'ils représentent.
-DROIT DE VOTE.
-Chaque action donne droit à une voix.
-Le vote se fait par main levée ou par appel nominal sauf si l'assemblée générale en décide
-autrement par la majorité simple des voix émises.
-Chaque actionnaire peut également voter au moyen d'un formulaire établi par le conseil
-d'administration, qui contient les mentions suivantes : (i) identification de l'actionnaire, (ii) le nombre
-de voix auquel il a droit et (iii) et pour chaque décision qui doit être prise selon l'ordre du jour de
-l'assemblée, la mention " oui " ou " non " ou " abstention ". L'actionnaire qui vote par écrit sera prié, le
-cas échant, de remplir les formalités nécessaires en vue de participer à l'assemblée générale
-conformément à l'article 23 des statuts.
-EXERCICE SOCIAL.
-L'exercice social commence le premier janvier pour se terminer le trente et un décembre de chaque
-année.
-REPARTITION DES BENEFICES.
-Sur les bénéfices nets de la société, il est effectué annuellement un prélèvement de cinq pour cent
-au moins qui est affecté à la constitution de la réserve légale. Ce prélèvement cesse d'être
-obligatoire lorsque ce fonds de réserve atteint le dixième du capital social.
-Sur la proposition du conseil d'administration, l'assemblée générale décide de l'affectation à donner
-au solde des bénéfices nets.
-ACOMPTE SUR DIVIDENDE.
-Le conseil d'administration est autorisé à distribuer un acompte à imputer sur le dividende qui sera
-distribué sur les résultats de l'exercice, conformément aux conditions prescrites par l'article 618 du
-Code des sociétés.
-DISSOLUTION - LIQUIDATION.
-Lors de la dissolution avec liquidation, le(s) liquidateur(s) est/sont, le cas échéant, nommé(s) par
-l'assemblée générale.
-La nomination du/des liquidateur(s) doit être soumise au président du tribunal de commerce pour
-confirmation, conformément à l'article 184, §2 du Code des sociétés.
-Ils disposent de tous les pouvoirs prévus aux articles 186 et 187 du Code des sociétés, sans
-autorisation spéciale de l'assemblée générale. Toutefois, l'assemblée générale peut à tout moment
-limiter ces pouvoirs par décision prise à une majorité simple de voix.
-Tous les actifs de la société seront réalisés, sauf si l'assemblée générale en décide autrement.
-Si les actions ne sont pas toutes libérées dans une égale proportion, les liquidateurs rétablissent
-l'équilibre, soit par des appels de fonds complémentaires, soit par des remboursements préalables.
-DISPOSITIONS FINALES ET TRANSITOIRES.
-NOMINATIONS DES PREMIERS ADMINISTRATEURS.
-Ont été nommés comme premiers administrateurs par les fondateurs : -
-1/ La société anonyme "UNIBRA REAL ESTATE", ayant son siège social à Watermael-Boitsfort
-(1170 Bruxelles) boulevard du Souverain 68, représentée par Monsieur RELECOM Thibault Marie
-Mendel, domicilié à 7063 Neufvilles rue Caulier 2, en tant qu'administrateur B ;
-2/ Monsieur THIBAUT DE MAISIÈRES Christophe Albert Vincent Marie Ghislain, domicilié à 1030
-Schaerbeek, rue General Gratry 66, en tant qu'administrateur B ;
-3/ la société privée à responsabilité limitée "D&M Consulting and Advice", ayant son siège social à
-3090 Overijse, Smetslaan 25, représentée par Monsieur SYENAVE David Wim Lilian, domicilié à
-3090 Overijse, Smetslaan 25, en tant qu'administrateur B ;
-4/ Monsieur SNEYERS Vincent Marie-Madeleine Antoine, domicilié à 2550 Kontich, Staf Van
-Elzenlaan 20, en tant qu'administrateur A ;
-5/ Monsieur FRUY Nicolas Henri Ghislain, domicilié à rue Noël 27 1410 Waterloo, en tant
-qu'administrateur A ; et,
-6/ Monsieur GEVERS Gilles Jean Jacques, domicilié à Uccle 1180, rue Papenkasteel 48, en tant
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-15
-/1
-
-2/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-qu'administrateur A.
-Le mandat des premiers administrateurs expirera à l'issue de l'assemblée ordinaire de l'an 2022
-Le mandat des administrateurs est non rémunéré.
-NOMINATION D'UN COMMISSAIRE.
-A été nommé à la fonction de commissaire : la société civile sous la forme d'une société coopérative
-à responsabilité limitée " BDO Réviseurs d'entreprises ", établie à 1310 La Hulpe, Avenue Reine
-Astrid 92, qui conformément à l'article 132 du Code des sociétés, désigne comme représentant
-Monsieur Dominique Milis, et ce pour une durée de trois ans à compter du douze décembre deux
-mille seize.
-PREMIER EXERCICE SOCIAL.
-Le premier exercice social commence le douze décembre deux mille seize et prend fin le 31
-décembre 2017.
-PREMIERE ASSEMBLEE GENERALE.
-La première assemblée générale se tiendra en 2018.
-PROCURATION REGISTRE DES PERSONNES MORALES, ADMINISTRATION TVA et BANQUE
-CARREFOUR DES ENTREPRISES.
-Tous pouvoirs ont été conférés à Monsieur Hubert Poncelet, qui, à cet effet, élit domicile à Unibra,
-Boulevard du Souverain, 68, 1170 Bruxelles, ainsi qu'à ses employés, préposés et mandataires,
-avec droit de substitution, afin d'assurer les formalités auprès du registre des personnes morales et,
-le cas échéant, auprès de l'Administration de la Taxe sur la Valeur Ajoutée, ainsi qu'à un guichet
-d'entreprise en vue d'assurer l'inscription/la modification des données dans la Banque Carrefour des
-Entreprises.
- 
-POUR EXTRAIT ANALYTIQUE CONFORME.
-(Déposés en même temps que l'extrait : une expédition de l'acte).
-Cet extrait est délivré avant enregistrement conformément à l'article 173,1° bis du Code des Droits
-d'Enregistrement.
- 
-Carl OCKERMAN
-Notaire
  
 
 Bi
@@ -794,10 +410,10 @@ bl
 ad
  - 
 
-15
-/1
+25
+/0
 
-2/
+4/
 20
 
 16

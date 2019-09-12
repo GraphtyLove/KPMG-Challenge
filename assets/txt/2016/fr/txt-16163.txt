@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-KHORSHIDI
+Eat Cheap
 
-Avenue Prekelinden 52
-1200 Woluwe-Saint-Lambert
+Cours Amarante 7
+1150 Woluwe-Saint-Pierre
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,55 @@ Dénomination
 
 Constitution
 
-~~D’après un acte reçu par Maître Damien HISETTE, notaire associé à Bruxelles, le 04 juillet 2016, il
-résulte que :
-…/…
-Monsieur KHORSHIDI RAD Amir, né à Teheran (Iran), le 19 décembre 1968, domicilié à 1150
-Woluwe-Saint-Pierre, rue Paul Lancsweert, 28,
-…/…
-Ci-après dénommé : "le comparant".
-…/…
-CONSTITUTION.
-A. Forme Juridique - Dénomination - Siège.
-Il est constitué une société sous forme d'une société privée à responsabilité limitée, qui sera
-dénommée KHORSHIDI.
-Le siège social est établi pour la première fois à 1200 Woluwe-Saint-Lambert, avenue Prekelinden,
-52.
-B. Capital – Parts Sociales - Libération.
-Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est entièrement souscrit et
-est libéré à concurrence de deux tiers.
-Il est représenté par cent (100) parts sociales, toutes souscrites en espèces au prix de cent quatre-
-vingt-six euros (186 EUR) chacune, par le comparant qui les libère à concurrence de deux tiers,
-restant redevable de la libération du solde.
-Les comparant déclare que toutes et chacune de ces parts sociales ont été souscrites et libérées
-comme dit ci-dessus et qu'en conséquence, la société a, dès à présent, à sa disposition une somme
-de douze mille quatre cents euros (12.400 EUR)
-…/…
-STATUTS
-Article 1. - Forme - Dénomination.
-La société a la forme d'une société privée à responsabilité limitée.
-Elle porte la dénomination KHORSHIDI.
-Article 2. - Siège.
-Le siège social est établi à 1200 Woluwe-Saint-Lambert, avenue Prekelinden, 52, arrondissement
-judiciaire de Bruxelles.
-Il peut être transféré en tout autre lieu en Belgique par décision de la gérance.
-Tout transfert du siège social sera publié aux annexes au Moniteur belge par les soins de la gérance.
-Article 3. - Objet.
-La société a pour objet, en Belgique et à l'étranger, tant pour son compte propre que pour compte de
-tiers ou en participation avec des tiers :
-1) Toutes activités généralement quelconques se rapportant directement ou indirectement à :
-- l’exploitation d’un commerce d'alimentation générale dans le sens plus large du terme, cabines
+Il résulte d’un acte reçu par Maître Andrée VERELST, Notaire associé à Grimbergen, le vingt mai deux mille
+seize, que la société privée à responsabilité limitée a été constituée, comme suit:
+FONDATEURS: 
+A. Monsieur ENGLEBERT Olivier Patrick Christophe, né à Bruxelles le cinq janvier mil neuf cent septante-
+six, domicilié à 1850 Grimbergen, Triohofstraat 2.
+B. Monsieur ENGLEBERT Andréa Claire Pierre Michel Marie, né à Luxembourg (Luxembourg) le vingt et un
+août mil neuf cent nonante-cinq, domicilié à 1150 Woluwe-Saint-Pierre, Cours Amarante 7.
+DÉNOMINATION:
+La société est constituée comme une Société Privée à Responsabilité Limitée sous la dénomination "Eat
+Cheap".
+Durée:
+La société est constituée pour une durée illimitée.
+Siège social:
+Le siège social est établi à 1150 Woluwe-Saint-Pierre, Cours Amarante 7
+Il peut être transféré en tout autre endroit de la région de langue française en Belgique ou de la région de
+Bruxelles Capitale par simple décision de la gérance qui a tous pouvoirs pour, faire constater authentiquement la
+modification des statuts qui en résulte.
+Tout changement du siège social sera publié.
+Objet social:
+La société a pour objet, tant en Belgique qu’à l’étranger, exclusivement en son propre nom et pour son propre
+compte :
+- de favoriser et développer les ventes « last minute » dans le secteur de l’alimentation et dans le secteur de
+l’hôtellerie, de la restauration et des cafés, de développer, faciliter et fournir son assistance dans les campagnes
+de vente et intervenir dans la gestion commerciale relative aux annonces publicitaires organisées et aux
+campagnes de vente;
+- constituer, exploiter et développer des services numériques pour les campagnes de promotion pour des
+produits et services à un prix avantageux;
+- acquérir tout bien mobilier ou immobilier, matériels et équipement, louer ou donner en location, créer, céder ou
+échanger ces biens, matériels et équipement.
+Le tout dans son sens le plus large.
+Pour la réalisation de son objet social la société peut acquérir, exploiter ou vendre toutes sortes de brevets,
+marques déposées, marques, licences et autres droits intellectuels.
+La société peut s’intéresser par voie d’apport, de cession, de souscription, d’intervention financière ou par tout
+autre mode, dans toute société et entreprises ayant en tout ou en partie un objet similaire au sien ou dont le
+commerce ou l’industrie sont de nature à lui créer des débouchés ou à favoriser la réalisation de l’une ou l’autre
+branche de son activité, et fusionner avec ses sociétés et entreprises.
+Afin de garantir ses engagements ou les engagements de tiers, la société peut, entre autre, donner ses biens en
+hypothèque ou en gage, y compris son propre fonds de commerce, intervenir en tant que garant, fournir des
+crédits et autres suretés.
+La société peut d’une façon générale accomplir toutes opérations commerciales, industrielles, financières,
+mobilières ou immobilières se rapportant directement ou indirectement à son objet social ou qui seraient de
+nature à en faciliter la réalisation.
+Capital social: 
 
- *16314693*
+ *16311207*
 Déposé
-06-07-2016
+24-05-2016
 
-0658781339
+0654934102
 
 Bi
 jla
@@ -141,10 +146,10 @@ bl
 ad
  - 
 
-08
+26
 /0
 
-7/
+5/
 20
 
 16
@@ -187,69 +192,76 @@ au
 
 Mod PDF 11.1
 
-téléphoniques, night-shop ;
-- nettoyage intérieur de bâtiments de tous types, y compris les bureaux, les ateliers, les usines, les
-locaux d’institutions et les autres locaux à usage commercial ou professionnel ainsi que les maisons
-unifamiliales et les immeubles à appartements, le nettoyage des vitres, le repassage ainsi que toutes
-activités dans le cadre des titres services au domicile et hors domicile de l’utilisateur des titres
-services ;
-- l’entreprise générale de construction et notamment le gros œuvre, la maçonnerie et le béton, les
-travaux de démolition, plafonnage, cimentage, pose de chape, tailleur de pierre, marbrier, carrelage,
-toiture et étanchéité, sanitaire et plomberie, installation chauffage au gaz, de chauffage central,
-zinguerie et couvertures métalliques et non métalliques, travaux de vitrage, menuiserie charpenterie,
-peinture, pose revêtements murs et sols, électricité générale ainsi que tous placements de système
-d’alarme, de climatisation et de domotique, électrotechnique, lavage de vitres, horticulture, élagage
-d’arbres, aménagement de parcs et de jardin, construction de pavillons démontables et
-baraquements non métalliques, placement de clôture, ramonage de cheminées, installation
-d’échafaudage, de rejointoiement et nettoyage de façades, travaux d’égout, travaux de pose de
-câbles et de canalisations diverses, fabrication et d’installation de cheminées ornementales,
-nettoyage et désinfection de maisons et de locaux, meubles, ameublement et objets divers,
-fabrication et garnissage de meubles non métallique, installation de ventilation et d’aération, de
-chauffage à air chaud, de conditionnement d’air et de tuyauteries industrielles, travaux de drainage,
-placement de cuisines équipées, construction, réfection et entretien des routes ;
--  la restauration en général et le secteur Horeca, l’organisation de banquets et réceptions, le service
-traiteur, y compris l’organisation, la gestion et l’exploitation de restaurants, sandwicheries, snack-
-bars, bars, cafétérias, débits de boissons, ainsi que toutes opérations de tourisme, d’hôtellerie, de
-divertissements et de loisirs en ce compris l’achat, la vente en gros et au détail, l’import-export de
-tous produits se rapportant directement ou indirectement à ces activités ;
-- fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
-- transport national et international par route de personnes et de marchandises, courrier express ;
-- l’informatique au sens le plus large du terme, tels que la création de sites internet et de logiciels
-informatique, l’étude, la recherche, la conception, le développement, la mise en place et la
-commercialisation de technologies et de systèmes informatisés, de systèmes de régulations,
-d’exploitations, de gestion assistées, administratifs, commerciaux, industriels ; la création et la
-commercialisation de programme informatiques, d’application relatives au domaine IT et de tout «
-software » ;
-- le commerce ambulant ;
-2) La vente en gros et en détail, l’import-export de :
-- matériels de construction, de bricolage, matériel électrique et électronique, sanitaire et de
-plomberie, machines industrielles ;
-- tous produits alimentaires tels que fruits, légumes, conserves, produits laitiers, produits de la mer,
-poissons, boucherie, articles de ménage et articles cadeaux ;
-- tous textiles en général, vêtements divers, chaussures, cordonnerie, serrurerie, maroquinerie dans
-le sens le plus large ;
-- tous produits de l’artisanat en général, tapisseries, antiquités, brocantes, objets de décoration et
-tous mobiliers ;
-- tous les articles de parfumerie, de toilette, cosmétiques, produits de beauté, maquillage ainsi que
-savons et détergents ;
-- tous les articles d’horticulture tels que fleurs, plantes, articles de jardinage, aménagement et
-entretien de jardins et de pépinières ;
-- tous bijoux, orfèvrerie,
-- tous appareils électroménagers, audio, vidéo, électronique, télécommunication, livres et revues,
-matériel de bureau et informatique ;
-3) L’exploitation de :
-- l'achat, la vente, l'importation, l'exportation, la location à court ou à long termes, le leasing, la
-représentation, la fabrication, le montage, la démolition, le transport de réparation, le lavage,
-l’entretien de tous les véhicules automobiles, voitures mixtes, utilitaires, camions, motos,
-cyclomoteurs, vélos ainsi que des accessoires et pièces de ces véhicules, le tout neuf ou d'occasion,
-en ce compris le commerce de détail et de gros de pièces détachées et d'équipements divers, le
-commerce des huiles, essences, carburants, lubrifiants, moteurs, pneumatiques et d'une manière
-générale de produits quelconques se rapportant à l'automobile, atelier de réparation de carrosserie
-automobile et de tous les véhicules, car-wash, station-service ;
-- dépôt et atelier de fabrication de tous produits de boulangerie et de pâtisserie, de tous produits
-alimentaires et non alimentaires ; ;
-- libraire dans le sens le plus large du mot, c’est à dire, le commerce de détail en journaux, les
-magazines, les hebdomadaires, les revues, les livres, les articles de papeterie, les cartes routières,
+a) Le montant du capital social souscrit est de dix-huit mille six cents (18.600,00) euro. Il est représenté par
+ cent (100-) parts sans valeur nominale.
+-b) Aussi longtemps que le capital n'aura pas été entièrement libéré, le (chaque) souscripteur est tenu pour le
+montant total de ses parts.
+Le capital est souscrit est libéré comme suit :
+a) Monsieur ENGLEBERT Olivier, comparant sub A, déclare faire un apport en espèces de la somme de trois
+mille sept cent vingt (3.720,00) euros pour laquelle lui est attribuée vingt (20) parts. Cette part a été libérée pour
+la somme de mille deux cent quarante (1.240,00) euros.
+b) Monsieur ENGLEBERT Andréa, comparant sub B, déclare faire un apport en espèces de la somme de
+quatorze mille huit cent quatre-vingt (14.880,00) euros pour laquelle lui sont attribuées quatre-vingt (80) parts.
+Ces parts ont été libérées pour la somme de quatre mille neuf cent soixante (4.960,00) euros.
+Les comparants déclarent et reconnaissent que le capital de dix-huit mille six cents (18.600,00) euros est
+entièrement souscrit. Le capital social est libéré à concurrence d’un tiers, soit six-mille deux cents (6.200,00)
+euros.
+GESTION:  
+a) La société est gérée par un ou plusieurs gérants, associés, personnes physiques Si aucun gérant n'a été
+nommé et s'il n'y a qu'un associé, ce dernier dispose, de plein droit, de tous les droits et toutes les obligations
+d'un gérant. Aussi bien le seul associé qu’un tiers, peuvent être nommés comme gérant.
+b) Toute nomination ou entrée en fonction d'un gérant est publiée par le dépôt dans le dossier de la société d'un
+extrait de la décision, et d'une expédition destinée à être publiée aux annexes du Moniteur Belge. Les extraits
+des actes relatifs à la nomination des personnes qui représentent la société précisent en tout cas si ces
+personnes peuvent engager la société en agissant seules ou si elles ne le peuvent que conjointement ou en
+collège.
+Pouvoir de représentation externe:
+Chaque gérant représente seul la société en justice ou dans les actes.
+Procurations spéciales:
+Chaque gérant peut désigner des porteurs de procuration pour la société. Seules des procurations spéciales et
+limitées pour certains actes juridiques sont licites. Les porteurs de procuration lient la société sous les limites de
+leur procuration, sans diminution de la responsabilité des gérants en cas de procuration excessive.
+L'assemblée ordinaire, spéciale et extraordinaire:
+L'assemblée générale ordinaire des associés, l'assemblée annuelle, doit être tenue chaque année le troisième
+jeudi du mois de mai à 18 heures. Si ce jour est un jour férié légal, l'assemblée a lieu le premier jour ouvrable
+suivant.
+La représentation:
+a) Indépendamment de la représentation légale des incapables et de la représentation mutuelle des époux,
+chaque associé peut être représenté par un représentant, associé ou non. Il est interdit de se porter fort pour un
+associé absent, d'agir comme gérant d'affaire ou prête-nom.
+b) Le seul associé ne peut se faire représenter systématiquement à l'assemblée.
+Droit de vote:
+a) Chaque part donne droit à une voix.
+b) Si le seul associé meurt et il laisse différents héritiers et légataires, les droits attachés à ses parts seront,
+jusqu'au jour de la répartition des parts ou jusqu'à ce que les legs concernant ces parts soient acquittés, exercés
+par les héritiers ou légataires qui en ont la saisine de manière régulière ou qui ont été envoyés en possession,
+proportionnellement à leurs droits dans la succession.
+Celui qui hérite l'usufruit des parts du seul associé exerce les droits y attachés. La restriction de la voix
+délibérative n'est pas d'application.
+c) Si une part appartient à différents propriétaires en indivision, l'exercice des droits y attachés est suspendu
+jusqu'à ce qu'une personne soit indiquée par écrit comme propriétaire de la part à l'égard de la société. Si les
+ayants droit ne peuvent se mettre d'accord entre eux, le juge nommera sur requête de la partie la plus diligente
+un administrateur provisoire pour exercer les droits en question.
+d) Lorsqu'une action est grevée d'un usufruit, l'usage du droit de vote lié à cette action appartient à l'usufruitier,
+sauf opposition de la part du nu-propriétaire.
+Exercice comptable - compte annuel:
+L'exercice comptable de la société commence chaque fois le premier janvier et se clôture le trente-et-un
+décembre de chaque année.
+Affectation du bénéfice - Réserve:
+a) Le solde bénéficiaire résultant du compte de résultats, déduction faite de toutes les charges, des frais
+généraux, des provisions requises et des amortissements, constitue le bénéfice net de la société.
+b) Sur ce solde il sera prélevé au minimum un vingtième qui servira à constituer la réserve légale, jusqu'à ce
+que celle-ci ait atteint un dixième du capital.
+c) L'assemblée générale décide en toute liberté de la destination du solde du résultat, sous réserve des droits
+dont bénéficient les actions sans droit de vote.
+d) Aucune distribution ne peut être faite lorsqu’ à la date de clôture du dernier exercice, l'actif net, tel qu'il résulte
+des comptes annuels, est, ou deviendrait, à la suite d’une telle distribution, inférieur au montant du capital libéré
+ou, si ce montant est supérieur, de capital appelé, augmenté de toutes les réserves que la loi ou les statuts ne
+permettent pas de distribuer.
+e) Dans les trente jours après son approbation par l'assemblée générale, les comptes annuels seront déposés
+par le gérant au siège local de la Banque Nationale de Belgique, en même temps que les autres documents
+prévus dans le Code des sociétés.
+Dissolution: Désignation et compétence des liquidateurs.
 
 Bi
 jla
@@ -278,10 +290,10 @@ bl
 ad
  - 
 
-08
+26
 /0
 
-7/
+5/
 20
 
 16
@@ -324,68 +336,50 @@ au
 
 Mod PDF 11.1
 
-les plans de villes et similaires, les billets de loterie, le lotto, le tiercé, les articles pour fumeurs dans
-le sens le plus large du mot ;
-- boucherie, charcuterie, ainsi que la vente, l’achat, l’import, l’export, la distribution, la
-commercialisation, la fabrication, la conception, la préparation et le commerce en général de tous
-produits ayant un rapport avec la boucherie, la charcuterie, l’épicerie fine ;
-- l'exploitation de salons de coiffure hommes, dames et enfants, les conseils en beauté et en soins
-de visage et corps, les soins de la peau et d'épilation, les soins de manucure et de pédicure ;
-- l’exploitation d’une entreprise de taxis, de bureaux de centralisation d’appels téléphoniques et de
-transmissions pour taxis, la location de tous types de véhicules, avec ou sans chauffeur et le
-covoiturage, une mise en relation entre chauffeur et utilisateur de transport via des plateformes
-(application Smartphone).
- Elle peut accomplir toutes opérations civiles, industrielles ou commerciales, immobilières ou
-mobilières se rapportant directement ou indirectement, en tout ou en partie, à l'une ou l'autre branche
-de son objet ou qui seraient de nature à en développer ou à en faciliter la réalisation.
-Elle peut s'intéresser par toutes voies à toute société ou entreprise ayant un objet similaire ou
-connexe au sien ou dont l'objet serait de nature à faciliter, même indirectement, la réalisation du sien.
-Elle peut de même conclure toutes conventions de collaboration, de rationalisation, d'association ou
-autres avec de telles sociétés ou entreprises.
-Elle peut se porter caution et donner toute sûreté personnelle ou réelle en faveur de toute personne
-ou société, liée ou non. Elle peut exercer les fonctions d'administrateur, gérant et liquidateur.
-Article 4. - Durée.
-La durée de la société est illimitée.
-Article 5. - Capital.
-Le capital social est fixé à dix-huit mille six cents euros (18.600 EUR). Il est représenté par cent (100)
-parts sociales sans désignation de valeur nominale.
-…/…
-Article 8. - Gérance.
-La société est administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
-générale.
-S'il y a plusieurs gérants, ceux-ci forment un collège appelé le conseil de gérance.  Le gérant unique
-ou le conseil de gérance constitue "la gérance" de la société.
-Une rémunération annuelle, fixe ou variable, peut leur être attribuée par l'assemblée générale.
-Article 9. - Représentation à l'égard des tiers.
-Chaque gérant représente seul la société à l'égard des tiers et en justice et peut accomplir seul tous
-les actes nécessaires ou utiles à l'accomplissement de l'objet de la société, sauf ceux que la loi
-réserve à l'assemblée générale.
-La gérance peut déléguer des pouvoirs spéciaux à tout mandataire.
-…/…
-Article 11. - Assemblées générales.
-Lorsque la société ne compte qu'un seul associé, ce dernier exerce les pouvoirs dévolus à
-l'assemblée générale ; il ne peut les déléguer.
-Il sera tenu chaque année une assemblée générale ordinaire le trente juin à dix-huit heures.
-Si ce jour est férié, l'assemblée se tiendra le premier jour ouvrable suivant, à la même heure.
-La gérance peut, en outre, convoquer une assemblée générale chaque fois que les intérêts de la
-société l'exigent.
-Toute assemblée générale se tient au siège social ou à tout autre endroit en Belgique indiqué dans
-les convocations ; celles-ci se font conformément aux dispositions légales.
-Article 12. - Exercice social.
-L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
-année.
-A cette dernière date, les écritures sont arrêtées et la gérance dresse un inventaire et établit les
-comptes annuels.
-Article 13. - Répartition des bénéfices.
-Sur le solde bénéficiaire, il est prélevé cinq pour cent au moins pour la constitution du fonds de
-réserve légale ; ce prélèvement cesse d'être obligatoire dès que ce fonds atteint le dixième du capital
-social.
-Le surplus recevra l'affectation lui donnée par l'assemblée générale.
-Après l'adoption des comptes annuels, l'assemblée générale se prononce par un vote distinct sur la
-décharge à donner au(x) gérant(s) et commissaire(s) éventuel(s).
-Article 14. - Dissolution - Liquidation.
-En cas de dissolution pour quelque cause et à quelque moment que ce soit, l'assemblée générale
-des associés désignera le ou les liquidateurs et déterminera leurs pouvoirs, leurs émoluments
+Faute de désignation de liquidateurs, le(s) gérant(s) en fonction au moment de la dissolution de la société
+est/seront liquidateur(s) de plein droit.
+Le(s) liquidateur(s) n’entre(nt) en fonction qu’après confirmation par le tribunal de commerce de sa/leur
+nomination résultant de la décision prise par l’assemblée générale, conformément au Code des sociétés.
+Le(s) liquidateur(s) est/seront habilité(s) à toutes les opérations autorisées dans l’article 186 du Code des
+Sociétés, sau f s i l'assemblée générale, à la simple majorité, en décide autrement, tout en tenant compte des
+droits dont bénéficient les actions sans droit de vote. Chaque année, le liquidateur présente à l'assemblée
+générale les résultats de la liquidation.
+Première Assemblée Générale Ordinaire - Premier Exercice
+La première assemblée annuelle se tiendra en l’an deux mille dix-huit.
+Le premier exercice social débutera le jour du dépôt au greffe d’un extrait du présent acte et finira le 31
+décembre 2017.
+Reprise des engagements
+Le comparant déclare que la société par application de l'article 60 du Code des Sociétés reprend les
+engagements pris pour le compte et au nom d'une société en formation à partir du 1 avril 2016 sous condition
+suspensive du dépôt de l'acte de constitution au greffe du tribunal de commerce.
+Cette reprise ne sortira ses effets qu’à partir de l’obtention de la personnalité juridique par la société. Les
+engagements faits entre la signature du présent acte et l’obtention de la personnalité juridique sont également
+soumis à l’article 60 du Code des Sociétés et doivent faire l’objet d’une ratification de la part de la société.
+Gérant
+Les constituants décident de nommer un gérant et désigne en cette qualité et pour une durée indéterminée avec
+les pouvoirs les plus étendus que la loi lui confère :
+Monsieur ENGLEBERT Andréa, prénommé, qui accepte.
+Le mandat du gérant est rémunéré suivant décision de l’assemblée générale
+Le gérant est nommé à partir d'aujourd'hui. A partir d'aujourd'hui jusqu'au dépôt de l'acte au greffe du tribunal de
+commerce, prévue par l'article 67 du Code des sociétés, il agit comme mandataire des associés de la société.
+Depuis le moment du dépôt il agit comme organe de la société conforme les statuts et le Code des sociétés.
+Mandat
+Le(s) comparant(s) décident également de mandater la SC SPRL « TS Compabilité & Fiscalité », domiciliée
+1190 Forest, Chaussée d’Alsemberg 356, avec pouvoir de substitution, pour accomplir toutes les formalités
+relatives au guichet d’entreprises, de dépôt et/ou de publications et/ou d’inscription au registre et/ou au greffe
+et/ou à la chambre des métiers et négoces et/ou à la TVA et/ou auprès de toute autre autorité administrative.
+Ces pouvoirs se rapportent sur tous les changements, inscriptions, radiations et toutes autres formalités pour
+des décisions prises dans le passé ou le futur.
+L'assemblée charge le notaire soussigné de procéder aux formalités de dépôt au greffe du tribunal de
+commerce.
+  
+POUR EXTRAIT ANALYTIQUE CONFORME
+Déposé : expédition de l’acte de constitution
+Cet extrait est délivré avant l’enregistrement et ne peut être utilisé que pour le dépôt à la greffe du tribunal de
+commerce en vue de l’obtention de la personnalité juridique.
+  
+Notaire Andrée VERELST
+  
 
 Bi
 jla
@@ -414,114 +408,10 @@ bl
 ad
  - 
 
-08
+26
 /0
 
-7/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-éventuels et le mode de liquidation.
-La société n'est point dissoute par le décès, l'incapacité, la faillite ou la déconfiture d'un associé.
-Article 15. - Répartition.
-Après réalisation de l'actif et apurement du passif ou consignation des sommes nécessaires à cet
-effet, le solde bénéficiaire sera affecté au remboursement des parts à concurrence de leur libération
-et le solde sera réparti entre les associés proportionnellement au nombre de parts possédées par
-eux.
-…/…
-DISPOSITIONS FINALES
-A. Nominations du premier gérant.
-Est nommé en qualité de gérant unique, pour une durée illimitée, le comparant aux présentes, qui
-accepte.
-Ce mandat sera rémunéré pendant toute la durée de celui-ci à moins qu'une assemblée ultérieure
-n'en décide autrement, conformément à l'article 8 des statuts.
-La nomination du gérant n'aura d'effet qu'au jour de l'acquisition par la société de la personnalité
-morale.
-B. Commissaire.
-Il n'est pas nommé de commissaire étant donné que, suivant les estimations faites, la société répond
-pour son premier exercice social aux critères visés par l'article 141 du Code des sociétés.
-C. Premier exercice social.
-Le premier exercice social commencera le jour de l'acquisition par la société de la personnalité
-morale et finira le trente et un décembre deux mille dix-sept.
-La première assemblée générale ordinaire aura donc lieu en deux mille dix-huit.
-D. Début des activités.
-Le début des activités de la société est fixé à son immatriculation en qualité de commerçant.
-…/…
-Pour extrait analytique conforme.
-Déposé en même temps : expédition
-(signé) Damien HISETTE, notaire associé à Bruxelles.
- 
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-08
-/0
-
-7/
+5/
 20
 
 16

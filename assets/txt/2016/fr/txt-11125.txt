@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-GRATEFUL
+NOS ENVIES
 
-Rue du Bois du Greffier 18
-1380 Lasne
+Chaussée de Tournai(Lig) 312
+7812 Ath
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Aux termes d’un acte reçu le 22 décembre 2016 par le notaire Benoît le Maire à Lasne à
-enregistrer,  a été constituée une société privée à responsabilité limitée, dénommée « GRATEFUL ».
-…/…
-Article deux – siège social
-Le siège social est établi à (1380) Lasne, rue du Bois du Greffier 18.
-…/…
-Article cinq – capital social
-Le capital social est fixé à la somme de dix-huit mille six cents euros (18.600 €), divisé en mille
-(1.000) parts sociales, sans désignation de valeur nominale, représentant chacune un centième de
-l’avoir social.
-Le capital social est libéré à concurrence de 12.400 euros.
-…/…
-Fondateurs/Associés
-Madame MASTOUR Bouchra, née à Casablanca (Maroc), le 20 février 1974, domiciliée à (1380)
-Lasne, rue du Bois du Greffier 18, souscripteur de 1000 parts, chacune libérée pour 2/3.
-…/…
-Article quatorze – comptes annuels
-L’exercice social commence le 1er juillet et finit le 30 juin.
-Article quinze – répartition des bénéfices
-L’excédent favorable du compte de résultats, déduction faite des frais généraux, charges et
-amortissement, résultant des comptes annuels approuvés, constitue le bénéfice net.
-Sur ce bénéfice, il est prélevé annuellement cinq pour cent pour la formation du fonds de réserve
-légale ; ce prélèvement cesse d’être obligatoire lorsque la réserve atteint le dixième du capital. Il
-redevient obligatoire si, pour une cause quelconque, la réserve vient à être entamée.
-Le solde du bénéfice de l’exercice écoulé est réparti entre tous les associés, au prorata de leur
-participation dans le capital, sous réserve du droit de l’assemblée générale de décider de toute autre
-affectation, comme prévu ci-après.
-L’assemblée générale décide de l’affectation du surplus du bénéfice ; elle peut décider d’affecter tout
-ou partie de ce surplus à la création de fonds de prévision ou de réserve, de le reporter à nouveau
-ou de l’affecter à des tantièmes à la gérance ou de lui donner toute autre affectation, dans le respect
-des dispositions légales sur les sociétés commerciales.
-Le payement des dividendes a lieu aux endroits et aux époques déterminées par la gérance.
-…/…
-Article dix-huit - liquidation
-En cas de dissolution de la société pour quelque cause que ce soit et à quelque moment que ce soit,
-la liquidation s’opère par le ou les gérants en exercice, sous réserve de la faculté de l’assemblée
-générale de désigner un ou plusieurs liquidateurs et de déterminer leurs pouvoirs et leurs
-émoluments.
+D’un acte constitutif reçu par le notaire Laurent BARNICH, de résidence à Ath, le premier avril deux
+mille seize, en cours d’enregistrement, il résulte qu’une société a été constituée par Messieurs DE
+KEMPENEER Franky Josephine et DAL BEN Alain Oreste Raymond, domiciliés à 7812 Ath (Ligne),
+chaussée de Tournai, numéro 312.  Des statuts arrêtés par les fondateurs comparants, il a été extrait
+:
+Article premier - Dénomination
+La société adopte la forme de société privée à responsabilité limitée. Elle est dénommée : « NOS
+ENVIES ». Cette dénomination devra toujours être précédée ou suivie immédiatement des mots «
+société privée à responsabilité limitée » ou des lettres « S.P.R.L.».
+Article deux - Siège social
+Le siège social est établi à 7812 Ath (Ligne), Chaussée de Tournai, 312.
+Il pourra être transféré en tout endroit de Belgique francophone, par simple décision de la gérance
+qui a tout pouvoir pour faire constater authentiquement la modification des statuts qui en résulte et
+pour la faire publier aux annexes du Moniteur belge.
+La société peut, par simple décision de la gérance, établir en tous lieux, en Belgique et à l'étranger,
+des sièges administratifs, succursales, agences, comptoirs ou dépôts.
+Article trois - Objet
+La société a pour objet, tant en Belgique qu'à l'étranger,
+1/-  toutes les activités relatives à l’exploitation d’un cabaret-spectacle, comprenant tant la
+présentation de spectacles que la préparation et la vente de tous produits alimentaires et de
+boissons en général, à consommer sur place ou à emporter ;
+2/- la préparation et la vente de petite restauration;
+3/- le service traiteur ;
+4/- la location de salle ;
+5/- de servir d’intermédiaire commercial;
+6/- le management et la gestion d’entreprise ;
+7/- la prestation de services ;
+8/- la gestion de tout patrimoine immobilier ;
+9/- la gestion et l'organisation d'évènements.
+ Elle peut faire toutes opérations commerciales, industrielles, mobilières, immobilières ou financières
+se rapportant directement ou non à tout ou partie de cet objet tant en Belgique qu'à l'étranger.
+Elle peut s'intéresser par voie d'apport, de fusion, de souscription, de participation, d'intervention
+financière ou autrement, dans toutes sociétés et entreprises existantes ou à créer, en Belgique ou à
+l'étranger, dont l'objet serait analogue ou connexe au sien ou dont l'activité serait de nature à
+favoriser ses opérations.
+Au cas où la prestation de certains actes est soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces services, à la
+réalisation de ces conditions.
 
- *16326783*
+ *16307416*
 Déposé
-22-12-2016
+01-04-2016
 
-0668372758
+0650993823
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-27
-/1
+05
+/0
 
-2/
+4/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-Après apurement de tous les frais, dettes et charges de la liquidation ou consignation des sommes
-nécessaires à cet effet, l’actif net est partagé entre les associés.
-Si les parts ne sont pas toutes libérées dans une égale proportion, les liquidateurs, avant de
-procéder aux répartitions, rétablissent l’équilibre soit par des appels de fonds complémentaires à
-charge des titres insuffisamment libérés, soit par des remboursements préalables en espèces au
-profit des titres libérés dans une proportion supérieure. S’il n’existe pas de part sans droit de vote,
-l’actif net est partagé entre les associés en proportion des parts qu’ils possèdent, chaque part
-conférant un droit égal.
-S’il existe des parts sans droit de vote, l’actif net servira par priorité à rembourser le montant de
-l’apport en capital augmenté, le cas échéant, de la prime d’émission des parts sans droit de vote.
-Ensuite, le solde servira à rembourser le montant de l’apport en capital augmenté, le cas échéant, de
-la prime d’émission des parts avec droit de vote.
-Le boni de liquidation sera réparti également entre les titulaires de parts des deux catégories,
-proportionnellement à leur participation dans le capital.
-…/…
-Article six - gestion
-Tant que la société ne comporte qu’un seul associé, elle est gérée soit par l’associé unique, soit par
-une ou plusieurs personnes, associées ou non, nommées avec ou sans limitation de durée, soit dans
-les statuts, soit par l’associé unique agissant en lieu et place de l’assemblée générale.
-En cas de pluralité d’associés, la société est administrée par un ou plusieurs mandataires, associés
-ou non.
-…/…
-Article huit - pouvoirs
-Conformément à l’article 257 du Code des sociétés, le gérant peut accomplir tous les actes
-nécessaires ou utiles à l’accomplissement de l’objet social de la société, sauf ceux que la loi réserve
-à l’assemblée générale.
-Le gérant représente la société à l’égard des tiers et en justice, soit en demandant, soit en
+Article quatre - Durée
+La société est constituée pour une durée illimitée.
+Article cinq - Capital
+Le capital social est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,-EUROS). Il est représenté
+par CENT QUATRE-VINGT-SIX parts sociales sans mention de valeur nominale, toutes de droits
+égaux représentant chacune un cent quatre-vingt-sixième (1/186) de l'avoir social.
+Article six - Souscription et libération
+A la constitution, le capital social a été intégralement souscrit par les fondateurs. A la constitution, les
+parts sociales ont été libérées à concurrence de la totalité de leur valeur par un apport en nature.
+Article sept - Indivisibilité des titres (omis)
+Article huit - Registre des associés (omis)
+Article neuf - Cession et droit de préemption
+Un associé qui désire vendre tout ou partie de ses parts sociales devra, sauf s’il en est dispensé par
+les autres associés, en informer ceux-ci par lettre recommandée avec accusé de réception, en
+indiquant l'identité du cessionnaire proposé, le nombre de parts concernées et le prix qui lui est
+offert.
+Si l'un des associés désire exercer son droit de préemption, il devra aviser le cédant dans les huit
+jours de la réception de l'envoi recommandé dont question à l'alinéa précédent qu'il est disposé à
+acheter l'intégralité des parts que le cédant avait l'intention de vendre, au prix indiqué.
+Le droit de préemption ne pourra porter sur une partie seulement des parts proposées à la vente.
+Si plusieurs associés sont amateurs des parts, ils devront se les répartir au prorata du nombre des
+parts déjà possédées par chacun d'eux.
+Article dix - Cession et transmission des parts
+La cession entre vifs et la transmission, pour cause de mort, des parts d'un associé sont soumises, à
+peine de nullité, à l'agrément de la moitié au moins des associés possédant ensemble au moins les
+quatre cinquièmes des parts sociales autres que celles cédées ou transmises.
+Cet agrément n'est pas requis en cas de cession ou de transmission s'opérant au profit des
+associés. Il est indispensable dans tous les autres cas.
+Article onze - Refus d'agrément
+En cas de refus d'agrément d'une cession entre vifs ou d'une transmission pour cause de mort, il est
+référé aux dispositions de la loi sur les sociétés.
+Dans les cas rentrant dans les prévisions desdits articles, le prix des parts sociales sera, à défaut
+d'accord entre parties, fixée à dire d'expert, les parties pouvant s'entendre sur la désignation d'un
+collège d'experts.
+A défaut d'accord sur le choix du ou des experts les nominations seront faites par Monsieur le
+Président du Tribunal de commerce du siège de la société, sur requête de la partie la plus diligente.
+Le ou les experts détermineront le prix de vente des parts sociales sur la base de leur valeur telle
+qu'elle résultera des derniers comptes annuels de la société, clôturés au moment des faits donnant
+lieu au rachat, en tenant compte des plus-values et moins-values occultes et des éléments
+incorporels tels que la firme, la clientèle non actés dans ces comptes.
+Ils devront faire connaître le résultat de leur évaluation dans le mois de leur nomination, sous peine
+de déchéance. Leur décision sera définitive et non susceptible d'appel.
+L'associé acquéreur pourra, s'il offre des garanties suffisantes et moyennant paiement net d'impôts
+de l'intérêt légal, à compter du jour de l'achat, se libérer par des versements mensuels égaux, mais
+sans que le délai ainsi accordé puisse dépasser une année. Les parts ainsi achetées seront
+incessibles jusqu'à paiement entier du prix.
+Si plusieurs associés sont en compétition pour l'achat des parts offertes en vente, celles-ci sont
+réparties entre eux au prorata du nombre de parts possédées par chacun d'eux au jour de l'achat;
+dans la mesure où cette répartition serait impossible, l'attribution est réglée par la voie du sort.
+Article douze - Héritiers, légataires, créanciers et ayants-droit (omis)
+Article treize - Gérance
+La société sera administrée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
+générale des associés qui fixera leur nombre ainsi que la durée de leur mandat, et pourra les
+révoquer en tout temps.
+Article quatorze - Pouvoirs
+Chaque gérant peut accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet social
+sauf ceux que la loi réserve à l'assemblée générale.
+Chaque gérant représente la société à l'égard des tiers et en justice, soit en demandant, soit en
 défendant.
-Il peut déléguer des pouvoirs spéciaux à tout mandataire.
-…/…
-Article trois – objet social
-La société a pour objet, tant en Belgique qu’à l’étranger, pour compte propre ou pour compte de tiers
-ou en participation avec ceux-ci, en Belgique ou à l’étranger, la création, l'achat et la vente :
--              D’œuvres d'art originale,
--              Peinture.
--              Sculpture.
--              Customisation.
--              Reproductions des œuvres originales.
--              Créations de déguisement.
--              Créations de produits design.
--              Lithographie.
--              Collages.
--              Encadrements.
--              Art monumental.
--              Art publique.
--              Street Art.
--              Image.
--              Site internet.
--              Photographie.
--              Informatique.
--              Visuels, films, édition, créations d'événements, voyages ethnographiques et
-anthropologiques.
--              Cours d'art.
--              Droits d'images.
--              Photos de modèles et de mise en scène.
--              Décoration d'intérieur.
--              Illustrations, dessins, bricolages et restaurations d'œuvres d'art.
--              Art et loisir.
--              Customisation et design de mobilier.
--              Papier mâché.
--              Cuisine gastronomique.
--              Restaurant d'art.
--              Littérature, théâtre.
+Article quinze - Délégation spéciale
+Le ou les gérants peuvent, agissant individuellement, déléguer certains de leurs pouvoirs, y compris
+la gestion journalière de la société, à telles personnes désignées par eux, associées ou non, et
+instituer des mandataires pour des objets spéciaux et déterminés.
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-27
-/1
+05
+/0
 
-2/
+4/
 20
 
 16
@@ -324,57 +324,69 @@ au
 
 Mod PDF 11.1
 
--              Réunions philosophiques.
--              Études en forêt, cabanes.
--              Recherches graphiques.
--              Recherches techniques artistique.
--              Mode.
--              Café artistique.
--              Stylisme, coiffure, body painting.
--              Musée, Immobilier.
--              Conférence, Conférencier.
-Et de toute activité qui touche à l'art, à la recherche artistique et au développement personnel via
-toutes activités artistiques. 
-La société peut, d’une façon générale, accomplir toutes opérations commerciales, industrielles,
-financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social
-ou qui seraient de nature à en faciliter directement ou indirectement, entièrement ou partiellement sa
-réalisation.
-Elle peut s’intéresser par voie d’apport, de fusion, de souscription ou de toute autre manière dans
-toutes affaires, entreprises, associations ou sociétés ayant un objet identique, analogue ou connexe
-au sien ou qui sont de nature à favoriser le développement de son entreprise, à lui procurer des
-matières premières ou à faciliter l’écoulement de ses produits.
-…/…
-Article onze - réunion
-L’assemblée générale ordinaire des associés se tient le deuxième mardi du mois d’octobre de
-chaque année à 19 heures soit au siège social, soit en tout autre endroit désigné dans la
-convocation. Si ce jour est férié, l’assemblée est remise au plus prochain jour ouvrable, autre qu’un
-samedi.
-Article douze – droit de vote
-Dans les assemblées, chaque part donne droit à une voix, sous réserve des dispositions légales et
-statutaires régissant les parts sans droit de vote. Les droits de l’associé attachés à une part ne
-peuvent être exercés que par une seule personne qui peut être une personne physique ou morale.
-S’il y a plusieurs propriétaires d’une part, ou si la nue-propriété et l’usufruit d’une part appartiennent à
-des personnes différentes, les droits de l’associé y attachés sont suspendus jusqu’à ce qu’une seule
-personne soit désignée pour exercer ses droits à l’égard de la société. A défaut d’accord des
-intéressés quant à la désignation d’un mandataire commun, celui-ci sera désigné à la requête de la
-partie la plus diligente par le Président du Tribunal de Commerce du ressort du siège de la société.
-…/…
-DISPOSITIONS TRANSITOIRES
-
-    1.  Le premier exercice social débutera à compter de ce jour et se clôturera le 30 juin 2017.
-    2.  L’associé unique décide de fixer le nombre de gérants à un.
-Elle appelle à ces fonctions Madame Bouchra MASTOUR, prénommée, ici présente et qui accepte. Il
-est nommé jusqu’à révocation et peut engager valablement la société sans limitation de sommes.
-Son mandat est gratuit.
-    3.  Tous pouvoirs sont conférés au gérant, afin d’effectuer toutes formalités auprès du guichet
-d’entreprises, de l’administration de la TVA et auprès d’autres administrations et de rectifier ou
-modifier ces inscriptions.
-
-Pour extrait analytique conforme
-Benoît le Maire, notaire à Lasne
-
-Déposé en même temps : une expédition des présentes
- 
+A moins de délégation spéciale, donnée par les gérants, tous actes engageant la société, tous
+pouvoirs et procurations sont signés par un gérant.
+Les signatures des gérants, des directeurs ou des fondés de pouvoirs doivent être précédées ou
+suivies immédiatement de l'indication de la qualité en vertu de laquelle ils agissent.
+Article seize - Rémunération des gérants (omis)
+Article dix-sept - Intérêt opposé (omis)
+Article dix-huit – Contrôle (omis)
+Article dix-neuf - Réunion
+Les décisions des associés sont prises en assemblée générale. Sauf les exceptions prévues par les
+présents statuts ou imposées par la loi, l'assemblée générale statue à la majorité des voix
+valablement exprimées, quel que soit le nombre des parts sociales.
+L'assemblée générale annuelle se réunit de plein droit au siège social le troisième mardi du mois de
+juin, à quatorze heures. Si ce jour est férié, l'assemblée se tient le premier jour ouvrable suivant à la
+même heure.
+L'assemblée générale peut être convoquée extraordinairement autant de fois que l'intérêt social
+l'exige. Elle doit être convoquée à la demande d'un ou de plusieurs associés représentant le
+cinquième au moins du capital social.
+Toute assemblée générale se tiendra au siège social ou dans tout local désigné dans les avis de
+convocation ou convenu entre tous les associés.
+Article vingt – Convocations (omis)
+Article vingt et un - Présidence, voix et procès-verbaux (omis)
+Article vingt-deux - Exercice comptable
+L'exercice social commence le premier janvier et se clôture le trente-et-un décembre de chaque
+année.
+Article vingt-trois - Affectations et prélèvements
+Le bénéfice net de l'exercice à affecter est constaté conformément à la législation sur la comptabilité
+et les comptes annuels des entreprises.
+Sur ce bénéfice net, il est prélevé annuellement cinq pour cent ou davantage pour être affectés à la
+formation d'un fonds de réserve légale. Ce prélèvement cessera d'être obligatoire dès que ce fonds
+aura atteint le dixième du capital social.
+Le restant du bénéfice après prélèvement sera partagé entre les associés suivant le nombre de leurs
+parts sociales respectives, chaque part conférant un droit égal. Aucune distribution ne peut être faite
+si l'actif net, tel que défini par la loi était inférieur au montant du capital libéré, augmenté des réserves
+indisponibles.
+Toutefois, les associés pourront décider en assemblée générale que tout ou partie de ce solde sera
+affecté à la création ou à l'alimentation d'un fonds de réserve extraordinaire ou à l'attribution de
+tantièmes au profit du ou des gérants ou sera reporté à nouveau.
+Article vingt-quatre - Liquidation
+En cas de dissolution, la liquidation de la société s'opérera par les soins du ou des gérants en
+exercice, à moins que l'assemblée générale des associés ne désigne, à cet effet, un ou plusieurs
+liquidateurs dont elle fixera les pouvoirs et les émoluments s'il y a lieu.
+L'assemblée générale règle le mode de liquidation à la simple majorité des voix.
+Le solde favorable de la liquidation, après paiement des dettes et charges de la société, servira à
+rembourser les parts sociales à concurrence de leur montant de libération. Le surplus sera partagé
+entre les associés suivant le nombre de leurs parts respectives, chaque part conférant un droit égal.
+ Souscription.
+Les cent quatre-vingt-six parts sociales formant l'intégralité du capital social fixé à DIX-HUIT MILLE
+SIX CENTS EUROS sont souscrites comme suit:
+- par Monsieur DE KEMPENEER Franky, comparant préqualifié sub 1°, NONANTE-TROIS parts
+sociales au prix unitaire de CENT EUROS, soit pour un prix de souscription de NEUF MILLE TROIS
+CENTS EUROS ;
+- par Monsieur DAL BEN Alain, comparant préqualifié sub 2°, NONANTE-TROIS parts sociales au
+prix unitaire de CENT EUROS, soit pour un prix de souscription de NEUF MILLE TROIS CENTS
+EUROS ;
+Soit pour un prix total de souscription de DIX-HUIT MILLE SIX CENTS EUROS.
+ Libération.
+Les comparants prient le notaire soussigné d'acter toutes les parts formant le capital social sont
+libérées, à l’instant par un apport en nature.
+Les comparants déclarent apporter à la société présentement constituée le matériel professionnel
+dont ils sont actuellement propriétaires.  L’ensemble de ce matériel a été évalué et valorisé pour un
+montant de DIX-NEUF MILLE QUATRE CENT SEPTANTE-CINQ EUROS.
+Le rapport établi le 18 mars 2016 par le réviseur d’entreprise, Monsieur Victor COLLIN, pour compte
+de la « SPRL DCB COLLIN & DESABLENS », conclut dans les termes suivants :
 
 Bi
 jla
@@ -403,10 +415,119 @@ bl
 ad
  - 
 
-27
-/1
+05
+/0
 
-2/
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+« L’apport en nature réalisé par Messieurs Franky DE KEMPENEER et Alain DAL BEN à la
+constitution de la SPRL « NOS ENVIES » pour une valeur de 19.475,00 € consiste en mobilier et
+matériel de salle, cuisine et sonorisation.
+« Il sera rémunéré par l’attribution de 186 parts sociales de la SPRL « NOS ENVIES » à constituer,
+sans désignation de valeur nominale, attribuées à concurrence de 93 parts à chacun des apporteurs
+; et par l’ouverture d’un compte courant créditeur de 437,50 € au nom de chacun des apporteurs.
+« Au terme de nos travaux, nous sommes d’avis que :
+o l’opération a été contrôlée conformément aux normes de l’Institut des Réviseurs d’Entreprises en
+matière d’apports en nature et que les fondateurs de la société sont responsables de l’évaluation de
+l’apport en nature, ainsi que de la détermination du nombre de parts sociales à émettre en
+contrepartie ;
+o la description de l’apport répond à des conditions normales de précision et de clarté ;
+o les modes d’évaluation de l’apport en nature arrêtés par les parties sont justifiés par les principes
+de l’économie d’entreprise et conduisent à des valeurs d’apport qui correspondent au moins au
+nombre et au pair comptable des parts sociales à émettre en contrepartie, de sorte que l’apport en
+nature n’est pas surévalué.
+« Nous rappelons également que notre mission ne consiste pas à nous prononcer sur le caractère
+légitime et équitable de l’opération. »
+Le notaire instrumentant déclare que toutes les formalités prévues par la loi ont été ainsi respectées,
+que la société a dès à présent à sa disposition les apports qui lui ont été faits et que le capital peut
+être considéré comme intégralement souscrit et libéré.
+DISPOSITIONS TRANSITOIRES ET DIVERSES
+a) Le premier exercice social commencera au jour de la constitution et se terminera le trente et un
+décembre de l'an deux mille seize.
+b) La première assemblée générale ordinaire aura donc lieu le troisième mardi du mois de juin deux
+mille dix-sept ou, si ce jour est férié, le premier jour ouvrable suivant.
+c) Il n'est pas nommé de commissaire réviseur.
+d) Monsieur DE KEMPENEER et Monsieur DAL BEN, préqualifiés sub 1° et 2°, sont nommés en
+qualité de gérants pour une durée illimitée. Ils déclarent accepter ce mandat. Ils pourront engager la
+société comme il est dit à l'article 14 des statuts.
+e)   Agissant en qualité de gérants, les comparants préqualifiés déclarent que la SPRL Van Lithaut,
+Sohier & Co. assurera toutes les formalités à accomplir auprès du guichet d’entreprise.
+Déposé en même temps : expédition de l’acte constitutif.
+Pour extrait analytique conforme,
+Laurent BARNICH, Notaire.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+05
+/0
+
+4/
 20
 
 16

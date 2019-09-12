@@ -6,7 +6,6 @@ import urllib, json
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
 import os
-from tika import parser
 import codecs
 import re
 import sys
@@ -20,12 +19,13 @@ import numpy as np
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
 }
-YEAR_LIST = [2016, 2017, 2018, 2019]
+YEAR_LIST = [2016]
 
 # get list of url from maxim's github
 for YEAR in YEAR_LIST:
     print(f'°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸ STARTING YEAR: {YEAR} °º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸')
-    url = f"https://raw.githubusercontent.com/GraphtyLove/KPMG-Challenge/master/assets/json/links_entreprises/links_entreprises_{YEAR}.json"
+    url = f"https://raw.githubusercontent.com/" \
+        f"GraphtyLove/KPMG-Challenge/master/assets/json/links_entreprises/links_entreprises_{YEAR}.json"
     response = urlopen(url)
     data = json.loads(response.read())
     data = list(set(data))
@@ -37,12 +37,15 @@ for YEAR in YEAR_LIST:
     for i, link in enumerate(data):
         soup = None
         try:
+            # calculte ETA
             time_deltas.insert(0, datetime.datetime.now() - saved_time)
             time_deltas = time_deltas[:1000]
             time_delta = np.mean(time_deltas)
             saved_time = datetime.datetime.now()
-            print(f'________________ file {i} / {len(data)} ________________ ETA: {time_delta * (len(data) - i)} ________________')
-            print(f'link: {link} ')
+
+            print(f'________________ file {i} / {len(data)} ________________ ETA: '
+                  f'{time_delta * (len(data) - i)} ________________')
+            print(f'link: {link}')
             time.sleep(0.1)
             reg_url = link
             req = Request(url=reg_url, headers=headers)
@@ -72,12 +75,6 @@ for YEAR in YEAR_LIST:
             meta_data = {}
             title = soup.find_all('td', attrs={"class": "title"}, text=True)
             m_data = soup.find_all('td', attrs={"colspan": "2"}, text=True)
-            # print('title:')
-            # for j, t in enumerate(title):
-            #     print(j, t.getText())
-            # print('m_data:')
-            # for j, t in enumerate(m_data):
-            #     print(j, t.getText())
 
             smaller_len = min(len(m_data), len(title))
             for k in range(smaller_len):
