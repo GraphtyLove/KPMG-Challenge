@@ -20,7 +20,7 @@ import numpy as np
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
 }
-YEAR_LIST = [2016, 2017, 2018, 2019]
+YEAR_LIST = [2014]
 
 # get list of url from maxim's github
 for YEAR in YEAR_LIST:
@@ -34,7 +34,9 @@ for YEAR in YEAR_LIST:
     time_deltas = []
     saved_time = datetime.datetime.now()
     # Download PDF
-    for i, link in enumerate(data):
+    
+    for ii, link in enumerate(data[27000:]):
+        i = ii+27000
         soup = None
         try:
             time_deltas.insert(0, datetime.datetime.now() - saved_time)

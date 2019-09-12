@@ -9,7 +9,7 @@ import time
 import requests
 import json
 
-YEAR_LIST = [2014, 2015, 2016, 2017, 2018, 2019]
+YEAR_LIST = [2014]
 
 for YEAR in YEAR_LIST:
     file_number = []
