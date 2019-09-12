@@ -58,61 +58,61 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-AS Ophtalmologie
+SASCOM
 
-Rue du Tilleul(WSP) 21
-1457 Walhain
+Rue de la Gare(HER) 399
+7742 Pecq
 
-Société civile sous forme de société privée à responsabilité limitéeForme juridique :
+Société privée à responsabilité limitéeForme juridique :
 
 Dénomination
 
 Constitution
 
-EXTRAIT DE L’ACTE CONSTITUTIF
+Extrait de l’acte reçu par le notaire associé Benoît COLMANT à Grez-Doiceau le 08 janvier 2016, en
+cours d’enregistrement.
  
-D’un acte reçu par Maître Valérie MASSON, Notaire à Ottignies-Louvain-la-Neuve, le six octobre
-deux mille seize, en cours d'enregistrement, il est extrait ce qui suit :
-Monsieur STINGHLAMBER Antoine Georges Martin, médecin, né à Nivelles le 23 novembre 1987,
-inscrit au registre national sous le numéro 87.11.23-325.16, domicilié à 1457 Walhain Saint Paul,
-Rue du Tilleul, 21.
-Inscrit à l’Ordre des Médecins de de Bruxelles et du Brabant Wallon sous le numéro 97907 et inscrit
-à l’INAMI sous le numéro 19790770370.
- a décidé de constituer une société dont les caractéristiques sont les suivantes :
-TITRE I. FORME-DENOMINATION-SIEGE SOCIAL-OBJET-DUREE
-Article 1. Forme-Dénomination
-La société revêt la forme d'une société de droit civil ayant pris la forme d'une société Privée à
-Responsabilité Limitée sous la dénomination : «AS Ophtalmologie».
-Cette dénomination doit toujours être précédée ou suivie des mots écrits en toutes lettres "Société
-Civile Privée à Responsabilité Limitée" ou du sigle "Société Civile sous forme de S.P.R.L.",
-l’indication du siège social ainsi que du numéro d’entreprise.
-La spécialité pratiquée est l’ophtalmologie.
-Article 2. SIEGE SOCIAL
-Le siège social est établi à 1457 Walhain Saint Paul, Rue du Tilleul, 21, et peut être transféré partout
-en Belgique par simple décision du ou des gérants, régulièrement publiée aux annexes du Moniteur
-Belge, et portée à la connaissance du Conseil provincial concerné de l'Ordre des Médecins.
-L’établissement d’autres lieux d’activité ou de cabinets médicaux supplémentaires se fera avec
-l’accord préalable du Conseil provincial compétent de l’Ordre des Médecins.
-Article 3. OBJET SOCIAL
-La société a pour objet, en son nom et pour son compte :
-- l'exercice de la médecine, et principalement l’ophtalmologie, par les associés qui la composent,
-dans le respect de la déontologie médicale;
-- l'organisation de services généraux nécessaires ou utiles à l'exercice de l'activité médicale, et
-notamment l'organisation d'un secrétariat médical;
-- la gestion d'un centre médical, en ce compris l'acquisition, la location, le leasing et l'entretien de
-matériel médical, la facturation et la perception des honoraires médicaux à son nom et pour son
-compte, la mise à disposition des médecins travaillant dans le cadre de la société du matériel et de
-tout ce qui est nécessaire à l'exercice de l'Art de guérir;
-- l’acquisition, la construction, la location et le leasing de toutes les installations nécessaires ou utiles
-à l'exercice de l'activité de la société, en ce compris tous bâtiments et plus généralement toute
-l'infrastructure matérielle complète au sens le plus large, afin que celle-ci puisse notamment être
-mise à la disposition du ou des médecins associés;
+FONDATEURS
+1. Monsieur GADENNE Vincent François Luc Marc Pierre, domicilié à 7742 Pecq (Hérinnes-lez-
+Pecq), Rue de la Gare 399. 
+2. Monsieur FRANKART Sébastien, domicilié à 1325 Chaumont-Gistoux, Rue Jean Martin 1 A.
+ 
+A.  CONSTITUTION
+ Les comparants requièrent le notaire soussigné d’acter qu’ils constituent entre eux une société
+commerciale et d’arrêter les statuts d’une société privée à responsabilité limitée dénommée «
+SASCOM», ayant son siège social à 7742 Pecq (Hérinnes-lez-Pecq), Rue de la Gare 399, au capital
+de 18.750,00 euros, représenté par 750 parts sociales sans désignation de valeur nominale.
+ Les comparants déclarent souscrire les 750 parts sociales, en espèces, au prix de  25,00 euros
+chacune, comme suit :
+ - Monsieur GADENNE Vincent à concurrence de 375 parts pour un montant de 9.375,00 euros,
+ - Monsieur FRANKART Sébastien, à concurrence de 375 parts pour un montant de 9.375,00 euros,
+ Soit ensemble  750 parts sociales ou l'intégralité du capital.
+ Les comparants déclarent et reconnaissent que chacune des parts ainsi souscrites a  été libérée à
+concurrence d’un tiers par un versement en espèces et que le montant de ces versements, soit
+6.250 euros, a été déposé à un compte spécial ouvert au nom de la société en formation auprès de
+la Banque BNP Paribas Fortis.
 
- *16320652*
+ 
+B. STATUTS
+ 
+ TITRE I : FORME   DENOMINATION   SIEGE SOCIAL   OBJET   DUREE
+ ARTICLE 1. FORME – DENOMINATION
+ La société revêt la forme d'une Société Privée à Responsabilité Limitée. Elle est dénommée
+«SASCOM ».
+ ARTICLE 2. SIEGE SOCIAL
+ Le siège social est établi à 7742 Pecq (Hérinnes-lez-Pecq), Rue de la Gare 399.
+ Il peut être trans¬féré en tout endroit de la région de Bruxelles-Capitale ou de la région de langue
+française de Belgique par simple décision de la gérance qui a tous pouvoirs aux fins de faire
+constater authentiquement la modification qui en résulte.
+ La société peut établir, par simple décision de la gérance, des sièges administratifs, agences,
+ateliers, dépôts et succursales, tant en Belgique qu'à l'étranger.
+     
+
+ *16300790*
 Déposé
-07-10-2016
+08-01-2016
 
-0663942531
+0645769976
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-11
-/1
+12
+/0
 
-0/
+1/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-- la défense des intérêts professionnels, tant moraux que matériels, des médecins travaillant dans le
-cadre de la société et tous moyens leur permettant de se perfectionner dans leur activité
-professionnelle afin d'assurer aux patients une pratique médicale d'un niveau qualitativement élevé.
-La société a également pour objet de favoriser la recherche scientifique, en organisant des activités
-de recyclage, formation personnelle et formation d’équipe et en nouant avec tous les organismes
-poursuivant les mêmes buts les relations et les contacts nécessaires ou utiles à la réalisation de son
-objet social.
-D'une manière générale, la société peut exercer toute activité susceptible de favoriser la réalisation
-de son objet social et moyennant l’accord du Conseil Provincial compétent de l’Ordre des Médecins,
-s'intéresser par toutes voies dans toutes entreprises ayant un but identique, analogue ou connexe ou
-qui est de nature à favoriser le développement de sa propre activité.
-La société pourra d'une façon générale accomplir toutes les opérations financières, mobilières ou
-immobilières se rapportant directement ou indirectement à son objet social mais n'altérant pas le
-caractère civil de la société et sa vocation médicale.
-Les honoraires générés par l’activité médicale apportée à la société du ou des médecins associés
-sont perçus au nom et pour le compte de la société.
-Toute forme de commercialisation de la médecine, de collusion directe ou indirecte, de dichotomie et
-de surconsommation est exclue.
-A titre accessoire, la société pourra également avoir pour objet la constitution, la gestion et la
-valorisation d’un patrimoine mobilier et immobilier, notamment par l’achat, la vente, la location, la
-mise en location, la construction, le tout au sens le plus large, pour autant que n’en soient altérés, ni
-son caractère civil, ni sa vocation prioritairement médicale, et que ces opérations s’inscrivant dans
-les limites d’une gestion « en bon père de famille » n’aient pas un caractère répétitif et commercial.
-Conformément au Code de Déontologie médicale, la responsabilité professionnelle du médecin doit
-être assurée de façon à permettre la réparation du dommage éventuellement causé.
-Les modalités d’investissements feront l’objet d’un accord préalable à la majorité des 2/3 des voix.
-Article 4. DUREE
-La société est constituée pour une durée illimitée.
-Elle peut être dissoute par décision de l’assemblée générale ou de l’associé unique, délibérant
-comme en matière de modification des statuts.
-La société ne sera pas dissoute par le décès, la démission ou l'incapacité notoire d'un associé.
-TITRE II. CAPITAL-PARTS SOCIALES
-Article 5. CAPITAL SOCIAL
-Préalablement à la constitution de la société, le fondateur a remis au notaire soussigné, un plan
-financier dans lequel se trouve justifié le montant du capital social de la société. Ce document sera
-conservé par le notaire soussigné.
-Le capital social est fixé à dix-huit mille six cents euros (18.600,00 EUR)  et est représenté par cent
-(100) parts sociales sans désignation de valeur nominale.
-Ce capital est entièrement souscrit en numéraire par la comparante et libéré à concurrence de douze
-mille quatre cents euros (12.400,00 EUR).
-Le capital pourra être augmenté ou réduit sans toutefois pouvoir descendre en dessous de six mille
-deux cents euros (6.200,00 EUR), par décision de l'Assemblée Générale Extraordinaire des
-associés, délibérant dans les conditions prévues pour les modifications aux statuts.
-Le comparant déclare et reconnaît que chacune des parts souscrites par elle ainsi que dit ci-dessus,
-a été libérée à concurrence de deux  tiers.
-De sorte qu'une somme de douze mille quatre cents euros (12.400,00 EUR) se trouve dès à présent
-à la libre disposition de la société.
-En application du Code des sociétés, il est précisé et reconnu par la comparante que la somme de
-douze mille quatre cents euros (12.400,00 EUR) a été, préalablement à la constitution de la société,
-déposée par versement à un compte spécial ouvert au nom de la société en formation auprès de la
-banque BNP Paribas Fortis, ayant son siège à Bruxelles.
-Une attestation justifiant de ce dépôt est remise au notaire soussigné.
-Un compte spécial numéro BE09 0017 9555 3357 est à la disposition de la société présentement
-constituée et ce, exclusivement ; il ne peut en être disposé que par les personnes habilitées à
-engager la société après que le notaire soussigné aura informé l'organisme dépositaire de la
-passation du présent acte et du dépôt des statuts au Greffe compétent.
-Le capital n'est pas rémunéré sauf décision contraire de l'Assemblée Générale des Associés.
-Toutefois, seul un intérêt normal peut être attribué en rémunération du capital social.
-Article 6. QUALITE DES PARTS SOCIALES -REGISTRE DES ASSOCIES
-Les parts sont nominatives, indivisibles et ne peuvent être données en garantie.
-Un registre des associés sera tenu au siège social.
-Il comprendra:
-- la désignation précise de chaque associé;
+ ARTICLE 3. OBJET
+ La société a comme objet tant en Belgique qu’à l’étranger, toutes opérations généralement
+quelconques se rapportant à :
+- L’activité d’intermédiaire commercial dans le secteur des énergies et des télécoms, à savoir la
+télécommunication, communication, télésurveillance, distributeur d’électricité, de gaz, d’eau et toutes
+autres formes de services liées à ce secteur.
+- Le commerce sous toutes ses formes, en gros et au détail, l’importation, l’exportation, ainsi que la
+conception, l’étude, la fabrication, l’assemblage, la construction, l’installation, le montage, le service
+après vente et l’entretien des installations, matériels, équipements, appareils, accessoires, articles et
+produits de toute nature qui s’y rapporte de près ou de loin.
+- L’organisation de banquets, de fêtes, de spectacles, soirée diverses, séminaires et de réceptions
+diverses.
+- La consultance et la prestation de services dans les domaines de la gestion, du management de
+l’entreprise, du marketing, des affaires publiques et européennes.
+- La consultance, la prestation de services, la formation, l’accompagnement d’entreprises.
+- Toute activité se rapportant à l’horeca, exploitation de snack, friterie, taverne, café, restaurant,
+activité de traiteur, d’organisation de banquets.
+ Elle peut accomplir toutes opérations généralement quelconques, commerciales, industrielles,
+financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet.
+ Elle peut s'intéresser par toutes voies, dans toutes affaires, entreprises ou sociétés ayant un objet
+identique, analogue ou connexe ou qui sont de nature à favoriser le développement de son
+entreprise, à lui procurer des matières premières ou à faciliter l'écoulement de ses produits.
+ Au cas où la prestation de certains actes serait soumise à des conditions préalables d'accès à la
+profession, la société subordonnera son action, en ce qui concerne la prestation de ces actes, à la
+réalisation de ces conditions
+ ARTICLE 4. DUREE
+ La société est constituée pour une durée illimitée.
+
+ 
+ TITRE II : CAPITAL
+ ARTICLE 5. CAPITAL SOCIAL
+ Le capital social est fixé à 18.750,00 euros. Il est représenté 750 parts sociales sans désignation de
+valeur nominale.
+ 
+ TITRE III : GESTION DE LA SOCIETE
+ ARTICLE 6. GERANCE
+ Tant que la société ne comporte qu'un seul associé, elle est administrée soit par l'associé unique,
+soit par une ou plusieurs personnes, associées ou non, nommées avec ou sans limitation de durée,
+soit dans les statuts, soit par l'associé unique agissant en lieu et place de l'assemblée générale.
+ En cas de pluralité d'associés, la société est administrée par un ou plusieurs mandataires, associés
+ou non.
+ 
+ ARTICLE 7. POUVOIRS
+ S’il n’y a qu’un seul gérant, la totalité des pouvoirs de la gérance lui est attribuée. S’ils sont plusieurs
+et sauf organisation par l’assemblée d’un collège de gestion, chaque gérant agissant seul, peut
+accomplir tous les actes d'administration et de disposition qui intéressent la société.
+ Chaque gérant représente la société à l'égard des tiers et en justice, soit en demandant, soit en
+défendant.
+ Chaque gérant peut déléguer des pouvoirs spéciaux à tout mandataire.
+ ARTICLE 8. REMUNERATION
+ Sauf décision contraire de l'assemblée générale, le mandat de gérant est exercé gratuitement.
+ ARTICLE 9. CONTROLE DE LA SOCIETE
+ Lorsque la loi l'exige et dans les limites qu'elle prévoit, le contrôle de la société est assuré par un ou
+plusieurs commissaires, nommés pour trois ans et rééligibles.
+ 
+ TITRE IV : ASSEMBLEE GENERALE
+ ARTICLE 10. ASSEMBLEE GENERALE
+ Il est tenu chaque année, au siège social ou à l'endroit indiqué dans les convocations, une
+assemblée générale ordinaire le dernier vendredi du mois de juin à 18 heures. Si ce jour est férié,
+l'assemblée est remise au premier jour ouvrable suivant. S'il n'y a qu'un seul associé, c'est à cette
+même date qu'il signe pour approbation les comptes annuels.
+ Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois que
+l’intérêt social l’exige ou sur requête d’associés représentant le cinquième du capital social.
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-11
-/1
+12
+/0
 
-0/
+1/
 20
 
 16
@@ -324,69 +324,68 @@ au
 
 Mod PDF 11.1
 
-- le nombre de parts lui ou leur revenant ainsi que l'indication des versements effectués;
-- les transferts ou transmissions de parts sociales avec leur date, contresignés et datés par le cédant
-et le cessionnaire dans les cas de transmission entre vifs, et par le gérant et le bénéficiaire dans les
-cas de transmission pour cause de décès.
-Les cessions ou transmissions n'ont d'effet vis-à-vis des tiers et de la société qu'à dater de leur
-inscription dans le registre des associés.
-Les documents sociaux sont tenus de façon régulière au siège de la société en conformité avec la loi
-et les usages locaux.
-Tout associé ou tiers intéressé pourra prendre connaissance de ces livres et documents sans
-déplacement.
-Article 7. CESSION DES PARTS SOCIALES
-
-    1.  Les parts sociales ne pourront être détenues que par ou cédées qu'à des praticiens légalement
-habilités à exercer la profession de médecin en Belgique inscrits au Tableau de l’Ordre des
-Médecins et pratiquant ou étant appelés à pratiquer dans la société ;
-    2.  Lorsqu'il n'existe qu'un associé, il est libre de céder ses parts comme il l'entend, sauf à
-respecter l'alinéa qui précède;
-    3.  Lorsqu'il existe plusieurs associés, les parts d'un associé ne peuvent être cédées entre vifs ou
-transmises pour cause de mort, qu'avec l'accord unanime des autres associés et conformément au
-premier alinéa du présent article;
-L'admission d'un nouvel associé ne peut se faire que de l'accord unanime des autres associés.
-    4.  Le décès de l'associé unique n'entraîne pas la dissolution de la société.
-Les légataires et héritiers, régulièrement saisis, ou envoyés en possession proportionnellement à
-leurs droits dans la succession, devront, dans un délai de six mois, opter pour une des propositions
-suivantes et la réaliser :
-a) une modification de la dénomination et de l’objet social en y excluant toute activité médicale dans
-le respect du Code des sociétés;
-b) soit négocier les parts de la société entre eux si un ou plusieurs d'entre eux remplissent les
-conditions du présent article;
-c) soit négocier les parts de la société avec des tiers remplissant ces mêmes conditions;
-d) à défaut de réalisation d'une des trois hypothèses précitées, la société est mise en liquidation.
-Article 8.
-En aucun cas, ni l'associé ni les représentants de l'associé défunt, fussent-ils mineurs ou incapables,
-ne pourront faire apposer les scellés ou requérir l'établissement d'un inventaire, authentique ou non,
-des biens de la société ou entraver de quelque façon que ce soit le fonctionnement de la société.
-TITRE III. GERANCE-SURVEILLANCE
-Article 9. GERANCE
-La société est administrée par un ou plusieurs gérants personne physique, dont au moins un est
-associé choisi par l’Assemblée Générale et nommé pour une durée déterminée.
-Pour les affaires médicales, le gérant doit être un médecin associé.
-Pour les affaires non médicales, le gérant peut être un non-associé, personne physique ou personne
-morale.
-Lorsque la société ne compte qu’un associé, le gérant peut être nommé pour toute la durée de son
-activité au sein de la société. En cas de pluralité d’associés, ou lorsqu’il s’agit d’un cogérant, le
-mandat de gérant sera réduit à 6 ans maximum, éventuellement renouvelable.
-Le gérant non médecin tout comme le délégué non médecin sont tenus à un strict devoir de réserve
-dans l’accomplissement de leurs missions.
-Article 10. POUVOIRS DES GERANTS
-Chaque gérant est investi des pouvoirs les plus étendus pour faire tous les actes d'administration ou
-de disposition qui intéressent la société, dans le cadre de son objet social, à l'exception de ceux que
-la loi réserve à l'Assemblée Générale.
-Il représente la société à l'égard des tiers et en justice, tant en demandant qu'en défendant.
-Il a tous les pouvoirs pour agir seul et au nom de la société. Dans tous les actes engageant la
-société, la signature du gérant doit être précédée ou suivie immédiatement de la qualité en laquelle il
-agit.
-Il veillera à ce que soit assurée la responsabilité distincte de la société.
-Article 11. DELEGATIONS
-La gérance peut, sous sa responsabilité, déléguer:
-- soit la gestion journalière, en ce compris pouvoir de recevoir tous plis recommandés, assurés ou
-autres;
-- soit certains pouvoirs spéciaux pour des fins déterminées (à l'exception des activités
-spécifiquement médicales) à telles personnes associées ou non qu'il désignera.
-Ces délégations ne pourront être accordées pour une durée de plus d'un an que moyennant accord
+ Les convocations aux assemblées générales sont faites conformément à la loi.
+ Toute personne peut renoncer à la convocation et, en tout cas, sera considérée comme ayant été
+régulièrement convoquée si elle est présente ou représentée à l'assemblée.
+ ARTICLE 11. PROROGATION
+ Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
+semaines au plus par la gérance. Cette prorogation annule toute décision prise. La seconde
+assemblée délibèrera sur le même ordre du jour et statuera définitivement.
+ ARTICLE 12. PRESIDENCE-DELIBERATIONS
+ L’assemblée générale est présidée par un gérant ou, à défaut, par l’associé présent qui détient le
+plus de parts.
+ Sauf dans les cas prévus par la loi, l’assemblée statue quelle que soit la portion du capital
+représentée et à la majorité des voix.
+ ARTICLE 13. VOTES
+ Dans les assemblées, chaque part donne droit à une voix sous réserve des dispositions légales.
+ Sauf dans les cas prévus par la loi, tout associé peut donner à toute autre personne, associée ou
+non, par tout moyen de transmission, une procuration écrite pour le représenter à l'assemblée et y
+voter en ses lieu et place.
+ En cas de démembrement du droit de propriété d’une part sociale entre usufruitier et nu(s)-
+propriétaire(s), les droits y afférents sont exercés par l’usufruitier.
+ 
+ TITRE V : EXERCICE SOCIAL   REPARTITION   RESERVES
+ ARTICLE 14. EXERCICE SOCIAL
+ L'exercice social commence le 1er janvier et finit le 31 décembre.
+ A cette dernière date, les écritures sont arrêtées et la gérance dresse un inventaire et établit les
+comptes annuels conformément à la loi.
+ ARTICLE 15. REPARTITION   RESERVES
+ Sur le bénéfice net, chaque année il est prélevé tout d'abord cinq pour cent au moins pour constituer
+la réserve légale ; ce prélèvement cesse d'être obligatoire lorsque le fonds de réserve a atteint le
+dixième du capital social, mais doit être repris si, pour quelque motif que ce soit, le fonds de réserve
+vient à être entamé.
+ Le solde est mis à la disposition de l'assemblée générale qui en détermine l'affectation, étant
+toutefois fait observer que chaque part sociale confère un droit égal dans la répartition des bénéfices.
+ 
+ TITRE VI : DISSOLUTION   LIQUIDATION
+ ARTICLE 16. DISSOLUTION
+ La société peut être dissoute en tout temps, par décision de l'assemblée générale délibérant dans
+les formes prévues pour les modifications aux statuts.
+ ARTICLE 17. LIQUIDATEURS
+ En cas de dissolution de la société, pour quelque cause et à quelque moment que ce soit, la
+liquidation s'opère par le ou les gérants en fonction sous réserve de la faculté de l'assemblée
+générale de désigner un ou plusieurs liquidateurs et de déterminer leurs pouvoirs et émoluments.
+ La nomination du liquidateur ou des liquidateurs doit être soumise au président du tribunal pour
+confirmation.
+ ARTICLE 18. REPARTITION DE L'ACTIF NET
+ Après le paiement ou la consignation des sommes nécessaires à l'apurement de toutes les dettes et
+charges et des frais de liquidation et, en cas d'existence de parts sociales non entièrement libérées,
+après rétablissement de l'égalité entre toutes les parts soit par des appels de fonds, soit par des
+distributions préalables aux profit des parts libérées dans une proportion supérieure, l'actif net est
+réparti entre tous les associés suivant le nombre de leurs parts sociales et les biens conservés leur
+sont remis pour être partagés dans la même proportion.
+ 
+ TITRE VII : DISPOSITIONS DIVERSES.
+ Article 19. ELECTION DE DOMICILE
+ Pour l'exécution des statuts, tout associé, gérant, commissaire, directeur, liquidateur domicilié à
+l'étranger, fait élection de domicile au siège social où toutes communications peuvent lui être
+valablement faites s'il n'a pas élu un autre domicile en Belgique vis-à-vis de la société.
+ Article 20. COMPETENCE JUDICIAIRE
+ Pour tout litige entre la société, ses associés, gérants, commissaires et liquidateurs relatifs aux
+affaires de la société et à l'exécution des présents statuts, compétence exclusive est attribuée aux
+tribunaux du siège social, à moins que la société n'y renonce expressément.
+ Article 21. DROIT COMMUN
+ Les dispositions du Code des sociétés auxquelles il ne serait pas licitement dérogé sont réputées
 
 Bi
 jla
@@ -415,10 +414,10 @@ bl
 ad
  - 
 
-11
-/1
+12
+/0
 
-0/
+1/
 20
 
 16
@@ -461,69 +460,37 @@ au
 
 Mod PDF 11.1
 
-de l'Assemblée Générale, laquelle indiquera l'étendue des pouvoirs délégués et leur durée;
-moyennant cet accord de l'Assemblée Générale, le Gérant déléguant sera déchargé de toute
-responsabilité à raison des suites de cette délégation.
-Le gérant-médecin ne pourra déléguer ses pouvoirs qu'à un Docteur en Médecine dès qu'il s'agira
-d'accomplir des actes en rapport avec l'exercice de l'art de guérir.
-Le gérant non médecin tout comme le délégué non médecin sont tenus à un strict devoir de réserve
-dans l’accomplissement de leurs missions.
-Article 12. REMUNERATION
-L'assemblée générale décide si le mandat de gérant est ou non exercé gratuitement. Si le mandat de
-gérant est rémunéré, l'assemblée générale, statuant à la simple majorité des voix, ou l'associé
-unique, détermine le montant de cette rémunération fixe ou proportionnelle. Cette rémunération sera
-portée aux frais généraux, indépendamment de tous frais éventuels de représentation, voyages et
-déplacements.
-Dès lors qu’il y a plusieurs associés, la rémunération du mandat du gérant ne peut être allouée au
-détriment d’un ou de plusieurs associés. Le montant de la rémunération doit correspondre à des
-prestations de gestion réellement effectuées.
-Un gérant exerçant son mandat pourra aussi être indemnisé pour ses frais et vacations.
-Article 13. SURVEILLANCE
-Le contrôle de la société devra être confié à un ou plusieurs commissaires réviseurs dès que les
-critères légaux l'imposeront ou si l'Assemblée  Générale le décide.
-Ces fonctions seront rémunérées, le montant de ces rémunérations, imputables en frais généraux,
-sera fixé par l'Assemblée Générale.
-Au cas où il n'est pas nommé de commissaire, chaque associé a, nonobstant toute stipulation
-contraire des statuts, individuellement les pouvoirs d'investigation et de contrôle des commissaires.
-Il pourra notamment prendre connaissance, sans déplacement des livres, de la correspondance et
-de toutes les écritures de la société.
-Il peut se faire représenter par un expert-comptable.
-La rémunération de l'expert-comptable incombe à la société s'il a été désigné avec son accord ou si
-cette décision a été mise à sa charge par décision judiciaire.
-En ce cas, les observations de l'expert-comptable seront communiquées à la société.
-TITRE IV assemblee generale
-Article 14. ASSEMBLEE GENERALE
-Les associés se réunissent en Assemblée Générale pour délibérer sur tous les objets qui intéressent
-la société.
-Il est tenu chaque année, au siège de la société ou dans la commune du siège social - en ce cas, cet
-endroit sera indiqué dans les convocations - une Assemblée Générale Ordinaire, le dernier vendredi
-du mois de mai à 18 heures. Si ce jour est férié, l'Assemblée se tiendra le premier jour ouvrable
-suivant.
-S'il n'y a qu'un seul associé, c'est à cette même date qu'il signera, pour approbation, les comptes
-annuels.
-Aussi longtemps que la société ne compte qu'un seul associé, il exerce les pouvoirs dévolus à
-l'Assemblée Générale ; il ne peut les déléguer.
-Les décisions de l'associé unique agissant en lieu et place de l'Assemblée Générale sont consignées
-dans un registre tenu au siège social.
-S'il y a plusieurs associés, les décisions sont prises quel que soit le nombre de parts représentées, à
-la majorité des voix pour lesquelles il est pris part au vote.
-TITRE V. INVENTAIRE-BILAN-REPARTITION
-Article 15.
-L'exercice social commence le premier janvier et se termine le trente et un décembre de chaque
-année.
-Chaque année, la gérance dresse un inventaire et établit les comptes annuels.
-Ces comptes annuels comprennent le bilan, les comptes de résultats, ainsi que l'annexe et forment
-un tout.
-La gérance se conformera en outre au Code des sociétés.
-S'il est nommé un commissaire, comme il est prévu à l'article 10 des statuts, lesdits comptes seront
-remis au commissaire qui les adressera avec son rapport aux associés en même temps que la
-convocation à l'Assemblée Générale.
-Celle-ci statuera sur l'adoption du bilan et se prononcera par un vote spécial après adoption sur la
-décharge des gérants ou commissaires.
-Article 16. AFFECTATION DES BENEFICES
-L'excédent favorable du bilan, déduction faite des frais généraux, charges sociales et
-amortissements, constitue le bénéfice net.
-Sur le bénéfice net de la société seront prélevés 5 % au moins pour constituer un fonds de réserve
+inscrites dans les présents statuts et les clauses contraires aux dispositions impératives du Code des
+sociétés sont censées non écrites.
+ 
+C. DISPOSITIONS FINALES ET/OU TRANSITOIRES
+ Les comparants prennent à l’unanimité les décisions suivantes qui ne deviendront effectives qu’à
+dater du dépôt au greffe d’un extrait de l’acte constitutif, conformément à la loi.  
+1. Premier exercice social et assemblée générale ordinaire.
+ Le premier exercice social débutera le jour du dépôt au greffe d’un extrait du présent acte et finira le
+31 décembre 2016.
+ La première assemblée générale ordinaire aura donc lieu en juin 2017.
+2. Gérance
+ Sont appelés aux fonctions de gérants non statutaires pour une durée illimitée :
+- Monsieur GADENNE Vincent,
+- Monsieur FRANKART Sébastien,
+préqualifiés, qui acceptent.
+3. Commissaire
+ Compte tenu des critères légaux, les comparants décident de ne pas nommer de commissaire-
+réviseur.
+4. Pouvoirs
+ L’un ou l’autre des fondateurs ou toute autre personne désignée par l’un d’eux , est désigné en
+qualité de mandataire ad hoc de la société, afin de signer tous documents d’effectuer toutes les
+opérations nécessaires et de faire toutes les déclarations nécessaires en vue de l'inscription à la
+Banque carrefour des Entreprises, l’affiliation éventuelles auprès d’une caisse d’assurances sociales
+ainsi que toutes autres démarches d’obtention d’autorisations nécessaires à l’exercice des activités
+de la société.
+ Aux effets ci-dessus, le mandataire ad hoc aura le pouvoir de prendre tous engagements au nom de
+la société, faire telles déclarations qu'il y aura lieu; signer tous documents et en général faire tout ce
+qui sera utile ou néces¬saire pour l'exécution du mandat lui confié.
+
+Pour extrait analytique conforme, Benoît COLMANT, Notaire associé.
+Déposé en même temps : expédition électronique de l’acte.
 
 Bi
 jla
@@ -552,382 +519,10 @@ bl
 ad
  - 
 
-11
-/1
+12
+/0
 
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-légale. Ce prélèvement cessera d’être obligatoire dès que ledit fonds aura atteint le dixième du
-capital social.
-L'Assemblée Générale décide de son affectation, déduction faite des charges légales; soit elle le
-portera à compte de réserve, soit elle distribuera sous forme de dividendes ou autrement, sous
-réserve des stipulations du Code des sociétés commerciales.
-L'importance de la réserve doit coïncider avec l'objet social et ne peut dissimuler des buts spéculatifs
-ou compromettre les intérêts de certains associés.
-La réserve n'excédera pas un montant normal pour faire face aux investissements futurs.
-Une réserve conventionnelle ne peut être constituée que de l'accord unanime des médecins
-associés. 
-Si l’unanimité est impossible, le Conseil provincial intéressé de l’Ordre des Médecins peut accepter
-une autre majorité.
-Les réserves exceptionnelles justifiées par l’Assemblée Générale pourront être constituées en
-respectant les directives de l’Ordre des médecins.
-TITRE VI. dissolution-liquidation
-Article 17.
-En cas de dissolution de la société pour quelque cause que ce soit, la liquidation s'opère par les
-soins du ou des gérants agissant en qualité de liquidateur(s) et, à défaut, par des liquidateurs
-nommés par l'Assemblée Générale qui, en ce cas, déterminera leurs pouvoirs et leurs émoluments et
-fixera le mode de liquidation, conformément au Code des sociétés.
-Si le liquidateur, nommé par l’Assemblée Générale n’est pas un médecin, il devra se faire assister
-par un médecin inscrit au Tableau de l’Ordre des Médecins pour la gestion des dossiers médicaux,
-les questions qui concernent la vie privée des patients et/ou le secret professionnel des associés.
-Article 18. PERTE DU CAPITAL
-
-    1.  Si par suite de pertes, l'actif net est réduit à un montant inférieur à la moitié du capital social,
-l'Assemblée Générale doit être réunie dans un délai de deux mois maximum à dater du moment où
-la perte a été constatée ou aurait dû l'être en vertu des obligations légales ou statutaires, aux fins de
-délibérer, dans les formes prescrites pour la modification aux statuts, sur la dissolution éventuelle de
-la société ou sur d'autres mesures annoncées à l'ordre du jour.
-La gérance justifiera de ses propositions dans un rapport spécial tenu à la disposition des associés,
-quinze jours avant l'Assemblée Générale.
-    2.  Si par suite de pertes, l'actif net est réduit à un montant inférieur à six mille deux cents euros
-(6.200,00 EUR), tout intéressé peut demander au Tribunal la dissolution de la société.
-Article 19. REPARTITION DE L'ACTIF NET
-Après apurement de toutes les dettes, l'actif net sert d'abord  à rembourser le montant libéré des
-parts sociales.
-TITRE VII. DEONTOLOGIE MEDICALE
-Article 20. DEONTOLOGIE MEDICALE
-La responsabilité professionnelle du médecin reste illimitée. Elle doit être assurée de façon à
-permettre la réparation du dommage éventuellement causé. Le libre choix du médecin,
-l'indépendance diagnostique et thérapeutique ainsi que le respect du secret professionnel doivent
-être garantis. Celui-ci ne peut être partagé que dans la mesure où les soins l'exigent.
-Tout litige d'ordre déontologique est du ressort exclusif du Conseil Provincial compétent de l'Ordre
-des Médecins, sauf voies de recours.
-Les statuts n'entreront en vigueur qu'après avoir reçu l'accord du Conseil Provincial compétent de
-l'Ordre des Médecins.
-Toute modification aux statuts de la société et (ou) au(x) contrat(s) de société devra être soumise au
-préalable à l'approbation du Conseil Provincial compétent de l'Ordre des Médecins.
-Si un ou plusieurs médecins entraient dans la société, ils devraient mettre en commun la totalité de
-leur activité médicale et des honoraires générés qui sont perçus au nom et  pour le compte de la
-société.
-L'attribution des parts doit toujours tendre à être proportionnelle à l'activité des associés. En tout état
-de cause, la répartition des parts ne peut empêcher la rémunération normale du médecin associé
-pour le travail presté.
-Tout médecin travaillant au sein de la société doit informer les autres membres ou associés de toute
-décision de nature civile, disciplinaire pénale ou administrative susceptible de quelconques
-retombées sur leurs relations professionnelles. L’Assemblée Générale décidera à la majorité simple
-des suites à donner à ces décisions.
-La suspension éventuelle du droit d'exercer l'art de guérir entraîne pour le médecin sanctionné la
-perte des avantages du contrat de société pour la durée de la suspension. En cas de pluralité
-d’associés, le médecin qui fait l’objet d’une suspension ne peut se choisir lui-même un remplaçant.
-Le médecin privé du droit d’exercer l’art médical par une décision judiciaire ou disciplinaire, ne peut
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-11
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-faire remplacer pendant la durée de la sanction. Cette interdiction ne le dispense pas de prendre les
-mesures nécessaires pour assurer la continuité des soins aux patients qui sont en traitement au
-moment où prend cours la sanction précitée.
-Les dispositions prises doivent être portées à la connaissance du Conseil Provincial auquel ressortit
-ce médecin.
-L’admission d’un associé ne peut avoir lieu que de l’accord unanime des autres.
-Si un associé était radié du Tableau de l’Ordre des Médecins, il serait dans l’obligation de céder ses
-parts à ses associés.  S’il est associé unique, il devrait alors, soit céder ses parts soit procéder à la
-liquidation de la société ou en modifier la dénomination et l’objet social en y excluant toute activité
-médicale.
-Lorsqu'un remplaçant est engagé, les honoraires de prestation lui reviennent éventuellement
-diminués du montant que représentent les moyens mis à sa disposition.
-Le médecin exerce une autorité effective vis-à-vis du personnel qui l'assiste. Son autorité se limite
-aux consignes relatives aux soins de ses malades, toutes autres observations seront présentées par
-lui au responsable de la société. Celui-ci veillera à ce que le personnel exécute ponctuellement les
-instructions médicales du médecin et l’assure de sa collaboration loyale.
-Toute modification concernant l'activité médicale ou le mode de collaboration, la création d'un
-établissement supplémentaire, la cession d'une activité ou de parts est portée au préalable à la
-connaissance du Conseil Provincial compétent de l'Ordre des Médecins et soumise à son
-approbation.
-Tout accord d'ordre financier doit être mentionné et décrit dans les détails.
-Si un ou plusieurs médecins entraient dans la société, il faudrait qu'ils présentent les statuts de la
-société et le contrat de société au Conseil Provincial de l'Ordre auquel ils ressortissent.
-TITRE VIII. QUASI-APPORT
-Article 21.
-Si dans les deux ans la société se propose d'acquérir un bien, le cas échéant, en application du
-Code des sociétés, appartenant à un fondateur, à un gérant ou à un associé pour une contre-valeur
-au moins égale à un dixième du capital souscrit, l'acquisition est soumise à l'autorisation de
-l'Assemblée Générale délibérant à la simple majorité des voix, quel que soit le nombre de titres
-présents ou représentés.
-Préalablement seront établis un rapport spécial de la gérance ainsi qu'un rapport dressé par un
-réviseur d'entreprises désigné par la gérance.
-Ces deux rapports sont annoncés dans l'ordre du jour et communiqués aux associés en même
-temps que la convocation. Sont exclues les acquisitions opérées dans le cadre de la gestion
-journalière.
-TITRE IX. DISPOSITIONS GENERALES
-Article 22. DROIT COMMUN
-Pour les objets non expressément réglés par les présents statuts, la comparante déclare se référer
-au Code des sociétés et à l'application des règles déontologiques.
-Article 23. FRAIS
-La comparante déclare que le montant des frais, rémunérations et charges incombant à la société,
-en raison de sa constitution, s'élève approximativement à mille cent soixante euros hors TVA
-(1.160 EUR).
-DECLARATIONS
-Le comparant reconnaît que le notaire soussigné a attiré spécialement son attention sur la
-responsabilité découlant de sa qualité de fondateur et sur les conséquences qu'entraînerait pour elle
-l'établissement d'un plan financier non réaliste.
-Il reconnaît également que le notaire lui a donné lecture de l'article 212 du Code des Sociétés qui
-stipule que : "La personne physique associée unique d'une société privée à responsabilité limitée est
-réputée caution solidaire des obligations de toute autre société privée à responsabilité limitée qu'elle
-constituerait ensuite seule ou dont elle deviendrait ensuite l'associé unique, sauf si les part lui sont
-transmises pour cause de mort".
-Cette personne physique ne sera plus réputée caution solidaire des obligations des sociétés visées à
-l'alinéa précédent dès l'entrée d'un nouvel associé dans la société ou dès la publication de sa
-dissolution.
-DISPOSITIONS TRANSITOIRES
-Les associés, réunis en Assemblée Générale, prennent ensuite les décisions suivantes:
-
-    1.  Le premier exercice social commencera le jour du dépôt au Greffe, pour se terminer le trente et
-un décembre deux mille dix-sept.
-    2.  La première Assemblée Générale annuelle se tiendra en 2018.
-    3.  Est désigné en qualité de gérant non statutaire Monsieur Antoine STINGHLAMBER,
-comparant.                                         
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-11
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-- suiteVolet B
-
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
-
-Moniteur
-belge
-
-Réservé
-au
-
-Mod PDF 11.1
-
-Il est nommé en sa qualité d’associé unique pour toute la durée de son activité au sein de la société
-tant que cette dernière demeure une société unipersonnelle. Il peut engager valablement la société
-sans limitation de sommes.
-    4.  Reprise d'engagements.
-Tous les engagements, ainsi que les obligations qui en résultent, et toutes les activités entreprises
-depuis le 1er octobre 2016 par Monsieur Antoine STINGHLAMBER, précité, au nom et pour compte
-de société en formation, sont repris par la société présentement constituée.
-Cependant, cette reprise n'aura d'effet qu'au moment où la société aura la personnalité morale.
-La société jouira de la personnalité morale à partir du dépôt de l'extrait des statuts au Greffe du
-Tribunal compétent.
-5. L'Assemblée Générale constate que la société remplit les conditions légales dérogatoires lui
-permettant de ne pas nommer de commissaire réviseur et décide que, jusqu'à constatation du
-contraire par l'Assemblée, aucun réviseur ne sera nommé.
-MANDAT
-Monsieur Antoine STINGHLAMBER, pré qualifié ou toute autre personne désignée par lui, est
-désignée en qualité de mandataire ad hoc de la société afin de signer tous documents et de faire
-toutes les déclarations nécessaires en vue de l’inscription de la société à la Banque Carrefour des
-Entreprises.
-Aux effets ci-dessus, le mandataire ad hoc aura le pouvoir de prendre tous engagements au nom de
-la société, faire telles déclarations qu’il y aura lieu ; signer tous documents et en général faire tout ce
-qui sera utile ou nécessaire pour l’exécution du mandat lui confié
-POUR EXTRAIT ANALYTIQUE CONFORME
- 
-Valérie MASSON, Notaire à Ottignies-Louvain-la-Neuve.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-11
-/1
-
-0/
+1/
 20
 
 16

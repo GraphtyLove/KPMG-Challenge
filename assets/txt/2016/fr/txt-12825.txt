@@ -28,91 +28,90 @@
 
 
 
-Copie à publier aux annexes du Moniteur belgeVolet B
-après dépôt de l'acte au greffe
+MOD 2.2
 
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+Ausfertigung, die nach Hinterlegung der Urkunde bei der Kanzlei
+in den Anlagen zum Belgischen Staatsblatt zu veröffentlichen ist
 
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+ Teil B
 
-Greffe
+Kanzlei
 
-Moniteur
-belge
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
 
-au
-Réservé
+  Rückseite  : Name und Unterschrift
 
-Mod PDF 11.1
+Dem
 
-Siège :
+Belgischen
 
-N° d'entreprise :
+Staatsblatt
 
-(en abrégé) :
+vorbehalten
 
-Objet(s) de l'acte :
+Unternehmensnr. :
 
-(en entier) :
+Gesellschatfsnahme
 
-(adresse complète)
+(voll ausgeschrieben) : iziprod
 
-CROUSTI PASTA
+(abgekürzt) :
 
-Rue Ernest Laude 8
-1030 Schaerbeek
+Rechtsform : Vereinigung ohne Gewinnerzielungsabsicht
 
-Société privée à responsabilité limitéeForme juridique :
+Sitz : Lütticher Strasse 142
 
-Dénomination
+4710
 
-Constitution
+Belgien
 
-Suivant acte reçu par Maître Bruno le Maire, notaire à Bruxelles, le 28 juillet 2016
-A COMPARU
-Monsieur BENHLAL Kamal, né à Bruxelles  le trois avril mille neuf cent quatre-vingt-six,  domicilié à
-1030 Schaerbeek, Rue Ernest Laude, 8/ET01.
-Lequel déclare ne pas être associé d’une société unipersonnelle et a requis le notaire soussigné
-d’acter dans la forme authentique ce qui suit :
-CONSTITUTION:
-Le comparant remet au notaire soussigné un plan financier projetant les activités de la société sur
-une période de 3 ans, lequel plan sera conservé dans le protocole.
-Le comparant constitue une société privée à responsabilité limitée sous la dénomination « CROUSTI
-PASTA » dont le siège est fixé actuellement à 1030 Schaerbeek, Rue Ernest Laude, 8
-Le capital est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 EUR).
-Il est représenté par cent (100) parts sociales sans désignation de valeur nominale.
-Apport en numéraire:
-Monsieur BENHLAL Kamal, précité, souscrit à l'instant cent (100) parts sociales pour dix-huit mille
-six cents euros (18.600,00€).
-Le capital social est ainsi intégralement souscrit.
-Le comparant déclare et reconnait que chaque part sociale ainsi souscrite est libérée à concurrence
-d’un total de douze mille quatre cents euros (12.400,00 €).
-Les fonds affectés à la libération des apports en numéraire ont été déposés à un compte spécial
-ouvert au nom de la société à constituer à la banque ING
-Une attestation justifiant ce dépôt a été remise par le comparant au notaire soussigné.
-Ensuite, le comparant arrête comme suit les statuts de la société.
-STATUTS:
-Article un  Forme et dénomination:
-La société a la forme d'une société privée à responsabilité limitée.
-Elle est dénommée « CROUSTI PASTA ».
-Article deux  Siège:
-Le siège social pourra être transféré par simple décision de la gérance à publier aux annexes du
-Moniteur belge.
-Article trois  Objet:
-La société a pour objet, pour son compte propre, pour le compte de tiers ou en participation, aussi
-bien en Belgique qu’à l’étranger, les activités suivantes:
-- l’exploitation d’une sandwicherie, de salons de thé, de cafés, tavernes, buvettes, restauration
-rapide, grills, pizzérias, crêperies, gaufreries, snack-bars, grillades, friterie, pitas, selfs services,
-glaciers, restaurants self-services;
-- l’achat, la vente, l’import et l’export de tous produits d’alimentation générale tels que pommes de
-terre, légumes (frais ou conservés), fruits (frais ou conservés), viande, charcuterie, volaille, gibier,
+Gegenstand der Urkunde : Gründung
 
- *16316146*
+Lontzen
+
+Les soussignés :
+ 
+1º Dominique Demoulin, né le 07/10/1973 à Eupen, Chaussée de Liège 142 4710 Lontzen
+ 
+2º Patrick Pitz, né le 05/03/1972 à Eupen, rue de la Montagne 21, 4720 la Calamine
+ 
+3º Linda Hompesch, né le 18/03/1981 à Eupen, rue de la Montagne 21, 4720 la Calamine
+ 
+4º Sonia Lavalle, né le 24/12/1963 à La Calamine, Chaussée de Liège 142 4710 Lontzen
+ 
+Tous ont constitués une association sans but lucratif conformément à la loi du 27 juin 1921 dont ils ont arrêté les
+statuts comme suit :
+ 
+TITRE 1er
+Dénomination, siège social
+ 
+Article 1er
+ 
+L'association est dénommée «Iziprod».
+ 
+Article 2
+ 
+Son siège social est établi à Chaussée de Liège 142 4710 Lontzen, dans l’arrondissement judiciaire d’Eupen.
+ 
+TITRE 2
+But
+ 
+Article 3
+ 
+L'association a pour but : Organisations d'évènements culturels et musicaux.
+ 
+La poursuite de ce(s) but(s) se réalisera notamment par les activités suivantes : Concerts, festivals et
+manifestations culturelles.
+ 
+Elle peut accomplir tous les actes se rapportant indirectement ou directement à son objet. Elle peut notamment
+prêter son concours et s'intéresser à toute activité similaire à son objet.
+
+ *16308845*
 Déposé
-29-07-2016
+19-04-2016
 
-0660572176
+0652622928
 
 Bi
 jla
@@ -141,10 +140,10 @@ bl
 ad
  - 
 
-02
+21
 /0
 
-8/
+4/
 20
 
 16
@@ -172,84 +171,88 @@ ge
 
 
 
-- suiteVolet B
+Dem
+Belgischen
+Staatsblatt
+vorbehalten
 
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+Teil B - Fortsetzung
 
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
 
-Moniteur
-belge
+   Rückseite : Name und Unterschrift
 
-Réservé
-au
+MOD 2.2
 
-Mod PDF 11.1
-
-produits laitiers (lait, beurre, fromage), œufs, huiles végétale et animale, boissons alcoolisées ou
-non, sucre, chocolat, confiserie, café, thé, cacao, épices,  poissons, crustacés, mollusques, farines,
-pâtes, riz, confitures, glaces, miel, plats préparés, eau en récipients ;
-- l’import, l’export, l’achat et la vente de cigares, cigarettes, tabac à pipe;
-- le commerce (achat, vente, import et export) de produits apéritifs et d’autres produits similaires
-(petits biscuits, bretzels, …), sucrés ou salés;
-- toutes les activités de boulanger, de pâtissier, de glacier, de chocolatier;
-- le commerce (achat, vente, import et export) de confiserie, chocolats, sandwichs, glaces de
-consommation et crèmes glacées;
-
-    •  Commerce ambulant;
-    •  tous livres, antiquités, brocantes, objets de décoration, machines industrielles ;
-    •  tous appareils électroménagers, tous films de bandes magnétiques, cassettes, tous articles
-imprimés ou enregistrés permettant leur lecture, vision ou audition, assistance en programmation ;
-    •  cours d’informatique, assistance en logiciels informatiques, conseils et assistance dans le
-domaine de l’informatique, tous matériaux de bureau et de l’informatique.
-    •  l’exploitation d’ateliers de tous produits alimentaires et non alimentaires;
-- l’exploitation de cabarets;
-- l’exploitation de discothèques;
-- l’organisation de buffets et de banquets;
-- la location de vestiaires pour publics, la location de places, la location de salles d’organisation
-d’évènements;
-- le service traiteur;
-- la messagerie, les services de fax, les services internet;
-- l’exploitation de cabines téléphoniques;
-- l’exploitation de cybercafés;
-- l’exploitation de copy services;
-- l’exploitation de laboratoires de développement photos;
-- l’exploitation d’ateliers de tournage, d’affûtage et de rectification de pièces mécaniques;
-- l’exploitation de taxis;
-- le courrier express;
-- l’exploitaiton de car-Wash;
-- l’exploitation de stations-services (tous carburants tels que mazout, diesel, gaz, …);
-- l’exploitation de garages avec atelier de réparation;
-- négociant de véhicules à moteur neuf et d’occasion;
-- l’exploitation d’établissements de démolition, d’entretien et de dépannage;
-- l’achat, la vente, l’import et l’export en gros et/ou en détail de pièces automobiles neuves ou
-d’occasion et accessoires automobiles;
-- l’exploitation d’un atelier de carrosserie;
-- la vente en gros, l’import et l’export de véhicules d’occasion;
-- l’exploitation d’un salon de coiffure;
-- l’exploitation de salons lavoirs;
-- fournir tous services ou prestations au profit de toutes clientèles privées ou commerciales,
-notamment: le nettoyage et l’entretien d’immeubles, le nettoyage de vitres et de bureaux, l’exécution
-de petits travaux de bureau, les services intérimaires, la sous-traitance;
-- toutes opérations généralement quelconques se rapportant directement ou indirectement au
-commerce, à la fabrication, à la location, à l’achat, à la vente en gros ou en détail, à la
-représentation, à la distribution, au service, au conditionnement, à l’exploitation et au courtage, à
-l’importation et à l’exportation soit pour son propre compte soit pour le compte d’un tiers; 
-
-    •  assistance aux entreprises générales de bâtiment, peinture, plafonnage, isolation thermique,
-faux plafond, électricité, sanitaire, carrelage, plomberie, travaux de rénovations, constructions,
-nettoyage et peinture de façade, échafaudage, nettoyage industriel et toutes activités relative à la
-construction;
-    •  Intermidiaire du commerce en produit divers;
-    •  Transport national et international de personnes et de  marchandises, Transports urbains et
-suburbains de voyageurs, Transports de voyageurs par taxis, Autres transports terrestres de
-voyageurs n.c.;
-    •  travaux d’urbanisme, conception d’immeuble, étude et réalisation des travaux d’architecture;
-    •  Activité des agences de placement de main-d’œuvre;
-    •  Toutes activités généralement quelconques se rapportant directement ou indirectement aux
-activités dans le cadre de titres-services, notamment :
- L’aide à domicile de nature ménagère à savoir : le nettoyage du domicile, y compris les vitres, la
+ 
+TITRE 3
+Membres
+ 
+Article 4
+ 
+L'association est composée de membres effectifs et (le cas échéant) de membres adhérents.
+Le nombre minimum des membres ne peut être inférieur à deux, celui des membres effectifs ne peut être
+inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux membres par la loi
+et les présents statuts.
+ 
+Article 5
+ 
+Sont membres effectifs :
+ 
+1º Les membres fondateurs ;
+ 
+2º Tout membre adhérent qui, présenté par deux membres effectifs au moins est admis en qualité de membre
+effectif par décision de l'assemblée générale réunissant les 3/4 des voix présentes ou représentées.
+ 
+Article 6
+ 
+Sont membres adhérents, les personnes admises en cette qualité par le conseil d’administration et qui désirent
+aider l'association ou participer à ses activités et qui s'engagent à en respecter les statuts et les décisions prises
+conformément à ceux-ci.
+ 
+Article 7
+ 
+Les admissions de nouveaux membres sont décidées souverainement par le conseil d'administration.
+ 
+Article 8
+ 
+Toute personne qui désire être membre de l'association doit adresser une demande écrite au conseil
+d'administration.
+ 
+Article 9
+ 
+Les membres effectifs et adhérents sont libres de se retirer à tout moment de l'association en adressant par écrit
+leur démission au conseil d'administration. Est réputé démissionnaire, le membre effectif ou adhérent qui ne paye
+pas la cotisation qui lui incombe, dans le mois du rappel qui lui est adressé par lettre ordinaire.
+ 
+L'exclusion d'un membre effectif ou adhérent ne peut être prononcée que par l'assemblée générale au scrutin
+secret et à la majorité des 2/3 des voix présentes ou représentées. Le conseil d'administration peut suspendre,
+jusqu'à la décision de l'assemblée générale, les membres qui se seraient rendus coupables d'infraction grave aux
+statuts ou aux lois.
+ 
+Article 10
+ 
+Le membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n'ont
+aucun droit sur le fonds social.
+Ils ne peuvent réclamer ou requérir, ni relevé, ni reddition de compte, ni apposition de scellés, ni inventaires, ni le
+remboursement des cotisations versées.
+ 
+Article 11
+ 
+L’association tient un registre des membres effectifs conformément aux articles 10 et 26novies, §.1er de la loi du
+27 juin 1921.
+ 
+Article 12
+ 
+Le Président (Dominique Demoulin) est le représentant envers les tiers personnes et à le pouvoir de signature de
+l'Asbl Iziprod. Une procuration est établie envers Patrick Pitz (Vice-Président) pour le pouvoir de signature si le
+Président est absent.
+ 
+Article 13
+ 
+Nominations
+ 
 
 Bi
 jla
@@ -278,10 +281,10 @@ bl
 ad
  - 
 
-02
+21
 /0
 
-8/
+4/
 20
 
 16
@@ -309,84 +312,88 @@ ge
 
 
 
-- suiteVolet B
+Dem
+Belgischen
+Staatsblatt
+vorbehalten
 
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+Teil B - Fortsetzung
 
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
 
-Moniteur
-belge
+   Rückseite : Name und Unterschrift
 
-Réservé
-au
+MOD 2.2
 
-Mod PDF 11.1
-
-lessive et le repassage, les travaux de couture occasionnels, la réparation du repas.
- L’activité de courses ménagères : il s’agit de petites courses visant à pourvoir au besoin quotidiens
-de l’utilisateur (poste, pain, pharmacie,….)
-
-    •  import, export de produits divers;
-    •  matériaux de construction, matériel électrique et électronique, sanitaire et de plomberie ;
-    •  tous produits alimentaires tels que viandes, fruits, légumes, conserves, produits laitiers, produits
-de la mer, poissonnerie, boucherie, la charcuterie, articles de ménage et articles cadeaux, épices,
-herbes aromatiques,
-    •  de vidéothèques, location de produits de divertissements, films et tout autre produit assimilé ; 
-    •  cordonnerie, serrurerie, maroquinerie dans le sens le plus large ; tous textiles ; chaussures, tous
-produits de l’artisanat en général, tapisseries y compris les articles du tiers-monde ; tous les articles
-de parfumerie, de toilette, cosmétiques, produits de beauté, maquillage ainsi que savons et
-détergents ; tous les articles d’horticulture tels que fleurs, plantes, articles de jardinage,
-aménagement et entretien de jardins et de pépinières ;
+Dominique Demoulin est élu Président et membre du conseil de l'Asbl Iziprod
  
-Certaines de ces activités seront autorisées si les accès à la profession nécessaires sont octroyés et
-respectés.
-Elle pourra d’une façon générale faire en Belgique et à l’étranger tous actes de transaction ou
-opérations commerciales, financières, mobilières ou immobilières se rapportant directement ou
-indirectement, en tout ou en partie, à son objet social ou qui seraient de nature à en faciliter ou en
-développer la réalisation.
-La société pourra également s’intéresser, par voie d’apport, de fusion, de souscription ou de toute
-autre manière dans toutes entreprises, associations ou sociétés ayant un objet similaire, analogue ou
-connexe ou de nature à en favoriser celui de la société.
-Article quatre  Durée:
-La société a été constituée pour une durée illimitée.
-Article cinq  Capital:
-Lors de la constitution le capital a été fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 EUR).
-Il est représenté par cent (100) parts sociales sans désignation de valeur nominale.
-Article six  Registre des parts:
-Il est tenu au siège social un registre des parts, dans lequel la gérance indique les souscriptions,
-cessions et transmissions de parts.
-Article sept  Cession et transmission:
-La cession de parts entre vifs ou la transmission pour cause de mort sont soumises:
-1)Au droit de préférence au profit des associés en proportion des parts de chacun d'eux avec, en cas
-de non exercice par certains d'entre eux, accroisse-ment au profit des autres;
-2)En cas de non exercice total ou partiel du droit de préférence, à l'agrément du nouvel associé par
-la moitié au moins des associés possédant les trois quarts au moins du capital, déduction faite des
-droits dont la cession est proposée.
-Le refus d'agrément ne donne lieu à aucun recours.
-Toutefois, la cession ou la transmission ne sont soumises à aucune restriction si elles ont lieu au
-profit:
-a)d'un associé,
-b)d'un conjoint, ainsi que d'un ascendant ou d'un descendant d'un associé;
-Cette énumération étant limitative.
-Les héritiers ou légataires d'un associé défunt, qui ne peuvent pas devenir associés, ont droit à la
-valeur des parts de leur auteur. A cet effet, de même que pour l'exercice du droit de préférence, le
-prix d'achat des parts sera fixé anticipativement chaque année par l'assemblée générale après
-l'adoption du bilan et figurera dans l'ordre du jour.
-Article huit  Gestion et surveillance:
-     La société est gérée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
-générale, qui pourra limiter ou étendre les pouvoirs leur conférés par la loi et fixer la durée de leur
-mandat.
-Les activités de la société sont surveillées conformément au Code des sociétés.
-Article neuf  Assemblée générale:
-Il est tenu une assemblée générale ordinaire chaque année le trente et un mai à dix-huit heures.
-Lorsque la société ne comprend en qualité d'associé qu'une seule personne physique, cette dernière
-exerce seule les pouvoirs attribués à l'assemblée générale.
-Chaque part sociale donne droit à une voix, l’assemblée délibère valablement quelle que soit la
-por-tion du capital représenté et les décisions sont prises à la majorité simple des voix.
-Au cas où la société ne compte qu’un seul associé, celui-ci exerce tous les pouvoirs dévolus à
-l’assemblée générale mais sans qu’il puisse les déléguer.
+Patrick Pitz est élu Vice-Président et membre du conseil de l'Asbl Iziprod
+ 
+Sonia Lavalle est élue Secrétaire et membre du conseil de l'Asbl Iziprod
+ 
+Linda Hompesch est élue Trésorier et membre du conseil de l'Asbl Iziprod
+ 
+Article 14
+ 
+Les membres fondateurs de l'Asbl Iziprod sont :
+ 
+-Président : Dominique Demoulin, né le 07 Octobre 1973 à Eupen
+ 
+-Vice-Président : Patrick Pitz, né le 05 Mars 1972 à Eupen
+ 
+Les membres du conseil de l'Asbl Imoogi sont :
+ 
+-Président :  Dominique Demoulin, né le 07 Octobre 1973 à Eupen
+ 
+-Vice-Président : Patrick Pitz, né le 05 Mars 1972 à Eupen
+ 
+-Trésorier : Linda Hompesch, né le 18 Mars 1981 à Eupen
+ 
+-Secrétaire  : Sonia Lavalle, né le 24 Décembre 1963  à La Calamine
+ 
+TITRE 4
+Cotisations
+ 
+Article 15
+ 
+Les membres ne sont astreints à aucun droit d'entrée, ni aucune cotisation. Ils apportent à l'association le
+concours actif de leurs capacités et de leur dévouement.
+ 
+TITRE 5
+Assemblée générale
+ 
+Article 16
+ 
+L'assemblée générale est composée de tous les membres (ou de tous les membres effectifs, s'il y a des
+membres adhérents).
+Elle est présidée par le président du conseil d'administration, ou s'il est absent, par le vice-président ou par le
+plus âgé des administrateurs présents.
+ 
+Article 17
+ 
+L'assemblée générale est le pouvoir souverain de l'association. Elle possède les pouvoirs qui lui sont
+expressément reconnus par la loi ou les présents statuts.
+ 
+Sont notamment réservées à sa compétence :
+ 
+- les modifications aux statuts sociaux;
+ 
+-   la nomination et la révocation des administrateurs;
+ 
+- le cas échéant la nomination et la révocation des commissaires et la fixation de leur rémunération dans le cas
+où elle leur est attribuée ;
+ 
+- la décharge à octroyer aux administrateurs ;
+ 
+-    l'approbation des budgets et des comptes;
+ 
+-    la dissolution volontaire de l'association;
+ 
+-    les exclusions de membres ;
+ 
+-    la transformation de l’association en société à finalité sociale.
+ 
 
 Bi
 jla
@@ -415,10 +422,10 @@ bl
 ad
  - 
 
-02
+21
 /0
 
-8/
+4/
 20
 
 16
@@ -446,65 +453,88 @@ ge
 
 
 
-- suiteVolet B
+Dem
+Belgischen
+Staatsblatt
+vorbehalten
 
-Au verso : Nom et signature.
-ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+Teil B - Fortsetzung
 
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
 
-Moniteur
-belge
+   Rückseite : Name und Unterschrift
 
-Réservé
-au
+MOD 2.2
 
-Mod PDF 11.1
-
-En cas d’égalité des parts sociales (cinquante – cinquante), ce sera le nombre de personnes
-représentant la moitié des parts sociales qui l’emportera.
-Article dix  Exercice social et comptes:
-L'exercice social commence le premier janvier. Il finit le trente et un décembre suivant. 
-Article onze  Dispositions légales:
-Pour tout ce qui n'est pas spécialement stipulé dans les présents statuts, il convient de s'en référer
-aux dispositions du Code des sociétés, notamment pour ce qui concerne les sociétés d'une
-personne, les bénéfices distribuables, les acquisitions par la société de biens d'associés, les
-augmentations et réductions du capital, le droit de préférence des associés et les dissolutions.
-Article douze  Election de domicile:
-Pour l'exécution des présents statuts, tout associé, gérant, commissaire ou liquidateur fait élection de
-domicile au siège social.
-DISPOSITIONS FINALES ET TRANSITOIRES:
-Le comparant déclare ce qui suit:
-1)Siège actuel:
-Le siège social de la société est établi actuellement à 1030 Schaerbeek, Rue Ernest Laude, 8
-2)Premier exercice:    
-Le premier exercice social commence ce jour et prendra fin le trente et décembre deux mille dix-sept
-3)Première assemblée:
-La première assemblée générale ordinaire se réunira en deux mille dix-huit.
-4)Avertissements:
-Le comparant reconnait avoir été éclairé par le notaire soussigné au sujet des dispositions légales et
-plus particulièrement celles relatives à la dénomination des sociétés, à l'accès à certaines activités,
-aux obligations sociales des sociétés et de leurs organes, aux obligations et à la responsabilité des
-fondateurs, des gérants, commissaires et autres personnes chargées de la gestion ou de la
-surveillance des sociétés et de leur conjoint commun en biens, ainsi qu'à l'interdiction pour certaines
-personnes de participer à l'administration, la gestion ou la surveillance des sociétés. 
-5)Dispense de nomination de commissaires:
-Le comparant estime que pour le premier exercice la société répondra aux critères les dispensant de
-la nomination de commissaires.
-ASSEMBLEE GENERALE EXTRAORDINAIRE:
-Nomination:
-Et à l'instant même, l'assemblée générale extraordi-naire de la société cidessus constituée prend, à
-l'unanimité des voix, les décisions suivantes:
-Le nombre de gérants est fixé à un.
-L'assemblée appelle aux fonctions de gérant : Monsieur BENHLAL Kamal, précité, et qui accepte.
-Ces fonctions prennent cours ce jour sans limitation de durée. Le mandat de gérant est à tout
-moment révocable par l'assemblée générale.
-Le mandat de gérant sera rémunéré. Chaque gérant est investi des pouvoirs les plus étendus pour
-faire seul tous actes qui intéressent la société. Il a dans sa compétence tous les actes qui ne sont
-pas réservés par la loi à l'assemblée générale. Il peut déléguer les pouvoirs qu'il déterminera à un ou
-plusieurs mandataires associés ou non.
-Chaque gérant représente la société à l’égard des tiers et en justice, soit en demandant, soit en
-défendant.
+Article 18
+ 
+Il doit être tenu au moins une assemblée générale chaque année, dans le courant du mois de Mars. L'association
+peut être réunie en assemblée générale extraordinaire à tout moment par décision du conseil d'administration.
+Elle doit être réunie lorsqu’un cinquième des membres effectifs au moins en fait la demande.
+Chaque réunion se tiendra au jour, heure et lieu mentionnés dans la convocation.
+Tous les membres effectifs (et le cas échéant les autres catégories de membres) doivent y être convoqués.
+ 
+Article 19
+ 
+L'assemblée générale est convoquée par le conseil d'administration par courrier adressé à chaque membre visé
+à l’article 15 des statuts au moins 8 jours avant l'assemblée, et signée par un administrateur au nom du conseil
+d'administration.
+L'ordre du jour est mentionné dans la convocation. Toute proposition signée par le 1/5 des membres effectifs doit
+être portée à l'ordre du jour.
+Sauf dans les cas prévus aux articles 8, 12 et 20 de la loi du 27 juin 1921, l'assemblée peut délibérer valablement
+sur des points qui ne sont pas mentionnés à l'ordre du jour.
+ 
+Article 20
+ 
+Chaque membre effectif (et le cas échéant les autres catégories de membres) a le droit d'assister à l'assemblée.
+Il peut se faire représenter par un mandataire (membre ou non de l’association) qui ne peut être titulaire que de 1
+procuration(s).
+ 
+Article 21
+ 
+Tous les membres effectifs ont un droit de vote égal à l'assemblée générale, chacun disposant d'une voix. Les
+autres membres n'ont pas le droit de vote. Ils peuvent néanmoins assister aux assemblées avec voix
+consultative.
+ 
+Article 22
+ 
+Les résolutions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est
+décidé autrement par la loi ou par les présents statuts.
+ 
+Article 23
+ 
+Les décisions de l'assemblée générale peuvent être prises par consentement des membres  exprimé par écrit
+selon les modalités décrites dans un règlement d’ordre intérieur.
+ 
+Article 24
+ 
+L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association ou la modification des
+statuts que conformément aux articles 8 et 20 de la loi du 27 juin 1921.
+ 
+Toute modification aux statuts ou décision relative à la dissolution doit être déposée au greffe du tribunal de
+commerce et publiées aux annexes du Moniteur belge conformément à l’article 26novies et selon les modalités
+prévues par l’arrêté royal du 26 juin 2003.
+ 
+Article 25
+ 
+Les décisions de l'assemblée générale sont consignées dans des procès-verbaux signés par le président et un
+administrateur. Ces procès-verbaux sont conservés au siège social où tous les membres effectifs (et le cas
+échéant les autres catégories de membres) peuvent en prendre connaissance. Les membres effectifs (et le cas
+échéant les autres catégories de membres) ainsi que les tiers justifiant d'un intérêt, peuvent demander des
+extraits de ces procès-verbaux, signés par le président du conseil d'administration et par un administrateur.
+ 
+TITRE 6
+Administration
+ 
+Article 26
+ 
+L'association est administrée par un conseil composé de deux membres au moins. Toutefois, le nombre
+d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale.
+ 
+Les administrateurs sont nommés par l'assemblée générale à vie.
+ 
+Leur mandat n'expire que par décès, démission ou révocation.
 
 Bi
 jla
@@ -533,10 +563,274 @@ bl
 ad
  - 
 
-02
+21
 /0
 
-8/
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+Dem
+Belgischen
+Staatsblatt
+vorbehalten
+
+Teil B - Fortsetzung
+
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
+
+   Rückseite : Name und Unterschrift
+
+MOD 2.2
+
+ 
+Article 27
+ 
+En cas de vacance d'un mandat, un administrateur peut être nommé à titre provisoire par l'assemblée générale. Il
+achève dans ce cas le mandat de l'administrateur qu'il remplace.
+ 
+Les administrateurs sortants sont rééligibles.
+ 
+Article 28
+ 
+Le conseil désigne parmi ses membres un président,  un vice-président, un trésorier, et un secrétaire. En cas
+d'empêchement du président, ses fonctions sont assumées par le vice-président ou par le plus âgé des
+administrateurs présents.
+ 
+Article 29
+ 
+Le conseil se réunit sur convocation du président ou de deux administrateurs.
+Il ne peut statuer que si la majorité de ses membres est présente ou représentée. Ses décisions sont prises à la
+majorité absolue des votants présents ou représentés, la voix du président ou celle de son remplaçant étant, en
+cas de partage, prépondérante.
+ 
+Article 30
+ 
+Le conseil d'administration a les pouvoirs les plus étendus pour l'administration et la gestion de l'association.
+Sont seuls exclus de sa compétence, les actes réservés par la loi ou les présents statuts à celle de l'assemblée
+générale.
+ 
+Article 31
+ 
+Le conseil nomme, soit lui-même, soit par mandataire, tous les agents, employés, et membres du personnel de
+l'association et les destitue. Il détermine leur occupation et leur traitement.
+ 
+Article 32
+ 
+Le conseil peut déléguer la gestion journalière de l'association, avec l'usage de la signature afférente à cette
+gestion à une ou plusieurs personnes administrateurs ou non et dont il fixera les pouvoirs et éventuellement le
+salaire ou appointement.
+ 
+Lorsque la gestion journalière est confiée à plusieurs personnes, celles-ci agissent individuellement.
+ 
+Article 33
+ 
+Les actions judiciaires tant en demandant qu'en défendant sont intentées ou soutenues au nom de l’association
+par le conseil d'administration dans les conditions prévues par l’article 31 des statuts.
+ 
+Articles 34
+ 
+La représentation de l’association dans les actes qui engagent l'association, autres que ceux de gestion
+journalière, sont signés, à moins d'une délégation spéciale du conseil, soit par le président, soit par deux
+administrateurs agissant conjointement désignés par le conseil d’administration, lesquels n'auront pas à justifier
+de leurs pouvoirs à l'égard des tiers.
+ 
+Les actes relatifs à la nomination et la cessation des fonctions des personnes habilitées à représenter
+l’association sont déposés et publiés conformément à l’article 26novies de la loi et selon les modalités prescrites
+par l’arrêté royal du 26 juin 2003.
+ 
+Article 35
+ 
+Les administrateurs, les personnes déléguées à la gestion journalière ne contractent, en raison de leur fonction,
+aucune obligation personnelle et ne sont responsables que de l'exécution de leur mandat. Celui-ci est exercé en
+principe à titre gratuit.
+ 
+Article 36
+ 
+Les actes relatifs à la nomination ou à la cessation des fonctions des administrateurs, des personnes déléguées
+à la gestion journalière et des personnes habilitées à représenter l’association sont déposés au greffe du tribunal
+de commerce en vue de leur publication par extrait aux annexes du Moniteur belge.
+ 
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+21
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+Dem
+Belgischen
+Staatsblatt
+vorbehalten
+
+Teil B - Fortsetzung
+
+Bitte auf der letzten Seite des Teils B angeben : Vorderseite : Name und Eigenschaft des beurkundenden Notars oder der Personen, die dazu
+       ermächtigt sind, die juristische Person Dritten gegenüber zu vertreten
+
+   Rückseite : Name und Unterschrift
+
+MOD 2.2
+
+TITRE 7
+Règlement d'ordre intérieur
+ 
+Article 37
+ 
+Un règlement d'ordre intérieur pourra être présenté par le conseil d'administration à l'assemblée générale. Des
+modifications à ce règlement pourront être apportées par une assemblée générale statuant à la majorité simple
+des membres effectifs présents ou représentés.
+ 
+TITRE 8
+Dispositions diverses
+ 
+Article 38
+ 
+L'exercice social commence le 1er janvier pour se terminer le 31 décembre.
+ 
+Article 39
+ 
+Le compte de l’exercice écoulé et le budget de l’exercice suivant seront annuellement soumis à l’approbation de
+l’assemblée générale.
+ 
+Article 40
+ 
+Sans préjudice de l’article 17, §5 de la loi, l'assemblée générale pourra désigner un commissaire, membre ou
+non, chargé de vérifier les comptes de l'association et de lui présenter son rapport annuel.
+Elle déterminera la durée de son mandat.
+ 
+Article 41
+ 
+En cas de dissolution de l'association, l'assemblée générale désignera le ou les liquidateurs, déterminera leurs
+pouvoirs et indiquera l'affectation à donner à l'actif net de l'avoir social.
+ 
+Article 42
+ 
+Dans tous les cas de dissolution volontaire ou judiciaire, à quelque moment, ou par quelque cause qu'elle se
+produise, l'actif net de l'association dissoute sera affecté à une fin désintéressée.
+ 
+Article 43
+ 
+Tout ce qui n'est pas prévu explicitement dans les présents statuts est réglé par la loi du 27 juin 1921 régissant
+les associations sans but lucratif.
+ 
+Dépôt des statuts coordonnés au greffe du tribunal de commerce de l’arrondissement judiciaire d´Eupen.
+Transmis au greffe du tribunal de commerce de l’arrondissement judiciaire d´Eupen, en exécution de l’Arrêté
+royal du 26 juin 2003, relatif à la publicité des actes et documents des associations sans but lucratif et des
+fondations privées.
+ 
+Pour copie certifiée conforme ;
+ 
+Au nom et pour le compte de l’ASBL : Dominique Demoulin (Président), Patrick Pitz (Vice-Président)
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+21
+/0
+
+4/
 20
 
 16

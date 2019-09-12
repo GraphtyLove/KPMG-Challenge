@@ -53,64 +53,64 @@ N° d'entreprise :
 
 Dénomination
 
-(en entier) : Fun School
+(en entier) : DOLCE VITA
 
-(en abrégé) :
+(en abrégé) : DC
 
 Forme juridique  : Association sans but lucratif
 
-Siège : Le Trou 12 A
+Siège : Rue d'Anderlecht 156 1
 
-4190
+1000
 
 Belgique
 
 Objet de l'acte : Constitution
 
-Ferrières
+Bruxelles
 
-L'an deux mil seize, le trente août, les soussignés :
- 
-VINCENT Pierre (Roland, Léonard, Louis, Emile) domicilié à Le Trou 12 A à 4190 Ferrières
-POLET Irène (Claire, Louise, Marie) domiciliée à Le Trou 12 A à 4190 Ferrières
-VINCENT Maxime (Pierre, Robert, Marcel) domicilié à Le Trou 12 A à 4190 Ferrières
+Dénomination (en entier) : DOLCE VITA  Asbl
+STATUTS
+Les soussignés :                
+1. Monsieur El AMRI Soufiane né le 12 octobre 1992 à Bruxelles de nationalité Belge, demeurant au numéro
+108  rue d’ Anderlecht à 1000 Bruxelles numéro de registre national : 92.10.12/177.10
+2. Monsieur EN-NALY Hicham 01 octobre 1988 à Bruxelles de nationalité Belge, demeurant au numéro 60 rue du
+vautour 1000 Bruxelles numéro de registre national : 88.10.01/079.63
+3. Monsieur NAJAHI Sohaib né le 12 septembre 1988 à Bruxelles de nationalité Belge, demeurant au numéro 25
+rue du vautour 25  1000 Bruxelles numéro de registre national : 88.09.12/289.01
+Ont convenu de créer une association sans but lucratif dont ils ont arrêté les statuts comme suit :
+TITRE 1er : Dénomination, siège d’exploitation, objet social, durée
+Article 1er : Dénomination
+L’association est dénommée «  DOLCE VITA », association sans but lucratif.
+Article 2 : Siège social –Siège d’exploitation
+Le siège social est établi au numéro 156 rue d’Anderlecht  à 1000 Bruxelles et dépend de l’arrondissement
+judiciaire de Bruxelles. Il peut être transféré à tout endroit sur le territoire belge, sur décision du du conseil
+d’administration. Toute modification du siège social doit être publiée dans les deux jours de sa date aux annexes
+du moniteur belge.
+Article 3 : Objet social
+Cet  objet peut être réalisé de manière généralement quelconque
+L’association a pour objet :
+- L’organisation de rencontres afin de déterminer de quelle manière les jeunes belges issus de l’immigration
+peuvent concilier les deux cultures :
+-D’aider les jeunes à la recherche d’emploi et de formation .
+-De servir de tables de discussions constructives en apportant des propositions pouvant remédier à des
+situations parfois conflictuelles dans les domaines les plus divers (éducatifs, culturels, artistiques, médicaux,
+agricoles, hôteliers, …) :
+- D’orienter ces personnes aux différents services qui s’occupent du suivi en cas de non solution.
+L’association pourra :
+- Créer des équipes de football en salle pour les jeunes, les adultes du quartier ;
+- Accomplir  tout actes quelconques, se rattachant directement  ou indirectement, en tout ou en partie, à son
+objet ou pouvant amener le développement ou en faciliter la réalisation ;
+- Acquérir, vendre, prendre ou donner à bail, dans le cadre de la réalisation de son objet, toutes propriétés et
+droits matériels situés tant en Belgique qu’à l’étranger qui pourraient être utile à la réalisation de son objet social,
+engager du personnel, conclure des contrat ;
+- Rassembler des fonds, soit toute autre activité justifiée dans le cadre de sa mission ;
 
- ont décidé de constituer entre eux et les personnes qui en feront ultérieurement partie, une association sans but
-lucratif en vertu de la loi du 27 juin 1921 et dont les statuts ont été arrêtés comme suit :
- 
- 
-Chapitre 1 -Dénomination, siège, durée
- 
-Art. 1.L'association ainsi formée prend le nom de « Fun school ».
-  
-Art. 2.Le siège de l'association est fixé en Belgique, dans l’arrondissement judiciaire de Liège. Il est établi à Le
-Trou 12 A à 4190 Ferrières.
- 
-Art. 3.L'association est constituée pour une durée illimitée. Elle peut être dissoute en tout temps.
- 
- 
-Chapitre 2 -But et objet
- 
-Art. 4.L'association a pour but de promouvoir et développer l’apprentissage des langues étrangères pour les
-enfants et les adultes.
- 
- Pour ce faire, l’association pourra organiser des cours de langues, des stages et tout type d’activité visant à
-promouvoir l’apprentissage des langues. Elle pourra également collaborer avec des écoles ou tout autre
-partenaire.
- 
-Art. 5.L’association peut accomplir tous les actes se rapportant directement ou indirectement, en tout ou en
-partie, à son objet, ou pouvant en amener le développement ou en faciliter la réalisation.
- 
-Elle peut notamment prêter son concours et s’intéresser de toutes manières à des associations, entreprises ou
-organismes ayant des buts et activités similaires à ceux de la présente association, ou pouvant aider à la
-réalisation ou au développement de son objet.
- 
-
- *16318399*
+ *16309007*
 Déposé
-08-09-2016
+20-04-2016
 
-0662410129
+0652701320
 
 Bi
 jla
@@ -139,10 +139,10 @@ bl
 ad
  - 
 
-12
+25
 /0
 
-9/
+4/
 20
 
 16
@@ -183,74 +183,74 @@ belge
 Volet B - suite
 MOD 2.2
 
-Elle pourra se livrer accessoirement à des opérations commerciales
+- Organiser des animations, des réunions, des séminaires, des stages, des congrès, des séjours ou des voyages
+rencontrant son objet social de manière directe ou indirecte :
+- Offrir à ses membres moyennant une rétribution pour amortir ses coûts différentes prestations de services ou
+livraisons de biens rencontrant son objet social telles que débit de boissons, alcoolisées ou non, petite
+restauration, alimentation générale, exotique, télécommunications, vente de matériel de bureau ( fax ,
+photocopieuse,…), de cassettes vidéo, audio, cd, matériel de cuisine ( frigo, congélateur, cuisinières…),
+- Prêter son concours et s’intéresser de manière généralement quelconque à des associations, entreprises ou
+organismes ayant un objet analogue ou connexe ou pouvant aider à la réalisation ou au développement de son
+objet ;
+- De même, elle pourra prendre en gestion un ou plusieurs centres de loisirs et/ou d’hébergement pour y
+développer ses objectifs statutaires ;
+- Poser des actes commerciaux dans le cadre de la réalisation de son objet.
+Article 4 : Durée
+L’association comprend des membres effectifs et des membres adhérents.
+Le nombre de membres est illimité et est fixé à un minimum de trois membres effectifs.
+Un membre du conseil d’administration absent ne peut donner à quiconque un pouvoir de le représenter.
+Article 6 : Admission- Devoirs des membres
+Sont membres effectifs les soussignés fondateurs  ainsi que toute autre personne adhérente à la cause de
+l’association dont la proposition d’admission est ratifiée par la majorité simple du conseil d’administration. Seuls
+les membres effectifs jouissent de la plénitude des droits accordés aux associés, par la loi et les présents statuts,
+y compris le droit de vote à l’assemblée générale.
+Sont membres adhérents les personnes qui désirent apporter  leur soutien ou participer aux activités de
+l’association. Les membres adhérents s’engagent à respecter les statuts et les décisions prises en conformité
+avec ceux-ci.
+Toute personne physique ou morale peut s’affilier à l’association en qualité de membre adhérent sur base d’une
+fiche de candidature établie par le conseil d’administration et ils n’ont pas le droit de vote à l’assemblée générale.
+Les personnes morales peuvent être admises uniquement comme membres adhérents.
+Article 7 : Démission
+La démission des membres effectifs et des membres adhérents est régie par la loi. Tout membre a le droit de
+démissionner é tout moment, moyennant lettre recommandée adressée au conseil d’administration.
+Article 8 : Exclusion
+Un membre peut être exclu par l’assemblée générale par une majorité des deux tiers des voix. Le conseil
+d’administration décide des propositions d’exclusion des membres effectifs ou adhérents, à soumettre à la
+prochaine assemblée générale, sur base des faits qui lui sont connus ou rapportés. Le membre menacé
+d’exclusion a le droit d’être préalablement entendu. Par le conseil d’administration peut également suspendre un
+membre effectif ou adhérent pour la période qu’il estime justifiée.  Dans tous les cas, le conseil d’administration
+doit motiver sa décision et le membre suspendu peut interjeter appel, non suspensif, devant la prochaine
+assemblée générale, qui statue en dernier ressort à la majorité simple des voix des membres présents ou
+représentés. Le membre démissionnaire, exclu ou suspendu, de même que leurs héritiers et ayant droit du
+membre décédé, ne peuvent faire des droits sur le patrimoine de l’association, ni requérir le remboursement ou la
+rémunération de leurs apports ou des cotisations payées.
  
-Elle pourra enfin prêter son concours et s’intéresser à toute activité similaire à son objet, faire toutes les
-opérations se rattachant directement ou indirectement à ses buts et activités, créer et gérer tout service ou toute
-institution poursuivant des buts similaires.
  
- 
-Chapitre 3 -Membres
- 
-Art. 6.L'association est composée de membres effectifs et de membres adhérents.
- 
-Le nombre de membres effectifs est illimité sans pour autant être inférieur à trois.
- 
-Les droits, obligations ainsi que les conditions liées à l’entrée et à la sortie des membres effectifs sont définis
-dans les présents statuts.
- 
-Art. 7.Sont seuls membres effectifs, les constituants soussignés ainsi que toutes personnes intéressées par les
-buts de l’association qui seront présentées ultérieurement par deux membres effectifs au moins et qui seront
-admises à cette qualité par l’assemblée générale.
- 
-Art. 8.La décision de l’assemblée générale est sans appel et ne doit pas être motivée. Elle est portée à la
-connaissance du candidat.
- 
-Le candidat non admis ne peut représenter sa candidature qu’après un an à compter de la date de la décision de
-l’assemblée générale.
- 
-Art. 9.Les membres effectifs composent, à l’exclusion des autres catégories de membres, l’assemblée générale.
-Ils jouissent seuls de la plénitude des droits, en ce compris le pouvoir de voter.
- 
-Les membres s'engagent à respecter les présents statuts et le cas échéant, le règlement d'ordre intérieur.
- 
-Art. 10.Les membres peuvent se retirer à tout moment de l'association en adressant leur démission par écrit au
-conseil d'administration.
- 
-Est réputé démissionnaire le membre qui ne participe pas à trois assemblées générales consécutives.
- 
-Est réputé démissionnaire de plein droit le membre qui est l'objet d'une interdiction judiciaire.
- 
-L'assemblée générale constate que le membre est réputé démissionnaire.
- 
-Art. 11.L'exclusion d'un membre ne peut être prononcée que par l'assemblée générale à la majorité des deux
-tiers des voix présentes ou représentées.
- 
-Le conseil d'administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se
-seraient rendus coupables d’infraction grave à la loi, aux statuts ou aux lois de l’honneur et de la bienséance.
-Les membres démissionnaires, exclus ou suspendus, ainsi que les héritiers ou ayant droit d'un membre décédé,
-n’ont aucun droit sur le fonds social. Ils ne peuvent réclamer ou requérir ni relevé ou reddition de comptes, ni
-apposition de scellés, ni inventaire, ni le remboursement des cotisations versées.
- 
-La qualité de membre se perd automatiquement par le décès ou, s'il s'agit d'une personne morale, par la
-dissolution, la fusion, la scission, la nullité ou la faillite.
- 
-Art. 12.Le conseil d'administration tient, au siège social de l'association, un registre des membres. En cas de
-requête orale ou écrite, l’association doit accorder immédiatement l’accès au registre des membres aux autorités,
-administrations et services, y compris les parquets, les greffes et les membres des cours, des tribunaux et de
-toutes les juridictions et les fonctionnaires légalement habilités à cet effet. L’association doit en outre fournir à ces
-instances les copies ou extraits de ce registre estimés nécessaires par celles-ci.
- 
-Art. 13.Est membre adhérent toute personne soutenant l'association par le versement de la cotisation visée à
-l’article 15.
- 
-Les membres adhérents sont tenus au courant des activités de l’association.
- 
-Ils s'engagent à respecter les présents statuts et le cas échéant, le règlement d'ordre intérieur.
- 
-Art. 14.Les membres adhérents peuvent se retirer à tout moment de l'association en adressant leur démission
-par écrit au conseil d'administration.
- 
+Article 9 : Cotisation
+Les contributions seront fixées annuellement au mois de janvier par le bureau selon les besoins.  Les paiements
+seront réglés spontanément par mensualités sans mise en demeure préalable. La cotisation est annuel et
+obligatoire, le maximum est de 150 euros, le bureau peut accorder des réductions ou la dispense de paiements
+compte tenu de la situation sociale ou financière d’un membre.
+TITRE 3 : Les organes de l’association
+Article 10 : Les organes de l’association sont :
+- L’assemblée générale
+- Le conseil d’administration
+Article 11 : L’assemblée générale
+L’assemblée générale est constituée par l’ensemble des membres effectifs. Elle est présidée par le président du
+conseil d’administration ou par le plus ancien des administrateurs présents. Un membre peut se faire représenter
+par un autre membre a l’assemblée générale avec procuration. Un membre ne peut représenter qu’un seul
+membre absent. Tous les membres effectifs ont un droit de vote égal à l’assemblée générale.
+Article 12 :
+L’assemblée générale possède exclusivement les pouvoirs qui lui sont expressément réservés par la loi. Sont
+notamment réservés à sa compétence les modifications aux statuts, la nomination, la révocation des
+administrateurs, l’approbation des budgets et comptes, la dissolution volontaire de l’association, l’exclusion des
+membres.
+Article 13 :
+L’assemblée générale est convoquée par le conseil d’administration quant l’objet ou les intérêts de l’association
+le justifient. L’assemblée générale doit être convoquée au moins une fois par an pour l’approbation des budget et
+comptes à une date à fixer par le conseil d’administration. Tous les membres effectifs sont convoqués à
+l’assemblée générale par lettre ordinaire. La convocation est contresignée par le président ou le secrétaire. Elle
+mentionne le lieu de l’assemblée, la date et l’heure de début. L’ordre du jour établi par le conseil d’administration
 
 Bi
 jla
@@ -279,10 +279,10 @@ bl
 ad
  - 
 
-12
+25
 /0
 
-9/
+4/
 20
 
 16
@@ -323,74 +323,74 @@ belge
 Volet B - suite
 MOD 2.2
 
-Le conseil d'administration peut exclure un membre adhérent.
+doit être joint à la convocation. L’assemblée générale peut délibérer valablement sur des points non mentionnés
+à l’ordre du jour. Les résolutions de l’assemblement général sont prises à la majorité absolue des membres
+présents et représentés. En cas de parités, la voix président est prépondérante. Les résolutions d’exclusion d’un
+membre, de modification des statuts ou de dissolution de l’association sont soumises à la procédure prescrite par
+la loi.
+Article 14 :
+Les délibérations de l’assemblée générale sont établies et consignées dans un registre de procès-verbaux,
+contresigné par le secrétaire ou un administrateur. Les extraits des procès-verbaux sont contresignés par le
+secrétaire ou un  administrateur. Les membres ou les tiers, qui justifient d’un intérêt, ont le droit de consulter ou
+de demander une copie des procès-verbaux.
+Article 15 : Le conseil d’administration
+L’association est administrée par un conseil d’administration composé de trois membres effectifs au moins,
+nommés par l’assemblée générale  et en tout temps révocables par elle. Le mandat d’administrateur est ‘exécuté
+à titre gratuit. La nomination, la démission ou la destitution d’un administrateur fera l’objet d’une publication aux
+annexes du moniteur belge, endéans le mois.
+L’assemblée générale de ce jour, a élu en qualité de conseil d’administration :
+-Président  Monsieur EL AMRI Soufiane, né le 12 octobre 1992 à Bruxelles de nationalité Belge, demeurant au
+numéro 108 de la rue d’Anderlecht à 1000 Bruxelles numéro de registre national : 92.10.12/177.10
+-Secrétaire Monsieur NAJAHI Sohaib, né le 12 septembre 1988 à Bruxelles de nationalité Belge, demeurant au
+numéro 25 de la rue du vautour à 1000 Bruxelles numéro de registre national : 88.09.12/289.01
  
-Est réputé démissionnaire le membre qui ne paye pas la cotisation qui lui incombe, dans le mois du rappel qui lui
-est adressé par courrier postal, téléfax ou courriel. Est réputé démissionnaire de plein droit le membre qui est
-l'objet d'une interdiction judiciaire. Le Conseil d'administration constate que le membre adhérent est réputé
-démissionnaire.
+-Trésorier Monsieur  EN-NALY Hicham 01 octobre 1988 à Bruxelles de nationalité Belge, demeurant au numéro
+60 de la rue du vautour 1000 Bruxelles. numéro de registre national : 88.10.01/079.63
+Article 16 :
+Les administrateurs sont nommés pour  un terme de quatre ans, sauf le premier qui est de six ans. Le mandat
+débute le premier janvier après les élections et est renouvelable. Et prend fin par décès, démission ou
+révocation. Les prochaines élections auront lieu en 2021.
+Article 17 :
+Le conseil d’administration désigne parmi ses membres : un président, un secrétaire et un trésorier. Le conseil
+est convoqué par le président ou le secrétaire. Les réunions sont présidées par le président. En cas
+d’empêchement, les réunions sont  valablement présidées par le plus ancien des administrateurs présents. Le
+conseil d’administration ne peut délibérer valablement que si au moins la moitié des administrateurs  sont
+présents.
+Les décisions sont prises à la majorité absolue des voix. En cas de parité des voix, celle du président ou de son
+remplaçant est prépondérante.
+Article 18 :
+Le conseil d’administration se réunit chaque fois que l’intérêt de l’association l’exige et, en temps normal, une fois
+par mois/ les réunions se tiennent au lieu indiqué dans la convocation qui contient l’ordre du jour. Sauf mention
+contraire, le conseil d’administration prend ses décisions à la majorité simple des membres présents.
+Les délibérations du conseil d’administration sont consignées sous formes de procès verbaux contresignés par le
+secrétaire et inscrites dans un registre spécial. Les extraits qui doivent être produits et tous les autres actes
+seront signés par le secrétaire ou un administrateur.
+TITRE 4 : Gestion journalière, responsabilité, ressources
+Le conseil d’administration peut déléguer la gestion journalière de l’association à un Administrateur délégué,
+membre du conseil d’administration dont il fixe les pouvoirs et les rémunérations. Il peut également conférer tout
+pouvoir à un ou plusieurs mandataires de son choix, membres ou non de l’association ; dans tous les actes,
+l’association est valablement représentée à l’égard des tiers par deux membres du conseil d’administration, dont
+les signatures conjointes suffisent sans qu’ils aient à justifier d’aucune délibération ou autorisation.
+Article 20 : Responsabilité
+Les administrateurs ne contractent  aucune obligation personnelle relativement aux engagements de
+l’association. Leur responsabilité est limitée au mandat qu’ils ont reçu.
+Article 21 :
+Les actions en justice, tant en défendant qu’en demandant sont intentées et soutenues au nom de l’association
+par le conseil d’administration représenté, sauf dérogation expresse par le président.
+Article 22 : Les ressources de l’association proviendront :
+De la mise au service de ses membres d’une table de produits variés à des prix non commerciaux ;
+De boissons pour se désaltérer après la réunion moyennant quelques pièces ;
+Un local qui peut être loué à petit prix ;
+Des cotisations de ses membres ;
+Des dons et legs ;
+Des subsides privés ou officiels ;
+Des produits des activités socioculturelles et des collectes ;
+Ainsi que tout autre moyen
  
- 
-Chapitre 4 -Cotisations
- 
-Art. 15.Les membres adhérents paient une cotisation annuelle sous peine d'être réputés démissionnaires
-conformément à l’article 14. Le montant de cette cotisation annuelle est fixé par le conseil d’administration sans
-pouvoir dépasser la somme de 100 euros.
- 
- 
-Chapitre 5 -Assemblée générale
- 
-Art. 16.L'assemblée générale est composée de tous les membres effectifs de l'association et d'eux seuls. Elle est
-présidée par le président du conseil d'administration ou en cas d’empêchement de celui-ci, par le vice président
-ou par le plus âgé des administrateurs présents.
- 
-L’assemblée générale est le pouvoir souverain de l’association. Elle possède les pouvoirs qui lui sont
-expressément conférés par la loi et les présents statuts.
- 
-Les attributions de l’assemblée générale comportent le droit :
- 
-de modifier les statuts,
- 
-d’admettre les nouveaux membres,
- 
-d’exclure un membre,
- 
-de prononcer la dissolution volontaire de l’association ou la transformation de celle-ci en société à finalité sociale,
- 
-de nommer et révoquer les administrateurs
- 
-de nommer et révoquer le ou les commissaires, le ou les vérificateurs aux comptes, le ou les liquidateurs ainsi
-que de fixer leur rémunération dans les cas où une rémunération est attribuée,
- 
-d’approuver annuellement les comptes et budget,
- 
-d’approuver le règlement d’ordre intérieur et ses modifications,
- 
-de donner la décharge aux administrateurs et aux commissaires et, en cas de dissolution volontaire, aux
-liquidateurs,
- 
-de décider d’intenter une action en responsabilité contre tout membre de l’association, tout administrateur, tout
-commissaire ou toute personne habilitée à représenter l’association ou tout mandataire désigné par l’assemblée
-générale,
- 
-d’indiquer la destination de l’actif net en cas de dissolution de l’association.
- 
- 
-Art. 17.L'assemblée générale se tiendra au moins une fois l'an dans le courant du premier semestre de l’année
-civile au siège de l'association ou en tout autre endroit désigné par le conseil d'administration et qui sera indiqué
-sur la convocation.
- 
-Chaque réunion se tiendra aux jour, heure et lieu mentionnés dans la convocation. Tous les membres doivent y
-être convoqués.
- 
-Art. 18.L'assemblée générale peut être convoquée en une réunion extraordinaire par le conseil d'administration
-chaque fois qu'il le juge utile ou à la demande d'un cinquième des membres effectifs. Le président aura mandat
-pour le faire.
- 
-Art. 19.L’assemblée générale est convoquée au nom du conseil d’administration par lettre ordinaire confiée à la
-poste ou remise de la main à la main, ou encore par courriel ou par téléfax, au moins 8 jours avant la date de
-l’assemblée, et signée par un administrateur au nom du conseil d'administration.
- 
+TITRE 5 : Règlement d’ordre intérieur – Exercice social
+Article 23 :
+Un règlement d’ordre intérieur pourra être présenté par le conseil d’administration à l’assemblée générale.
+Article 24 :
 
 Bi
 jla
@@ -419,10 +419,10 @@ bl
 ad
  - 
 
-12
+25
 /0
 
-9/
+4/
 20
 
 16
@@ -463,74 +463,36 @@ belge
 Volet B - suite
 MOD 2.2
 
-Art. 20.Les convocations porteront l'ordre du jour. Si L'assemblée générale doit approuver les comptes et
-budgets, ceux-ci sont annexés à la convocation. Toute proposition signée par un vingtième des membres doit
-être portée à l'ordre du jour.
- 
-Art. 21.Chaque membre effectif a le droit d'assister à l'assemblée. Tous les membres effectifs ont un droit de vote
-égal à l'assemblée générale. Seul le membre en règle de cotisation peut participer au vote.
- 
-Art. 22.Tout membre effectif peut se faire représenter par un autre membre porteur d'une procuration dûment
-signée. Chaque membre ne peut être porteur que d'une seule procuration.
- 
-Art. 23.Sauf dans les cas où la loi ou les statuts en décident autrement, les résolutions de l'assemblée générale
-sont prises à la majorité simple des membres présents ou représentés.
- 
-Les votes nuls, blancs ainsi que les abstentions ne sont pas pris en compte pour le calcul des majorités.  Quand
-l’assemblée doit décider de l’exclusion d’un membre, d’une modification statutaire, de la dissolution de l’ASBL ou
-de sa transformation en société à finalité sociale, les votes nuls, blancs, ainsi que les abstentions sont assimilés
-à des votes négatifs.
- 
-En cas de parité des voix, celle du président ou de l'administrateur qui le remplace est prépondérante.
- 
-Art. 24.L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association, sur l’exclusion d’un
-membre, sur la modification des statuts ou sur la transformation en société à finalité sociale que conformément
-aux articles 8, 12, 20 et 26 quater de la loi du 27 juin 1921, relative aux associations sans but lucratif.
- 
-Art. 25.L'assemblée ne peut délibérer valablement que sur les points inscrits à l'ordre du jour.
- 
-En cas d’urgence dûment motivée à la prochaine assemblée générale, un point non inscrit à l’ordre du jour peut
-être délibéré, à condition que la moitié des membres soient présents ou représentés à l’assemblée générale et
-que deux tiers d’entre eux acceptent d’inscrire ce point à l’ordre du jour.
- 
-Art. 26.Les décisions de l’assemblée générale sont consignées dans un registre des procès-verbaux.
- 
-Les procès-verbaux sont rédigés par le secrétaire du conseil d'administration ou, en cas d'empêchement, par un
-autre administrateur désigné à cet effet par le conseil d'administration. Ils sont signés par le secrétaire et
-conservés dans un registre au siège social  de l'association. Tout membre peut consulter ces procès-verbaux
-mais sans déplacement du registre.
- 
-Tout membre justifiant d'un intérêt légitime peut demander des extraits des procès-verbaux signés par le
-président ou par un autre administrateur.
- 
-Art. 27.Toute modification aux statuts doit être déposée sans délai, au greffe du tribunal de commerce et publiée
-aux annexes du Moniteur belge conformément à l'article 26 novies de la loi du 27 juin 1921. Il en est de même
-pour toute nomination ou cessation de fonction d'un administrateur, d'une personne habilitée à représenter
-l'association, d'une personne déléguée à la gestion journalière ou, le cas échéant, d'un commissaire.
+L’exercice social commence le 18 avril et se termine le trente et un décembre. Le premier exercice débute ce jour
+et se termine le 31 décembre deux milles dix-neuf.
+TITRE 6 : Contrôle de gestion – Comptes et budgets – Dissolution[i]
+Article 25 : Contrôle de gestion
+La gestion de l’association est soumise au contrôle d’un  ou de deux commissaires désignés par l’assemblée
+générale, dont un au moins est membre effectif de l’association.
+Article 26 : Comptes et budgets
+Les comptes annuels de l’exercice ainsi que le budget de l’année suivante seront soumise, chaque année, à
+l’approbation de l’assemblée générale ordinaire.
+Article 27 : Dissolution
+En cas de dissolution de l’association, l’assemblée générale désignera le ou les liquidateurs, déterminera leurs
+pouvoirs et indiquera l’affectation à donner à l’actif net de l’avoir social. Cette affectation devra obligatoirement
+être faite en faveur d’une ASBL à but similaire.
+Article 28 :
+Tout ce qui n’est pas prévu explicitement dans les présents statuts est réglé par la loi du 27 juin 1971, les
+dispositions légales générales, le règlement d’ordre intérieur et les usages.
+Les présents statuts, établis en 3 exemplaires, ont été approuvés à l’unanimité par les membres fondateurs
+présents à l’assemblée générale, tenue le 18  avril 2016 à Bruxelles.
  
  
-Chapitre 6 -Conseil d’administration et organe délégué à la gestion journalière
  
-Art. 28.Hormis le cas où le conseil d’administration crée un ou plusieurs organes de représentation ou de gestion
-journalière, l'association est administrée par un conseil d'administration de 3 membres minimum élus pour 20 ans
-parmi les membres effectifs de l'association.
  
-Les candidatures doivent être présentées au plus tard cinq jours avant l'ouverture de cette assemblée générale.
-  
-Art. 29.Le nombre minimum d’administrateurs peut être ramené à deux lorsque l’assemblée générale comporte
-trois membres.
+Président 
+Monsieur El Amri Soufiane         
  
-Le nombre d'administrateurs doit toujours être inférieur au nombre de personnes membres de l'association.
+Lu et approuvé par :
+Monsieur El AMRI Soufiane , Monsieur EN-NALY Hicham, Monsieur NAJAHI Sohaib
+  Fait à Bruxelles le 18/04/2016
  
-Art. 30.Les administrateurs sont nommés par l'assemblée générale à la majorité simple des voix présentes et
-représentées. Ils sont en tout temps révocables par elle. Le mandat d'administrateur se termine à la date de la
-20ème assemblée générale ordinaire qui suit celle qui l’a désigné comme administrateur.
  
-Les administrateurs sortants sont rééligibles.
- 
-Art. 31.Tout administrateur qui veut démissionner doit signifier sa démission par écrit au conseil d’administration.
- 
-L’administrateur démissionnaire doit toutefois rester en fonction jusqu’à la date de la prochaine assemblée
 
 Bi
 jla
@@ -559,510 +521,10 @@ bl
 ad
  - 
 
-12
+25
 /0
 
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-générale si sa démission a pour effet que le nombre d’administrateur devienne inférieur au nombre minimum fixé
-aux articles 28 et 29.
- 
-Art. 32.Le conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de
-l’association en ce compris aliéner, hypothéquer et soumettre un litige à l’arbitrage. Il a dans sa compétence tous
-les actes qui ne sont pas réservés expressément par la loi et les statuts à l’assemblée générale.
- 
-Art. 33.En cas de vacance d'un mandat, un administrateur provisoire peut être nommé par l'assemblée générale.
-Il achèvera le mandat de l'administrateur qu'il remplace.
- 
-Art. 34.Le conseil d'administration peut désigner en son sein un président, le cas échéant, un vice-président, un
-secrétaire et un trésorier. En cas d'empêchement du président c'est le vice-président ou, à défaut, le plus âgé
-des administrateurs qui assumera ses fonctions.
- 
-Le président est chargé notamment de présider le conseil d’administration. Le secrétaire est notamment chargé
-de rédiger les procès-verbaux, de veiller à la conservation des documents. Il procède au dépôt, dans les plus
-brefs délais, des actes exigés par la loi du 27 juin 1921 au greffe du Tribunal de commerce compétent. Le
-trésorier est notamment chargé de la tenue des comptes, de la déclaration à l’impôt, des formalités pour
-l’acquittement de la taxe sur le patrimoine et de la T.V.A. et, le cas échéant, du dépôt des comptes à la Banque
-nationale de Belgique. En cas d’empêchement temporaire du président, du secrétaire ou du trésorier, le conseil
-d’administration peut désigner un administrateur pour le(s) remplacer à titre intérimaire.
- 
-Art. 35.Le conseil se réunit sur convocation du président ou de deux administrateurs. Il se réunit au moins quatre
-fois par an. La convocation du conseil d’administration est envoyée par lettre ordinaire confiée à la poste ou
-remise de la main à la main, par courriel ou par téléfax, au moins huit jours avant la date fixée pour la réunion du
-conseil. Elle contient l’ordre du jour.
- 
-Art. 36.Le conseil d'administration forme un collège et ne peut statuer que si la majorité de ses membres sont
-présents ou représentés.
- 
-Art. 37.Les décisions du conseil d'administration sont prises à la majorité simple des voix présentes ou
-représentées. Chaque administrateur dispose d'une voix.
- 
-En cas de parité des voix, celle du président ou de l'administrateur qui le remplace est prépondérante.
- 
-Les votes nuls, blancs ainsi que les abstentions ne sont pas pris en compte pour le calcul des majorités.
- 
-Art. 38.Les membres du conseil peuvent se faire représenter par un autre administrateur porteur d'une
-procuration dûment signée. Chaque administrateur ne peut être porteur que d'une seule procuration.
- 
-Art. 39.Le conseil d'administration ne peut délibérer valablement que sur les points inscrits à l'ordre du jour.
- 
-Exceptionnellement, un point non inscrit à l'ordre du jour peut être délibéré si au moins la majorité des
-administrateurs présents ou représentés acceptent d’inscrire ce point à l’ordre du jour
- 
-Art. 40.Tout administrateur qui a un intérêt opposé à celui de l’association ne peut participer aux délibérations et
-aux votes sur ce point de l’ordre du jour.
- 
-Art. 41.Les décisions du conseil d’administration sont consignées dans un registre des procès-verbaux.
- 
-Les procès-verbaux sont rédigés par le secrétaire du conseil d'administration ou, en cas d'empêchement, par un
-autre administrateur désigné à cet effet par le conseil d'administration. Ils sont signés par le secrétaire et
-conservés dans un registre au siège social  de l'association. Tout membre peut consulter ces procès-verbaux
-mais sans déplacement du registre. Tout membre justifiant d'un intérêt légitime peut demander des extraits des
-procès-verbaux signés par le président ou par un autre administrateur.
- 
-Art. 42.Les administrateurs exercent leur fonction à titre gratuit. Toutefois, les frais exposés lors de l'exercice de
-leur fonction peuvent être remboursés par l'association.
- 
-Art. 43.Les administrateurs, ne contractent, en raison de leurs fonctions, aucune obligation personnelle et ne sont
-responsables que de l'exécution de leur mandat.
- 
-Art. 44.L’association est aussi valablement engagée par des mandataires spéciaux et ce, dans les limites
-données à leurs mandats.
- 
-Le Conseil d’Administration peut ainsi déléguer une partie de ses pouvoirs à un ou plusieurs administrateurs ou à
-des tiers. Dans ce cas, l’étendue des pouvoirs du (des) mandataire(s) sera précisée ainsi que la durée du
-mandat. La cessation de fonction d'un administrateur met fin à tout pouvoir délégué par le conseil
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-12
-/0
-
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-d'administration.
- 
-Art. 45.Le conseil d’administration peut déléguer la gestion journalière de l’association, avec l’usage de la
-signature afférente à cette gestion, à une ou plusieurs personnes, administrateurs ou non. Le(s) délégué(s) à la
-gestion journalière agi(ssen)t en qualité d’organe. S’ils sont plusieurs, ils agissent individuellement.
- 
-La gestion journalière est le pouvoir d’accomplir des actes d’exécution journalière de la ligne de conduite décidée
-par le conseil d’administration et qui doivent être accomplis régulièrement pour assurer la bonne marche des
-activités déployées par l’association, en ce compris notamment :
- 
-1. L’ouverture et la gestion des comptes bancaires
-2. La relation avec les pouvoirs publics
-3. La tenue de la comptabilité
-4. La tenue de documents administratifs (convocations, procès verbaux, documents sociaux et fiscaux, etc.).
- 
-Les personnes chargées, en qualité d’organe, d’assumer la gestion journalière de l’association, sont désignées
-par le conseil d’administration.
- 
-La durée du mandat, éventuellement renouvelable, est fixée par le conseil d’administration et est de maximum 20
-ans.
- 
-Le mandat prend fin automatiquement quand le délégué chargé de la gestion journalière perd sa qualité
-d’administrateur (ou s’il n’est plus membre du personnel de l’ASBL). Le conseil d’administration peut, à tout
-moment et sans qu’il doive se justifier, mettre fin au mandat conféré à la personne (aux personnes) chargée(s)
-de la gestion journalière.
- 
-L’association est valablement représentée dans tous les actes ou en justice par deux administrateurs agissant
-conjointement qui, en tant qu’organe, ne devront pas justifier vis-à-vis des tiers d’une décision préalable et d’une
-procuration du conseil d’administration et dans les limites de la gestion journalière et des pouvoirs qui (leur) ont
-été conférés, par le ou les délégués à cette gestion, agissant séparément qui, en tant qu’organe(s), ne devra
-(devront) pas justifier d’une décision préalable.
- 
-Les personnes chargées, en qualité d’organe, de représenter l’ASBL sont désignées par le conseil
-d’administration.
- 
-La durée du mandat, éventuellement renouvelable, est fixée par le conseil d’administration à un maximum  de 20
-ans.
- 
-Le mandat prend fin automatiquement quand la personne chargée de la représentation générale perd sa qualité
-d’administrateur. Le conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin au
-mandat conféré à la personne (aux personnes) chargée(s) de la représentation générale de l’association.
- 
- 
-Chapitre 7 -Comptes et budgets
- 
-Art. 46.L'exercice social commence le 1er janvier pour se terminer le 31 décembre.
- 
-Par exception, le premier exercice social débutera le jour  de la constitution de l’ASBL pour se terminer le 31
-décembre 2017.
-
- Les comptes de l’exercice écoulé, le budget pour l’exercice suivant seront soumis annuellement pour
-approbation à l’assemblée générale.
-Le budget présente les recettes et les dépenses ordinaires et extraordinaires de l’exercice social suivant.
- 
-L’assemblée générale peut désigner chaque année un ou plusieurs vérificateurs aux comptes.
- 
- 
-Chapitre 8 -Règlement d’ordre intérieur
- 
-Art. 47.Un règlement d’ordre intérieur peut être instauré. Son acceptation ainsi que les modifications qui
-pourraient y être apportées nécessitent une décision de l’assemblée générale réunissant au moins la moitié des
-membres et statuant à la majorité absolue des voix des membres présents et représentés.
- 
- 
-Chapitre 9 -Actions en justice
- 
-Art. 48.Les actions judiciaires, tant en demandant qu’en défendant, sont décidées par le conseil d’administration
-et intentées ou soutenues au nom de l’association par une majorité de ses administrateurs ou par un avocat
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-12
-/0
-
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-choisi par le conseil d’administration.
- 
-L’avocat reçoit son mandat ad litem du conseil d’administration, de l’organe délégué à la gestion journalière ou
-du mandataire spécial que le conseil d’administration désigne pour le lui remettre.
- 
-Toutefois, si l’action est intentée contre un membre de l’association, un administrateur, un commissaire, une
-personne habilitée à représenter l’association ou un mandataire désigné par l’assemblée générale, la décision
-est prise par l’assemblée générale.
- 
- 
-Chapitre 10 -Dissolution
- 
-Art. 49.En cas de dissolution volontaire, l’assemblée générale désigne un ou deux liquidateurs, détermine leurs
-pouvoirs et indique l'affectation à donner à l'actif net de l'avoir social, lequel doit être affecté en tout état de cause
-à une fin désintéressée et si possible à une oeuvre ayant des but et objet similaires à ceux de la présente
-association.
- 
- 
-Chapitre 11 -Dispositions diverses
- 
-Art. 50.Toutes dispositions contraires aux stipulations impératives de la dite loi est réputée non écrite.
-  
-Art. 51.Tout ce qui n'est pas prévu explicitement par les présents statuts est réglé conformément à la loi du 27
-juin 1921 relative aux associations sans but lucratif, associations internationales sans but lucratif et fondations.
- 
- 
-Chapitre 12 -Dispositions transitoires
- 
-L’assemblée générale réunie ce 30 aout 2016 a, après avoir adopté les présents statuts, décidé aux quorums
-légaux de présence et de vote que le conseil d’administration serait composé des administrateurs suivants pour
-une durée de 20 ans :
- 
-VINCENT Pierre (Roland, Léonard, Louis, Emile) domicilié à Le Trou 12 A à 4190 Ferrières et né à Liège le 2 mai
-1968 (RN 68050202520)
-VINCENT Maxime (Pierre, Robert, Marcel) domicilié à Le Trou 12 A à 4190 Ferrières et né à Liège le 8 février
-1990 (RN 90020816940)
- 
-qui acceptent ce mandat.
- 
- 
-Le conseil d’administration réuni ce même 30 août 2016 a désigné pour une durée de 30 ans renouvelable en
-qualité de
- 
-Président :             VINCENT Pierre (Roland, Léonard, Louis, Emile) domicilié à Le Trou 12 A à 4190 Ferrières et
-né à Liège le 2 mai 1968 (RN 68050202520)
- 
-Secrétaire :            VINCENT Pierre (Roland, Léonard, Louis, Emile) domicilié à Le Trou 12 A à 4190 Ferrières et
-né à Liège le 2 mai 1968 (RN 68050202520)
-
- Trésorier : VINCENT Maxime (Pierre, Robert, Marcel) domicilié à Le Trou 12 A à 4190 Ferrières et né à Liège le
-8 février 1990 (RN 90020816940)
- 
-Le conseil d’administration désigne comme personne(s) chargée(s) de la gestion journalière pour une durée de
-20 ans renouvelable :
- 
-POLET Irène (Claire, Louise, Marie) domiciliée à Le Trou 12 A à 4190 Ferrières et née à Fosse-sur-Salm le 13
-janvier 1967 (RN 67011321632)
- 
-et qui possède tous les pouvoirs de gestion et de représentation afférente à cette gestion quotidienne. Il(s) agit
-(agissent) en qualité d’organe, individuellement.
- 
-Le conseil d’administration désigne comme personne disposant du pouvoir de représenter l’association pour une
-durée de 20 ans renouvelable :
- 
-VINCENT Pierre (Roland, Léonard, Louis, Emile) domicilié à Le Trou 12 A à 4190 Ferrières et né à Liège le 2 mai
-1968 (RN 68050202520)
-VINCENT Maxime (Pierre, Robert, Marcel) domicilié à Le Trou 12 A à 4190 Ferrières et né à Liège le 8 février
-1990 (RN 90020816940)
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-12
-/0
-
-9/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
- 
-et qui possède le pouvoir de représenter l’association dans tous les actes juridiques et en justice. Il(s) agit
-(agissent) en qualité d’organe, conjointement.
- 
-Le Conseil d’administration a repris tous les engagements pris au nom de l’ASBL en formation par Irène POLET
-et ce depuis le 26 aout 2016.
- 
-Fait en deux exemplaires à Liège, le 30 août 2016.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-12
-/0
-
-9/
+4/
 20
 
 16

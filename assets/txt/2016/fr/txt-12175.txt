@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-FRANCHISES 4
+TEETOP
 
-Rue de Sclessin 59
-4000 Liège
+Chaussée de Dinant 1
+5590 Ciney
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
+SPRL « TEETOP »
+ Société Privée à Responsabilité Limitée
+ Siège social : 5590 Ciney, Chaussée de Dinant 1
+ Ressort du Tribunal de Commerce de Liège division de Dinant
+ C O N S T I T U T I O N
+ ---------------------------------------
+L’AN DEUX MILLE SEIZE.
+Le douze avril.
+Devant Nous, Maître Louis JADOUL, Notaire associé à Namur.
+ ONT COMPARU
+1. Monsieur HOUTART Paul Albert Henri Marie, né à Ixelles le neuf avril mil neuf cent septante,
+époux de Madame de BEER de LAER Laurence, demeurant et domicilié à 5590 Ciney, chaussée de
+Dinant, 1.
+2. Monsieur HOUTART Jean Francis Claude Bernard Paul, né à Namur le vingt-deux août mil neuf
+cent septante-deux, époux de Madame MARCHANDISE Rachel, demeurant et domicilié à 5000
+Namur, Chemin de la Taille au Vivier, 2.
+Comparants dont l’identité bien connue du Notaire instrumentant a été établie au vu du registre
+national des personnes physiques et de la carte d’identité.
  
-Il résulte d'un acte reçu par le notaire Michel COËME, associé à Tilleur, le 25 avril 2016, ce qui suit
-:1.- Madame ANCION Carole Véronique Jeanne Ghislaine, née à Liège le 7 mars 1986, domiciliée à
-4100 Seraing rue Solvay, 12/1.
-2.- La société privée à responsabilité limitée DOCTEUR SABINE GURNÉ, ayant son siège social à
-4020 Liège, rue de Paris, 5, reprise au registre des personnes morales sous le numéro
-0832.210.906., constituée aux termes d'un acte reçu par le notaire Michel COËME, associé à Tilleur,
-le 20 décembre 2010, publié aux annexes du Moniteur Belge le 29 décembre suivant, référence
-0307135, dont les statuts n'ont pas été modifiés.
-Ici représentée par son gérant, Madame GURNE Sabine Rose Monique Bernadette, née à Liège le
-13 octobre 1970, domiciliée à 4020 Liège, rue de Paris 5.
-3.- Madame LAMBERT Fabienne Jeanne Françoise, née à Goma (Congo), le 22 septembre 1956,
-domiciliée 4000 Liège, Place des Franchises, 4.
-4.- Madame LEMAÎTRE Anne Françoise Valérie Marie Suzanne, née à Liège le 15 août 1988, 
-domiciliée à 4000 Liège, rue Maghin 42.
-ont requis le notaire soussigné d’acter qu’ils constituent entre eux une société civile à forme
-commerciale et d’arrêter les statuts d’une société privée à responsabilité limitée, dénommée «
-FRANCHISES 4», au capital de cinquante mille euros (50.000,00 €), représentés par cent vingt (120)
-parts sociales sans valeur nominale, représentant chacune un / cent vingtième (1/120ème) de l’avoir
-social.
-Ils déclarent que les cent vingt (120) parts sont souscrites en espèces, comme suit :
-- par Madame ANCION : trente (30) parts sociales
-- par la SPRL Docteur Sabine GURNE : trente (30) parts sociales
-- par Madame LAMBERT : trente (30) parts sociales
-- par Madame  LEMAÎTRE : trente (30) parts sociales
-B.  STATUTS
-Article 1 - Forme
-La société adopte la forme de la société privée à responsabilité limitée.
-Article 2 - Dénomination
-La société est dénommée «FRANCHISES 4».
-Dans tous actes, factures, annonces, publications, lettres, notes de commande, sites Internet et
-autres documents, sous forme électronique ou non, émanant de la société, il devra être fait mention :
-• de la dénomination de la société,
-• de la forme, en entier ou en abrégé, ainsi que selon le cas, les mots « société à forme commerciale
-» reproduits lisiblement et placés immédiatement avant ou après le nom de la société,
-• l’indication précise du siège de la société,
-• le numéro d’entreprise,
-• le terme « registre des personnes morales » ou l’abréviation « RPM », suivi de l’indication du siège
+Lesquels nous ont requis d’acter authentiquement ce qui suit :
+1. CONSTITUTION
+Les comparants déclarent constituer une société commerciale et dresser les statuts d’une société
+privée à responsabilité limitée sous la dénomination « TEETOP », dont le siège social sera établi à
+5590 Ciney, Chaussée de Dinant 1 dans le ressort du Tribunal de Commerce de Liège division de
+Dinant et au capital de vingt mille euros (20.000 EUR) représenté par deux cent (200) parts sociales,
+sans mention de valeur nominale.
+Plan financier
+Les comparants ont remis ce jour au notaire soussigné le plan financier de la société.
+Souscription et libération des parts sociales par apport en espèces
+Les comparants déclarent que les deux cent (200) parts sociales sont à l’instant souscrites en
+espèces par eux, au prix de cent euros (100 EUR) chacune, comme suit :
+- Monsieur HOUTART Jean : cent (100) parts sociales, soit pour dix mille euros (10.000 EUR) ;
+- Monsieur HOUTART Paul : cent (100) parts sociales, soit pour dix mille euros (10.000 EUR).
+Soit ensemble : deux cent (200) parts sociales, pour vingt mille euros (20.000 EUR).
+Les comparants déclarent que chacune des parts sociales est libérée intégralement, par un
+versement d’une somme de vingt mille euros (20.000 EUR) qu’ils ont effectué préalablement à la
+constitution de la société sur un compte spécial ouvert au nom de la société en formation auprès de
+la Banque Van Breda, compte numéro BE79 6451 0363 4633, de sorte que la société a dès à
 
- *16309563*
+ *16308228*
 Déposé
-28-04-2016
+12-04-2016
 
-0652905020
+0651850094
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-02
+14
 /0
 
-5/
+4/
 20
 
 16
@@ -187,68 +187,69 @@ au
 
 Mod PDF 11.1
 
-du tribunal dans le ressort duquel la société a son siège social
-• le cas échéant, l’indication que la société est en liquidation.
-Article 3 : Siège social
-Le siège social est établi à 4000 Liège, rue de Sclessin, 59.
-Il pourra être établi en tout autre endroit de la région de langue française de Belgique ou de la région
-de Bruxelles-Capitale par simple décision de la gérance qui a tous pouvoirs pour faire constater
-authentiquement la modification des statuts qui en résulte.
-La société peut établir, par simple décision de la gérance, des sièges administratifs, d’exploitation,
-agences et succursales en Belgique ou à l’étranger.
-Article 4 - Objet
-La société a pour objet, pour compte propre, pour compte de tiers ou en participation, en Belgique ou
-à l’étranger :
-- La gestion et le développement, dans son sens le plus large, d'un patrimoine immobilier et mobilier ;
-- La mise en location ou l’exploitation de bâtiments à des fins médicales, tels que des cabinets de
-consultations ;
-- Dans ce cadre, et en s'abstenant de poser personnellement des actes à caractère commercial,
-valoriser ce patrimoine par des actes de gestion et même de disposition tels que : achat, vente,
-aménagements, location, leasing, prises de participations dans d'autres sociétés, dans l'élaboration
-de projets relatifs à la gestion de patrimoines en général.
-- Le soutien d'autres sociétés dans leur développement par une aide à leur gestion et par la mise de
-capitaux à leur disposition, conférer ou accepter des garanties tant personnelles que réelles.
-Elle peut se porter caution et donner toute sûreté personnelle ou réelle en faveur de toute personne
-ou société liée ou non.
-Elle peut accomplir toutes opérations commerciales, industrielles, financières, mobilières ou
-immobilières, se rapportant directement ou indirectement à son objet.
-Elle peut s’intéresser par toutes voies dans toutes sociétés, associations ou entreprises ayant un
-objet similaire ou connexe au sien ou susceptible de favoriser le développement de ses activités.
-La société peut être administrateur, gérant ou liquidateur.
-Article 6 - Capital
-Le capital social est fixé à cinquante mille euros (50.000,00 €). Il est divisé en cent vingt (120) parts
-sociales sans valeur nominale, représentant chacune un / cent vingtième (1/120ème) de l’avoir
-social.
-Article 8 - Cession et transmission des parts.
-A.  Cessions libres
-Les parts peuvent être cédées entre vifs ou transmises pour cause de mort, sans agrément, à un
-associé.
-B.  Cessions soumises à agrément
-Tout associé qui voudrait céder ses parts entre vifs à une personne autre que celles visées à l’alinéa
-précédent devra, à peine de nullité, obtenir l’agrément de la moitié au moins des associés,
-possédant les trois/quarts au moins des parts sociales, déduction faite des parts dont la cession est
-proposée.
-A cette fin, il devra adresser à la gérance, sous pli recommandé, ou tout autre moyen de
-communication comportant un accusé de réception dépourvu d’équivoque, une demande indiquant
-les nom, prénoms, professions, domiciles du ou des cessionnaires proposés ainsi que le nombre de
-parts dont la cession est envisagée et le prix offert.
-Dans les huit jours de la réception de cette lettre, la gérance en transmet la teneur, par pli
-recommandé, à chacun des associés, en leur demandant une réponse affirmative ou négative par
-écrit dans un délai de quinze jours et en signalent que ceux qui s’abstiennent de donner leur avis
-seront considérés comme donnant leur agrément.  Cette réponse devra être envoyée par pli
-recommandé ou tout autre moyen de communication comportant un accusé de réception dépourvu
-d’équivoque.
-Dans la huitaine de l’expiration du délai de réponse, la gérance notifie au cédant le sort réservé à sa
-demande.
-Les héritiers ou légataires qui ne deviendraient pas de plein droit associés aux termes des présents
-statuts seront tenus de solliciter, selon les mêmes formalités, l’agrément des associés.
-Le refus d’agrément d’une cession entre vifs est sans recours; néanmoins, l’associé voulant céder
-tout ou partie de ses parts pourra exiger des opposants qu’elles lui soient rachetées à leur valeur
-fixée par un expert choisi de commun accord ou, à défaut, par le président du tribunal de commerce
-du siège social, statuant comme en référé.  Il en sera de même en cas de refus d’agrément d’un
-héritier ou d’un légataire.  Dans l’un et l’autre cas, le paiement devra intervenir dans les six mois du
-refus.
-C. Cessions soumises à droit de préemption
+présent de ce chef à sa disposition une somme de vingt mille euros (20.000 EUR).
+Conformément au Code des sociétés, une attestation de l’organisme dépositaire, datée du premier
+avril deux mille seize et justifiant ce dépôt, a été remise au Notaire soussigné.
+Les comparants préalablement à la constitution de la société qui va suivre, reconnaissent :
+a. savoir que tout bien appartenant à l’une des personnes visées à l’article 220 du Code des
+sociétés, à un administrateur ou à un actionnaire, fondateur, associé ou gérant, que la société se
+propose d’acquérir dans un délai de deux ans à compter de sa constitution, le cas échéant, en
+application de l’article 60 du Code des sociétés, pour une contre-valeur au moins égale à un/dixième
+du capital souscrit, doit faire l’objet d’un rapport établi soit par le commissaire, soit, pour la société
+qui n’en a pas, par un reviseur d’entreprises désigné par le conseil d’administration ;
+b. que le notaire instrumentant a attiré leur attention sur les dispositions légales relatives,
+respectivement à la responsabilité personnelle qu’encourent les administrateurs et gérants de
+sociétés, en cas de faute grave et caractérisée, à l’obligation de remettre au notaire instrumentant un
+plan financier justifiant le montant du capital de la présente société et à l’interdiction faite par la loi à
+certaines personnes de participer à l’administration et au contrôle de la société.
+2. STATUTS
+Les comparants fixent les statuts de la société comme suit :
+ARTICLE UN – FORME - DENOMINATION
+La société adopte la forme de la société privée à responsabilité limitée. Elle est dénommée «
+TEETOP ».
+La dénomination doit toujours être précédée ou suivie des mots "Société Privée à Responsabilité
+Limitée", ou en abrégé "SPRL".
+Dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres pièces
+et documents émanant de la société, cette dénomination doit toujours être précédée ou suivie
+immédiatement et de façon lisible de la mention "Société Privée à Responsabilité Limitée" ou des
+initiales « SPRL ».
+Elle doit en outre être accompagnée de l'indication précise du siège social de la société, des mots
+"Registre des personnes morales" ou des lettres abrégées "R.P.M." suivie de l'indication du ou des
+sièges du tribunal de commerce dans le ressort duquel la société a son siège social et ses sièges
+d'exploitation ainsi que du ou des numéros d'immatriculation.
+ARTICLE DEUX - SIEGE SOCIAL
+Le siège social est établi à 5590 Ciney, Chaussée de Dinant 1, dans le ressort du Tribunal de
+Commerce de Liège division de Dinant.
+Il pourra être transféré en tout endroit de la région de langue française de Belgique ou de la région
+de Bruxelles-Capitale par simple décision de la gérance.
+Tout changement du siège social sera publié aux annexes du Moniteur Belge par les soins de la
+gérance.
+La société pourra, par simple décision de la gérance, établir des succursales ou agences en
+Belgique ou à l'étranger.
+ARTICLE TROIS - OBJET
+La Société a pour objet, tant en Belgique qu'à l'étranger, soit pour elle-même, soit pour compte de
+tiers toutes opérations se rapportant directement ou indirectement :
+- à la création, la réalisation, la production, l’édition, la communication et la diffusion de montages
+photographiques, de vidéos, de films, de reportages et de prospectus ;
+- à la vente en gros ou en détail de tout matériel hi-fi, DVD, home cinéma, le traitement acoustique et
+de manière plus généralement quelconque la vente de tout matériel se rapportant directement ou
+indirectement à la diffusion d'images et/ou de sons ainsi qu'à l'installation, la maintenance de tout
+appareillage ou installation se rapportant à ce domaine, et à la vente de tout support permettant la
+diffusion d'images ou de sons, DVD, cassettes audio et vidéo, compact disc...
+- à la vente et la location de compact-disques, logiciels, jeux, cassettes vidéo et audio ;
+- à l'achat et la vente en gros ou en détail, la location, l'importation, l'exportation de livres, revues,
+journaux, périodiques, littérature spécialisée, posters se rapportant directement ou indirectement aux
+points qui précèdent ;
+- à l'installation et la maintenance d'ordinateur, l'installation et la maintenance de réseau
+informatique, la formation en informatique, les services de conseil en téléphonie, en
+télécommunication et en communication de données, les services de conseil en gestion informatique
+de l'information, les services de publication assistés par ordinateur, le graphisme, le développement
+de programmes informatiques, le développement de sites internet, intranet et extranet, l'hébergement
+de sites internet, intranet et extranet, la maintenance de ces sites, la production de programmes
+informatiques et multimédias. La société a également pour objet, tant en Belgique qu'à l'étranger,
+toutes opérations se rapportant directement ou indirectement :
+- à la commercialisation (achat, vente, location, prêt, conditionnement), en gros ou en détail, de
+machines et meubles de bureau, en ce compris le matériel électronique et informatique, et
 
 Bi
 jla
@@ -277,10 +278,10 @@ bl
 ad
  - 
 
-02
+14
 /0
 
-5/
+4/
 20
 
 16
@@ -323,69 +324,69 @@ au
 
 Mod PDF 11.1
 
-Les associés se consentent un droit de préemption leur permettant, à l’occasion de tout projet de
-cession à un autre actionnaire ou à un tiers de tout ou partie des parts sociales qu’ils possèdent ou
-viendraient à posséder ultérieurement, de se substituer à ce dernier et d’acquérir les parts sociales
-concernées aux prix et conditions offerts par le cessionnaire.
-Toutes les notifications faites en vertu du présent article sont faites par lettre recommandée, les
-délais commençant à courir le lendemain de la date figurant sur le récépissé postal ou tout autre
-moyen de communication comportant un accusé de réception dépourvu d’équivoque. Elles sont
-valablement adressées aux associés à la dernière adresse indiquée au registre des actions
-nominatives de la société. Une copie du document et des annexes éventuelles est adressée
-obligatoirement au président du conseil d'administration.
-Ce droit de préemption s'exerce comme suit :
-L’actionnaire cédant notifie aux autres actionnaires son projet de cession (ci-après le “Projet Notifié”)
-en indiquant obligatoirement le nombre et la nature des titres visés (ci-après les “Titres Concernés”),
-l'identité du candidat Cessionnaire et dans l'hypothèse où le transfert est à titre onéreux, le prix
-unitaire par Titre Concerné et les conditions de ce transfert (notamment le délai convenu pour la
-réalisation de la cession envisagée, ce délai devant en tout état de cause respecter le délai de
-préemption fixé ci-après). Si le transfert est à titre gratuit ou moyennant une contrepartie ne
-consistant pas en numéraire, il joint à sa notification un rapport d'évaluation des Titres Concernés ou
-de la contrepartie, signé par un réviseur ou un expert-comptable et reprenant la valeur unitaire des
-Titres Concernés retenue pour la réalisation de l’opération. Il adresse copie de ces documents au
-conseil d'administration, à l'attention de son Président.
-A peine de nullité, cette notification devra porter sur l’intégralité des Titres Concernés; elle sera
-réputée porter sur l’intégralité des Titres Concernés à défaut de mention à cet égard.
-L’absence de réponse de la part d’un Bénéficiaire (autre que l’actionnaire Cessionnaire, le cas
-échéant) au terme de ce délai de deux mois vaudra renonciation implicite et irrévocable de sa part à
-l’exercice du droit de préemption pour le Projet Notifié.
-A l'issue du délai de deux mois, ou préalablement lorsque tous les Bénéficiaires ont répondu, le
-cédant notifie aux actionnaires le résultat de la procédure.
-Si plus d’un Bénéficiaire (en ce compris, le cas échéant, l’actionnaire Cessionnaire) a exercé son
-droit de préemption, le droit de chacun des préempteurs sera réduit au prorata de sa participation
-respective au capital de la société par rapport aux autres Bénéficiaires préempteurs.
-En toute hypothèse, en cas d’exercice du droit de préemption par un ou plusieurs Bénéficiaires, la
-cession aux Bénéficiaires préempteurs est parfaite et le prix payable dans le mois de la notification
-du résultat par le cédant.
-Toute cession de titres au profit d’un tiers qui interviendrait sans que le Bénéficiaire ait été mis en
-mesure d’exercer son droit de préemption sera nulle de plein droit.
-D. Obligation de proposition de cession
-Dans le but de permettre à chaque associé de conserver une participation au capital social égale à
-celle des autres associés, chaque associé aura l’obligation, en d’acquisition de parts par donation ou
-par succession, de proposer aux autres associés d’acquérir le nombre de parts nécessaire au
-maintien de l’égalité entre eux.
-La proposition de cession devra être faite dans les trois mois de l’acquisition (donation ou décès).
-Les modalités applicables seront les mêmes que celles prévues au point B.
-Article 10 - Gérance
-Si la société ne comporte qu'un seul associé, elle est administrée soit par l'associé unique, soit par
-une ou plusieurs personnes, associées ou non, nommées avec ou sans limitation de durée, soit dans
-les statuts, soit par l'associé unique agissant en lieu et place de l'assemblée générale.
-En cas de pluralité d'associés, la société est administrée par un ou plusieurs gérants, personnes
-physiques ou morales, associés ou non, nommés avec ou sans limitation de durée et pouvant, s’ils
-sont nommés dans les statuts, avoir la qualité de gérant statutaire.
-L'assemblée qui nomme le ou les gérant(s) fixe leur nombre, la durée de leur mandat et, en cas de
-pluralité, leurs pouvoirs. A défaut d’indication de durée, le mandat de gérance sera censé conféré
-sans limitation de durée.
-Les gérants ordinaires sont révocables ad nutum par l’assemblée générale, sans que leur révocation
-donne droit à une indemnité quelconque.
-Article 11 - Pouvoirs du gérant
-Conformément à l’article 257 du Code des sociétés et sauf organisation par l’assemblée d’un collège
-de gestion, chaque gérant représente la société à l’égard des tiers et en justice et peut poser tous les
-actes nécessaires ou utiles à l’accomplissement de l’objet social, sauf ceux que la loi réserve à
-l’assemblée générale.
-Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
-Article 12 - Rémunération
-Sauf décision contraire de l’assemblée générale, le mandat de gérant est gratuit.
+notamment, les téléphones, photocopieurs, téléfax, ordinateurs, centrales téléphoniques,
+- à la réparation et à l'entretien de ces machines et meubles ;
+- au commerce de gros et de détail en articles de papeterie et de bureau.
+En général, elle a pour objet la commercialisation de tous produits, matériels, accessoires et
+supports se rapportant aux domaines de la bureautique, de la domotique, de l'ingénierie, de
+l'informatique, de l'impression et de toutes innovations et inventions.
+Elle a également pour objet toutes activités liées aux domaines du secrétariat et de l'accueil, de la
+traduction, des services de bureaux, de la formation, de l'organisation d'événements et de
+séminaires, de la promotion et des relations publiques.
+La société a également pour objet toutes activités liées aux domaines de la consultance et du
+conseil, de l'étude, de la recherche et développement, de l'ingénierie, de la domotique, de
+l'informatique et de l'impression sur tous supports.
+- au commerce en qualité de grossiste ou de détaillant de tous produits relatifs au merchandising
+cinématographique et notamment l’achat, la vente et la promotion de DVD, BLU RAY, figurines, CD,
+jeux, Tshirts, posters, jouets, livres…
+- à l’édition de revues et de périodiques et aux autres activités d’édition ;
+- à l’édition de logiciels ;
+- à la location et la location-bail de machines de bureau, de matériels informatiques ;
+- aux services administratifs de bureau et autres activités de soutien aux entreprises ;
+- à la programmation et la diffusion de programmes de radio et télévision ;
+- aux télécommunications au sens large (notamment filaires, sans fil, par satellite) ;
+- à la programmation, au conseil et aux autres activités informatiques ainsi qu’aux services
+d’information (traitement des données, hébergement et activités connexes, portail Internet) ;
+- à la publicité et à l’étude de marché / sondage d’opinion ;
+- aux activités spécialisées de design et de photographie ;
+- à la réalisation de toutes opérations foncières et immobilières et notamment :
+-- la constitution et la gestion d’un patrimoine immobilier et la location-financement de biens
+immeubles aux tiers, notamment l’acquisition par l’achat ou autrement, la vente, l’échange, la
+construction, la reconstruction, la transformation, l’amélioration, l’équipement, l’aménagement,
+l’embellissement, l’entretien, l’exploitation, la location, la prise en location, le lotissement, la
+prospection et l’exploitation de biens immeubles, ainsi que toutes opérations qui, directement ou
+indirectement, sont en relation avec cet objet et qui sont de nature à favoriser l’accroissement et le
+rapport d’un patrimoine immobilier.
+-- l'achat, la vente, l'échange, la construction, la reconstruction, la démolition, la transformation,
+l'exploitation, la location et la gérance de tous immeubles bâtis, meublés ou  non.
+-- l'achat, la vente, l'échange, la mise en valeur, le lotissement, l'exploitation, la location et
+l'affermage de tous immeubles non bâtis.
+La société peut également, pour compte propre, acquérir, assurer la mise en valeur, la gestion, la
+location et la sous-location d’immeubles bâtis ou non bâtis et notamment leur entretien, leur
+construction, leur réparation, leur transformation, leur aménagement, leur restauration, leur
+démolition ainsi que tous travaux de promotion et de réalisation immobilière, sans toutefois pouvoir
+exercer la profession d’agent immobilier ou de marchand de bien.
+Cette liste n’est pas limitative, mais exemplative et doit être étendue à toute opération qui contribuera
+au bon fonctionnement de la société.
+L’énumération qui précède doit être interprétée dans son sens le plus large.
+La gérance a qualité pour interpréter la nature et l’étendue de l’objet social.
+La société peut également exécuter tous mandats d’administrateur, de gérant et/ou de liquidateur, et,
+en général, tous mandats et fonctions se rapportant directement ou indirectement à son objet.
+Elle peut consentir, au profit de tous tiers et de toutes sociétés, soit apparentées, soit avec lesquelles
+elle contracte des engagements, toutes dations en gage hypothécaire ou autres et toutes garanties
+plus généralement quelconques.
+La société peut réaliser son objet en tous lieux, de toutes les manières et suivant les modalités qui lui
+paraissent le mieux appropriées.
+La société peut, pour la réalisation de son objet social, obtenir, acquérir, reprendre, exploiter, céder,
+construire, louer, vendre, échanger, toutes propriétés mobilières, immobilières, et tous
+établissements, matériels, et installations.
+Elle peut accomplir toutes opérations industrielles, commerciales, financières, mobilières ou
+immobilières ayant un rapport même indirect avec son objet ou qui seraient de nature à en faciliter
+directement ou indirectement, entièrement ou partiellement la réalisation.
+Elle peut accomplir son objet pour compte propre ou pour compte de ses associés, comme elle peut
+affermer ou donner à bail ses installations et exploitations ou les donner à gérer à des tiers, en tout
+ou en partie.
+Elle pourra s'intéresser par tous moyens dans d'autres sociétés, entreprises ou associations
 
 Bi
 jla
@@ -414,10 +415,10 @@ bl
 ad
  - 
 
-02
+14
 /0
 
-5/
+4/
 20
 
 16
@@ -460,69 +461,480 @@ au
 
 Mod PDF 11.1
 
-Article 13 - Contrôle
-Tant que la société répond aux critères énoncés à l’article 15 du Code des sociétés, il n’est pas
-nommé de commissaire, sauf décision contraire de l’assemblée générale.
-Dans ce cas, chaque associé possède individuellement les pouvoirs d’investigation et de contrôle du
-commissaire. Il peut se faire représenter par un expert-comptable. La rémunération de celui-ci
-incombe à la société s’il a été désigné avec son accord ou si cette rémunération a été mise à sa
-charge par décision judiciaire.
-Article 14 - Assemblées générales
-L’assemblée générale annuelle se réunit chaque année le dernier lundi du mois de juin à 18 heures
-au siège social ou à l’endroit indiqué dans la convocation.
-Si ce jour est férié, l’assemblée est remise au plus prochain jour ouvrable, autre qu’un samedi.
-Des assemblées générales extraordinaires doivent être convoquées par la gérance chaque fois que
-l’intérêt social l’exige ou sur la requête d’associés représentant le cinquième du capital.
-Les assemblées se réunissent au siège social ou à l’endroit indiqué dans la convocation, à l’initiative
-de la gérance ou des commissaires. Les convocations sont faites conformément à la loi.  Toute
-personne peut renoncer à cette convocation et, en tout cas, sera considérée comme ayant été
-régulièrement convoquée si elle est présente ou représentée à l’assemblée.
-Article 15 - Représentation
-Tout associé peut se faire représenter à l’assemblée générale par mandataire, associé ou non,
-porteur d’une procuration spéciale.
-Toutefois, les personnes morales peuvent être représentées par un mandataire non associé.
-Article 16 - Prorogation
+existantes ou à créer, en Belgique ou à l'étranger, dont l'objet serait analogue ou connexe au sien ou
+qui seraient susceptibles de favoriser ou de développer sa propre activité.
+Au cas où l’exercice de certaines activités serait soumis à des conditions préalables d’accès à la
+profession, la société subordonnera son action en ce qui concerne l’exercice de ces activités à la
+réalisation de ces conditions.
+ARTICLE QUATRE - DUREE
+La société est constituée à partir de ce jour pour une durée illimitée.
+Elle peut prendre des engagements pour un terme dépassant sa dissolution éventuelle.
+ARTICLE CINQ - CAPITAL
+Le capital social est fixé à la somme de vingt mille euros (20.000 EUR), divisé en deux cent (200)
+parts sociales sans mention de valeur nominale, représentant chacune un/deux-centième
+(1/200ième) du capital social. Ces parts ont été entièrement souscrites et libérées intégralement lors
+de la constitution de la société.
+ARTICLE SIX – APPEL DE FONDS
+Les appels de fonds sont décidés souverainement par le gérant.
+L'associé qui, après un préavis d'un mois, signifié par le gérant par lettre recommandée, est en
+retard de satisfaire aux versements, doit bonifier à la société un intérêt calculé au taux de l'intérêt
+légal, à dater de l'exigibilité du versement.
+Si le versement n'est pas effectué deux mois après un second avis recommandé du gérant, ce
+dernier pourra reprendre lui-même ou faire reprendre par un associé ou par un tiers agréé, s'il y a
+lieu, conformément à l'article douze des statuts, les parts de l'associé défaillant.
+Cette reprise aura lieu à septante-cinq pour cent de la valeur des parts.
+A défaut d'accord entre les parties, la valeur de rachat des parts sociales sera déterminée par un
+expert nommé d'accord entre les parties ou à la requête de la plus diligente par le tribunal
+compétent.
+Si le défaillant refuse de signer le transfert de ses parts au registre des associés, le gérant lui fera
+sommation par lettre recommandée d'avoir dans les quinze jours à se prêter à cette formalité.
+A défaut de ce faire dans ce délai, le gérant signera valablement en lieu et place de l'associé
+défaillant.  Si le gérant se porte acquéreur des parts, sa signature sera remplacée par celle d'un
+mandataire spécialement désigné à cet effet par le tribunal compétent.
+En cas d'associé unique-gérant, ce dernier détermine librement, au fur et à mesure des besoins de la
+société et aux époques qu'il jugera utiles, les versements ultérieurs à effectuer par lui sur les parts
+souscrites en espèces et non entièrement libérées.
+ARTICLE SEPT - EGALITE DE DROITS DES PARTS
+Chaque part sociale confère un droit égal dans la répartition des bénéfices et des produits de la
+liquidation.
+ARTICLE HUIT - INDIVISIBILITE DES PARTS
+Les parts sociales sont indivisibles.
+S'il y a plusieurs propriétaires d'une part sociale, la gérance a le droit de suspendre l'exercice des
+droits y afférents, jusqu'à ce qu'une personne ait été désignée comme étant propriétaire de cette part
+à l'égard de la société.
+Si la propriété d'une part sociale est démembrée entre un nu-propriétaire et un usufruitier, l'exercice
+des droits y afférents appartiendra à l'usufruitier.
+ARTICLE NEUF - TITULARITE DES PARTS
+Les droits de chaque associé dans la société résultent seulement des présentes, des actes
+modificatifs ultérieurs et des cessions qui seront ultérieurement consenties.
+Le nombre de parts appartenant à chaque associé, avec l'indication des versements effectués, sera
+inscrit dans le registre qui sera tenu au siège de la société, conformément à la loi, et dont tout
+associé ou tout tiers intéressé pourra prendre connaissance.
+Il sera remis à chaque associé un certificat à son nom, extrait du registre et signé par la gérance,
+mentionnant le nombre de parts qu'il possède dans la société.  Lesdits certificats ne pourront en
+aucun cas être établis au porteur ou à ordre.
+ARTICLE DIX - LIMITE DE CESSIBILITE DE PARTS
+Tant que la société ne comprendra qu’un associé, celui-ci sera libre de céder tout ou partie des parts
+sans aucune restriction, de même, la transmission des parts pour cause de mort ne sera, dans cette
+hypothèse, soumise à aucune restriction.
+Dès le jour où la société comprendra plusieurs associés, les parts d'un associé ne peuvent, à peine
+de nullité, être cédées entre vifs ou transmises pour cause de mort qu'avec le consentement de la
+moitié au moins des associés, possédant les trois/quarts au moins du capital, déduction faite des
+droits dont la cession est proposée.
+Cet agrément n'est pas requis lorsque les parts sont cédées ou transmises:
+- 1°) à un associé,
+- 2°) au conjoint du cédant ou du testateur,
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+14
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+- 3°) à des ascendants ou descendants en ligne directe.
+ARTICLE ONZE - CESSION DE PARTS ENTRE VIFS
+PROCEDURE D'AGREMENT
+I. - Si la société ne compte qu'un seul associé, celui-ci peut décider librement de la cession de tout
+ou partie de ses parts sociales, moyennant le cas échéant le respect des règles de son régime
+matrimonial.
+II. - Si la société est composée de deux membres, et à défaut d'accord différent entre les associés,
+celui d'entre eux qui désire céder une ou plusieurs parts sociales doit informer son co-associé de son
+projet de cession par lettre recommandée, en indiquant les nom, prénoms, profession et domicile du
+ou des cessionnaires proposés, le nombre des parts sociales dont la cession est proposé, ainsi que
+le prix offert.
+Dans la quinzaine de la date de la lettre du cédant éventuel, l'autre associé devra adresser à celui-ci
+une lettre recommandée, faisant connaître sa décision.  Il n'est pas tenu de la motiver.  Faute par lui
+d'avoir adressé sa réponse dans les formes et délais ci-dessus, sa décision est considérée comme
+affirmative.
+III. - Si la société est composée de plus de deux membres, et à défaut d'accord contraire entre tous
+les associés, il sera procédé comme suit:
+l'associé qui veut céder une ou plusieurs parts sociales doit aviser la gérance par lettre
+recommandée de son projet de cession, en fournissant sur la cession projetée les indications de
+détail prévues à l'alinéa premier du point II ci-dessus.
+Dans les huit jours de cet avis, la gérance doit informer par lettre recommandée chaque associé du
+projet de cession en lui indiquant les nom, prénoms, profession et domicile du ou des cessionnaires
+proposés, le nombre de parts sociales dont la cession est projetée ainsi que le prix offert pour
+chaque part sociale, et en demandant à chaque associé s'il autorise la cession au ou aux
+cessionnaires proposés par le cédant éventuel.
+Dans la quinzaine de cet avis, chaque associé doit adresser à la gérance une lettre recommandée
+faisant connaître sa décision.  Il n'est pas tenu de la motiver. 
+Faute par lui d'avoir adressé sa réponse dans les formes et délais ci-dessus, sa décision est
+considérée comme affirmative.
+La gérance doit notifier au cédant éventuel le résultat de la consultation des associés, par lettre
+recommandée, dans les trois jours de l'expiration du délai donné aux associés pour faire connaître
+leur décision.
+Les dispositions qui précèdent sont applicables dans tous les cas de cession de parts sociales entre
+vifs, soit à titre onéreux, soit à titre gratuit, alors même que la cession aurait lieu en vertu d'une
+décision de justice ou par voie d'adjudication aux enchères.  L'avis de cession, point de départ des
+délais, peut être donné en ce dernier cas, soit par le cédant, soit par l'adjudicataire.
+ARTICLE DOUZE - DONATION DE PARTS
+En cas de donation de parts sociales entre vifs, le ou les donataires ne deviennent associés qu'après
+avoir été agréés par les co-associés du donateur, conformément aux dispositions ci-dessus relatives
+aux transmissions volontaires entre vifs à titre onéreux.
+Il est fait exception à la règle énoncée à l'alinéa précédent en faveur:
+- 1°) d'un associé,
+- 2°) du conjoint du donateur,
+- 3°) des ascendants ou descendants en ligne directe.
+ARTICLE TREIZE - RECOURS EN CAS DE REFUS D'AGREMENT
+Au cas où une cession entre vifs de parts sociales ne serait pas agréée, les intéressés auront
+recours au tribunal compétent du siège de la société, par voie de référé, les opposants étant dûment
+assignés.
+Si le refus d'agrément est jugé arbitraire par le tribunal, les opposants ont trois mois à dater de
+l'ordonnance pour trouver acheteur aux prix et conditions à convenir entre les intéressés ou, à défaut
+d'accord, à fixer par le tribunal à la requête de la partie la plus diligente, l'autre étant régulièrement
+assignée.
+Si le rachat n'a pas été effectué dans le délai de trois mois prévu ci-dessus, le cédant pourra exiger
+la dissolution de la société, mais il devra exercer ce droit dans les quarante jours qui suivent
+l'expiration du délai de trois mois.
+ARTICLE QUATORZE - SITUATION DES HERITIERS ET LEGATAIRES
+D'UN ASSOCIE DECEDE
+En cas de décès de l'associé unique, les droits afférents aux parts sont exercés par les héritiers et
+légataires régulièrement saisis ou envoyés en possession, proportionnellement à leurs droits dans la
+succession, jusqu'au partage desdites parts ou jusqu'à la délivrance des legs portant sur celles-ci.
+En cas de pluralité d'associés et au décès de l'un d'eux, les héritiers et légataires de l'associé
+décédé seront tenus, dans le plus bref délai, de faire connaître à l'autre associé ou, si la société
+compte plus de deux associés à la gérance, leurs nom, prénoms, profession et domicile, de justifier
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+14
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+de leurs qualités héréditaires en produisant des actes réguliers établissant ces qualités à titre
+universel ou particulier, et de désigner éventuellement celui d'entre eux qui remplira les fonctions de
+mandataire commun, comme il est prévu à l'article huitième des présents statuts.
+Jusqu'à ce qu'ils aient produit cette justification, les ayants cause du défunt ne pourront exercer
+aucun des droits appartenant à ce dernier vis-à-vis des associés survivants de la société; celle-ci
+suspendra notamment le paiement des dividendes revenant aux parts du défunt et des intérêts des
+créances de ce dernier sur la société.
+Les héritiers et représentants de l'associé décédé ne pourront sous aucun prétexte s'immiscer dans
+les actes de l'administration sociale.  Ils devront, pour l'exercice de leurs droits, s'en rapporter aux
+inventaires, comptes, bilans et écritures de la société, ainsi qu'aux décisions régulièrement prises par
+la collectivité des associés.
+Les héritiers et légataires qui ne deviendraient pas de plein droit associés aux termes des présents
+statuts, sont tenus de solliciter l'agrément des co-associés du défunt dans les formes et délais prévus
+à l'article onzième ci-dessus.
+ARTICLE QUINZE - RACHAT DES PARTS
+Les héritiers et légataires de parts qui ne peuvent devenir associés parce qu'ils n'ont pas été agréés
+comme tels ont droit à la valeur des parts transmises.
+Ils peuvent en demander le rachat par lettre recommandée à la poste adressée à la gérance de la
+société et dont copie recommandée sera aussitôt transmise par la gérance aux autres associés.
+A défaut d'accord entre les parties, les conditions de rachat seront déterminées par le tribunal
+compétent.
+Les parts achetées seront incessibles jusqu'à paiement entier du prix.
+Si le rachat n'a pas été effectué endéans les trois mois, les héritiers ou légataires seront en droit
+d'exiger la dissolution de la société.
+ARTICLE SEIZE - NOMINATION DU (DES) GERANT(S)
+La société est administrée par un ou plusieurs gérants, associés ou non associés, également
+qualifiés "la gérance", lesquels ont seuls la direction des affaires sociales.
+Le ou les gérants sont nommés par l’assemblée générale qui en fixe le nombre.
+La durée de leurs fonctions n'est pas limitée.
+Lorsqu’une personne morale est nommée gérant, celle-ci est tenue de désigner parmi ses associés,
+gérants, administrateurs ou travailleurs, un représentant permanent chargé de l’exécution de cette
+mission au nom et pour le compte de la personne morale. Ce représentant est soumis aux mêmes
+conditions et encourt les mêmes responsabilités civiles et pénales que s'il exerçait cette mission en
+nom et pour compte propre, sans préjudice de la responsabilité solidaire de la personne morale qu’il
+représente. Celle-ci ne peut révoquer son représentant qu’en désignant simultanément son
+successeur.
+La désignation et la cessation des fonctions du représentant permanent sont soumises aux mêmes
+règles de publicité que s’il exerçait cette mission en nom et pour compte propre.
+ARTICLE DIX-SEPT - POUVOIRS DU (DES) GERANT(S)
+Si un seul gérant est nommé, celui-ci peut accomplir seul tous les actes nécessaires ou utiles à
+l'accomplissement de l'objet social de la société, sauf ceux que la loi réserve à l'assemblée générale.
+Ce gérant, agissant seul, représente la société à l'égard des tiers et en justice, soit en demandant,
+soit en défendant. Il peut déléguer des pouvoirs spéciaux à tout mandataire.
+Au cas où plusieurs gérants sont nommés, chaque gérant agissant seul peut accomplir tous les
+actes nécessaires ou utiles à l'accomplissement de l'objet social de la société, sauf ceux que la loi
+réserve à l'assemblée générale. De même, chaque gérant, agissant seul, représente la société à
+l'égard des tiers et en justice, soit en demandant, soit en défendant. Chacun peut déléguer des
+pouvoirs spéciaux à tout mandataire.
+ARTICLE DIX-HUIT – DEVOIRS DU (DES) GERANT(S)
+Les gérants peuvent, dans leurs rapports avec les tiers, se faire représenter, sous leur
+responsabilité, par des mandataires de leur choix, pourvu que ces pouvoirs ne soient ni généraux ni
+permanents.
+S’il y a un collège de gestion, le membre du collège de gestion qui a directement ou indirectement un
+intérêt opposé de nature patrimoniale à une décision ou une opération soumise au collège de
+gestion, est tenu de se conformer aux articles 259 et suivants du Code des Sociétés.
+S'il n'y a qu'un seul gérant et qu'il se trouve placé dans cette opposition d'intérêts, il en référera aux
+associés et la décision ne pourra être prise ou l'opération ne pourra être effectuée pour le compte de
+la société que par un mandataire ad hoc.
+Lorsque le gérant unique est l'associé unique et qu'il se trouve placé dans cette opposition d'intérêts,
+il pourra prendre la décision ou conclure l'opération, mais il rendra spécialement compte de celle-ci
+dans un document à déposer en même temps que les comptes annuels.
+Lorsque le gérant est l’associé unique, les contrats conclus entre lui et la société sont, sauf en ce qui
+concerne les opérations courantes conclues dans des conditions normales, inscrits au document
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+14
+/0
+
+4/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+visé à l’alinéa précédent.
+Il sera tenu, tant vis-à-vis de la société que vis-à-vis de tiers, de réparer le préjudice résultant d'un
+avantage qu'il se serait abusivement procuré au détriment de la société.
+ARTICLE DIX-NEUF - EMOLUMENTS DU (DES) GERANT(S)
+L'assemblée générale décide si leur mandat sera ou non exercé gratuitement.
+Si le mandat des gérants est rémunéré, l'assemblée à la simple majorité des voix déterminera le
+montant des rémunérations fixes et/ou proportionnelles qui seront allouées aux gérants et portées en
+frais généraux indépendamment de tous frais éventuels de représentation, voyages et
+déplacements.
+ARTICLE VINGT  - CONTROLE
+Tant que la société répond aux critères énoncés à l'article 15 du Code des sociétés, il n'est pas
+nommé de commissaire, sauf décision contraire de l'assemblée générale.
+Dans ce cas, chaque associé possède individuellement les pouvoirs d'investigation et de contrôle du
+commissaire. Il peut se faire représenter ou se faire assister par un expert-comptable. La
+rémunération de celui-ci incombe à la société s'il a été désigné avec son accord ou si cette
+rémunération a été mise à sa charge par décision judiciaire.
+Toutefois, si la société ne répond pas aux critères énoncés à l'article 15 du Code des Sociétés, il
+devra être nommé un commissaire.
+Si un commissaire est nommé, son mandat sera de trois ans et sa rémunération consistera en une
+somme fixée au début et pour la durée du mandat par l'assemblée générale.
+ARTICLE VINGT ET UN
+EXERCICE SOCIAL - ASSEMBLEE GENERALE - REUNION
+L’exercice social commence le premier janvier et se termine le trente et un décembre de chaque
+année.
+Il est tenu une assemblée générale ordinaire chaque année le dernier mardi du mois de juin à seize
+heures.
+Si ce jour est férié, l'assemblée sera remise au prochain jour ouvrable suivant.
+S'il n'y a qu'un seul associé, c'est à cette même date qu'il signe pour approbation les comptes
+annuels.
+L'assemblée générale se réunit extraordinairement chaque fois que l'intérêt de la société l'exige ou
+sur la demande d'associés représentant le cinquième du capital.
+Les assemblées générales se tiennent au siège social ou à l'endroit indiqué dans les convocations.
+Les associés peuvent, à l’unanimité, prendre par écrit toutes les décisions qui relèvent du pouvoir de
+l’assemblée générale, à l’exception de celles qui doivent être passées par un acte authentique. Les
+porteurs de certificats émis en collaboration avec la société et les porteurs d’obligations peuvent
+prendre connaissance de ces décisions.
+PROROGATION
 Toute assemblée générale, ordinaire ou extraordinaire, peut être prorogée, séance tenante, à trois
 semaines au plus par la gérance. La prorogation annule toutes les décisions prises.
 La seconde assemblée délibère sur le même ordre du jour et statue définitivement.
-Article 17 - Présidence - délibérations - procès-verbaux
-L’assemblée générale est présidée par un gérant ou, à défaut, par l’associé présent qui détient le
-plus de parts.
-Sauf dans les cas prévus par la loi, l’assemblée statue quelle que soit la portion du capital
-représentée et à la majorité des voix.
-Chaque part donne droit à une voix.
-Les procès-verbaux des assemblées générales sont consignés dans un registre.  Ils sont signés par
-les associés qui le demandent. Les copies ou extraits sont signés par un gérant.
-Article 18 - Exercice social
-L’exercice social commence le premier janvier et finit le trente et un décembre.
-Article 19 - Affectation du bénéfice
-Sur le bénéfice net, tel qu’il découle des comptes annuels arrêtés par la gérance, il est prélevé
-annuellement au moins cinq pour cent (5%) pour être affectés au fonds de réserve légale.  Ce
-prélèvement cesse d’être obligatoire lorsque la réserve légale atteint le dixième du capital.
-Le solde reçoit l’affectation que lui donne l’assemblée générale statuant sur proposition de la
-gérance, dans le respect des dispositions légales.
-Article 20 - Dissolution - liquidation
-En cas de dissolution de la société, pour quelque cause et à quel moment que ce soit, la liquidation
-est effectuée par le ou les liquidateurs désignés par l'assemblée générale ou, à défaut de pareille
-nomination, par le conseil d’administration en fonction à cette époque, agissant en qualité de comité
-de liquidation.
-Les liquidateurs disposent à cette fin des pouvoirs les plus étendus conférés par la loi.
-L’assemblée générale détermine le cas échéant les émoluments du ou des liquidateurs.
-Après règlement du passif et des frais de liquidation ou consignation des sommes nécessaires à cet
-effet, l’actif net sert d’abord à rembourser, en espèces ou en titres, le montant libéré des actions.
-Si toutes les parts ne sont pas libérées dans une égale proportion, les liquidateurs, avant de
-procéder aux répartitions, tiennent compte de cette diversité de situation et rétablissent l’équilibre par
-des appels de fonds ou par une répartition préalable.
-Le produit net de la liquidation sera réparti entre tous les associés, proportionnellement au nombre
-de parts sociales possédées par chacun d'eux.
-Article 21 - Election de domicile
-Pour l’exécution des statuts, tout associé, gérant ou liquidateur, domicilié à l’étranger, fait élection de
-domicile au siège social.
-Article 22 - Droit commun
-Pour les objets non expressément réglés par les statuts, il est référé à la loi. 
-Autorisations préalables
-Le notaire a attiré l’attention des comparants sur le fait que la société, dans l’exercice de son objet
-social, pourrait devoir, en raison des règles administratives en vigueur, obtenir des autorisations,
+ARTICLE VINGT-DEUX
+ASSEMBLEE GENERALE - CONVOCATIONS
+Les assemblées générales sont convoquées par un gérant ou les commissaires.
+Les convocations se font par lettres recommandées adressées aux associés, titulaires de certificats
+émis en collaboration avec la société, porteurs d’obligations, commissaires et gérant, quinze jours au
+moins avant l'assemblée.
+Toute personne peut renoncer à cette convocation et en tout cas sera considérée comme ayant été
+régulièrement convoquée si elle est présente ou représentée à l’assemblée.
+ARTICLE VINGT-TROIS
+ASSEMBLEE GENERALE - VOTE ET REPRESENTATION
+Chaque part sociale ne confère qu'une seule voix.
+L'associé qui possède plusieurs parts sociales dispose d'un nombre de voix égal au nombre de ses
+parts.
+Toutefois, l'exercice du droit de vote afférent aux parts sur lesquelles les versements n'ont pas été
+opérés, sera suspendu aussi longtemps que ces versements, régulièrement appelés et exigibles,
+n'auront pas été effectués.
+Chaque associé peut voter par lui-même ou par mandataire.  Le vote peut aussi être émis par écrit.
+ARTICLE VINGT-QUATRE
+ASSEMBLEE GENERALE - BUREAU
+Toute assemblée générale ordinaire ou extraordinaire est présidée par le gérant présent le plus âgé.
+Le président désigne le secrétaire et les scrutateurs.
+ARTICLE VINGT-CINQ
+ASSEMBLEE GENERALE - DELIBERATION
 
 Bi
 jla
@@ -551,10 +963,10 @@ bl
 ad
  - 
 
-02
+14
 /0
 
-5/
+4/
 20
 
 16
@@ -597,22 +1009,65 @@ au
 
 Mod PDF 11.1
 
-attestations ou licences préalables.
-C.  DISPOSITIONS TEMPORAIRES
-Les comparants prennent à l’unanimité les décisions suivantes qui ne deviendront effectives qu’à
-dater du dépôt de l’extrait de l’acte constitutif au greffe du tribunal de commerce de Liège, lorsque la
-société acquerra la personnalité morale.
-1°  Le premier exercice social commencera le jour du dépôt pour se terminer le 31 décembre 2017.
-2°  La première assemblée générale annuelle se tiendra en 2018.
-3° Sont désignées en qualité de gérants :
-- Mesdames ANCION, LEMAÎTRE et LAMBERT, ci-dessus prénommées,
-- La SPRL Docteur Sabine Gurné,
-Désignant à la fonction de représentant permanent Madame Sabine Gurné, domiciliée à 4020 Liège,
-rue de Paris, 5.
-Qui acceptent. Leur mandat sera exercé gratuitement.
-Elles sont nommés jusqu’à révocation et peuvent engager valablement la société sans limitation de
-sommes. 
-4° Les comparants ne désignent pas de commissaire-réviseur.
+Sauf dans les cas prévus par la loi et les statuts, les décisions sont prises, quel que soit le nombre
+de parts représentées, à la majorité des voix pour lesquelles il est pris part au vote.
+ARTICLE VINGT-SIX - REPARTITION DES BENEFICES
+L'excédent favorable du bilan, déduction faite des frais généraux, charges sociales et
+amortissements nécessaires, constitue le bénéfice net.
+Sur ce bénéfice net, il est prélevé annuellement cinq pour cent pour la formation du fonds de réserve
+légale.
+Ce prélèvement cessera d'être obligatoire quand la réserve atteindra le dixième du capital social.  Il
+redeviendra obligatoire si pour une raison quelconque la réserve venait à être entamée.
+Le solde restant après ce prélèvement recevra l'affectation que lui donnera l'assemblée générale
+statuant à la majorité des voix sur les propositions qui lui seront faites à cet égard par la gérance.
+La mise en paiement des dividendes a lieu annuellement aux époques et aux endroits fixés par la
+gérance.
+ARTICLE VINGT-SEPT - DISSOLUTION
+En cas de dissolution de la société pour quelque cause que ce soit et à quelque moment que ce soit,
+la liquidation s'opère par les soins de la gérance, agissant en qualité de liquidateur et, à défaut, par
+des liquidateurs nommés par l'assemblée générale.
+Les liquidateurs disposent des pouvoirs les plus étendus prévus par les articles 186 et suivants du
+Code des Sociétés.
+ARTICLE VINGT-HUIT
+LIQUIDATION - REPARTITION DE L'ACTIF NET
+Après apurement de toutes les dettes, l'actif net sert d'abord à rembourser en espèces ou en titres le
+montant libéré non amorti des parts.
+Si les parts ne sont pas toutes libérées dans une égale proportion, les liquidateurs, avant de
+procéder aux répartitions, rétablissent l'équilibre en mettant toutes les parts sur un pied d'égalité
+absolue, soit par des appels de fonds complémentaires à charge des parts insuffisamment libérées,
+soit par des remboursements préalables en espèces au profit des parts libérées dans une proportion
+supérieure.
+Le solde est réparti également entre toutes les parts.
+ARTICLE VINGT-NEUF  - ELECTION DE DOMICILE
+Pour l'exécution des statuts, tout associé, gérant, ou liquidateur, domicilié à l'étranger, est tenu d'élire
+domicile en Belgique, où toutes les communications, sommations, assignations, significations,
+peuvent lui être valablement faites.
+A défaut, il sera censé pour ce faire avoir fait élection de domicile au siège social.
+ARTICLE TRENTE  - DROIT COMMUN
+Les parties entendent se conformer entièrement au Code des Sociétés.
+En conséquence, les dispositions de ce Code auquel il ne serait pas licitement dérogé par les
+présents statuts, sont réputées inscrites au présent acte et les clauses contraires aux dispositions
+impératives de ces lois sont censées non écrites.
+3.- DECLARATIONS
+A/ Les comparants déclarent qu’aucun d’eux n’a été déclaré en faillite jusqu’à ce jour.
+B/ Ils déclarent et reconnaissent que le Notaire soussigné a attiré leur attention sur le fait que la
+société, dans l’exercice de son objet social, pourrait devoir se procurer les autorisations et licences
+préalables requises par les réglementations en vigueur.
+4.- DISPOSITIONS TRANSITOIRES
+A l'instant, la société étant constituée, les associés se sont réunis en assemblée générale et ont pris,
+à l'unanimité, les décisions suivantes, qui ne deviendront effectives qu'à dater du dépôt de l'extrait de
+l'acte de constitution au greffe du Tribunal de commerce, moment où la société acquerra la
+personnalité morale :
+CLOTURE DU PREMIER EXERCICE
+Le premier exercice sera clôturé le trente et un décembre deux mille dix-sept.
+PREMIERE ASSEMBLEE
+L'assemblée générale ordinaire se tiendra pour la première fois en deux mille dix-huit.
+NOMINATION D'UN GERANT NON STATUTAIRE
+L'assemblée décide de fixer le nombre de gérants à deux.
+Elle appelle à ces fonctions Messieurs HOUTART Jean et Paul, ce qu’ils acceptent expressément.
+Ils sont nommés jusqu'à révocation et peuvent engager valablement la société séparément.
+Leur mandat sera gratuit, sauf décision contraire de l’assemblée générale.
+L'assemblée décide en outre de ne pas nommer de commissaire.
 
 Bi
 jla
@@ -641,10 +1096,10 @@ bl
 ad
  - 
 
-02
+14
 /0
 
-5/
+4/
 20
 
 16

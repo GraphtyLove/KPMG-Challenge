@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-DAR
+PRO HIGH-TECH
 
-Avenue Jean de Bologne 93
-1020 Bruxelles
+Rue du Gulden Bodem 6
+1080 Molenbeek-Saint-Jean
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,50 @@ Dénomination
 
 Constitution
 
-Il résulte d’un acte reçu par Maître Jean-François POELMAN, Notaire associé à Schaerbeek, le 22
-juillet 2016, que :
-1.Monsieur NOVAKOVIC Radisa né à Partizani Arandjelovac (ex-Yougoslavie), le 22 mai 1968,
-domicilié à 1020 Bruxelles, avenue Jean de Bologne, 93/11.
-2.Madame SANDERS Patricia Darinka Stéphanie née à Saint-Josse-ten-Noode, le 14 septembre
-1978, domiciliée à 1853 Strombeek-Bever, Bloemendallaan, 90.
-Ont décidé de constituer une société privée à responsabilité limitée sous la dénomination « DAR »
-dont le siège social est établi à 1020 Bruxelles-Laeken, avenue Jean de Bologne, 93, au capital
-social de dix-huit mille six cents euros (18.600 €) représenté par cent (100) parts sociales sans
-désignation de valeur nominale, qui sont souscrites en espèces et au pair comme suit:
-- Monsieur NOVAKOVIC Radisa      :     nonante-neuf (99) parts sociales
-- Madame SANDERS Patricia      :     une (1) part sociale
-Soit ensemble cent (100) parts sociales
-Les comparants déclarent et reconnaissent :
+Suivant acte reçu par Maître Bruno le Maire, notaire à Bruxelles, le 17 mai  2016
+ONT COMPARU
+Monsieur MASSAOUDI Yassine, né à Anderlecht le dix-huit décembre mille neuf cent nonante-deux,
+domicilié à 1080 Molenbeek-Saint-Jean, Rue du Gulden Bodem, 6.
+Lequel déclare ne pas être associé d’une société unipersonnelle et a requis le notaire sousigné
+d’acter dans la forme authentique ce qui suit :
+CONSTITUTION:
+Le comparant remet au notaire soussigné un plan financier projetant les activités de la société sur
+une période de 2 ans, lequel plan sera conservé dans le protocole.
+Le comparant constitue une société privée à responsabilité limitée sous la dénomination « PRO
+HIGH-TECH » dont le siège est fixé actuellement à 1080 Molenbeek-Saint-Jean, Rue du Gulden
+Bodem, 6
+Le capital est fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 EUR).
+Il est représenté par cent quatre-vingt-six (186) parts sociales sans désignation de valeur nominale.
+Apport en numéraire:
+Monsieur MASSAOUDI Yassine, précité, souscrit à l'instant cent quatre-vingt-six (186) parts sociales
+pour dix-huit mille six cents euros (18.600,00€).
+Le capital social est ainsi intégralement souscrit.
+Le comparant déclare et reconnait que les parts sociales ainsi souscrites sont libérées à concurrence
+de douze mille quatre cents euros (12.400,00 €).
+Les fonds affectés à la libération des apports en numéraire ont été déposés à un compte spécial
+ouvert au nom de la société à constituer à la banque ING Belgique.
+Une attestation justifiant ce dépôt a été remise par le comparant au notaire soussigné.
+Ensuite, le comparant arrête comme suit les statuts de la société.
+STATUTS:
+Article un   Forme et dénomination:
+La société a la forme d'une société privée à responsabilité limitée.
+Elle est dénommée « PRO HIGH-TECH ».
+Article deux   Siège:
+Le siège social pourra être transféré par simple décision de la gérance à publier aux annexes du
+Moniteur belge.
+Article trois   Objet:
+La société a pour objet, pour son compte propre, pour le compte de tiers ou en participation, aussi
+bien en Belgique qu’à l’étranger, les activités suivantes:
+o L'achat, la vente, l'importation, l'exportation, de tout matériel informatique , neuf ou d'occassion, de
+tout matériel électronique et électro ménager;
+o L'achat, l'échange, la vente, la prise en location et en sous-location, ainsi que la cession en
+location et en sous-location, le tout avec ou sans option d'achat, l'exploitation et l'entretien de
 
-    1.  que toutes les parts ont été souscrites en numéraire et ont été libérées à concurrence de six
-mille deux cents euros (6.200 €).
-2. que Monsieur NOVAKOVIC Radisa doit encore libérer la somme de 12.276,00 € et Madame
-SANDERS Patricia  la somme de 124,00 €
-Ils arrêtent les statuts de la société comme suit :
-Article 1.
-La société revêt la forme de société privée à responsabilité limitée.
-Elle est dénommée " DAR ".
-Article 2.
-Le  siège social de la société est établi à 1020 Bruxelles-Laeken, avenue Jean de Bologne, 93.
-Il pourra être transféré en tout autre lieu par simple décision des gérants. Des dépôts et succursales
-pourront être établis partout où les gérants le jugeront utile.
-Article 3 - Objet.
-La société a pour objet tant en Belgique qu’à l’étranger, pour son compte propre que pour le compte
-de tiers ou en participation avec des tiers :
-- l'entreprise de fabrication et de placement de ferronneries et de menuiseries (entre autres châssis,
-portes, balustrades, escaliers et volets) métalliques
-- entreprise de construction métallique en aluminium, acier et inox
-- l'entreprise de couverture et de toiture de constructions et tous bardages ;
-- La location de tout matériel de construction ou autre parmi lesquels on retrouve, les échafaudages,
-bobcat, foreuses, ponceuses, perceuses, mélangeurs, échelles, remorques, meuleuses,
-décapeuses, nettoyeurs haute pression, scies sauteuses, …;
-- l’entreprise du bâtiment sans limitation d’activité, celles qui seraient réglementées débutant à partir
-
- *16315887*
+ *16310688*
 Déposé
-25-07-2016
+17-05-2016
 
-0659881201
+0654750196
 
 Bi
 jla
@@ -141,10 +141,10 @@ bl
 ad
  - 
 
-27
+19
 /0
 
-7/
+5/
 20
 
 16
@@ -187,69 +187,69 @@ au
 
 Mod PDF 11.1
 
-des agréations, en ce compris l’entreprise générale ;
-- en matière d’architecture d’intérieur, un bureau d’études chargé notamment de l’organisation
-d’espaces de bureaux, industriels ou commerciaux, l’établissement d’études, plans, coordination en
-ces domaines, l’achat et la revente de produits et articles de décoration, l’achat et la revente de
-mobilier d’aménagement pour bureau, commerce, industrie, habitation, l’achat et la vente, la location
-d’immeubles bâtis ou non, la gérance et l’administration de toute construction privée, commerciale,
-industrielle ou publique ;
-- la création, le développement et la promotion de projets immobiliers ;
-La société pourra également faire toute activité en rapport avec la manutention et le déménagement.
-Elle pourra de même avoir comme activité :
-- le nettoyage, l’entretien et la désinfection de meubles et objets divers ainsi que de locaux
-commerciaux et industriels, de bureaux, ainsi que le nettoyage de vitres ;
-- l’entretien de parcs et jardins ainsi que la désinfection et la dératisation ;
-- le nettoyage de façades.
-L’entreprise du bâtiment, sans limitation d’activité, celles qui seraient réglementées débutant à partir
-des agréations, en ce compris l’entreprise générale, à titre exemplatif mais non limitatif :
-- le nettoyage, l’entretien et la désinfection de meubles et objets divers ainsi que de locaux
-commerciaux et industriels, de bureaux, ainsi que le nettoyage de vitres ;
-- l’entretien de parcs et jardins ainsi que la désinfection et la dératisation ;
-- l'entreprise de travaux de zingage
-- l'entreprise de recouvrement de corniches en bois et en P.V.C.
-- l'entreprise de construction de bâtiments (gros oeuvre et mise sous toit)
-- l'entreprise de travaux d'étanchéité et revêtement de construction par asphaltage et bitumage
-- l'entreprise d'isolation thermique et acoustique
-- l'entreprise de travaux de plafonnage, de cimentage et de tous autres enduits
-- l'entreprise de fabrication et placement de charpenterie et de menuiserie (entre autres châssis et
-volets) du bâtiment.
-- l'entreprise de pose de plaques de gyproc
-- l'entreprise de fabrication et de placement de châssis et volets en P.V.C. et aluminium
-- l'entreprise d'installation de chauffage central à eau chaude et à vapeur
-- l'entreprise d'installation de ventilation, de chauffage à air chaud, de conditionnement d'air et de
-tuyauteries industrielles ;
-- l'entreprise d'installation sanitaire, de chauffage au gaz et de plomberie - zinguerie
-- l'entreprise de placement d'adoucisseur d'eau
-- le placement de vitres dans les châssis dont l'exécution ne requiert pas un agrément spécial sur
-base d'un arrêté royal pris dans le cadre de la loi du quinze décembre mil neuf cent septante sur
-l'exercice des activités professionnelles dans les petites et moyennes entreprises.
-- la démolition et le terrassement ;
-- la rénovation ;
-- la construction, le parachèvement, l’entretien et la rénovation d’immeubles ;
-- la fabrication, l’achat, la vente en gros ou en détail et la commercialisation en général des
-matériaux nécessaires à la construction ou à la rénovation d’immeubles ;
-- l’activité d’intermédiaire dans de telles opérations ;
-- la création, le développement et la promotion de projets immobiliers ;
-
-    •  La plomberie, sanitaire, zinguerie, la construction, la transformation, la rénovation l’entreprises
-générale du bâtiment sous toutes ses formes, pose de parquets, isolations, architectures, travaux de
-démolition, peinture, la menuiserie, l’électricité, pose et travaux de carrelages, maçonneries, le
-plafonnage, le cimentage, l’installation de chauffage central, la réparation, l'entretien de chaudières ;
-Elle pourra de même avoir comme activité :
-- le déblayage de chantiers;
-- tout qui ce rapporte à la maçonnerie;
-- l’entreprise de travaux d’égout ,
-- l’entreprise de travaux de pose de câbles et de canalisations diverses ;
-- l’entreprise d’aménagement de plaines de jeux et de sport, de parcs et de jardins ;
-- l’entreprise de terrassement ;
-- l’entreprise de construction de pavillons démontables et de baraquements non métalliques ;
-- l’entreprise de place de clôtures ;
-- l’entreprise d’isolation thermique et acoustique ;
-- l’entreprise de fabrication et d’installation de cheminées ornementales (à l’exclusion de travaux de
-marbrerie, taille de pierres et de mosaïque) ;
-- l’entreprise de placement de ferronnerie, de volets et de menuiserie métallique et PVC
-- l’entreprise de nettoyage et de désinfection de maisons et de locaux, meubles, ameublement et
+maisons, appartements, bureaux, magasins, fonds de commerce, terrains, terres et domaines, et en
+matière générale, de tous biens immobiliers;
+o la vente, la location, la réparation, la restauration et la gestion d’immeubles, de maisons et
+d’appartements ; nettoyage et désinfection d’immeubles, meubles, ameublements et autres objets
+divers ; la peinture industrielle, le commerce en gros et au détail ;
+o l’importation et l’exportation de tous matériaux de construction ;
+o l’installation d’échafaudage, de rejointage thermique et acoustique, laine de roche et mousse
+synthétique ;
+o travaux dans le domaine du zinc, cuivre, roofing, corniches, cheminées, velux, tuiles, ardoises,
+charpentes, pignons, démoulage, maçonnerie, plafonnage, électricité ;
+o la réparation, le dépannage, l’entretien, ainsi que les travaux de toutes natures afférents à la
+plomberie, aux installations de chauffage et de réfrigération et aux installations sanitaires ;
+o l’importation,  l’exportation, l’achat et la vente, la commercialisation, la production, la fabrication,
+ainsi que le placement de tous produits et/ou matériaux attenants à la plomberie, aux installations de
+chauffage et de réfrigération et aux installations sanitaires ;
+o le placement de clôtures, ferronnerie et de menuiserie métallique ;
+o le placement de paratonnerres ;
+o la pose de chapes, coffrages et terrassement ; le ramonage de cheminées, les travaux d’égouts,
+de pose de câblages et canalisations diverses, l’aménagement de terrain de sport, de parcs et de
+jardin ;
+o commerce en gros de matériaux de construction et entreprise de construction générale, la
+coordination des travaux à l’exception de toutes activités réglementées, qui seront traitées par des
+sous-traitants ;
+o travaux de gyproc, pose de plafonds et de faux plafonds ;
+o tous travaux de plafonnage et de carrelage et , plus généralement, de finition du bâtiment
+o tous travaux de sanitaire et de chauffage
+o tous travaux  contre l'humidité, travaux isolation, ....
+o tous travaux d'électricité
+o La fabrication de charpentes et de menuiserie en bois, matière platique ou aluminium, le montage
+de menuiseries extérieures ou intérieures, portes et fenêtres, escaliers, placards, cuisines équipées,
+équipements pour magasin, dormants de portes et fenêtres, le commerce de gros de menuiserie et
+les fermetures de bâtiments en bois, la couverture de construction et travaux hydrofuges, la
+construction de maisons à ossature bois, le bardage,
+o toute activité de gestion, de management et de conseil en matière financière ou économique et de
+développement d’entreprise.
+La société a également pour objet :
+o l’exploitation de tous genres de débits de boissons, restaurants, friterie, snack, petite restauration,
+salon de thé, tavernes, brasseries, cafétérias, bars, hôtellerie, établissements publics et privés
+destinés de jour et/ou de nuit au divertissement de la clientèle par la musique, la danse, le spectacle,
+la sonorisation, la décoration, les expositions, l’achat, la vente de tous articles s’y rapportant tels que
+tabacs, cigares, cigarettes, sandwichs ; le tout non contraire à l’ordre public et aux bonnes mœurs ;
+o l'exploitation d'un commerce de boulangerie, pâtisserie, chocolaterie, glace, achat et vente en gros
+ou au détail de tous produits liés à la boulangerie, à la production de fruits.
+o l’exploitation en général de supermarchés, épiceries, night-shops et le commerce en général sous
+toutes ses formes ainsi que le commerce ambulant, tant en gros qu’au détail, en ce compris
+notamment l’achat, la vente, l’importation, l’exportation, la fabrication, l’entretien, la réparation, la
+location, la représentation, la livraison et le transport de tous produits susceptibles de
+commercialisation et notamment, sans que cette énumération soit limitative :
+o tous articles textiles, cuirs ou synthétiques de remplacement et vêtements divers, neufs ou de
+seconde main, chaussures, articles de sport ;
+o tous produits d’alimentation en général, tels que notamment la boulangerie, la charcuterie, la
+poissonnerie, le gibier, les fruits et légumes, ainsi que les boissons ;
+o tous produits de ménage tels que notamment l’équipement ménager, produits d’entretien et de
+droguerie, produits de chauffage en tous combustibles ;
+o de fleurs, jouets, divers tabacs et articles pour fumeurs ;
+o le commerce sous toutes ses formes de produits de consommation et articles pour fumeurs, de
+plats préparés à consommer sur place ou à emporter, en ce compris notamment l’activité de traiteur
+et de préparation de plats à emporter ou à livrer à domicile ;
+o l’exploitation de salon de coiffure et de bancs solaires, tous articles de coiffure et tous articles de
+parfumerie, de toilette cosmétique, produits de beauté, maquillages ainsi que de savons et de
+détergents ; tous articles de mode et accessoires ;
+o le commerce en général tant en gros qu’au détail, en ce compris notamment l’achat, la vente,
+l’importation, l’exportation, le transport, l’entretien, la réparation, la location, le leasing, la
 
 Bi
 jla
@@ -278,10 +278,10 @@ bl
 ad
  - 
 
-27
+19
 /0
 
-7/
+5/
 20
 
 16
@@ -324,69 +324,69 @@ au
 
 Mod PDF 11.1
 
-objets divers ;
-- l’entreprise de ramonage de cheminées ;
-- l’entreprise de pose de chape, faux plafonds et de cloisons amovibles ;
-- l’entreprise de peinture industrielle ;
-- l’entreprise de fabrication et de garnissage de meubles non métalliques ;
-- l’entreprise d’installation d’échafaudages, de rejointoyage et de nettoyage de façades ;
--l’entreprise d’installation d’électricité,
-- l’entreprise de pose de parquets ;
-- l’entreprise de placement, d’entretien et de réparation de tous brûleurs ;
-- le nettoyage de tous locaux et lavage de vitres ;
-- l’entreprise de rénovation d’immeuble, au sens le plus large du terme;
-- l'import-export de toutes marchandises et de tout objet d’artisanat.
-Elle pourra faire ces opérations en nom propre, mais aussi pour compte de tiers.
-Elle pourra de plus faire toutes opérations industrielles, commerciales, financières ou civiles,
-mobilières et immobilières,  ayant un rapport direct ou indirect avec son objet.
-Elle peut s’intéresser par voie d’apport, de fusion, de souscription, ou de toutes autre manière à
-d’autres entreprises ou sociétés belges ou étrangères dont le but se rattacherait à l’objet de la
-présente société ou qui serait utile au développement ou à l’amélioration de ses affaires.
-(…)
-Article 5.
-Le capital social a été fixé à dix-huit mille six cents (18.600,00 €)  représenté par cent (100) parts
-sans désignation de valeur nominale, numérotées de 1 à 100, libérées à concurrence de un/tiers, soit
-au total six mille deux cents (6.200) euros.
-(…)
-Article 9
-La société sera administrée par un ou plusieurs gérants.
-La durée de leurs fonctions n'est pas limitée.
-Les gérants ont les pouvoirs les plus étendus pour agir au nom de la société dans toutes les
-circonstances ainsi que pour faire et autoriser tous les actes et opérations relatifs à son objet.
-Ils ont de ce chef la signature sociale et peuvent agir ensemble ou séparément.
-C'est l'assemblée qui, à la simple majorité des voix, déterminera le montant des rémunérations fixes
-et proportionnelles qui seront allouées aux gérants et portées aux frais généraux, indépendamment
-de tous frais éventuels de représentation, voyages et déplacements.
-Les gérants peuvent, dans leurs rapports avec les tiers, se faire représenter, sous leur
-responsabilité, par des mandataires de leur choix, pourvu que ces pouvoirs ne soient pas généraux.
-L'assemblée générale pourra à la simple majorité des voix, décider de confier la gestion journalière
-commerciale et/ou technique de la société à un mandataire, associé ou non.
-Article 10.
-L'assemblée générale des associés aura lieu de plein droit au siège social ou en tout autre lieu à
-désigner dans les convocations le 4ème lundi du mois de mai de chaque année, à 15 heures.
-(…)
-Article 11.
-L'exercice social commence le premier janvier et finit le trente et un décembre de chaque année.
-(…)
-Article 12.
-Le bénéfice net de la société sera affecté comme suit:
- cinq pour cent à la constitution d'un fonds de réserve légale, jusqu'à ce que celui-ci atteigne
-un/dixième du capital social  ;
- le solde sera à la disposition de l’assemblée qui, sur proposition de la gérance décidera de son
-affectation à la majorité simple des voix.
-Article 13.
-La société est dissoute dans les cas prévus par la loi.
-Elle pourra l'être par décision de l'assemblée générale.
-En cas de dissolution, la liquidation s'opérera par les soins de la gérance, à moins que l'assemblée
-des associés ne désigne un ou plusieurs liquidateurs dont elle fixera les pouvoirs et les émoluments.
-Le solde favorable de la liquidation, après paiement des dettes et des charges de la société, sera
-partagé entre les associés suivant le nombre de leurs parts respectives.
-Article 14.
-(…)
-DISPOSITIONS FINALES ET/OU TRANSITOIRES.
-A. (…)
-B. Premier exercice social.
-Exceptionnellement, le premier exercice social commencera ce jour pour finir le trente et un
+représentation de tous véhicules automobiles neufs ou d’occasion en ce compris notamment de
+toutes pièces de rechange, accessoires et produits relatifs au secteur automobile ;
+o le dépannage de tout véhicule motorisé ;
+o Reprogrammation moteur, Diagnostic du véhicule, mise à zéro des erreurs et des messge au
+compteur ;
+o tant pour elle-même que pour le compte de tiers, en qualité d'agent, de représentant ou de
+commissionnaire, seule ou en participation avec qui que ce soit en Belgique et à l'étranger, toutes 
+opérations  quelconques,  commerciales,  industrielles,  financières,  mobilières  ou  immobilières,  se
+rapportant directement ou indirectement au/à :
+- le transport national et international de toutes marchandises par route,
+- le transport national et international de personnes par route,
+- l’exploitation d’une station service, les ventes en gros ou en détail de tous produits pétroliers ou
+dérivés, car wash, carrosseries, ateliers mécaniques et garage, toutes prestations en vue de
+l’agrégation d’un véhicule automobile par tout organisme chargé du contrôle technique et notamment
+la représentation de ce véhicule dans un centre de contrôle ainsi que toutes prestations requises par
+le transfert de véhicules ;
+o toutes activités relevant du secteur de l’imprimerie et de la reproduction sur tout support, telle que
+notamment l’exploitation d’un magasin de « copy-service », l’importation et l’exploitation de machines
+de jeux de tous genres ;
+• toutes activités relevant du secteur de la téléphonie-caméra-alarme-électronique : vente de
+téléphones mobiles et accessoires de téléphones, vente de cartes prépayées, exploitation de
+cabines téléphoniques, vente et installation caméra et  systèmes alarmes ;
+• Vente par internet de tout types de produits ;
+o toute activité de gestion, de management et de conseil en matière financière ou économique et de
+développement d’entreprise.
+ Elle pourra réaliser son objet social, en tous lieux, de toutes les manières et suivant les modalités
+qui lui paraîtront les mieux appropriées, soit par exploitation directe, soit en s’intéressant dans les
+entreprises analogues ou apparentées entièrement ou artificiellement soit par voie de fusion avec de
+telles entreprises belges ou étrangères. Elle peut agir comme intermédiaire pour la réalisation des
+projets d’investissements ou de financements internationaux.
+Certaines de ces activités seront autorisées si les accès à la profession nécessaires sont octroyés et
+respectés.
+Elle pourra d’une façon générale faire en Belgique et à l’étranger tous actes de transaction ou
+opérations commerciales, financières, mobilières ou immobilières se rapportant directement ou
+indirectement, en tout ou en partie, à son objet social ou qui seraient de nature à en faciliter ou en
+développer la réalisation.
+La société pourra également s’intéresser, par voie d’apport, de fusion, de souscription ou de toute
+autre manière dans toutes entreprises, associations ou sociétés ayant un objet similaire, analogue ou
+connexe ou de nature à en favoriser celui de la société.
+Article quatre   Durée:
+La société a été constituée pour une durée illimitée.
+Article cinq   Capital:
+Lors de la constitution le capital a été fixé à DIX-HUIT MILLE SIX CENTS EUROS (18.600,00 EUR).
+Il est représenté par cent quatre-vingt-six (186)  parts sociales sans désignation de valeur nominale.
+Article six   Registre des parts:
+Il est tenu au siège social un registre des parts, dans lequel la gérance indique les souscriptions,
+cessions et transmissions de parts.
+Article sept   Cession et transmission:
+La cession de parts entre vifs ou la transmission pour cause de mort sont soumises:
+1) Au droit de préférence au profit des associés en proportion des parts de chacun d'eux avec, en
+cas de non exercice par certains d'entre eux, accroisse-ment au profit des autres;
+2) En cas de non exercice total ou partiel du droit de préférence, à l'agrément du nouvel associé par
+la moitié au moins des associés possédant les trois quarts au moins du capital, déduction faite des
+droits dont la cession est proposée.
+Le refus d'agrément ne donne lieu à aucun recours.
+Toutefois, la cession ou la transmission ne sont soumises à aucune restriction si elles ont lieu au
+profit:
+a)d'un associé,
+b)d'un conjoint, ainsi que d'un ascendant ou d'un descendant d'un associé;
+Cette énumération étant limitative.
+Les héritiers ou légataires d'un associé défunt, qui ne peuvent pas devenir associés, ont droit à la
+valeur des parts de leur auteur. A cet effet, de même que pour l'exercice du droit de préférence, le
+prix d'achat des parts sera fixé anticipativement chaque année par l'assemblée générale après
 
 Bi
 jla
@@ -415,10 +415,10 @@ bl
 ad
  - 
 
-27
+19
 /0
 
-7/
+5/
 20
 
 16
@@ -461,20 +461,69 @@ au
 
 Mod PDF 11.1
 
-décembre deux mille dix-sept.
-C. Première assemblée générale.
+l'adoption du bilan et figurera dans l'ordre du jour.
+Article huit   Gestion et surveillance:
+ La société est gérée par un ou plusieurs gérants, associés ou non, nommés par l'assemblée
+générale, qui pourra limiter ou étendre les pouvoirs leur conférés par la loi et fixer la durée de leur
+mandat.
+Les activités de la société sont surveillées conformément au Code des sociétés.
+Article neuf   Assemblée générale:
+Il est tenu une assemblée générale ordinaire chaque année le troisième lundi du mois de juin à dix-
+sept heures.
+Lorsque la société ne comprend en qualité d'associé qu'une seule personne physique, cette dernière
+exerce seule les pouvoirs attribués à l'assemblée générale.
+Chaque part sociale donne droit à une voix, l’assemblée délibère valablement quelle que soit la
+por¬tion du capital représenté et les décisions sont prises à la majorité simple des voix.
+Au cas où la société ne compte qu’un seul associé, celui-ci exerce tous les pouvoirs dévolus à
+l’assemblée générale mais sans qu’il puisse les déléguer.
+En cas d’égalité des parts sociales (cinquante – cinquante), ce sera le nombre de personnes
+représentant la moitié des parts sociales qui l’emportera.
+Article dix   Exercice social et comptes:
+L'exercice social commence le premier janvier. Il finit le trente et un décembre suivant. 
+Article onze   Dispositions légales:
+Pour tout ce qui n'est pas spécialement stipulé dans les présents statuts, il convient de s'en référer
+aux dispositions du Code des sociétés, notamment pour ce qui concerne les sociétés d'une
+personne, les bénéfices distribuables, les acquisitions par la société de biens d'associés, les
+augmentations et réductions du capital, le droit de préférence des associés et les dissolutions.
+Article douze   Election de domicile:
+Pour l'exécution des présents statuts, tout associé, gérant, commissaire ou liquidateur fait élection de
+domicile au siège social.
+DISPOSITIONS FINALES ET TRANSITOIRES:
+Le comparant déclare ce qui suit:
+1)Siège actuel:
+Le siège social de la société est établi actuellement à 1080 Molenbeek-saint-Jean, Rue du Gulden
+Bodem, 6
+2)Premier exercice: 
+Le premier exercice social commence ce jour et prendra fin le trente et décembre deux mille dix-sept.
+3)Première assemblée:
 La première assemblée générale ordinaire se réunira en deux mille dix-huit.
-D. (…)
-E. Gérant.
-Les constituants décident de ne nommer qu’un seul gérant et désignent en cette qualité et pour une
-durée indéterminée avec les pouvoirs les plus étendus que la loi lui confère :
-Monsieur NOVAKOVIC Radisa prénommé, qui accepte.
-POUR EXTRAIT ANALYTIQUE CONFORME
-Délivré avant enregistrement uniquement en vue du dépôt au Greffe du Tribunal de Commerce.
-                                           J.F. POELMAN, Notaire associé
-Déposé en même temps:
-- expédition de l'acte
- 
+4)Avertissements:
+Le comparant reconnait avoir été éclairé par le notaire soussigné au sujet des dispositions légales et
+plus particulièrement celles relatives à la dénomination des sociétés, à l'accès à certaines activités,
+aux obligations sociales des sociétés et de leurs organes, aux obligations et à la responsabilité des
+fondateurs, des gérants, commissaires et autres personnes chargées de la gestion ou de la
+surveillance des sociétés et de leur conjoint commun en biens, ainsi qu'à l'interdiction pour certaines
+personnes de participer à l'administration, la gestion ou la surveillance des sociétés. 
+5)Dispense de nomination de commissaires:
+Le comparant estime que pour le premier exercice la société répondra aux critères le dispensant de
+la nomination de commissaires.
+ASSEMBLEE GENERALE EXTRAORDINAIRE:
+Nomination:
+Et à l'instant même, l'assemblée générale extraordi¬naire de la société ci dessus constituée prend, à
+l'unanimité des voix, les décisions suivantes:
+Le nombre de gérants est fixé à un.
+L'assemblée appelle aux fonctions de gérant : Monsieur MASSAOUDI Yassine, précité, et qui
+accepte.
+Ces fonctions prennent cours ce jour sans limitation de durée. Le mandat de gérant est à tout
+moment révocable par l'assemblée générale. Le mandat de gérant est exercé à titre gratuit.
+Chaque gérant est investi des pouvoirs les plus étendus pour faire seul tous actes qui intéressent la
+société. Il a dans sa compétence tous les actes qui ne sont pas réservés par la loi à l'assemblée
+générale. Il peut déléguer les pouvoirs qu'il déterminera à un ou plusieurs mandataires associés ou
+non.
+Chaque gérant représente la société à l’égard des tiers et en justice, soit en demandant, soit en
+défendant.
+Mandat
+Pour toutes démarches et formalités à accomplir au guichet d’entreprise, au registre des personnes
 
 Bi
 jla
@@ -503,10 +552,87 @@ bl
 ad
  - 
 
-27
+19
 /0
 
-7/
+5/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+morales, à la Banque–Carrefour des entreprises compétents et à l'administration de la T.V.A.,
+l'assemblée confère tous pouvoirs à Francis Huygens, gérant de la société IDEEFISC Soc Civ sfd
+Sprl, avec faculté de substitution.
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+19
+/0
+
+5/
 20
 
 16

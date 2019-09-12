@@ -29,6 +29,7 @@ for YEAR in range(2014, 2020):
         time_deltas.append(datetime.datetime.now() - saved_time)
         time_delta = np.mean(time_deltas)
         saved_time = datetime.datetime.now()
+
         print(f"¸.•* ¸.•* ¸.•* progress : {i}/{len(files)} ETA: {time_delta * (len(files) - i)} *•.¸ *•.¸ *•.¸")
         text = ''
         with open(txt_path + filename, 'r', encoding='utf-8') as file:

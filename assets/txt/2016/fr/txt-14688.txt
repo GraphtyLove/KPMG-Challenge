@@ -28,7 +28,7 @@
 
 
 
-Mod PDF 11.1
+MOD 2.2
 
 Copie à publier aux annexes au Moniteur belge
 après dépôt de l'acte
@@ -53,64 +53,64 @@ N° d'entreprise :
 
 Dénomination
 
-(en entier) : SAMEKH
+(en entier) : Le laboratoire d'expérimentation théâtrale A.S.B.L.
 
 (en abrégé) :
 
-Forme juridique  : Société en commandite simple
+Forme juridique  : Association sans but lucratif
 
-Siège : Galerie de Waterloo 2
+Siège : Vieille-Voie-de-Tongres 131
 
-1050
+4000
 
 Belgique
 
 Objet de l'acte : Constitution
 
-Ixelles
+Liège
 
-CONSTITUTION
+Les comparants du présent acte :
+Nancy Cornet, Vieille Voie de Tongres, 131, 4000 Liège,
+Isabelle Stasse, rue des Grands prés, 202, 4032 Chênée,
+Philippe Deltour, rue des Grands prés, 202, 4032 Chênée,
+ont dressé par les présentes les statuts d'une association sans but lucratif (a.s.b.l.) qu'ils déclarent constituer
+entre eux, conformément à la loi du 27 juin 1921.
  
-L'an deux mille seize
-Le 1er octobre
+Article 1er. L'association est dénommée " Le laboratoire d’expérimentation théâtrale ". Tous les actes, factures,
+annonces, publications et autres pièces émanant de l'association devront mentionner sa dénomination sociale.
+Celle-ci devra être immédiatement suivie des mots " association sans but lucratif ". Ces mêmes documents
+devront en outre mentionner l'indication précise du siège social.
  
-ONT COMPARU
-1. Madame Sylvie DUPONT, née le 10 mars 1975 à Berchem-Sainte-Agathe, domiciliée Galerie de Waterloo, 2
-à 1050 Bruxelles
-En qualité d’associé commandité.
+Art. 2. Le siège de l'association est établi à 4000 Liège, Vieille Voie de Tongres, 131, arrondissement judiciaire
+de Liège. Il pourra, par simple décision du conseil d'administration, être transféré en tout autre lieu de
+l'agglomération. Il pourra, par décision de l'assemblée générale prise à la majorité des voix, être transféré dans
+toute autre commune du Royaume. Toute modification du siège social doit être publiée, dans le mois de sa date,
+aux annexes au Moniteur belge.
+L'association pourra établir, par simple décision de son conseil d'administration, tous sièges administratifs et/ou
+activités, et ce tant en Belgique qu'à l'étranger.
  
-2. Monsieur Cédric TEDESCO, né le 10 avril 1975 à Uccle, domicilié avenue des Cerisiers, 132 à 1200
-Bruxelles.
-En qualité d’associé commanditaire.
+Art. 3. L'association est constituée pour une durée illimitée. Elle peut en tout temps être dissoute.
  
-Associés commandités et commanditaires
-Les comparants participent à la constitution de la société à la fois comme associé commandité, et comme
-associé commanditaire.
+Art. 4. L'association a pour but la création artistique ainsi que la diffusion et/ou la promotion de l’expression
+artistique sous ses différentes formes. Elle peut accomplir tous les actes se rapportant directement ou
+indirectement à son but. Elle peut notamment prêter son concours et s’intéresser à toutes activités similaires à
+son but.
  
-Fondateurs
-Les comparants déclarent supporter seuls la responsabilité de fondateur.
+Art. 5. Le nombre minimum des membres du conseil d'administration ne peut être inférieur à deux; ce nombre ne
+peut être supérieur à neuf.
+Les membres du conseil d'administration sont :
+1° Les comparants au présent acte;
+2° Toute personne qui par sa notoriété, sa qualité ou ses compétences, est susceptible d'aider l'association dans
+la poursuite de son but mais et pour autant qu'elle soit admise en qualité de membre par une décision de
+l'assemblée générale. Cette décision doit réunir la majorité simple des voix des membres présents.
  
-Les comparants constituent entre eux une société commerciale et dressent les statuts d'une Société en
-Commandite Simple, dénommée «SAMEKH», au capital de 500 � (cinq cents euros), divisé en 500 (cinq cents)
-parts sociales, sans mention de valeur nominale, représentant chacune une fraction égale du capital.
- 
-Le capital est souscrit par apports en espèces par :
- 
-1. Mme Sylvie DUPONT, précité, pour 499 (quatre cent nonante-neuf) parts ;
-2. M. Cédric TEDESCO, précité pour 1 (une)part.
- 
-II. STATUTS
-Les comparants arrêtent comme suit les statuts de la société:
- 
-TITRE I - CARACTERE DE LA SOCIETE
- 
-Article 1. Forme et raison sociale
+Art. 6. Tout membre est libre de se retirer de l'association en adressant par écrit sa démission au conseil
 
- *16320304*
+ *16310171*
 Déposé
-05-10-2016
+08-05-2016
 
-0663861961
+0653832656
 
 Bi
 jla
@@ -139,10 +139,10 @@ bl
 ad
  - 
 
-07
-/1
+11
+/0
 
-0/
+5/
 20
 
 16
@@ -181,76 +181,76 @@ Moniteur
 belge
 
 Volet B - suite
-Mod PDF 11.1
+MOD 2.2
 
+d'administration. L'exclusion d'un membre ne peut être prononcée que par l'assemblée générale. Celle-ci statue à
+la majorité des deux tiers. Le conseil d'administration peut suspendre, jusqu'à décision de l'assemblée générale,
+tout membre qui se serait rendu coupable d'infraction grave aux statuts ou à la loi belge.
  
-La société adopte la forme de la société en commandite simple.
-Elle est dénommée «SAMEKH».
+Art. 7. L'associé démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayant droit de l'associé décédé,
+n'ont aucun droit sur les fonds sociaux. Ils ne peuvent réclamer ou requérir ni relevé, ni reddition décompte, ni
+apposition de scellés, ni inventaires.
  
-Article 2. Associés commandités et commanditaires
+Art. 8. Les associés sont pas astreints à une cotisation et apportent à l'association le concours actif de leurs
+capacités et de leur dévouement.
  
-La société se compose de deux catégories d’associés :
+Art. 9. L'assemblée générale est composée de tous les membres de l'association.
  
-- le ou les associé(s) commandité(s) qui sont indéfiniment et solidairement responsables de tous les
-engagements de la société et qui sont ceux qui sont mentionnés comme tels dans l'acte constitutif ou dans un
-acte de modification des statuts ;
+Art. 10. L'assemblée générale est le pouvoir souverain de l'association : Elle possède les pouvoirs qui lui sont
+expressément reconnus par la loi ou les présents statuts. Elle a notamment dans ses compétences :
+Les modifications aux statuts sociaux;
+La nomination et la révocation des administrateurs;
+L’approbation des budgets et des comptes;
+La dissolution volontaire de l'association.
+L'assemblée générale pourra déléguer ses pouvoirs à un administrateur délégué désigné à la majorité des deux
+tiers.
  
-- les associés commanditaires qui ne sont responsables qu'à concurrence de leur apport et sans solidarité. Les
-commanditaires ne peuvent s'immiscer dans la gestion sociale. Ils peuvent néanmoins agir en qualité de
-mandataire.
+Art. 11. L'assemblée générale se réunit chaque année, à une date et un endroit désigné dans les avis de
+convocations.
+A tout moment, l'assemblée générale peut être réunie par décision du conseil d'administration. Elle doit être
+réunie dans les cas prévus aux statuts ou à la demande d'un cinquième des membres effectifs au moins. Tous
+les membres doivent être convoqués. Chaque réunion se tient aux jours, heures et dates mentionnés dans les
+convocations.
  
-Article 3. Siège social
-Le siège social est établi, au moment de la constitution de la société, Galerie de Waterloo, 2 à 1050 Bruxelles.
+Art. 12. L'assemblée générale est convoquée par le conseil d'administration par lettre ordinaire ou carte poste
+adressée à chacun des membres au moins huit jours à l'avance. L'ordre du jour est mentionné dans la
+convocation.
+Toute proposition signée par un nombre de membre égal au vingtième de la liste annuelle doit être portée à
+l'ordre du jour.
  
-Il peut être transféré en tout autre endroit de la région de langue française de Belgique ou de la Région de
-Bruxelles-Capitale par simple décision de la gérance qui a tous pouvoirs aux fins de faire constater
-authentiquement la modification des statuts qui en résulte.
+Art. 13. Chaque membre a le droit d'assister à l'assemblée. Il peut se faire représenter par un mandataire. Celui-
+ci doit être membre de l'association. Un autre membre ne peut être porteur que d'une seule procuration
+nominative.
+Tous les associés ont un droit de vote égal, chacun dispose d'une voix. Les résolutions sont prises à la majorité
+simple des voix présentées ou représentées, sauf dans les cas où il en est décidé autrement par la loi ou les
+statuts.
  
-La société peut, par simple décision de la gérance, établir des unités d’établissement, sièges administratifs ou
-d'exploitation, succursales, dépôts, représentations ou agences en Belgique ou à l'étranger.
+Art. 14. L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association ou la modification
+des statuts que conformément aux articles 8 et 20 de la loi du 27 juin 1921 relative aux associations sans but
+lucratif.
  
-Article 4. Objet
+Art. 15. Lors de toute assemblée générale, ordinaire, extraordinaire, une liste de présence indiquant le nom des
+membres présents est signée par chacun d'eux ou par leur mandataire.
+Art. 16. Les décisions de l'assemblée générale sont consignées dans un registre de procès-verbaux, signé par un
+administrateur. Ce registre est conservé au siège social où tous les membres peuvent en prendre connaissance,
+mais sans déplacement du registre. Tous membres ou titre justifiant d'un intérêt peuvent demander des extraits,
+signés par un administrateur. Toute modification aux statuts doit être publiée dans le mois de sa date aux
+annexes au Moniteur belge. Il en est de même de toute nomination, démission ou révocation d'administrateur.
  
-La société a pour objet, tant en Belgique qu'à l'étranger, pour compte propre ou pour compte de tiers ou en
-participation avec ceux-ci, sans que cette énumération soit exhaustive:
+Art. 17. L'association est administrée par un conseil composé de trois membres. Ne pourront être membres du
+conseil d'administration que les personnes ayant la qualité de membres. La durée des mandats des
+administrateurs est illimitée. Ils sont révocables par l'assemblée générale, mais dans les conditions requises par
+les modifications statutaires.
  
-– l’étude, le conseil, la consultance, l’expertise, l’optimalisation des moyens de productions, des stratégies
-commerciales, du recrutement de personnel, de la gestion de stocks en produits finis et marchandises, des
-sources et moyens de financement, de la gestion de la trésorerie, de la formation et de la motivation du
-personnel, des systèmes et méthodes informatiques, des méthodes et procédures de travail, l’assistance au
-management.
+Art. 18. Si un administrateur venait à démissionner ou à décéder, les administrateurs restants seraient tenus de
+convoquer dans les plus brefs délais une assemblée générale. Celle-ci devrait obligatoirement se tenir dans le
+mois qui suit la démission ou le décès. L'assemblée générale procède au remplacement de l'administrateur
+démissionnaire ou disparu, comme il est dit en matière de modifications statutaires.
  
-La société a également pour objet la réalisation, pour son compte propre, seule ou pour compte de tiers ou en
-participation avec ceux-ci, de toutes opérations financières mobilières, immobilières et notamment :
+Art. 19. En cas de révocation d'un administrateur, l'assemblée générale procède immédiatement à son
+remplacement.
+Le nouvel administrateur est nommé comme il est dit dans l'article précédent.
  
-- l’achat, la vente, l’échange, la construction, la reconstruction, la démolition, la transformation, l’exploitation et la
-location dont l’’emphytéose de tous immeubles bâtis, meublés ou non ;
- 
-- l’achat, la vente, la mise en valeur, le lotissement, l’exploitation, la location et l’affermage de tous immeubles
-non bâtis ;
- 
-- ainsi que la réalisation de toutes opérations relatives à la promotion immobilière, à l’activité d’administrateur de
-biens, de marchands de biens et la prise et la remise de fonds de commerce.
- 
-Elle peut donner à bail ses installations et exploitations ou le donner à gérer à des tiers en tout ou en partie.
- 
-La société peut, d'une façon générale, accomplir toutes opérations commerciales, industrielles, financières,
-mobilières ou immobilières, se rapportant directement ou indirectement à son objet social ou qui seraient de
-nature à en faciliter directement ou indirectement, entièrement ou partiellement, la réalisation.
- 
-Elle peut s'intéresser par voie d'apport, de fusion, de souscription ou de toute autre manière dans toutes affaires,
-entreprises associations ou sociétés ayant un objet identique, analogue ou connexe au sien, ou qui sont de
-nature à favoriser le développement de son entreprise.
- 
-La société peut accepter et exercer un mandat d’administrateur, de gérant ou de liquidateur dans toutes sociétés,
-quel que soit son objet social.
- 
-La société pourra exercer toutes activités d’intermédiaire commercial dans les domaines ci-dessus énumérés et
-dans tous secteurs dont l’activité n’est pas réglementée à ce jour.
- 
-La société peut constituer hypothèque ou toute autre sûreté réelle sur les biens sociaux ou se porter caution.
- 
-Elle peut prêter à toutes sociétés et/ou personnes physiques et se porter caution pour elles, même
 
 Bi
 jla
@@ -279,10 +279,10 @@ bl
 ad
  - 
 
-07
-/1
+11
+/0
 
-0/
+5/
 20
 
 16
@@ -321,76 +321,73 @@ Moniteur
 belge
 
 Volet B - suite
-Mod PDF 11.1
+MOD 2.2
 
-hypothécairement.
+Art. 20. Les membres fondateurs sont désignés comme tel, rebut de droit du conseil d'administration.
  
-La gérance a compétence pour interpréter l’objet social.
+Art. 21. Le conseil d'administration se réunit sur convocation des administrateurs. Il ne peut statuer que si la
+majorité de ses membres est présente ou représentée. Ses décisions sont prises à la majorité absolue des voix.
+Elles sont consignées sous forme de procès-verbaux, signées par un, deux administrateurs Elles sont inscrites
+dans un registre spécial. Les copies ou extraits sont signés par le président et par un des administrateurs.
  
-Article 5. Durée
+Art. 22. Un administrateur absent pourra par simple lettre, déléguer ses pouvoirs à un de ses collègues. Cela
+uniquement pour une seule séance.
  
-La société est constituée pour une durée illimitée.
+Art. 23. Le mandat des administrateurs est gratuit.
  
-La société peut être dissoute par décision de l'assemblée générale délibérant comme en matière de modification
-des statuts et moyennant le consentement de la gérance.
+Art. 24. Le conseil d'administration a les pouvoirs les plus étendus pour gérer et administrer l'association. Il a tous
+les pouvoirs, sauf ceux qui sont expressément réservés à l'assemblée générale par les statuts ou par la loi.
  
-TITRE II. CAPITAL SOCIAL – PARTS SOCIALES – OBLIGATIONS
+Art. 25. A défaut de stipulation spéciale dans le procès-verbal du conseil d'administration, un administrateur signe
+valablement les actes régulièrement décidés par le conseil. Ils n'auront pas à justifier de leur pouvoir vis-à-vis des
+tiers.
  
-Article 6. Montant et représentation
+Art. 26. Le conseil peut charger toute personne de missions ou de mandats spéciaux. Il accorde à ces personnes
+l’indemnité qu'il estime nécessaire. Cette indemnité est insérée dans les frais généraux.
  
-Le capital social est fixé à la somme de cinq cents euros (500,00 �).
+Art. 27. Les administrateurs ne contractent, en raison de leur fonction, aucune obligation personnelle et ne sont
+responsables que de l'exécution de leur mandat.
  
-Il est représenté par cinq cents (500) parts sociales sans désignation de valeur nominale, représentant chacune
-une fraction identique du capital, et toutes entièrement libérées.
+Art. 28. L'exercice social commence le 1er janvier pour se terminer le 31 décembre.
  
-TITRE III. TITRES
+Art. 29. Les comptes de l'exercice écoulé et le budget de l'exercice suivant seront annuellement soumis à
+l'approbation de l'assemblée générale ordinaire.
  
-Article 7. Parts sociales
+Art. 30. Les comptes annuels sont déposés au greffe du tribunal civil.
  
-Les parts sociales sont nominatives.
+Art. 31. La dissolution et la liquidation de l'association sont régies par les articles 18 à 25 de la loi sur les
+associations sans but lucratif. En cas de dissolution de l'association, l'assemblée générale désignera le ou les
+liquidateurs, déterminera leur pouvoir et indiquera l'affectation à donner à l'actif net de l'avoir social.
  
-Article 8. Admission et retrait des associés commandités
+Art. 32. Au cas où l'association viendrait à disparaître en fait ou serait dissoute judiciairement, son patrimoine
+sera affecté à une œuvre dont l'objet se rapprochera de celui en vue duquel l'association disparue ou dissoute a
+été créée et qui sera déterminée par une assemblée générale convoquée au besoin.
  
-De nouveaux associés commandités ne pourront être admis dans la société que sur décision de l’assemblée
-générale statuant à l’unanimité avec l’accord du ou des gérant(s).
+Art. 33. Le conseil d'administration est tenu de veiller à l'accomplissement des formalités de publication requise
+par la loi du 27 juin 1921.
  
-Un associé commandité peut démissionner pour autant qu’il notifie son intention en temps opportun pour
-permettre à la société, soit d’admettre un nouvel associé commandité, soit de se transformer en société
-anonyme, soit, si elle le souhaite, de se dissoudre et pour autant, si cet associé commandité est gérant, qu’il
-respecte les règles prévues par les présents statuts pour la démission du gérant.
+Art. 34. Tout ce qui n'est pas prévu explicitement aux présents statuts est réglé par la loi du 27 juin 1921 et
+subsidiairement par le droit commun.
  
-Article 9. Indivisibilité des titres
+Art. 35. Pour l'exécution des présentes et de leur suite, il est fait élection de domicile au siège social de
+l'association.
  
-Les titres sont indivisibles à l'égard de la société.
+L'assemblée décide que le premier exercice social commence ce jour et se terminera le 31 décembre 2016
+première assemblée générale ordinaire aura lieu le 8 mai 2016.
+
+ A l'instant, l'association étant constituée et ses statuts arrêtés, les associés comparants déclarent se réunir en
+assemblée générale extraordinaire afin de fixer le nombre d'administrateurs et de procéder à leur nomination. A
+l'unanimité, l'assemblée décide de :
+
+ 1° fixer le nombre des administrateurs à trois.
+
+ 2° d'appeler à la fonction d'administrateurs : Philippe DELTOUR, Nancy CORNET et Isabelle STASSE. Et à
+l'instant se réunit le conseil d'administration qui, à l'unanimité, décide d'appeler aux fonctions de :
+ Président : Nancy CORNET.
+ Secrétaire : Philippe DELTOUR
+ Trésorière : Isabelle STASSE
  
-En cas de copropriété d’un titre, la société peut suspendre l’exercice des droits y afférents jusqu’à ce qu’une
-seule personne soit désignée comme étant, à son égard, propriétaire.
- 
-En cas de démembrement du droit de propriété d'un titre, sans préjudice de l’article 8, les droits afférents au titre
-sont exercés par l’usufruitier, sauf convention contraire entre le nu-propriétaire et l’usufruitier.
- 
-TITRE IV. ADMINISTRATION ET CONTRÔLE
- 
-Article 10. Gérance
- 
-La société est administrée par un gérant statutaire choisi parmi les associés commandités.
- 
-Si le gérant est une personne morale, il doit désigner au moment de sa nomination un représentant permanent et
-ne peut changer son représentant permanent qu’en désignant simultanément son successeur.
- 
-Est nommé gérant statutaire pour toute la durée de la société : Madame Sylvie DUPONT, précité.
- 
-Article 11. Fin du mandat du gérant
- 
-Les fonctions du gérant prennent fin dans les cas suivants:
-- la démission : le gérant ne peut démissionner que si sa démission est possible au vu des engagements qu'il a
-pris à l'égard de la société et ne met pas la société en difficulté; sa démission doit être notifiée par la convocation
-d'une assemblée générale avec pour ordre du jour la constatation de sa démission et les mesures à prendre;
-cette assemblée générale devra être réunie au moins un mois avant la prise d'effet de la démission;
- 
-- la dissolution, la faillite ou toute autre procédure analogue affectant le gérant.
- 
-Le gérant statutaire est irrévocable, sauf en justice, pour un juste motif.
+Fait et passé à Liège, le 5 mai 2016
 
 Bi
 jla
@@ -419,522 +416,10 @@ bl
 ad
  - 
 
-07
-/1
+11
+/0
 
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-Mod PDF 11.1
-
- 
-Article 12. Vacance
- 
-En cas de cessation des fonctions d’un gérant, la société n'est pas dissoute. Dans ce cas, l’assemblée générale,
-délibérant comme en matière de modification des statuts pourvoit à la vacance.
- 
-L’assemblée générale sera convoquée par les autres gérants s’il en existe ou, à défaut, par le commissaire ou à
-leur défaut par l’associé le plus diligent afin de pourvoir au remplacement du gérant après que le candidat -
-gérant ait été agréé comme associé commandité. L’assemblée peut décider de dissoudre anticipativement la
-société avec ou sans liquidation ou de la transformer en une autre forme de société commerciale.
- 
-Article 13. Pouvoirs
- 
-Chaque gérant a le pouvoir d'accomplir seul tous les actes nécessaires ou utiles à la réalisation de l'objet social,
-sauf ceux que la loi réserve à l'assemblée générale.
- 
-Il représente la société dans tous les actes, y compris ceux où intervient un fonctionnaire public, et en justice.
- 
-Le gérant peut déléguer des pouvoirs spéciaux à tout mandataire, actionnaire ou non.
- 
-Article 14. Gestion journalière
- 
-La gérance peut confier la gestion journalière de la société ainsi que la représentation de la société dans le cadre
-de cette gestion à un ou plusieurs de ses membres qui portent le titre de gérant - délégué, ou à un ou plusieurs
-délégués choisis hors ou dans son sein.
- 
-Le ou les gérants et les délégués à la gestion journalière peuvent, dans le cadre de cette gestion, déléguer des
-pouvoirs spéciaux à tous mandataires.
- 
-La gérance peut également confier la direction d’une ou plusieurs branches des affaires sociales à un ou
-plusieurs directeurs ou fondés de pouvoirs choisis hors ou dans son sein.
- 
-Article 15. Procès-verbaux
- 
-Les délibérations de la gérance sont constatées dans des procès-verbaux signés par celle-ci.
-Ces procès-verbaux sont versés dans un registre spécial. Les délégations ainsi que les avis et votes donnés par
-écrit ou autres documents y sont annexés.
- 
-Les copies ou extraits à produire en justice ou ailleurs sont signés par le gérant.
- 
-Article 16. Contrôle
- 
-Lorsque la loi l'exige et dans les limites qu'elle prévoit, le contrôle de la société est assuré par un ou plusieurs
-commissaire(s) nommé(s) pour trois ans et rééligible(s).
- 
-TITRE V. ASSEMBLEES GENERALES
- 
-Article 17. Réunion
- 
-L'assemblée générale annuelle se réunit le troisième mardi du mois de septembre de chaque année.
- 
-Si ce jour est un jour férié légal, l'assemblée a lieu le premier jour ouvrable suivant (le samedi n’étant pas
-considéré comme un jour ouvrable).
- 
-L'assemblée peut être convoquée extraordinairement chaque fois que l'intérêt de la société l'exige.
- 
-Les assemblées générales ordinaires ou extraordinaires se tiennent au siège de la société ou à tout autre endroit
-indiqué dans la convocation.
- 
-Article 18. Convocations
- 
-L'assemblée générale se réunit sur convocation de la gérance. Elle doit être convoquée à la demande d’associés
-représentant ensemble un cinquième du capital social.
- 
-Les convocations contiennent l'ordre du jour et sont faites conformément aux prescriptions du Code des sociétés.
- 
-Toute assemblée générale, tant ordinaire qu'extraordinaire, réunissant l'intégralité des titres, pourra délibérer et
-statuer valablement sans qu'il doive être justifié de l'accomplissement des formalités relatives aux convocations.
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-07
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-Mod PDF 11.1
-
- 
-Article 19. Admission à l'assemblée
- 
-La gérance peut exiger que les propriétaires de titres nominatifs l'informent, par écrit, dans les cinq jours au
-moins avant l’assemblée, de leur intention d'assister à l'assemblée et indiquent le nombre de titres pour lesquels
-ils entendent prendre part au vote.
- 
-Les obligataires peuvent assister à l'assemblée, mais avec voix consultative seulement, s'ils ont effectué les
-formalités prescrites aux alinéas qui précèdent.
- 
-Article 20. Représentation
- 
-Tout propriétaire de titres peut se faire représenter à l'assemblée générale par un mandataire, pourvu que celui-ci
-soit lui-même associé, et qu’il ait accompli les formalités requises pour être admis à l’assemblée.
-Toutefois, les personnes morales peuvent être représentées par un mandataire non associé.
- 
-Les mineurs, interdits ou autres incapables agissent par leurs représentants légaux.
- 
-La gérance peut arrêter la formule des procurations et exiger que celles-ci soient déposées au lieu indiqué par
-elle, dans le délai prévu à l'article précédent.
- 
-Les copropriétaires, les usufruitiers et nus-propriétaires, les créanciers et débiteurs gagistes, doivent se faire
-représenter respectivement par une seule et même personne.
- 
-Article 21. Bureau
- 
-Toute assemblée générale est présidée par un des gérants.
- 
-Le président peut désigner un secrétaire.
- 
-Si le nombre d'associés présents le permet, l'assemblée choisit un ou plusieurs scrutateurs parmi ses membres.
- 
-Article 22. Droit de vote
- 
-Chaque action donne droit à une voix.
- 
-Article 23. Délibérations
- 
-Sauf dans les cas prévus par la loi ou par les statuts, les décisions sont prises, quel que soit le nombre de titres
-représentés à l'assemblée, à la majorité des voix.
- 
-Les votes se font à main levée ou par appel nominal, à moins que l'assemblée générale n'en décide autrement à
-la majorité des voix.
- 
-Une liste de présences est établie avant d'entrer en séance.
- 
-Les décisions de l’assemblée générale ne sont prises qu’avec l’accord du ou de chacun des gérants.
- 
-Article 24. Droit de veto de la gérance
- 
-L'assemblée générale ne fait et ne ratifie les actes qui intéressent la société à l'égard des tiers ou qui modifient
-les statuts que moyennant l'accord de la gérance. Ce droit de veto de la gérance implique qu'aucun des actes et
-qu'aucune des décisions visées ci-dessus ne puissent être pris en l'absence de la gérance ou en cas
-d'abstention de celle-ci.
- 
-Article 25. Procès-verbaux
- 
-Les procès-verbaux des assemblées sont signés par les membres du bureau et les actionnaires qui le
-demandent.
- 
-Les copies ou extraits à produire en justice ou ailleurs sont signés par le gérant.
- 
-TITRE VI. ECRITURES SOCIALES - REPARTITIONS
- 
-Article 26. Exercice social
- 
-L'exercice social commence le 1er avril de chaque année pour se terminer le 31 mars de l’année suivante.
- 
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-07
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-Mod PDF 11.1
-
-Article 27. Approbation des comptes annuels
- 
-L'assemblée générale ordinaire statue sur les comptes annuels.
- 
-Après leur approbation, l'assemblée se prononce par un vote spécial sur la décharge à donner au gérant et aux
-commissaires s'il en existe.
- 
-TITRE VII. DISSOLUTION - LIQUIDATION
- 
-Article 28. Liquidation
- 
-En cas de dissolution de la société, pour quelque cause et à quelque moment que ce soit, la liquidation est
-effectuée par le ou les liquidateurs désignés par l'assemblée générale et à défaut de pareille nomination, par le
-gérant agissant en qualité de liquidateur.
- 
-Le(s) liquidateur(s) dispose(nt) à cette fin des pouvoirs les plus étendus conférés par les articles 181 et suivants
-du Code des sociétés.
- 
-L'assemblée générale détermine, le cas échéant, les émoluments du ou des liquidateurs.
- 
-Chaque année, le(s) liquidateur(s) soumet(tent) à l’assemblée générale les résultats de la liquidation avec
-l’indication des causes qui ont empêché celle-ci d’être terminée.
- 
-L’assemblée se réunit sur convocation et sous la présidence du liquidateur conformément aux présents statuts ;
-elle conserve le pouvoir d’augmenter le capital et de modifier les statuts sous réserve des prescriptions légales.
- 
-Lors de la première assemblée annuelle qui suivra leur entrée en fonction, les liquidateurs auront à mettre
-l’assemblée en mesure de statuer sur la décharge à donner aux derniers gérants et commissaires.
- 
-Article 29. Répartition
- 
-Après règlement du passif et des frais de liquidation ou consignation des sommes nécessaires à cet effet, l'actif
-net sert d'abord à rembourser, en espèces ou en titres, le montant libéré non amorti des parts sociales.
-
- Si toutes les parts sociales ne sont pas libérées dans une égale proportion, les liquidateurs, avant de procéder
-aux répartitions, tiennent compte de cette diversité de situation et rétablissent l'équilibre par des appels de fonds
-ou une répartition préalable.
- 
-Le solde est réparti d’abord au profit de la ou des part(s) d’intérêt, chaque part d’intérêt donnant droit à [1]%, et
-ensuite à concurrence du solde des actions.
- 
-TITRE VIII. DISPOSITIONS GENERALES
- 
-Article 30. Election de domicile
- 
-Pour l'exécution des statuts, tout commandité, commanditaire, obligataire, gérant, directeur, liquidateur domicilié
-à l'étranger, fait élection de domicile au siège social où toutes communications, sommations, assignations,
-significations peuvent lui être valablement faites.
- 
-Article 31. Compétence judiciaire
- 
-Pour tous litiges entre la société, ses commandités, commanditaires, obligataires, gérant, commissaires et
-liquidateurs relatifs aux affaires de la société et à l'exécution des présents statuts, compétence exclusive est
-attribuée aux tribunaux du siège social, à moins que la société n'y renonce expressément.
- 
-Article 32. Droit commun
- 
-Les parties entendent se conformer entièrement au Code des Sociétés.
- 
-En conséquence, les dispositions du Code auxquelles il ne serait pas explicitement dérogé, sont réputées
-inscrites dans le présent acte et les clauses contraires aux dispositions impératives du Code sont réputées non
-écrites.
- 
-III. DISPOSITIONS TRANSITOIRES
- 
-A l'instant, les associés se sont réunis et ont pris, à l'unanimité, les décisions suivantes, qui n'auront d'effet qu'au
-moment où la société sera dotée de la personnalité morale, c'est-à-dire au jour du dépôt de l'extrait du présent
-acte au greffe du tribunal de commerce compétent:
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-07
-/1
-
-0/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-Mod PDF 11.1
-
-Premier exercice social :
- 
-Le premier exercice social commencera ce jour et se clôturera le 31 mars 2018.
- 
-2. Première assemblée générale ordinaire :
- 
-La première assemblée générale ordinaire aura lieu en septembre 2018.
- 
-PROCURATION :
- 
-Tous pouvoirs, avec faculté de substitution, sont conférés à la société civile sous forme de société anonyme
-B.F.S., à 1200 Bruxelles, avenue du Prince Héritier, 192, afin d'assurer afin d'assurer l'inscription de la société
-auprès d’un guichet d’entreprises (Banque Carrefour des Entreprises) et de l’Administration de la Taxe sur la
-Valeur Ajoutée, ainsi que l’inscription auprès de la caisse d’assurance sociale pour travailleurs indépendants et
-l’inscription auprès de la cotisation sociétaire.
- 
-Fait et passé en lieu et date que dessus.
- 
-Sylvie DUPONT Cédric TEDESCO
- 
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-07
-/1
-
-0/
+5/
 20
 
 16

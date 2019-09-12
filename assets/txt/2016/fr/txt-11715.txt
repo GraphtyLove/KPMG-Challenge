@@ -28,7 +28,7 @@
 
 
 
-MOD 2.2
+Mod PDF 11.1
 
 Copie à publier aux annexes au Moniteur belge
 après dépôt de l'acte
@@ -53,64 +53,64 @@ N° d'entreprise :
 
 Dénomination
 
-(en entier) : Cyclo Club Messancy
+(en entier) : Gyproc Construct
 
-(en abrégé) : CC Messancy
+(en abrégé) :
 
-Forme juridique  : Association sans but lucratif
+Forme juridique  : Société en nom collectif
 
-Siège : Rue de la Clinique 2
+Siège : Avenue Kersbeek 308
 
-6780
+1180
 
 Belgique
 
 Objet de l'acte : Constitution
 
-Messancy
+Uccle
 
-Entre les soussignés :
--Mr Pascal Marlaire né le 05/08/1959 et domicilié 26, rue Welschen à 6780 Longeau
- -Mr Guy Mossay né le 02/12/1936 et domicilié 2, rue des Fauvettes à 6791 Athus
- -Mr Bernard Rasch né le 26/12/1951 et domicilié 81, rue du Panorama à 6782 Bébange
- -Mme Martine Pirrotte née le 02/11/1961 et domiciliée 18, rue de Geissert à 6780 Wolkrange
- -Mme Sophie Dropsy née le 07/02/1962 et domiciliée 76, rue de Luxembourg à 6780 Messancy
-Qui déclarent constituer entre eux une association sans but lucratif, conformément à la loi du 27 juin 1921, il a
-été convenu ce qui suit :
-TITRE I - DENOMINATION, SIEGE, DUREE, OBJET
-Article 1er : L'association prend pour dénomination : « Cyclo Club Messancy ». En abrégé, l'association peut
-prendre l'appellation de : « CC Messancy »,
-Article 2 : Le siège social est établi à 6780 Messancy, rue de la Clinique 2, situé en Belgique dans
-l'arrondissement judiciaire d'Arlon.
-Article 3 : L'association est constituée pour une durée indéterminée.
-Article 4 : L'association a pour but, en dehors de toute considération politique, religieuse ou philosophique, de
-promouvoir la pratique du cyclisme en général. L'association peut accomplir tous les actes se rapportant
-directement ou indirectement à son but. Elle peut prêter son concours et s'intéresser à toute activité similaire à
-son but. Elle peut notamment organiser des randonnées en tout genre, compétitions, entrainements, séjours,
-bals, repas, tombolas et y prendre part. L'association pourra posséder, soit en jouissance, soit en pleine
-propriété, tous meubles ou immeubles nécessaires à cette fin.
-TITRE II – MEMBRES, ADMISSION, DEMISSION, EXCLUSION, COTISATION
-Article 5 : L'association est composée de membres effectifs et d'adhérents.
-Le nombre de membres effectifs ne peut être inférieur à trois. Le nombre de membres effectifs et d'adhérents
-n'est pas limité.
-En dehors des prescriptions légales, les membres effectifs et les adhérents jouissent des droits et sont tenus des
-obligations qui sont précisés dans le cadre des présents statuts. Seules les modalités de l'exercice de ces
-prérogatives ou obligations pourront figurer dans l'éventuel R.O.I.
-Article 6 : Sont membres effectifs les comparants au présent acte et toute personne morale ou physique admise
-en cette qualité par le conseil d'administration. Les personnes morales désigneront une ou deux personnes
-physiques chargées de les représenter au sein de l'association.
-Article 7 : Sont adhérents toute personne physique ou morale en ordre de cotisation. Toute personne qui désire
-devenir adhérent en fait la demande auprès d'un membre du conseil d'administration ; C'est le conseil qui
-autorisera ou non l'adhésion.
-Article 8 : Les membres effectifs et adhérents sont libres de se retirer à tout moment de l'association en
-adressant par écrit leur démission à l'association.
- L'exclusion d'un adhérent est prononcée par le conseil d'administration.
+D’un acte sous seing privé en date du 7 avril 2016,
+ 
+Il résulte que les soussignés :
+ 
+1. Monsieur SANTANA ROSA Wender, de nationalité brésilienne, né à Goiania (Brésil) le 23 janvier 1979,
+demeurant avenida Perimetral n° 5 – Centro - 75.355.000 Varjao – Brésil  (NN 794123 283-03)
+2. Monsieur FERREIRA DA SILVA Ramon, de nationalité brésilienne, né à Goiania (Brésil) le 14 décembre 1977,
+demeurant rua José Vieira da Silva n° 25 - Centro - 75.355.000 Varjao – Brésil (NN 775214 223-77)
+ 
+Ont convenu de constituer une société en nom collectif, dont ils ont établis les statuts comme
+suit :
+Chapitre I
+Forme - Dénomination - Siège social - Objet – Durée
+ 
+ARTICLE 1 - FORME - DENOMINATION
+La société est une société en nom collectif dénommée :
+ 
+« Gyproc Construct » snc
+ 
+société ayant emprunté la forme d’une société en nom collectif, en abrégé SNC.
+ 
+ARTICLE 2 - SIEGE SOCIAL
+Le siège social de la société est établi à 1180 Uccle, avenue Kersbeek, 308. Il pourra être transféré partout
+ailleurs par décision de la gérance qui a tous pouvoirs.
+La société peut établir des bureaux, agences, succursales ou sièges administratifs partout où la gérance le juge
+utile, en Belgique ou à l’étranger.
+ 
+ARTICLE 3 – OBJET SOCIAL
+La société a pour objet, tant pour son compte propre que pour le compte de tiers ou en collaboration avec des
+tiers :
+- toutes activités du bâtiment, règlementées et non règlementées
+- la construction de maisons individuelles et de bureaux
+- la promotion immobilière
+- les activités d’intermédiaire de commerce en produits divers
+- le nettoyage de bureaux
+- le nettoyage de bâtiments après chantier
 
- *16300854*
+ *16307962*
 Déposé
-11-01-2016
+07-04-2016
 
-0645810657
+0651720630
 
 Bi
 jla
@@ -139,10 +139,10 @@ bl
 ad
  - 
 
-13
+11
 /0
 
-1/
+4/
 20
 
 16
@@ -181,76 +181,76 @@ Moniteur
 belge
 
 Volet B - suite
-MOD 2.2
+Mod PDF 11.1
 
- L'exclusion d'un membre effectif ne peut être prononcée que par l'assemblée générale à la majorité des deux
-tiers des voix présentes ou représentées.
- Le non respect des statuts, le défaut de payement des cotisations, le défaut d'être présent représenté ou excusé
-valablement à trois assemblées générales consécutives, les infractions graves aux lois de l'honneur et de la
-bienséance, les fautes graves et agissements ou paroles, qui pourraient entacher l'honorabilité ou la
-considération dont doit jouir l'association, le décès, la faillite sont des actes qui peuvent conduire à l'exclusion
-d'un membre ou d'un adhérent.
- Le conseil d'administration peut suspendre les membres visés, jusqu'à décision de l'assemblée générale.
-Article 9 : Le membre démissionnaire, suspendu ou exclu, ainsi que les créanciers, les héritiers ou ayant-droits
-du membre décédé ou failli n'ont aucun droit sur le fond social . Il ne peuvent réclamer ou requérir ni relevé, ni
-reddition de comptes, ni remboursement des cotisations, ni apposition de scellés, ni inventaire.
-Article 10 : Le conseil d'administration tient un registre des membres conformément à l'article 10 de la loi du 27
-juin 1921.
-Article 11 : Les membres ne contractent aucune obligation personnelle relativement aux engagements de
-l'association.
-Article 12 : Les membres et les adhérents paient une cotisation annuelle identique dont le montant ne pourra être
-supérieur à 200 (deux-cents) euros.
-TITRE III – ASSEMBLEE GENERALE
-Article 13 : L'assemblée générale est composée de tous les membres effectifs de l'association.
-Article 14 : L'assemblée générale possède les pouvoirs qui lui sont expressément reconnus par la loi ou les
-présents statuts.
- Sont notamment réservées à sa compétence : les modifications aux statuts sociaux; la nomination et la
-révocation des administrateurs ; la décharge octroyée aux administrateurs ; l'approbation des budgets et des
-comptes ; la dissolution volontaire de l'association ; les exclusions des membres ; toutes les hypothèses où les
-statuts l'exigent.
-Article 15 : Il doit être tenu au moins une assemblée générale chaque année dans le premier trimestre de
-l'année, L'association peut être réunie en assemblée générale extraordinaire à tout moment par décision du
-conseil d'administration, notamment à la demande d'un cinquième au moins des membres effectifs. Une telle
-demande devra être adressée au conseil d'administration par lettre recommandée à la poste au moins trois
-semaines à l'avance.
-Article 16 : Tous les membres effectifs et adhérents doivent être convoqués à l'assemblée générale par le conseil
-d'administration au moins quinze jours à l'avance.
- La convocation mentionne les jour, heure et lieu de la réunion. L'ordre du jour est également mentionné dans la
-convocation. Toute proposition signée par un cinquième des membres doit être portée à l'ordre du jour. Sauf
-dans les cas prévus aux articles 8, 12, 20 et 26 quater de la loi du 27 juin 1921, l'assemblée peut délibérer
-valablement sur des points qui ne sont pas mentionnés à l'ordre du jour.
-Article 17 : Chaque membre a le droit d'assister à l'assemblée. Il peut se faire représenter par un mandataire.
-Chaque membre ne peut être titulaire que d'une procuration. Le mandataire doit être membre de l'association.
- Seuls les membres effectifs ont le droit de vote. Chacun d'eux dispose d'une voix. Tout vote concernant une
-personne sera émis au scrutin secret. Les adhérents peuvent disposer d'une voix consultative mais en aucun cas
-délibérative.
- Le conseil d'administration peut inviter toute personne à tout ou partie de l'assemblée générale en qualité
-d'observateur ou de consultant.
-Article 18 : L'assemblée générale est présidée par le Président du conseil d'administration et à défaut par un
-administrateur désigné à cet effet par le conseil d'administration.
-Article 19 : L'assemblée générale peut valablement débibérer quel que soit le nombre de membres présents ou
-représentés, sauf les exeptions prévues par la loi ou les présents statuts. Les décisions de l'assemblée générale
-sont adoptées à la majorité simple des votes, sauf les cas où il est décidé autrement par la loi ou les présents
-statuts.
- En cas de partage des voix, celle du Président ou de l'administrateur qui le remplace est prépondérante. En cas
-de partage lors d'un vote à scrutin secret, la proposition est rejetée.
-Article 20 : L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association, sur les
-modifications des statuts, sur l'exclusion des membres que conformément aux conditions spéciales de quorum
-de présences et de majorité requises par la loi du 27 juin 1921 relative aux associations sans but lucratif.
-Article 21 : Les résolutions de l'assemblée sont consignées dans un registre spécial conservé au siège social de
-l'association.
-TITRE IV : ADMINISTRATION DE L'ASSOCIATION
-Article 22 : L'association est administrée par un conseil composé de trois personnes au moins. Elles sont
-nommées par l'assemblée générale pour un terme de 3 ans, et en tout temps révocables par elle. Les membres
-sortants du conseil d'administration sont rééligibles.
-Article 23 : En cas de vacance au cours d'un mandat, un administrateur provisoire peut être nommé par
-l'assemblée générale. Il achève dans ce cas le mandat de l'administrateur qu'il remplace.
-Article 24 : Le conseil d'administration désigne parmi ses membres un président, un secrétaire et un trésorier. Un
-même administrateur peut être nommé à plusieurs fonctions.
-Article 25 : Le conseil d'administration gère toutes les affaires de l'association . Il peut déléguer la gestion
-journalière de l'association avec l'usage de la signature afférent à cette gestion à un ou plusieurs administrateurs
-qu'il choisira parmi ses membres et dont il fixera les pouvoirs.
-Article 26 : Le secrétaire accomplit les différentes tâches correspondant à ses fonctions ; notamment, il prend en
+- le transport de marchandises
+- tous services aux entreprises
+- tous services aux particuliers
+- les activités de marchand de biens immobiliers
+La société a le droit d'accomplir tous actes se rapportant directement ou indirectement à la réalisation de son
+objet social ou qui sont de nature à en favoriser la réalisation.
+ 
+Elle peut s’intéresser par voie d’apport, de fusion, de souscription ou de toute autre manière dans toutes affaires,
+entreprises, associations ou sociétés ayant un objet identique, analogue ou connexe au sien ou qui sont de
+nature à favoriser le développement de son entreprise, à lui procurer des matières premières ou à faciliter
+l’écoulement de ses produits ou services. Elle peut se porter caution ou donner toutes garanties réelles ou
+personnelles et, plus généralement, entreprendre toutes opérations commerciales, financières ou immobilières
+de nature à favoriser la réalisation des activités ci-dessus.
+ 
+ARTICLE 4 - DUREE
+La société est constituée pour une durée illimitée à partir du 7 avril 2016
+ 
+Chapitre II
+Capital - Parts sociales
+ARTICLE 5 – CAPITAL SOCIAL
+Le capital social est fixé à 1000 euros.
+Le capital social est représenté par 1000 parts nominatives de 1 euro chacune.
+Les parts sont souscrites de la manière suivante :
+ 
+SANTANA ROSA Wender:                                500 euros
+FERREIRA DA SILVA Ramon:                            500 euros
+--------------
+1000 euros
+Les associés déclarent que chaque part a été entièrement libérée en espèces, de sorte que la
+société dispose, à la date de la signature des présents statuts, d’une somme de 1000 euros.
+Chaque part sociale donne droit à une voix.
+ 
+Chapitre III
+Organisation
+ARTICLE 6 - ASSEMBLEES GENERALES
+L’assemblée générale annuelle des associés sera tenue le 1er lundi du mois de JUIN, à 18 heures, au siège de
+la société, ou en tout autre endroit convenu entre associés.
+ 
+Des assemblées générales extraordinaires pourront être convoquées à tout moment à la demande d’un associé.
+ 
+ARTICLE 7 - CONVOCATION AUX ASSEMBLEES
+Chaque associé sera convoqué au moins cinq (5) jours ouvrables avant la date de l’assemblée. La convocation
+indiquera la date, le lieu et l’heure de l’assemblée. Cette convocation sera notifiée personnellement à l’associé
+par courrier ordinaire, télégramme, ou par tout autre moyen de communication écrit. Toutefois, il n’y a pas lieu de
+justifier les convocations si tous les associés sont présents ou représentés.
+ 
+Les convocations contiennent l’ordre du jour complet. Toutefois, pour autant que tous les associés soient
+présents ou représentés et marquent leur accord à ce sujet, ils pourront valablement délibérer et voter sur toute
+question ne figurant pas à l’ordre du jour.
+ARTICLE 8 - VOTES
+Chaque associé dispose d’une voix par part sociale dont il est propriétaire, le droit de propriété des parts sociales
+devant résulter des inscriptions ad hoc dans le livre des parts.
+Sauf disposition contraire de la loi, des présents statuts, toute décision des associés sera valablement prise si
+elle réunit la majorité des voix.
+Le vote peut être valablement émis par l’intermédiaire d’un mandataire ou porteur de procuration, qui doit avoir
+néanmoins la qualité d’associé.
+ 
+ARTICLE 9 - MAJORITES SPECIALES - QUORUM DES PRESENCES
+Les décisions suivantes ne peuvent être prises que si elles sont approuvées par tous les
+associés :
+- modification des présents statuts;
+- dissolution de la société;
+L’assemblée générale ne peut se réunir valablement que si tous les associés sont présents ou
+représentés.
+ 
+Si ce quorum n’est pas atteint, une seconde assemblée générale doit être convoquée, moyennant envoi d’une
+convocation par lettre recommandée, laquelle assemblée pourra se réunir valablement quel que soit le nombre
+d’associés présents ou représentés.
 
 Bi
 jla
@@ -279,10 +279,10 @@ bl
 ad
  - 
 
-13
+11
 /0
 
-1/
+4/
 20
 
 16
@@ -321,49 +321,55 @@ Moniteur
 belge
 
 Volet B - suite
-MOD 2.2
+Mod PDF 11.1
 
-charge la correspondance, tient à jour la liste des membres effectifs et la situation administrative de l'association.
-Article 27 : Le trésorier tient à jour la situation financière de l'association et accomplit toute opération et transfert
-en rapport avec sa mission, y compris recevoir les paiements, payer les factures et faire toutes opérations
-bancaires relevant de la gestion journalière de l'association. Le trésorier tient les comptes qui sont présentés au
-conseil dès que celui-ci le demande. Il présentera également les comptes de l'année écoulée ainsi que le budget
-à l'assemblée générale.
-Article 28 : Le conseil d'administration a les pouvoirs les plus étendus pour l'administration et la gestion de
-l'association. Seuls sont exclus de sa compétence, les actes réservés par la loi ou les présents statuts à
-l'assemblée générale.
-Article 29 : Le conseil d'administration représente l'association dans tous les actes judiciaires et extrajudiciaires.
-Article 30 : Les administrateurs, les personnes déléguées à la gestion journalière, ainsi que les personnes
-habilitées à représenter l'association, ne contractent, en raison de leurs fonctions, aucune obligation personnelle
-relativement aux engagements de l'association.
-TITRE V : BUDGETS, COMPTES, DISPOSITIONS DIVERSES
-Article 31 : L'exercice social commence le 1er janvier pour se terminer le 31 décembre.
-Article 32 : Le compte de l'exercice écoulé et le budget de l'exercice suivant seront annuellement soumis à
-l'approbation de l'assemblée générale ordinaire par le conseil d'administration.
- Les comptes et les budgets sont tenus et, le cas échéant, publiés conformément à l'article 17 de la loi du 27 juin
-1921 sur les associations sans but lucratif.
-Article 33 : Les documents comptables sont conservés au siège de l'association où tous les membres effectifs et
-adhérents peuvent en prendre connaissance mais sans déplacement du registre, après requête écrite au conseil
-d'administration avec lequel le membre doit convenir de la date et de l'heure de la consultation.
-Article 34 : Un règlement d'ordre intérieur pourra être édité par le conseil d'administration s'il le juge nécessaire.
-Article 35 : Tout ce qui n'est pas prévu explicitement aux présents statuts est réglé par la loi du 27 juin 1921
-régissant les associations sans but lucratif.
-DISPOSITIONS TRANSITOIRES
-Les fondateurs prennent à l'unanimité les décisions suivantes, qui ne deviendront effectives qu'à dater au greffe
-des statuts, des actes relatifs à la nomination des administrateurs et des actes relatifs à la nomination des
-personnes habilitées à représenter l'association.
-Exercice social :
-Par exception à l'article 31, le premier exercice débutera ce jour pour se clôturer le 31 décembre 2016.
-Administrateurs :
-Ils désignent en qualité d'administrateur :
--Mr Pascal Marlaire né le 05/08/1959 et domicilié 26, rue Welschen à 6780 Longeau
- -Mr Guy Mossay né le 02/12/1936 et domicilié 2, rue des Fauvettes à 6791 Athus
- -Mr Bernard Rasch né le 26/12/1951 et domicilié 81, rue du Panorama à 6782 Bébange
- -Mme Martine Pirrotte née le 02/11/1961 et domiciliée 18, rue de Geissert à 6780 Wolkrange
- -Mme Sophie Dropsy née le 07/02/1962 et domiciliée 76, rue de Luxembourg à 6780 Messancy
-qui acceptent ce mandat.
-Fait en double exemplaire à Messancy, le 9 janvier 2016,
-Ont signé tous les membres fondateurs,
+ 
+ARTICLE 10 - GESTION ET REPRESENTATION
+La gestion de la société est assurée par un ou plusieurs gérants désignés pour une durée limitée, et dont le
+mandat peut être rémunéré, et que son montant doit correspondre à des prestations de gestion réellement
+effectuées.
+La société est valablement représentée et engagée à l’égard des tiers par la signature du gérant.
+Un gérant peut déléguer des pouvoirs spéciaux à tout mandataire, associé ou non.
+ 
+Chapitre IV
+Dispositions d’ordre financier
+ARTICLE 11 - EXERCICE SOCIAL
+L’exercice social commence le 1er janvier et se termine le 31 décembre.
+ 
+ARTICLE 12 - COMPTES ANNUELS
+Les comptes annuels de la société sont établis annuellement conformément à la loi et sont disponibles au moins
+dix jours avant la date de l’assemblée générale annuelle des associés.
+ 
+ARTICLE 13 - BENEFICES
+Les revenus sont perçus par et pour le compte de la société. Les bénéfices de la société sont établis et distribués
+aux associés selon les dispositions de l’assemblée générale.
+ 
+La fixation d’une réserve conventionnelle requiert l’accord unanime des associés.
+Chapitre V
+Dissolution
+ARTICLE 14 - DISSOLUTION
+La société pourra être dissoute par décision approuvée par tous les associés.
+L’assemblée des actionnaires choisira une ou plusieurs personnes pour agir en qualité de liquidateur.
+ 
+Chapitre VI
+Pouvoirs
+ARTICLE 15 - GERANTS
+Sont nommés au titre de gérants pour une durée illimitée :
+1. Monsieur SANTANA ROSA Wender, de nationalité brésilienne, né à Goiania (Brésil) le 23 janvier 1979,
+demeurant avenida Perimetral n° 5 – Centro - 75.355.000 Varjao – Brésil  (NN 794123 283-03)
+2. Monsieur FERREIRA DA SILVA Ramon, de nationalité brésilienne, né à Goiania (Brésil) le 14 décembre 1977,
+demeurant rua José Vieira da Silva n° 25 - Centro - 75.355.000 Varjao – Brésil (NN 775214 223-77)
+ 
+ARTICLE 16 - POUVOIRS
+Tous pouvoirs sont donnés à Jordens-Kreanove sprl, représentée par son gérant Monsieur
+Arnaud Trejbiez afin d'assurer les formalités auprès des différentes administrations concernées
+pour l’immatriculation auprès du registre des personnes morales et, le cas échéant, auprès de
+l'Administration de la Taxe sur la Valeur Ajoutée, toute CAS ou mutuelle, ainsi qu’à un guichet d’entreprise en
+vue d’assurer l’inscription / la modification des données dans la Banque Carrefour des Entreprises,en ce compris
+la signature des documents de publication de la présente constitution aux annexes du Moniteur belge.
+ 
+Arnaud Trejbiez
+Mandataire
 
 Bi
 jla
@@ -392,10 +398,10 @@ bl
 ad
  - 
 
-13
+11
 /0
 
-1/
+4/
 20
 
 16

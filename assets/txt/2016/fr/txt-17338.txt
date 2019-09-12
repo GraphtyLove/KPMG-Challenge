@@ -28,7 +28,7 @@
 
 
 
-MOD 2.2
+Mod PDF 11.1
 
 Copie à publier aux annexes au Moniteur belge
 après dépôt de l'acte
@@ -53,64 +53,64 @@ N° d'entreprise :
 
 Dénomination
 
-(en entier) : La Compagnie de L'hydre
+(en entier) : SABI
 
-(en abrégé) : L'hydre
+(en abrégé) :
 
-Forme juridique  : Association sans but lucratif
+Forme juridique  : Société coopérative à responsabilité illimitée
 
-Siège : Rue Gustave Defnet 20 5
+Siège : Potiérue 3
 
-1060
+4650
 
 Belgique
 
 Objet de l'acte : Constitution
 
-Saint-Gilles
+Herve
 
-Statuts de la Compagnie de L’hydre – ASBL
+L’an deux mille Seize, le 31 Mai, ont comparu :
  
-L’article 2 de la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but
-lucratif et les fondations prévoit :
-« Les statuts d'une association mentionnent au minimum :
-1° les nom, prénoms, domicile, de chaque fondateur, ou, lorsqu'il s'agit d'une personne morale, la dénomination
-sociale, la forme juridique et l'adresse du siège social;
-2° la dénomination et l'adresse du siège social de l'association ainsi que l'indication de l'arrondissement judiciaire
-dont elle dépend;
-3° le nombre minimum des membres. Il ne peut pas être inférieur à trois;
-4° la désignation précise du ou des buts en vue desquels elle est constituée;
-5° les conditions et formalités d'admission et de sortie des membres;
-6° les attributions et le mode de convocation de l'assemblée générale ainsi que la manière dont ses résolutions
-sont portées à la connaissance des membres et des tiers;
-7°
-a) le mode de nomination, de cessation de fonctions et de révocation des administrateurs, l'étendue de leurs
-pouvoirs et la manière de les exercer, en agissant soit individuellement, soit conjointement, soit en collège, ainsi
-que la durée de leur mandat;
-b) le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes habilitées à
-représenter l'association, l'étendue de leurs pouvoirs et la manière de les exercer, en agissant soit
-individuellement, soit conjointement, soit en collège;
-c) le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes déléguées à
-la gestion journalière de l'association, l'étendue de leurs pouvoirs et la manière de les exercer, en agissant soit
-individuellement, soit conjointement, soit en collège;
-8° le montant maximum des cotisations ou des versements à effectuer par les membres;
-9° la destination du patrimoine de l'association en cas de dissolution, lequel doit être affecté à une fin
-désintéressée;
-10° la durée de l'association lorsqu'elle n'est pas illimitée. »
+1–Monsieur KHAN Ansar, né le 10/10/1978 à Kttha Saghral ( Pakistan )
+de nationalité Belge, domicilié à rue roosevelt, 29 à 4650 Herve  (NN 78101056567).
  
-Lexique :
-Agir individuellement = agir seul;
-Agir conjointement = agir deux par deux;
-Agir en collège = agir tous ensemble;
-Coordonner avec X = adapter en fonction de X;
-Vote à la majorité absolue = la moitié des votes exprimés + 1;
-Vote à la majorité des 2/3 = 2/3 des votes exprimés;
+2-Mme ANSAR Mehvish, né le 02/10/1984 à Jhang ( pakistan ) de nationalité
+de nationalite pakistanaise, domicilié à rue roosevelt, 29 à 4650 Herve  (NN 84100252288).
+ 
+3—Mr Youssaf Mirza Waseem, né le 09/12/1992 à Jhelum (pakistan) de nationalite pakistanaise domicilié
+à rue du peignage, 26 3+4e et 4800 Verviers. (NN 92120957309)
+ 
+Lesquels comparants déclarent par la présente, former entre eux une société coopérative à
+responsabilité illimitée et dont les statuts ont été arrêtés comme suit :
+ 
+Article 1.
+ La société est une société coopérative à responsabilité illimitée et dénommée ‘SABI.
+ 
+Article 2.
+      Le siège social est établi à  « Potiérue 3 4650 Herve.».  Il peut être transféré partout en Belgique par simple
+décision du gérant.
+ 
+Article 3.
+ La société a pour objet, tant pour elle même que pour le compte  de tiers, seule ou en participation avec qui que
+ce soit, en Belgique ou à l’étranger, l’exploitation et la gestion : 
+-de supermarchés, d’épiceries de night-shop , magasin alimentation générale, en ce compris l’achat , la vente, en
+gros, demi-gros et détails, le courtage, l’importation, l’exportation la location, la conception, la fabrication, la
+réparation, la transformation, l’exploitation, la distribution, l’édition, le placement de tous produits directement ou
+indirectement liés à l’alimentation générale, aux boissons alcoolisées ou non, aux liqueurs  et aux produits de
+tabacs.
+-de magasin de vêtements en ce compris l’achat, la vente, l’import , l’export, en gros, demi-gros et détails de tous
+produits de textile, tissus, cuir, pour hommes, dames, enfants, articles et accessoires de coutures ;
+-de magasin d’articles de sports en ce compris l’achat, la vente, l’import, l’export en gros, demi-gros, et détail de
+tous produits relatifs à tous sport ;
+-la création, l’aménagement, l’agencement, l’installation, l’achat, la vente, la location, le gérance et l’exploitation
+d’établissement de type HORECA sans que cette liste soit limitative.
+-L'abattage des arbres, menuiserie, travail du bois, découpe ect.
 
- *16312247*
+ *16312031*
 Déposé
-06-06-2016
+03-06-2016
 
-0655960421
+0655908159
 
 Bi
 jla
@@ -139,7 +139,7 @@ bl
 ad
  - 
 
-09
+07
 /0
 
 6/
@@ -181,76 +181,76 @@ Moniteur
 belge
 
 Volet B - suite
-MOD 2.2
+Mod PDF 11.1
 
-Vote à la majorité simple = la majorité des votes exprimés.
+-Les restaurants, les débits de boissons, les salons de consommations, les snacks-bars, les salons de thés, les
+cafeterias, les cafés , les estaminets, les tavernes, les bars, le service traiteur, la préparation, et la
+commercialisation de tous plats à emporter, etc...
+-de garage, le commerce en général tant en gros qu’aux détails en ce compris
+notamment l’achat, la vente, l’importation, l’exportation, le transport, l’entretien, la réparation, la location, le
+leasing, la représentation de tous véhicules automobiles neufs ou d’occasion en ce compris notamment de toutes
+pièces de rechange, accessoires et  produits relatifs au secteur de l’automobile ;
+-de station service, car-wash, carrosseries, atelier mécanique et garage, toute prestation en  vue de l’agréation
+d’un véhicule automobile par tout organisme chargé du contrôle technique et notamment la présentation de ce
+véhicule dans les centres de contrôles ainsi que toutes prestations requises par le transit des véhicules.
+-de cabines téléphoniques, copy services, internet et services de tout genres ; librairie, papeterie. 
+-intermédiaire commissionné pour tout produit y compris les produits pétroliers. Pompiste commissionné.
+ Cette énonciation n’est pas limitative, mais simplement exemplative. La société peut d’une façon générale faire
+en Belgique et à l’étranger tous actes, transactions ou opérations commerciales, industrielles, financières,
+mobilières ou immobilières se rapportant, directement ou indirectement, à son objet social, ou qui seraient de
+nature à en faciliter entièrement ou partiellement la réalisation.
+ Ces diverses activités seront autorisées si les accès à la profession nécessaires sont octroyés et respectés.
+-Elle peut s’intéresser par voie de souscription, de participation, d’acquisition, de cession, d’apport ou de fusion
+ou autrement, dans toutes affaires, entreprises, association ou sociétés belges ou étrangères, crée ou à créer,
+ayant un objet analogue ou connexe au sien ou de nature à favoriser son entreprise, à lui procurer des matières
+premières ou à faciliter l’écoulement de ses produits.
+Article 4.
+La société est constituée pour une durée illimitée à compter de ce jour, sauf en cas de dissolution anticipée
+prévue par les présents statuts et les lois en vigueurs.
+Article 5.
+ Le capital social est illimité et son montant minimum est fixé à 5000 euros et libéré à concurrence de 5000
+euros.
+ Le capital est divisé en 100  parts sociales d’une valeur nominale de cinquante euros chacune (50).
+Article 6.
+ ont souscrit à la valeur actuelle de cinquante euros la part , les membres fondateurs suivants :
  
-***
-***
+1–  Monsieur KHAN Ansar ……..         75   parts sociales
+2–  Mme ANSAR Mehvish …………     15  parts sociales
+3–  Mr Youssaf Mirza Waseem…….    10  parts sociales
  
-Les soussignés :
-  - HUYSMAN Nathalie – Rue de l’Amérique 119 – 6010 Couillet – Belgique ;
-  - WILMART Robin – Rue François-Hellinckx 16 – 1081 Koekelberg – Belgique ;
-  - ROGER Fabien – Rue Gustave Defnet 20, Bte5 – 1060 Saint-Gilles – Belgique ;
-  - DELCORPS Lola – Rue du Culot 25 – 1341 Céroux-Mousty – Belgique ;
-  - HANOTIAU Catherine – Allées du Languedoc 51 – 1140 Evere – Belgique ;
-ont convenu de constituer une association sans but lucratif conformément à la loi du 27 juin 1921 sur les
-associations sans but lucratif, les associations internationales sans but lucratif et les fondations, dont ils ont
-arrêté les statuts comme suit :
  
-Titre Ier - Dénomination, siège social, but, durée
+Article 7.
+La société est administrée par un ou plusieurs gérants associés ou non,  nommés par l’assemblée générale pour
+une durée limitée ou illimitée et que fixe la rémunération. Chaque gérant a les pouvoirs les plus étendus pour
+accomplir seul les actes, que sont nécessaires ou utiles à l’accomplissement de l’objet de la société à l’exception
+de ces pouvoir qui selon la loi ou les présents statuts, sont réservés à l’assemblé générale.
+Chaque gérant représente seul la société à l’égard des tiers et en justice soit en demandant soit en défendant.
  
-Art. 1.        Dénomination
-L’association est dénommée « Compagnie de L’hydre », en abrégé « L’hydre ».
-Remarque :
-Cette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de
-commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots
-"association sans but lucratif " ou de l’abréviation "ASBL", avec l’indication précise de l’adresse du siège de
-l’association.
-Art. 2.         Siège social
-Le siège social est établi dans l’arrondissement judiciaire de Bruxelles à 20, Rue Gustave Defnet – 1060 Saint-
-Gilles.
-Toute modification du siège social est de la compétence exclusive de l’assemblée générale qui votera sur ce
-point, conformément à la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales
-sans but lucratif et les fondations.
-Art. 3.         But
-L’association a pour but d’encourager l’expression artistique, sous toutes ses formes. Elle vise notamment à
-intégrer et partager l’art théâtral dans des lieux non-édifiés pour des prestations artistiques, en vue de toucher
-des publics qui n’ont pas nécessairement accès à la culture. Notre objectif premier étant de déraciner le théâtre
-de son lieu fondateur actuel, c’est-à-dire l’institution théâtrale, afin d’amener des créations artistiques dans des
-endroits où on ne s’y attend pas nécessairement.
-L’association poursuit la réalisation de son but par tous les moyens en étroite collaboration avec ses membres et
-notamment :
-  - par l’organisation d’actions de sensibilisation et de promotion de créations artistiques en Belgique et à
-l’étranger,
-  - par la mise en place d’ateliers, de stages, d’animations, d’expositions, de performances et de conférences,
-  - par la création et la production de spectacles.
-Elle peut faire toute opération civile ou mobilière se rattachant directement ou indirectement, en tout ou en partie,
-à son but ou pouvant en amener le développement ou en faciliter la réalisation, en ce compris créer et/ou gérer
-et/ou participer à  tout  service ou toute institution visant  à  atteindre directement ou indirectement le but qu’elle
-s’est fixé.
-Art. 4.        Durée de l’association
-L’association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.
+Article 8.
+La surveillance des opérations de la société est exercée par les associés. Chaque associé possède le droit de
+regard et de surveillance sur les opérations de la société si les prescriptions légales l’exigent La surveillance est
+exercée par un ou plusieurs commissaires, dont le nombre est fixé par l’assemblée générale, qui les nomme.
  
-Titre II - Membres
+Article 9.
+L’assemblée générale, régulièrement constituée, représente l’universalité des associés.
+L’assemblée est souveraine, ses décisions engagent tous les associés. Elle se prononce sur tout les cas non
+prévus aux statuts. un fois par an, les sociétaires seront réunis en assemblée générale statutaire, au cours de
+laquelle, il sera fait rapport sur l’activité de la société, sur le bilan de l’année écoulé. L’assemblée générale doit
+être convoquée une fois l’an le premier lundi du mois de juin de chaque année à dix-huit heures, au siège social
+ou à tout autre endroit fixé dans la convocation.
+Article 10.
+ L’exercice social commence  le 1er janvier et se termine le trente et un décembre de chaque année.
+ Exceptionnellement, l’exercice social commence ce jour et se termine le trente et un décembre deux mille seize.
  
-Art. 5.        Composition
-L’association est composée de membres effectifs et adhérents. Le nombre de membres effectifs est illimité mais
-ne peut être inférieur à 4. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux membres
-par la loi et les présents statuts.
-Art. 6.        Membres effectifs et membres adhérents
-Sont membres effectifs les comparants au présent acte et toute personne physique ou morale qui adresse une
-demande écrite et motivée au conseil d’administration et dont la candidature est acceptée par l’assemblée
-générale statuant à la majorité absolue des membres présents ou représentés. Les conditions de mise à l’entrée
-se feront toujours par contrat entre les membres fondateurs et le membre effectif après la participation active de
-celui-ci à un spectacle antérieur.
-La décision d’admission ou de refus ne doit pas être motivée par l’assemblée générale. Elle est portée à la
-connaissance du candidat par courriel. En cas de refus, la décision peut faire l’objet d’un recours par le
-demandeur à la saison artistique suivante.
-Sont membres adhérents : tous ceux qui participent aux activités de l’association et qui s’engagent à en
-respecter les statuts et le règlement d’ordre intérieur ainsi que les décisions prises conformément à ceux-ci.
-Tous les membres s’engagent à respecter la règle morale essentielle de la compagnie qui réside dans le fait
-d’être actif au sein de la communauté. Ceux-ci s’engagent également à ne jamais porter atteinte aux autres
+Article 11.
+L’excédent favorable du bilan après déductions des amortissements et provisions nécessaires, constitue le
+bénéfice net de la société. Sur le bénéfice net, il est fait un prélèvement pour la réserve légale, le solde est mis à
+la disposition de l’assemblée générale, qui décidera de son affectation.
+ 
+Article 12.
+En cas de perte de la moitié du capital, le(s) gérant(s) est (sont) tenu de convoquer un assemblée générale
+extraordinaire, à l’effet de statuer sur la question de savoir s’il y a lieu de continuer l’activité de la société ou de
+prononcer la dissolution.
 
 Bi
 jla
@@ -279,7 +279,7 @@ bl
 ad
  - 
 
-09
+07
 /0
 
 6/
@@ -321,76 +321,25 @@ Moniteur
 belge
 
 Volet B - suite
-MOD 2.2
+Mod PDF 11.1
 
-membres. Chaque membre amène donc le concours actif de ses capacités en veillant à ne créer aucune dette au
-sein de la compagnie. Dans le non-respect de ces règles, les fondateurs sont en droit de demander l’exclusion du
-membre (cf. Art. 7.).
-Art. 7.        Démission   –   suspension   –   exclusion   de   membres   et   membres   réputés
-démissionnaires
-Tout membre effectif ou adhérent est libre de se retirer de l’association en adressant par écrit sa démission au
-conseil d’administration.
-Lorsqu’un membre fondateur, effectif ou adhérent désire quitter l’association ou un projet en cours, il ne peut
-prétendre à aucun droit sur le fond social pour exiger un quelconque remboursement et présentera sa démission
-sous forme écrite. Il est tenu de le faire un mois minimum avant la date officielle de son départ.
-Est réputé démissionnaire :
-  - le membre effectif ou adhérent qui ne paie pas la cotisation qui lui incombe, dans le mois du rappel qui lui est
-adressé par courriel.
-  - le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à deux assemblées générales
-consécutives.
-  - le membre qui est condamné pour attentat à la pudeur, corruption de la jeunesse, prostitution ou outrage aux
-bonnes mœurs pour des faits accomplis sur un mineur (ou impliquant sa participation).
-L’exclusion d’un membre effectif ne peut être prononcée que par les membres fondateurs, à la majorité absolue
-des voix présentes ou représentées par l’assemblée générale.
-Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se
-seraient rendus coupables d’infraction grave aux statuts ou aux lois.
-La qualité de membre se perd automatiquement par le décès ou, s’il s’agit d’une personne morale, par la
-dissolution, la fusion, la scission, la nullité ou la faillite.
-Le membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n'ont
-aucun droit sur le fonds social de l'association. Ils ne peuvent réclamer ou requérir, ni relevé, ni reddition de
-compte, ni apposition de scellés, ni inventaires, ni le remboursement des cotisations versées.
-En aucun cas un membre fondateur n’est en droit d’en exclure un autre.
-Art. 8.        Registre des membres
-L'association tient un registre des membres effectifs, sous la responsabilité du conseil d'administration.
-Remarque :
-Toutes décisions d'admission, de  démission ou d'exclusion de  membres effectifs sont inscrites au registre des
-membres à la diligence du conseil d'administration endéans les huit jours de la connaissance que le conseil a
-eue de la ou des modifications intervenues.
-Tout membre peut consulter, au siège social de l'association, le registre des membres, ainsi que tous les procès-
-verbaux et décisions de l'assemblée générale, du conseil d'administration, de même que tous les documents
-comptables de l'association, sur simple demande écrite et motivée adressée au conseil d’administration. Le
-membre est tenu de préciser les documents auxquels il souhaite avoir accès. Le  conseil d’administration
-convient d’une date  de  consultation des  documents avec  le membre. Cette date sera fixée dans un délai d’un
-mois à partir de la réception de la demande.
  
-Titre III - Cotisations
+Article 13.
+Pour tout ce qui n’est pas prévu aux présents statuts, les parties et les tiers s’en référèrent aux dispositions du 
+Codes des sociétés.
  
-Art. 9.         Cotisations
-Les membres effectifs et adhérents sont tenus de payer une cotisation annuelle dont le montant est fixé par le
-conseil d’administration et ne peut dépasser 80 euros.
-Seuls les membres effectifs en ordre de cotisations ont le droit de vote à l’assemblée générale.
-Remarque :
-Le règlement d’ordre intérieur reprend le montant de la cotisation réelle.
+NOMINATION DE GERANT
+Est nommé gérant pour une durée illimitée,        Monsieur KHAN Ansar
  
-Titre IV - Assemblée générale
+Faite à Herve, le  le  31 Mai 2016
+                            
+COOPERATEURS
  
-Art. 10.      Composition
-L’assemblée générale est composée de tous les membres effectifs et présidée par un administrateur désigné en
-préambule à  chaque réunion.
-Remarque :
-Il est possible d’inviter les membres adhérents, mais ils n’ont pas le droit de vote.
-Art. 11.      Pouvoirs
-L’assemblée générale exerce les pouvoirs qui lui sont réservés par la loi ou les présents statuts. Elle est
-compétente pour :
-  - la modification des statuts;
-  - la nomination et la révocation des administrateurs;
-  - la  nomination et  la  révocation des  commissaires, les  commissaires aux comptes  et  la   fixation  de   leur 
-rémunération  dans  les  cas  où  une rémunération est attribuée;
-  - la décharge annuelle à octroyer aux administrateurs et aux commissaires;
-  - l'approbation annuelle des budgets et des comptes;
-  - la dissolution de l'association, et la nomination ou révocation du liquidateur;
-  - l’admission et l’exclusion d’un membre;
-  - la transformation de l'association en société à finalité sociale;
+Mme ANSAR Mehvish                     Monsieur KHAN Ansar              Mr Youssaf Mirza Waseem 
+            
+ 
+ 
+ 
 
 Bi
 jla
@@ -419,501 +368,7 @@ bl
 ad
  - 
 
-09
-/0
-
-6/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-  - toute compétence qui lui est réservée par la loi du 27 juin 1921 sur les associations  sans  but  lucratif,  les 
-associations  internationales  sans  but lucratif et les fondations.
-Art. 12.      Convocation – Assemblée générale ordinaire
-Tous les membres effectifs sont convoqués à l’assemblée générale ordinaire, au moins trois fois par an, une
-première réunion pour fixer la saison théâtrale au mois de septembre, une seconde réunion pour la gestion de
-celle-ci dans le courant de janvier et enfin une dernière réunion pour établir un bilan dans le courant du mois de
-juin.
-L’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration par courriel au
-moins huit jours avant la date de celle-ci.
-La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour.
-Art. 13.      Assemblée générale extraordinaire
-Une assemblée générale extraordinaire peut être convoquée par le conseil d’administration à tout moment, à la
-demande de celui-ci ou à la demande écrite d’un cinquième des membres effectifs.
-De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de
-l’assemblée générale suivante.
-Art. 14.      Quorum de présence
-L’assemblée générale délibère valablement dès que la moitié de ses membres est présent ou représenté sauf
-dans le cas où les présents statuts ou la loi du 27 juin 1921 sur les associations sans but lucratif, les associations
-internationales sans but lucratif et les fondations exige un quorum de présences différent.
-Tout  membre  effectif  peut  se  faire  représenter  par  un  autre  membre  effectif  à  qui  il  donne procuration
-écrite. Un membre ne peut détenir plus de deux procurations.
-Art. 15.      Représentation, droit de vote et majorité
-Tous les membres effectifs ont un droit de vote égal à l’assemblée générale.
-Les décisions sont prises à la majorité absolue des voix présentes ou représentées, sauf dans le cas où il en est
-décidé autrement par la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales
-sans but lucratif et les fondations ou les présents statuts.
-En cas de partage des voix, celles des fondateurs sont prépondérantes.
-Les votes nuls, blancs et les abstentions ne sont pas pris en compte dans le calcul des majorités.
-L’assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour. Un point non inscrit à
-l’ordre du jour peut être débattu si 2/3 des membres effectifs sont présents ou représentés et si la moitié des
-membres effectifs accepte d’inscrire ce point à l’ordre du jour.
-Art. 16.      Modifications statutaires et dissolutions
-L’assemblée générale ne peut valablement délibérer sur la modification des statuts ou la dissolution de
-l’association que conformément à la loi du 27 juin 1921 sur les associations sans but lucratif, les associations
-internationales sans but lucratif et les fondations.
-Art. 17.      Publicité des décisions prises par l’assemblée générale
-Le procès-verbal des décisions prisent par l’assemblée générale est rédigé par un des administrateurs désigné
-comme tel au début de l’assemblée générale. Il  mentionne les personnes présentes ou représentées. Il reprend,
-au minimum, l’ensemble des points à l’ordre du jour et le résultat des votes. Le cas échéant, il reprend les
-réserves qui ont été exprimées lors des débats.
-Les convocations et procès-verbaux dans lesquels sont consignées les décisions de l’assemblée générale, ainsi
-que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre au
-siège de l’association et peuvent y être consultés par les membres conformément à l’article 8, alinéa 2.
-Tout tiers justifiant d’un intérêt légitime peut demander de consulter le procès-verbal de l’assemblée générale
-signé.
-Toute  modification  des  statuts,  toute  décision  relative  à  la  dissolution,  de  même  que  toute nomination ou
-cessation de fonction d’un administrateur, doit être sans délais déposée au greffe du tribunal de commerce et
-publiée aux Annexes du Moniteur Belge.
-Remarque :
-Toute modification aux statuts ou décision relative à la dissolution doit être déposée au greffe du tribunal de
-commerce pour publication aux "Annexes du Moniteur belge". Il en est de même pour toute nomination ou
-cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne
-déléguée à la gestion journalière ou d’un vérificateur aux comptes.
- 
-Titre V - Conseil d’administration
- 
-Art. 18.      Nomination  et  nombre  minimum  d’administrateurs  –  Durée  du  mandat  – Responsabilité
-L’association est administrée par un conseil d’administration composé de trois membres au moins et cinq au 
-plus.  Le  nombre d’administrateurs est toujours inférieur au nombre de membres effectifs de l’assemblée
-générale.
-Le candidat administrateur, choisi parmi les membres et/ou des tiers, est élu par l’assemblée générale à la
-majorité absolue des voix des membres présents ou représentés.
-Le mandat n’expire que par décès, démission ou révocation. Les administrateurs sortants sont rééligibles.
-Remarque :
-Le conseil d'administration est composé de trois personnes au moins. Toutefois, si seules trois personnes sont
-membres de l'association, le conseil d'administration n'est composé que de deux personnes. Le nombre
-d'administrateurs doit en tout cas toujours être inférieur au nombre de personnes membres de l'association
-(article 13 de la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-09
-/0
-
-6/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-lucratif et les fondations).
-Les administrateurs ne contractent, par leur fonction, aucune obligation personnelle. Ils ne sont responsables vis-
-à-vis de l’association que de l’exécution de leur mandat.
-Art. 19.      Démission – Révocation – Vacance d’un mandat
-Tout administrateur qui veut démissionner doit signifier sa décision par écrit par simple lettre et par e-mail au
-conseil d'administration. Sa démission prend effet immédiat sauf si elle a pour conséquence que le nombre
-d’administrateurs devient inférieur au nombre minimum fixé à l’article 18.
-Le mandat d’administrateur peut être en tout temps révoqué par l’assemblée générale sans qu’elle doive se
-justifier.
-En cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale. Il
-achève dans ce cas le mandat de l’administrateur qu’il remplace.
-Art. 20.      Fréquence des réunions
-Le conseil d’administration se réunit dès que les besoins s’en font sentir et au moins deux fois par an.
-Il est convoqué à la demande du président ou de deux administrateurs au moins. Il est présidé par un
-administrateur désigné en préambule à chaque réunion.
-Art. 21.      Délibération
-Le conseil d'administration délibère valablement dès que la moitié de ses membres est présente ou représentée.
-Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. En
-cas de partage des voix, le point est reporté au prochain conseil d’administration.
-Un administrateur peut se faire représenter par un autre administrateur ou même par un tiers tant que ce dernier
-est membre effectif de l’association, au moyen d’une procuration écrite signée.
-Art. 22.      Pouvoirs et décisions
-Le conseil d’administration et les membres fondateurs ont les pouvoirs les plus étendus pour l’administration et la
-gestion de l’association. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à
-l’assemblée générale seront exercées par le conseil d’administration.
-Il peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et
-gérer tous comptes bancaires, transiger, compromettre, acquérir, échanger, vendre tous biens meubles ou
-immeubles, hypothéquer, emprunter, conclure des baux, accepter tous legs, subsides, donations et transferts,
-renoncer à tous droits, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi
-engager et licencier les travailleurs de l’association.
-Les administrateurs agissent en collège, sauf en cas de délégation spéciale.
-Le conseil d’administration peut déléguer certains pouvoirs de décision, sous sa responsabilité, à une ou
-plusieurs personnes (administrateurs, membres ou tiers), avec le  cas échéant le  pouvoir de représentation. Il
-précise l’étendue des pouvoirs conférés et la durée durant laquelle ces pouvoirs peuvent être exercés par la/les
-personne(s) désignée(s).
-Tout pouvoir délégué par le conseil d’administration à un administrateur cesse dès la démission ou la révocation
-dudit administrateur.
- 
-Titre VI – Gestion journalière
- 
-Art. 23.      Délégation à la gestion journalière
-Le conseil d'administration peut déléguer certains pouvoirs à une ou plusieurs personnes, administrateurs ou
-non, agissant en cette qualité individuellement, conjointement ou  en collège.
-Les pouvoirs de l’organe de gestion journalière sont limités aux actes de gestion quotidienne de l'association qui
-permet d'accomplir les actes d'administration :
-  - qui ne dépassent pas les besoins de la vie quotidienne de l'ASBL,
-  - qui, en raison de leur peu d'importance et de la nécessité d'une prompte solution, ne justifient pas l'intervention
-du conseil d'administration.
-La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil
-d’administration.
-Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat
-d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.
-Le conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin à la fonction exercée par
-la personne chargée de la gestion journalière.
- 
-Titre VII – Représentation
- 
-Art. 24.      Représentation
-L’association peut être valablement représentée dans tous les actes ou en justice par deux administrateurs au
-moins désignés par le conseil d’administration agissant en collège qui, en tant qu’organe, ne devront pas justifier
-vis-à-vis des tiers d’une décision préalable et d’une procuration du conseil d’administration.
-Ils peuvent notamment représenter l’association à l’égard de toute autorité, administration ou service public, en
-ce compris la signature des attestations et certificats divers à fournir aux autorités publiques notamment en
-matières sociales et fiscales, représenter l’association en justice tant en demandant qu’en défendant, procéder
-aux formalités pour le dépôt de documents au greffe du Tribunal de Commerce et les publications au Moniteur
-belge.
-La durée du mandat, éventuellement renouvelable, est fixée par le conseil d’administration.
-Le mandat prend fin automatiquement quand la personne chargée de la représentation générale perd sa qualité
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-09
-/0
-
-6/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-d’administrateur.
-Le conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin au mandat conféré aux
-personnes chargées de la représentation générale de l’association.
-Art. 25.      Publications
-Les actes relatifs à la nomination ou à la cessation des fonctions des administrateurs, des personnes déléguées
-à la gestion journalière et des personnes habilitées à représenter l’association sont déposés au greffe du tribunal
-de commerce, dans le mois de sa date, en vue de leur publication aux « Annexes du Moniteur belge ».
- 
-Titre VIII - Dispositions diverses
- 
-Art. 26.      Règlement d’ordre intérieur
-Un  règlement d'ordre  intérieur peut  être  présenté par  le  conseil d'administration à  l'assemblée générale. Des
-modifications à ce règlement pourront être apportées par une assemblée générale statuant à la majorité absolue
-des membres effectifs présents ou représentés.
-Art. 27.      Exercice social
-L’exercice social commence le 1er janvier pour se terminer le 31 décembre.
-Par exception, le premier exercice débute ce jour pour se terminer le 31 décembre 2016.
-Art. 28.      Comptes et budgets
-Le compte de l’exercice écoulé et le budget de l’exercice suivant seront annuellement soumis à l’approbation de
-l’assemblée générale ordinaire par le conseil d'administration.
-L’ASBL tient une comptabilité conforme à la législation en vigueur à l’égard des associations sans but lucratif de
-droit belge.
-Remarque :
-La loi prévoit que chaque année, et au plus tard six mois après la date de clôture de l'exercice social, le conseil 
-d'administration soumet  à  l'assemblée générale,  pour  approbation, les  comptes  annuels  de l'exercice social
-écoulé ainsi que le budget de l'exercice suivant.
-Dans le cas des petites ASBL, les associations tiennent une comptabilité simplifiée portant au minimum sur les
-mouvements des disponibilités en espèces et en comptes. Ce n’est que lorsqu’elles atteignent une certaine
-ampleur (voir conditions légales prévues à l’article 17 de la loi) qu’elles doivent remplir une comptabilité complète.
-En cas de doute, les fondateurs doivent se renseigner auprès d’un comptable et/ou un juriste.
-Art. 29.      Commissaire et vérificateurs aux comptes
-L’assemblée générale désigne, lorsque la loi l’exige, un commissaire aux comptes, nommé pour un an et
-rééligible, chargé de vérifier les comptes de l’association et de lui présenter son rapport annuel.
-Dans les autres cas, l’assemblée générale peut désigner un vérificateur aux comptes selon les modalités prévues
-à l’alinéa précédent.
-Remarque :
-Le vérificateur au compte ne doit pas forcément être un réviseur d’entreprise, ni même devoir justifier d’une
-expérience en tant que comptable ou de manière générale en comptabilité. Il peut par exemple être désigné
-parmi les membres de l’ASBL, à charge pour lui, cependant, de faire un rapport auprès de l’assemblée générale
-avant l’approbation des comptes.
-Art. 30.      Dissolution de l’association
-En cas de dissolution de l’association, l’assemblée générale désigne un liquidateur. Elle détermine ses pouvoirs
-et indique l’affectation à donner à l’actif net de l’avoir social. Cette affectation devra obligatoirement être faite en
-faveur d’une  ASBL / fondation privée ou publique / une association internationale sans but lucratif, une
-association étrangère dotée de la personnalité juridique ayant un but similaire au sien.
-Toute décision relative à la dissolution, aux conditions de la liquidation, à la nomination et à la cessation des
-fonctions du ou des liquidateur(s), à la clôture de la dissolution, ainsi qu’à l’affectation de l’actif net est déposée et
-publiée conformément à la loi du 27 juin 1921 sur les associations sans but lucratif, les associations
-internationales sans but lucratif et les fondations.
-Art. 31.      Compétences résiduelles
-Tout ce qui n’est pas prévu explicitement dans les présents statuts est réglé par la loi du 27 juin 1921, sur  les 
-associations  sans  but  lucratif,  les  associations  internationales  sans  but  lucratif  et  les fondations.
- 
-***
- 
-L’assemblée générale de ce jour a désigné comme administrateurs :
-  - HUYSMAN Nathalie, Rue de l’Amérique 119 – 6010 Couillet, née le 12/01/1989 à Charleroi
-  - ROGER Fabien, Rue Gustave Defnet 20, Bte5 – 1060 Saint-Gilles, né le 07/07/1979 à Charleroi
-  - WILMART Robin, Rue François-Hellinckx 16 – 1081 Koekelberg, né le 12/03/1990 à Montigny-le-Tilleul
-qui acceptent ce mandat.
- 
-Le conseil d’administration de ce 03 juin 2016 a désigné comme personnes disposant, en tant qu’organe, du
-pouvoir de représenter l’association dans tous les actes juridiques :
-  - HUYSMAN Nathalie, Rue de l’Amérique 119 – 6010 Couillet, née le 12/01/1989 à Charleroi
-  - WILMART Robin, Rue François-Hellinckx 16 – 1081 Koekelberg, né le 12/03/1990 à Montigny-le-Tilleul
-qui acceptent ce mandat.
- 
-Fait à Saint-Gilles, le 03 juin 2016
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-09
-/0
-
-6/
-20
-
-16
- - 
-
-An
-ne
-
-xe
-s 
-
-du
- M
-
-on
-ite
-
-ur
- b
-
-el
-ge
-
- 
-
-
-
-Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes ayant
-                  pouvoir de représenter l'association, la fondation ou l'organisme à l'égard des tiers.
-Au verso : Nom et signature
-
-Réservé
-au
-
-Moniteur
-belge
-
-Volet B - suite
-MOD 2.2
-
-HUYSMAN Nathalie                                              ROGER Fabien                                                   WILMART
-Robin
-
-Bi
-jla
-
-ge
-n 
-
-bi
-j h
-
-et
- B
-
-el
-gi
-
-sc
-h 
-
-St
-aa
-
-ts
-bl
-
-ad
- - 
-
-09
+07
 /0
 
 6/

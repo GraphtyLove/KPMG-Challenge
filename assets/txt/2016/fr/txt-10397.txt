@@ -58,10 +58,10 @@ Objet(s) de l'acte :
 
 (adresse complète)
 
-ALL CLEAN SERVICES
+SUVI
 
-Rue Léon-Troclet 33
-4000 Liège
+Rue Lieutenant Liedel 60 bte 8
+1070 Anderlecht
 
 Société privée à responsabilité limitéeForme juridique :
 
@@ -69,50 +69,49 @@ Dénomination
 
 Constitution
 
-~~D’un acte reçu par Maître Jean-Michel GAUTHY, Notaire associé de la SPRL « GAUTHY &
-JACQUES – Notaires Associés », en date du 26 janvier 2016, en cours d’enregistrement, il résulte
-que :
-Monsieur BELLABIAD Elbekkae, né à Liège, le trois octobre mil neuf cent septante-quatre, époux de
-Madame BAROIGUI Khadija, domicilié à 4000 Liège, rue Léon Troclet, 33, numéro national
-74100305920.
-A constitué une société ainsi qu’il suit :
-I. CONSTITUTION
-Le capital de la société est fixé à la somme de  DIX-HUIT MILLE SIX CENTS EUROS (18.600 €), à
-représenter par cent (100) parts sociales sans désignation de valeur nominale avec droit de vote,
-représentant chacune un/centième de l'avoir social, auquel le comparant souscrit en numéraire et
-qu'il libère immédiatement à concurrence de deux/tiers par un apport de douze mille quatre cents
-euros (12.400 €).
-Le souscripteur reste redevable envers la société du solde à libérer, soit six mille deux cents euros
-(6.200 €).
-II. STATUTS
-Forme   Dénomination
-La société commerciale revêt la forme d'une société privée à responsabilité limitée.
-Elle est dénommée "ALL CLEAN SERVICES".
-Siège social
-Le siège social est établi à 4000 LIEGE, rue Léon Troclet, 33.
-Objet
-La société a pour objet pour compte propre, pour compte de tiers ou en participation, en Belgique ou
-à l’étranger
-- le nettoyage, le déblayage et l’entretien intérieur de bâtiments de tous types, y compris les bureaux,
-les usines, les ateliers, les locaux d’institutions et autres locaux à usage commercial ou
-professionnel.
-- le nettoyage des vitres.
-- le nettoyage industriel.
-- le nettoyage de la voirie.
-- le nettoyage des tapis, moquettes, tentures et rideaux.
-- le nettoyage à la vapeur, le sablage de façades et les activités analogues appliquées aux parties
-extérieures des bâtiments.
-- le commerce en gros et au détail, l’importation et l’exportation, la fabrication de tous produits de
-nettoyage et de tous les objets et outils destinés au nettoyage.
-- l’entreprise de création, d’aménagement et d’entretien de parcs et jardins.
-- l’entreprise générale du bâtiment, y compris tous travaux de peinture, de maçonnerie, d’électricité,
-de toiture, de plomberie, de sanitaires et de plafonnage.
+CONSTITUTION
+ 
+Il résulte d’un acte reçu par Maître Andrée VERELST, Notaire à Grimbergen, le 24 mars 2016, que la
+société privée à responsabilité limitée a été constituée, comme suit:
+FONDATEURS:
+A) Monsieur EKMAKCHEV Anri, de nationalité géorgienne, né à Tbilissi (Géorgie) le trente novembre
+mil neuf cent septante-huit, domicilié à 1070 Anderlecht, Rue Lieutenant Liedel 60 boîte 8.
+B) La société sans personnalité juridique sous la forme d’une société de droit commun
+"DEFAMODE", située à 1860 Meise, Prinsendreef 18, constituée suivant acte sous seing privé du 19
+mai 2014, dont monsieur MOUCHART Guy Henri Nicolas, né à Uccle le seize juin mil neuf cent
+soixante-sept,, et son épouse madame DE BLAESER Marleen Elisa, née à Reet le quatre décembre
+mil neuf cent septante-quatre, domiciliés  à 1860 Meise, Prinsendreef 18, sont les associés uniques.
+DÉNOMINATION:
+La société est constituée comme une Société Privée à Responsabilité Limitée sous la dénomination
+"SUVI".
+Durée:
+La société est constituée pour une durée illimitée.
+Siège social:
+Le siège social est établi à 1070 Anderlecht, Rue Lieutenant Liedel 60 boîte 8.
+Il peut être transféré en tout autre endroit de la région de langue française en Belgique ou de la
+région de Bruxelles Capitale par simple décision de la gérance qui a tous pouvoirs pour, faire
+constater authentiquement la modification des statuts qui en résulte.
+Tout changement du siège social sera publié.
+Objet social:
+La société a pour objet tant en Belgique qu’à l’étranger, pour compte propre ou pour le compte de
+tiers ou en participation avec des tiers, le commerce sous toutes ses formes et notamment
+l’importation, l’exportation, l’achat et la vente en gros ou en détail, la représentation et le courtage,
+ainsi que la fabrication, la transformation, l’entretien, et le transport de toutes marchandises et de
+tous les produits, et notamment de tous les articles de stores, volets, protections solaires, pièces
+détachées, pour l’usage intérieur et extérieur, tentures, moustiquaires et aménagements intérieur,
+portes de garages et tous articles de décoration intérieure ainsi que toute activité de franchise avec
+des sociétés exerçant le même objet.
+Elle a également pour objet le placement et la pose de tout article de décoration intérieure et
+extérieure, ainsi que l’étude, l’élaboration de projets et de devis et toutes activités de conseil et de
+service dans le domaine de la décoration intérieure et extérieure, dans le sens le plus large du terme.
+Elle peut accepter tout mandat de gestion et d’administration dans toute société et association
+quelconque et se porter caution pour autrui.
 
- *16302250*
+ *16307034*
 Déposé
-26-01-2016
+25-03-2016
 
-0646999205
+0650793586
 
 Bi
 jla
@@ -141,10 +140,10 @@ bl
 ad
  - 
 
-28
+30
 /0
 
-1/
+3/
 20
 
 16
@@ -189,67 +188,67 @@ Mod PDF 11.1
 
 Elle peut accomplir toutes opérations généralement quelconques, commerciales, industrielles,
 financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet.
-La société peut s'intéresser par toutes voies dans toutes affaires, entreprises ou sociétés ayant un
-objet identique, similaire ou connexe, ou qui sont de nature à favoriser le développement de son
-entreprise, à lui procurer des matières premières ou à faciliter l'écoulement de ses produits.
-La société peut également concéder des sûretés personnelles et/ou réelles en faveur de tiers,
-personnes physiques ou morales.
-Elle peut exercer les fonctions de gérant, d’administrateur ou de liquidateur d’autres sociétés.
-Durée
-La société a une durée illimitée.
-Capital
-Le capital social est fixé à dix-huit mille six cents euros (18.600 €).
-Il est représenté par cent (100) parts sociales sans désignation de valeur nominale.
-Gérants
-La société est administrée par un ou plusieurs gérants nommés par l'assemblée générale parmi les
-associés ou en dehors d'eux.
-La même assemblée générale déterminera la durée de ce mandat. A défaut d'indication, il sera
-censé conféré sans limitation de durée.
-Le décès du gérant ou sa retraite, pour quelque cause que ce soit, n'entraîne pas, même s'il est
-associé, la dissolution de la société; il en est de même de son interdiction, de sa faillite ou de sa
-déconfiture; la survenance d'un de ces évènements met fin immédiatement et de plein droit aux
-fonctions du gérant.
-Pouvoirs
-En cas de pluralité de gérants, les gérants agissant conjointement ont pouvoir d'accomplir tous les
-actes nécessaires ou utiles à l'accomplissement de l'objet social sauf ceux que la loi réserve à
-l'assemblée générale et de représenter la société à l'égard des tiers et en justice soit en demandant
-soit en défendant.
-Agissant conjointement, les gérants peuvent déléguer l'accomplissement d'actes déterminés à des
-employés de la société ou à toutes autres personnes, associées ou non. Ils peuvent notamment
-confier la direction technique de la société à toutes personnes associées ou non.
-En cas de gérant unique, il exercera seul les pouvoirs conférés ci-avant en cas de pluralité de
-gérants et pourra conférer les mêmes délégations.
-Rémunération
-Le mandat des gérants sera gratuit ou rémunéré selon la décision et les modalités arrêtées par
-l'assemblée générale qui procédera à leur nomination.
-Contrôle
-Si la loi l'exige, le contrôle de la situation financière, des comptes annuels et de la régularité des
-opérations à constater dans les comptes annuels sera confié à un ou plusieurs commissaires,
-nommés par l'assemblée générale conformément à la loi.
-Si la société est dans la situation où la loi n'exige pas la nomination d'un commissaire, l'assemblée
-générale aura la faculté de procéder à une telle nomination.
-Au cas où il ne sera pas nommé de commissaire, chaque associé disposera individuellement des
-pouvoirs d'investigation et de contrôle des commissaires.
-Assemblée générale
-L'assemblée générale ordinaire est tenue chaque année, soit au siège social, soit en tout autre local
-désigné dans la convocation, le deuxième vendredi de juin à dix-neuf heures.
-Si ce jour est férié, l'assemblée est réunie au plus prochain jour ouvrable, autre qu'un samedi.
-Exercice social
-L'année sociale commence le premier janvier et finit le trente et un décembre.
-Affectation du bénéfice
-Sur le bénéfice annuel net déterminé conformément aux dispositions légales, il sera d'abord prélevé
-cinq pour cent au moins pour être affecté à la réserve légale; ce prélèvement cessera d'être
-obligatoire lorsque ce fonds aura atteint un dixième du capital social.
-L'affectation du solde sera opérée librement sur proposition de la gérance par l'assemblée générale.
-Aucune distribution ne pourra toutefois être faite si à la date de clôture du dernier exercice, l'actif net
-tel qu'il résulte des comptes annuels est, ou devenait à la suite d'une telle distribution, inférieur au
-montant du capital libéré, augmenté de toutes les réserves que la loi ou les statuts ne permettent pas
-de distribuer.
-Les dividendes sont payables chaque année, à l'époque et de la manière fixées par l'assemblée
-générale, sur proposition de la gérance.
-Liquidation
-Lors de la dissolution de la société, pour quelque cause que ce soit, la liquidation se fera par les
-soins de la gérance, sauf décision de l'assemblée générale désignant un ou plusieurs liquidateurs.
+La société peut s’intéresser par toutes voies, dans toutes affaires, entreprises ou sociétés ayant un
+objet identique, analogue, similaire ou connexe, ou qui sont de nature à favoriser le développement
+de son entreprise, à lui procurer des matières premières, à faciliter l’écoulement de ses produits ou
+constituant pour elle une source de débouché.
+Elle peut réaliser toute opération liée directement ou indirectement à son objet, pour autant que celle-
+ci ne soit pas interdite par la loi et ses arrêtés d’exécution.
+Capital social:
+Le montant du capital social souscrit est de dix-huit mille six cents (18.600,00) euro. Il est représenté
+par  mille (1.000) parts sans valeur nominale.
+Le capital est souscrit est libéré comme suit :
+a) Monsieur EKMAKCHEV Anri, déclare faire un apport en espèces de la somme de quatorze mille
+huit cent quatre-vingt (14.880,00) euros pour laquelle lui sont attribuées huit cent (800) parts. Ces
+parts ont été libérées pour la somme de quatorze mille huit cent quatre-vingt (14.880,00) euros.
+b) La société de droit commun "DEFAMODE", comparant sub B), déclare faire un apport en espèces
+de la somme de trois mille sept cent vingt (3.720,00) euros pour laquelle lui sont attribuées deux
+cents (200) parts. Ces parts ont été libérées pour la somme de trois mille sept cent vingt (3.720,00)
+euros.
+La somme de dix-huit mille six cents (18.600,00) euros a été déposée par versement ou par virement
+au compte spécial, numéro BE91 7350 4196 1376 auprès de la BANQUE KBC ouvert au nom de la
+société en constitution, ainsi qu'il appert d'une attestation de dépôt, de dato 11 mars 2016, délivré
+par l'organisme précité, remise pour être déposée au dossier.
+GESTION:
+a) La société est gérée par un ou plusieurs gérants, associés ou non, personnes physiques ou
+juridiques. Si aucun gérant n'a été nommé et s'il n'y a qu'un associé, ce dernier dispose, de plein
+droit, de tous les droits et toutes les obligations d'un gérant. Aussi bien le seul associé qu'un tiers,
+peuvent être nommés comme gérant.
+b) Comme gérant statutaire pour la durée de la société a été nommé: monsieur EKMAKCHEV Anri,
+prénommé, qui déclare accepter sa mission sous la confirmation qu'il n’est pas frappé d'une
+interdiction de l'exercer.
+Un gérant statutaire ne peut être révoqué que du consentement unanime des associés, en ce
+compris le gérant, s'il est en même temps associé. Ses pouvoirs sont révocables, en tout ou en
+partie, pour motifs graves par décision de l'assemblée générale suivant les règles prescrites pour la
+modification des statuts.
+c) Toute nomination ou entrée en fonction d'un gérant est publiée par le dépôt dans le dossier de la
+société d'un extrait de la décision, et d'une expédition destinée à être publiée aux annexes du
+Moniteur Belge. Les extraits des actes relatifs à la nomination des personnes qui représentent la
+société précisent en tout cas si ces personnes peuvent engager la société en agissant seules ou si
+elles ne le peuvent que conjointement ou en collège.
+Pouvoir de représentation externe:
+Chaque gérant représente seul la société en justice ou dans les actes.
+Procurations spéciales:
+Chaque gérant peut désigner des porteurs de procuration pour la société. Seules des procurations
+spéciales et limitées pour certains actes juridiques sont licites. Les porteurs de procuration lient la
+société sous les limites de leur procuration, sans diminution de la responsabilité des gérants en cas
+de procuration excessive.
+L'assemblée ordinaire, spéciale et extraordinaire:
+L'assemblée générale ordinaire des associés, l'assemblée annuelle, doit être tenue chaque année le
+trente novembre à 10 heures.               
+La représentation:
+a) Indépendamment de la représentation légale des incapables et de la représentation mutuelle des
+époux, chaque associé peut être représenté par un représentant, associé ou non. Il est interdit de se
+porter fort pour un associé absent, d'agir comme gérant d'affaire ou prête-nom.
+b) Le seul associé ne peut se faire représenter systématiquement à l'assemblée.
+Droit de vote:
+a) Chaque part donne droit à une voix.
+b) Si le seul associé meurt et il laisse différents héritiers et légataires, les droits attachés à ses parts
+seront, jusqu'au jour de la répartition des parts ou jusqu'à ce que les legs concernant ces parts soient
+acquittés, exercés par les héritiers ou légataires qui en ont la saisine de manière régulière ou qui ont
+été envoyés en possession, proportionnellement à leurs droits dans la succession.
+Celui qui hérite l'usufruit des parts du seul associé exerce les droits y attachés. La restriction de la
+voix délibérative n'est pas d'application.
 
 Bi
 jla
@@ -278,10 +277,10 @@ bl
 ad
  - 
 
-28
+30
 /0
 
-1/
+3/
 20
 
 16
@@ -324,32 +323,69 @@ au
 
 Mod PDF 11.1
 
-Après le paiement de toutes les dettes et charges de la société ou consignation des sommes
-nécessaires à cet effet, le solde favorable de la liquidation servira d'abord à rembourser les parts so-
-ciales à concurrence de leur libération.
-Si toutes les parts sociales ne se trouvent pas libérées dans une mesure égale, les liquidateurs
-rétabliront l'équilibre des parts au point de vue de leur libération soit par des appels de fonds, soit par
-des remboursements partiels.
-Le surplus éventuel de l'actif sera réparti de manière égale entre toutes les parts sociales.
-III- ASSEMBLEE GENERALE   NOMINATION
-1) Dispositions transitoires :
-Le premier exercice social commencera le jour de la constitution de la société pour se terminer le
-trente et un décembre deux mille seize.
-La première assemblée générale ordinaire se réunira en juin deux mille dix-sept.
-2) Nominations :
-L'assemblée :
-- décide de nommer un gérant ordinaire unique;
-- appelle à ces fonctions, sans limitation de durée, Monsieur BELLABIAD Elbekkae, numéro national
-74100305920.
-- décide que le mandat de gérant sera rémunéré suivant décision de l’assemblée.
-- décide, eu égard aux critères légaux et à une estimation faite de bonne foi, qu'il n'y a pas lieu de
-procéder à la nomination d'un commissaire.
-JM GAUTHY, notaire associé de la SC SPRL
-« GAUTHY & JACQUES Notaires Associés »
-Rue Hoyoux, 87
-4040 HERSTAL
-Acte et documents déposés au greffe :
-- expédition de l’acte de constitution comportant en annexe l’attestation bancaire.
+c) Si une part appartient à différents propriétaires en indivision, l'exercice des droits y attachés est
+suspendu jusqu'à ce qu'une personne soit indiquée par écrit comme propriétaire de la part à l'égard
+de la société. Si les ayants droit ne peuvent se mettre d'accord entre eux, le juge nommera sur
+requête de la partie la plus diligente un administrateur provisoire pour exercer les droits en question.
+d) Lorsqu'une action est grevée d'un usufruit, l'usage du droit de vote lié à cette action appartient à
+l'usufruitier, sauf opposition de la part du nu-propriétaire.
+Exercice comptable - compte annuel:
+L'exercice comptable de la société commence chaque fois le premier juillet et se clôture le trente juin
+de l'année suivante.
+Affectation du bénéfice - Réserve:
+a) Le solde bénéficiaire résultant du compte de résultats, déduction faite de toutes les charges, des
+frais généraux, des provisions requises et des amortissements, constitue le bénéfice net de la
+société.
+b) Sur ce solde il sera prélevé au minimum un vingtième qui servira à constituer la réserve légale,
+jusqu'à ce que celle-ci ait atteint un dixième du capital.
+c) L'assemblée générale décide en toute liberté de la destination du solde du résultat, sous réserve
+des droits dont bénéficient les actions sans droit de vote.
+d) Aucune distribution ne peut être faite lorsqu’ à la date de clôture du dernier exercice, l'actif net, tel
+qu'il résulte des comptes annuels, est, ou deviendrait, à la suite d’une telle distribution, inférieur au
+montant du capital libéré ou, si ce montant est supérieur, de capital appelé, augmenté de toutes les
+réserves que la loi ou les statuts ne permettent pas de distribuer.
+e) Dans les trente jours après son approbation par l'assemblée générale, les comptes annuels seront
+déposés par le gérant au siège local de la Banque Nationale de Belgique, en même temps que les
+autres documents prévus dans le Code des sociétés.
+Dissolution: Désignation et compétence des liquidateurs.
+Faute de désignation de liquidateurs, le(s) gérant(s) en fonction au moment de la dissolution de la
+société est/seront liquidateur(s) de plein droit.
+Le(s) liquidateur(s) n’entre(nt) en fonction qu’après confirmation par le tribunal de commerce de
+sa/leur nomination résultant de la décision prise par l’assemblée générale, conformément au Code
+des sociétés.
+Le(s) liquidateur(s) est/seront habilité(s) à toutes les opérations autorisées dans l’article 186 du Code
+des Sociétés, sauf si l'assemblée générale, à la simple majorité, en décide autrement, tout en tenant
+compte des droits dont bénéficient les actions sans droit de vote. Chaque année, le liquidateur
+présente à l'assemblée générale les résultats de la liquidation.
+Première Assemblée Générale Ordinaire - Premier Exercice
+La première assemblée annuelle se tiendra en l’an 2017.
+Le premier exercice social débutera le jour du dépôt au greffe d’un extrait du présent acte et se
+termine le 30 juin 2017.
+Reprise des engagements
+Le comparant déclare que la société par application de l'article 60 du Code des Sociétés reprend les
+engagements pris pour le compte et au nom d'une société en formation à partir du 1 avril 2015 sous
+condition suspensive du dépôt de l'acte de constitution au greffe du tribunal de commerce. Cette
+reprise ne sortira ses effets qu’à partir de l’obtention de la personnalité juridique par la société. Les
+engagements faits entre la signature du présent acte et l’obtention de la personnalité juridique sont
+également soumis à l’article 60 du Code des Sociétés et doivent faire l’objet d’une ratification de la
+part de la société.
+Nomination gérant
+Les constituants décident de nommer un gérant et désigne en cette qualité et pour une durée
+indéterminée avec les pouvoirs les plus étendus que la loi lui confère: monsieur MOUCHART Guy,
+prénommé, qui accepte.
+Le mandat du gérant est rémunéré suivant décision de l'assemblée générale.
+Le gérant est nommé à partir d'aujourd'hui. A partir d'aujourd'hui jusqu'au dépôt de l'acte au greffe du
+tribunal de commerce, prévue par l'article 67 du Code des sociétés, il agit comme mandataire des
+associés de la société. Depuis le moment du dépôt il agit comme organe de la société conforme les
+statuts et le Code des sociétés.
+Mandat
+Le(s) comparant(s) décident également de mandater la  SPRL “ATFINCO”, situé à 3010 Kessel-Lo,
+Koning Albertlaan 111 boîte 00.02, avec pouvoir de substitution, pour accomplir toutes les formalités
+relatives au guichet d’entreprises, de dépôt et/ou de publications et/ou d’inscription au registre et/ou
+au greffe et/ou à la chambre des métiers et négoces et/ou à la TVA et/ou auprès de toute autre
+autorité administrative.
+Ces pouvoirs se rapportent sur tous les changements, inscriptions, radiations et toutes autres
+formalités pour des décisions prises dans le passé ou le futur. L'assemblée charge le notaire
 
 Bi
 jla
@@ -378,10 +414,94 @@ bl
 ad
  - 
 
-28
+30
 /0
 
-1/
+3/
+20
+
+16
+ - 
+
+An
+ne
+
+xe
+s 
+
+du
+ M
+
+on
+ite
+
+ur
+ b
+
+el
+ge
+
+ 
+
+
+
+- suiteVolet B
+
+Au verso : Nom et signature.
+ayant pouvoir de représenter l'association ou la fondation à l'égard des tiers
+
+Mentionner sur la dernière page du Volet B : Au recto : Nom et qualité du notaire instrumentant ou de la personne ou des personnes
+
+Moniteur
+belge
+
+Réservé
+au
+
+Mod PDF 11.1
+
+soussigné de procéder aux formalités de dépôt au greffe du tribunal de commerce.
+ 
+POUR EXTRAIT ANALYTIQUE CONFORME
+Déposé : expédition de l’acte de constitution
+Cet extrait est délivré avant l’enregistrement et ne peut être utilisé que pour le dépôt à la greffe du
+tribunal de commerce en vue de l’obtention de la personnalité juridique.
+ 
+ 
+Notaire Andrée VERELST
+ 
+
+Bi
+jla
+
+ge
+n 
+
+bi
+j h
+
+et
+ B
+
+el
+gi
+
+sc
+h 
+
+St
+aa
+
+ts
+bl
+
+ad
+ - 
+
+30
+/0
+
+3/
 20
 
 16
