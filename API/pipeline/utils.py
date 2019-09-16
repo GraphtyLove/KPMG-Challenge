@@ -138,8 +138,8 @@ def business_number_from_name(input_name_string):
         company_business_number = re.findall('[0-9]{10}', v.find('a')['href'])[0]
         # Store data in a json format
         output_json[k] = {}
-        output_json[k]['name'] = company_name
-        output_json[k]['business_number'] = company_business_number
+        output_json[k]['companyName'] = company_name
+        output_json[k]['businessNumber'] = company_business_number
 
         # company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
         # output_json[k]['account number'] = company_account_number
