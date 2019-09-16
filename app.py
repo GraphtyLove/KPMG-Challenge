@@ -3,6 +3,7 @@ from flask_cors import CORS, cross_origin
 import os
 from sqlalchemy import create_engine
 from werkzeug.utils import secure_filename
+from API.pipeline.utils import scrap_meta_data
 
 FILE_PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -11,8 +12,8 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # * ---------- DATABASE CONFIG --------- *
-DATABASE_URL = os.environ['DATABASE_URL']
-engine = create_engine(DATABASE_URL)
+#DATABASE_URL = os.environ['DATABASE_URL']
+#engine = create_engine(DATABASE_URL)
 
 # * ---------- Default page --------- *
 @app.route('/', methods=['GET', 'POST'])
@@ -40,6 +41,15 @@ def classify():
     print("File uploaded at: ", FILE_PATH + '/assets/uploaded_files/' + filename)
     # !!! TO DO !!! (put document over the pipeline)
     return 'Document well classified.'
+
+
+
+@app.route('/data-from-business-number/<int:business_number>', methods=['GET'])
+#@cross_origin(supports_creditentials=True)
+def data_from_business_number(business_number):
+    meta_data = scrap_meta_data(business_number)
+    print(meta_data)
+    return jsonify(meta_data)
 
 
 # * ---------- Run Server ---------- *
