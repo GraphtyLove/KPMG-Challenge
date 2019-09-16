@@ -3,7 +3,7 @@ from flask_cors import CORS, cross_origin
 import os
 from sqlalchemy import create_engine
 from werkzeug.utils import secure_filename
-from API.pipeline.utils import scrap_meta_data
+from API.pipeline.utils import scrap_meta_data, business_number_from_name
 
 FILE_PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -43,13 +43,18 @@ def classify():
     return 'Document well classified.'
 
 
-
 @app.route('/data-from-business-number/<int:business_number>', methods=['GET'])
 #@cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
     meta_data = scrap_meta_data(business_number)
     print(meta_data)
     return jsonify(meta_data)
+
+
+@app.route('/get-number-from-name/<string:company_name>', methods=['GET'])
+def get_number_from_name(company_name):
+    names_and_numbers = business_number_from_name(company_name)
+    return jsonify(names_and_numbers)
 
 
 # * ---------- Run Server ---------- *

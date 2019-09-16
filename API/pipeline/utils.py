@@ -7,6 +7,7 @@ from wand.image import Image as Img
 import os
 import spacy
 from spacy_langdetect import LanguageDetector
+import re
 
 
 # * ---------- Scrap meta-data ---------- *
@@ -110,3 +111,38 @@ def detect_language(texte_string):
     # Target the language NLP feature
     language_detected = string_with_nlp._.language
     return language_detected['language']
+
+
+# * ---------- Get business number from company name ---------- *
+# Scrap staatsbladmonitor.be to get name + business number + bank account from string input value.
+# Return a Json with a name and a business number
+def business_number_from_name(input_name_string):
+    output_json = {}
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
+    }
+
+    # Scraping
+    url = f'https://www.staatsbladmonitor.be/onderneming-zoeken.html?search={input_name_string}'
+    req = Request(url=url, headers=headers)
+    html = urlopen(req).read()
+    soup = BeautifulSoup(html, 'lxml')
+
+    # Get all <td> with the class 'tdata2' (the list of the entreprises)
+    td_tdata2 = soup.find_all('td', {'class': 'tdata2'})
+
+    for k, v in enumerate(td_tdata2):
+        # Select informations
+        company_name = v.find('b').get_text()
+        company_business_number = re.findall('[0-9]{10}', v.find('a')['href'])[0]
+        # Store data in a json format
+        output_json[k] = {}
+        output_json[k]['name'] = company_name
+        output_json[k]['business_number'] = company_business_number
+
+        # company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
+        # output_json[k]['account number'] = company_account_number
+
+    return output_json
+
