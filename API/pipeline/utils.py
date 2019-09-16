@@ -140,7 +140,6 @@ def business_number_from_name(input_name_string):
         output_json[k] = {}
         output_json[k]['companyName'] = company_name
         output_json[k]['businessNumber'] = company_business_number
-
         # company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
         # output_json[k]['account number'] = company_account_number
 

@@ -54,6 +54,7 @@ def data_from_business_number(business_number):
 @app.route('/get-number-from-name/<string:company_name>', methods=['GET'])
 def get_number_from_name(company_name):
     names_and_numbers = business_number_from_name(company_name)
+    print(names_and_numbers)
     return jsonify(names_and_numbers)
 
 
