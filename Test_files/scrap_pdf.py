@@ -19,7 +19,7 @@ import numpy as np
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
 }
-YEAR_LIST = [2016]
+YEAR_LIST = [2017]
 
 # get list of url from maxim's github
 for YEAR in YEAR_LIST:
