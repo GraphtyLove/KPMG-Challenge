@@ -15,7 +15,6 @@ const getDataFromBusinessNumber = (businessNumber = document.getElementById('bus
 }
 
 
-// * -------------------- Business name -> data -------------------- *
 // * ---------- Get the number of a business from his name ---------- *
 const getBusinessName = (companyName = document.getElementById('businessName').value) => {
     event.preventDefault()
