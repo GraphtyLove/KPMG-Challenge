@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS, cross_origin
 import os
 from werkzeug.utils import secure_filename
-from Backend.API.pipeline.utils import scrap_meta_data, business_number_from_name
+from API.pipeline.utils import scrap_meta_data, business_number_from_name
 
 FILE_PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -13,12 +13,6 @@ CORS(app, support_credentials=True)
 # * ---------- DATABASE CONFIG --------- *
 #DATABASE_URL = os.environ['DATABASE_URL']
 #engine = create_engine(DATABASE_URL)
-
-# * ---------- Default page --------- *
-@app.route('/', methods=['GET', 'POST'])
-@cross_origin(supports_credentials=True)
-def index():
-    return render_template('index.html')
 
 
 # * ---------- Upload a file on the server ---------- *
