@@ -1,27 +1,40 @@
-import React, { useState } from 'react';
-import logo from './logo.svg';
+import React from 'react';
+import styled from 'styled-components'
 import './App.css';
+import SearchBar from './components/SearchBar/SearchBar'
+import kpmgLogoImg from './assets/img/KPMG_logo.svg'
+
+// Style
+const KpmgLogo = styled.img`
+height: 150px;
+width: auto;
+margin-top: 50px;
+`
+
+const Header = styled.header`
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+`
+
+const Main = styled.main`
+display: flex;
+justify-content: space-evenly;
+`
+
 
 function App() {
-    // State declaration (with HOOKS)
-    const [count, setCount] = useState(0)
-
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Header>
+            <KpmgLogo src={ kpmgLogoImg } alt="kpmg" />
+            <h1>Entreprise search engine</h1>
+        </Header>
+        <Main>
+            <SearchBar searchForBusinessNumber={ true } />
+            <SearchBar searchForBusinessNumber={ false } />
+        </Main>
     </div>
   );
 }
