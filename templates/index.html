@@ -8,7 +8,6 @@
 <body>
 <header>
     <img src="../static/KPMG_logo.svg" alt="kpmg" class="main-logo">
-    <h1>KPMG Project</h1>
 </header>
 <main>
     <section class="from-number">
@@ -23,12 +22,24 @@
         <h2>Get informations from a company name.</h2>
         <form id="form-scrap-from-business-name">
             <label for="businessName"></label>
-            <input id="businessName" placeholder="Enter a company name..." name="businessNumber" type="text" onchange="getBusinessName()">
+            <input id="businessName" placeholder="Enter a company name..." name="businessNumber" type="text">
+            <input class="submit" type="submit" value="Search" onclick="getBusinessName()">
             <div id="loader" class="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
             <div id="searchAnswer"></div>
         </form>
     </section>
 </main>
+
+<section class="company-container">
+    <div class="field">
+        <p>Company name:</p>
+        <p>BeCode</p>
+    </div>
+    <div class="field">
+        <p>Business number:</p>
+        <p>92183891</p>
+    </div>
+</section>
     <script src="../static/script.js"></script>
 </body>
 </html>
