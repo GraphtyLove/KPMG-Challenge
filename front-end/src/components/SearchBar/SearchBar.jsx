@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState, useEffect } from 'react';
 import styled from 'styled-components'
 import SearchItem from './SearchItem'
 
@@ -17,17 +17,29 @@ const CenteredSection  = styled.section`
       display: flex;
       justify-content: space-around;
 `
+    const InputSearBar = styled.input`
+    width: 60%;
+    border-radius: 3px;
+    border: 0.1px solid black;    
+    padding: 10px;
+    margin-left: 5px;
+`
+
 const SearchBar = ( props ) => {
     let name = ''
     let placeHolder = ''
     let onClickFunction = ''
     let title = ''
     let buttonText = ''
+    let componentList = []
 
-    const [companyList, setCompanyList] = useState([]);
+    // * ---------- STATES ---------- *
+    const [companyList, setCompanyList] = useState([])
+    const [test, setTest] = useState(0);
+
 
     // * -------------------- Get data from business number -------------------- *
-    const getDataFromBusinessNumber = (businessNumber = document.getElementById('businessNumber').value) => {
+    const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
         // Get the business number from the input
         fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
                         method: 'GET',
@@ -43,6 +55,20 @@ const SearchBar = ( props ) => {
 
     // * ---------- Get the number of a business from his name ---------- *
     const getBusinessName = () => {
+        console.log('first: ', companyList)
+        // Empty state companyList
+        componentList = []
+        setCompanyList([])
+            // Loop to empty the state
+        for(let i = 0; i < componentList; i++){
+            componentList.pop()
+        }
+        for(let i = 0; i < setCompanyList; i++){
+            setCompanyList.pop()
+        }
+
+        console.log('second: ', companyList)
+
         const companyName = document.getElementById('companyName').value
         document.getElementById('loader').classList.remove("display-none");
         fetch(`http://127.0.0.1:5000/get-number-from-name/${companyName}`, {
@@ -50,26 +76,16 @@ const SearchBar = ( props ) => {
                     })
             .then(response => response.json())
             .then(response => {
-                // Delete div
-                let search_elements = document.querySelectorAll('.companyNameList')
-                for (let y = 0; y < search_elements.length; y++){
-                    search_elements[y].remove()
-                }
+                let count = 0
                 console.log('Response:', response)
                 try {
                     for(let i = 0; i < Object.keys(response).length; i++) {
                         let tempArray = companyList
                         tempArray.push([response[i].businessNumber, response[i].companyName])
-                        setCompanyList(tempArray)
-                        {/*<SearchItem companyName={ response[i].companyName } funtionToCall={ getDataFromBusinessNumber(response[i].businessNumber) } />*/}
-                            // Create div
-                        // let newTag = document.createElement('li')
-                        // newTag.setAttribute('class', 'companyNameList')
-                        // newTag.setAttribute('onClick',  `getDataFromBusinessNumber(${response[i].businessNumber})`)
-                        // let text_node = document.createTextNode(response[i].companyName)
-                        // newTag.appendChild(text_node)
-                        // document.getElementById('searchAnswer').appendChild(newTag)
-
+                        setTest(count)
+                        console.log(`count: ${count}`)
+                        console.log(`test: ${test}`)
+                        count++
                     }
                     document.getElementById('loader').setAttribute('class', 'display-none')
                 }
@@ -97,13 +113,10 @@ const SearchBar = ( props ) => {
         buttonText = 'Search'
     }
 
-    const componentList = []
+
     for(let i = 0; i < companyList.length; i++){
-        componentList.push(<SearchItem companyName={ companyList[i][1] } funtionToCall={ getDataFromBusinessNumber(companyList[i][0]) } />)
+        componentList.push(<SearchItem companyName={ companyList[i][1] } methodToCall={ getDataFromBusinessNumber } businessNumber={ companyList[i][0] } key={ i } />)
     }
-
-
-
 
     const loaderAndSearchAnswer = <Fragment>
         <div id='searchAnswer'></div>
@@ -125,7 +138,7 @@ const SearchBar = ( props ) => {
                 <SearchSection>
                     { title }
                     <SearchBarAndButton>
-                        <input id={ name } placeholder={ placeHolder } name={ name } type="text" />
+                        <InputSearBar id={ name } placeholder={ placeHolder } name={ name } type="text" />
                         <button className="submit" onClick={ onClickFunction }> { buttonText } </button>
                     </SearchBarAndButton>
                 </SearchSection>
@@ -134,8 +147,7 @@ const SearchBar = ( props ) => {
                     ? null
                     : loaderAndSearchAnswer
                     }
-                    { companyList && componentList }
-
+                    { componentList }
                 </CenteredSection>
 
             </div>
