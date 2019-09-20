@@ -1,5 +1,6 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useState } from 'react';
 import styled from 'styled-components'
+import SearchItem from './SearchItem'
 
 // * ---------- STYLE ---------- *
 const CenteredSection  = styled.section`
@@ -16,13 +17,14 @@ const CenteredSection  = styled.section`
       display: flex;
       justify-content: space-around;
 `
-
 const SearchBar = ( props ) => {
     let name = ''
     let placeHolder = ''
     let onClickFunction = ''
     let title = ''
-    let buttunText = ''
+    let buttonText = ''
+
+    const [companyList, setCompanyList] = useState([]);
 
     // * -------------------- Get data from business number -------------------- *
     const getDataFromBusinessNumber = (businessNumber = document.getElementById('businessNumber').value) => {
@@ -56,14 +58,18 @@ const SearchBar = ( props ) => {
                 console.log('Response:', response)
                 try {
                     for(let i = 0; i < Object.keys(response).length; i++) {
-                        console.log('1')
-                        // Create div
-                        let newTag = document.createElement('li')
-                        newTag.setAttribute('class', 'companyNameList')
-                        newTag.setAttribute('onClick',  `getDataFromBusinessNumber(${response[i].businessNumber})`)
-                        let text_node = document.createTextNode(response[i].companyName)
-                        newTag.appendChild(text_node)
-                        document.getElementById('searchAnswer').appendChild(newTag)
+                        let tempArray = companyList
+                        tempArray.push([response[i].businessNumber, response[i].companyName])
+                        setCompanyList(tempArray)
+                        {/*<SearchItem companyName={ response[i].companyName } funtionToCall={ getDataFromBusinessNumber(response[i].businessNumber) } />*/}
+                            // Create div
+                        // let newTag = document.createElement('li')
+                        // newTag.setAttribute('class', 'companyNameList')
+                        // newTag.setAttribute('onClick',  `getDataFromBusinessNumber(${response[i].businessNumber})`)
+                        // let text_node = document.createTextNode(response[i].companyName)
+                        // newTag.appendChild(text_node)
+                        // document.getElementById('searchAnswer').appendChild(newTag)
+
                     }
                     document.getElementById('loader').setAttribute('class', 'display-none')
                 }
@@ -82,14 +88,22 @@ const SearchBar = ( props ) => {
         placeHolder = 'Enter a business number...'
         onClickFunction = () => getDataFromBusinessNumber()
         title = <h2>Search with the business number</h2>
-        buttunText = 'Get informations'
+        buttonText = 'Get informations'
     } else {
         name = 'companyName'
         placeHolder = 'Enter a company name...'
         onClickFunction = () => getBusinessName()
         title =  <h2>Search with the company name</h2>
-        buttunText = 'Search'
+        buttonText = 'Search'
     }
+
+    const componentList = []
+    for(let i = 0; i < companyList.length; i++){
+        componentList.push(<SearchItem companyName={ companyList[i][1] } funtionToCall={ getDataFromBusinessNumber(companyList[i][0]) } />)
+    }
+
+
+
 
     const loaderAndSearchAnswer = <Fragment>
         <div id='searchAnswer'></div>
@@ -105,7 +119,6 @@ const SearchBar = ( props ) => {
         </div>
         </Fragment>
 
-
     return (
         <Fragment>
             <div>
@@ -113,7 +126,7 @@ const SearchBar = ( props ) => {
                     { title }
                     <SearchBarAndButton>
                         <input id={ name } placeholder={ placeHolder } name={ name } type="text" />
-                        <button className="submit" onClick={ onClickFunction }> { buttunText } </button>
+                        <button className="submit" onClick={ onClickFunction }> { buttonText } </button>
                     </SearchBarAndButton>
                 </SearchSection>
                 <CenteredSection>
@@ -121,6 +134,8 @@ const SearchBar = ( props ) => {
                     ? null
                     : loaderAndSearchAnswer
                     }
+                    { companyList && componentList }
+
                 </CenteredSection>
 
             </div>

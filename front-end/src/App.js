@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styled from 'styled-components'
 import './App.css';
 import SearchBar from './components/SearchBar/SearchBar'
@@ -25,14 +25,14 @@ justify-content: space-evenly;
 
 
 function App() {
-  return (
+    return (
     <div className="App">
         <Header>
             <KpmgLogo src={ kpmgLogoImg } alt="kpmg" />
             <h1>Entreprise search engine</h1>
         </Header>
         <Main>
-            <SearchBar searchForBusinessNumber={ true } />
+            <SearchBar searchForBusinessNumber={ true  } />
             <SearchBar searchForBusinessNumber={ false } />
         </Main>
     </div>
