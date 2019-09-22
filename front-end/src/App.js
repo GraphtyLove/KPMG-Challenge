@@ -4,11 +4,11 @@ import styled from 'styled-components'
 // * ---------- Pictures ---------- *
 import kpmgLogoImg from './assets/img/KPMG_logo.svg'
 
-// * ---------- Components ---------- *
+// * -------------------- Components -------------------- *
 import SearchBar from './components/SearchBar/SearchBar'
 import SearchBarItem from './components/SearchBarItem/SearchBarItem'
 
-// * ---------- Style ---------- *
+// * -------------------- Style -------------------- *
 import './App.css';
 
 const KpmgLogo = styled.img`
@@ -52,13 +52,19 @@ const CompanyInfoContainer = styled.section`
     width: 80%;
 `
 
+
+let test = []
+
+
 function App() {
 
+    // * -------------------- STATES -------------------- *
     const [loading, setLoading] = useState(true);
     const [companyList, setCompanyList] = useState([]);
     const [errorMessage, setErrorMessage] = useState(null);
     const [companyInfo, setCompanyInfo] = useState(null);
 
+    // * ---------- SEARCH FOR COMPANY NAME AND BUSINESS NUMBER ---------- *
     const getBusinessName = searchValue => {
     setLoading(true)
     setErrorMessage(null)
@@ -92,8 +98,11 @@ function App() {
                 console.log('Response:', response)
 
                 // ! REMPLIR AVEC LE JSON !
-                let companyInfoTemp = []
-                setCompanyInfo(companyInfoTemp)
+                for (let key in response['Généralités']){
+                    test[key] = response['Généralités'][key]
+                }
+                console.log(test)
+                setCompanyInfo(response)
 
             })
             .catch(error => {
@@ -130,7 +139,8 @@ function App() {
             </InputContainer>
             <CompanyInfoContainer>
                 <ul>
-                    { companyInfo && companyInfo.map(s => (<li> { s } </li>) ) }
+                    { companyInfo && <li>Statut: { companyInfo['Généralités']['Statut:'] } </li> }
+
                 </ul>
             </CompanyInfoContainer>
         </Main>

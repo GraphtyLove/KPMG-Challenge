@@ -2,13 +2,17 @@
 .companyNameList{
     list-style: none;
     cursor: pointer;
-    font-weight: bold;
     margin-bottom: 5px;
-    color: blue;
 }
 
-
 /* * -------------------- LOADER -------------------- * */
+
+/* ---------- LOADER - HIDE ---------- */
+.display-none{
+    display: none;
+}
+
+/* ---------- LOADER - ANIMATION ---------- */
 .lds-roller {
     display: inline-block;
     position: relative;
@@ -95,8 +99,3 @@
         transform: rotate(360deg);
     }
 }
-
-.display-none{
-    display: none;
-}
-

@@ -1,22 +1,19 @@
 import React, { Fragment, useState } from 'react';
 import styled from 'styled-components'
 
-// * ---------- STYLE ---------- *
-const CenteredSection  = styled.section`
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    `
-    const SearchSection = styled.form`
-      display: flex;
-      flex-direction: column;
-      margin-bottom: 20px;
-    `
-    const SearchBarAndButton = styled.div`
-      display: flex;
-      justify-content: space-around;
+// * -------------------- STYLE -------------------- *
+const SearchSection = styled.form`
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
 `
-    const InputSearBar = styled.input`
+
+const SearchBarAndButton = styled.div`
+    display: flex;
+    justify-content: space-around;
+`
+
+const InputSearBar = styled.input`
     width: 60%;
     border-radius: 3px;
     border: 0.1px solid black;    
@@ -24,8 +21,9 @@ const CenteredSection  = styled.section`
     margin-left: 5px;
 `
 
-const SearchBar = (props) => {
-    // * ---------- STATES ---------- *
+
+const SearchBar = props => {
+    // * -------------------- STATES -------------------- *
     const [inputValue, setInputValue] = useState("");
 
     // * ---------- Component's properties ---------- *
@@ -34,8 +32,8 @@ const SearchBar = (props) => {
     let title = ''
     let buttonText = ''
 
-    // Define Component's properties
-     if(props.searchForBusinessNumber === true){
+    // * --- Define Component's properties --- *
+     if (props.searchForBusinessNumber === true){
         name = 'businessNumber'
         placeHolder = 'Enter a business number...'
         title = <h2>Search with the business number</h2>
@@ -60,7 +58,7 @@ const SearchBar = (props) => {
     }
 
      // Search for company's name
-    const callSearchFunction = (e) => {
+    const callSearchFunction = e => {
         e.preventDefault()
         props.search(inputValue)
         resetInputField()
@@ -85,12 +83,6 @@ const SearchBar = (props) => {
                                value={ buttonText } />
                     </SearchBarAndButton>
                 </SearchSection>
-
-
-                <form>
-                    {/*<input id='testInput' type="text" value={ inputValue } onChange={ handleSearchInputChanges } />*/}
-                    {/*<input type='submit' onClick={callSearchFunction} id='testButton' value='Seach' />*/}
-                </form>
             </div>
         </Fragment>
     );
