@@ -52,7 +52,7 @@ const CompanyInfoContainer = styled.section`
     width: 80%;
 `
 
-
+// ! TEST to put 'généralités' in array !
 let test = []
 
 
