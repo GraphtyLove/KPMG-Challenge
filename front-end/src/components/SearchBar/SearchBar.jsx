@@ -1,6 +1,5 @@
-import React, { Fragment, useState, useEffect } from 'react';
+import React, { Fragment, useState } from 'react';
 import styled from 'styled-components'
-import SearchItem from './SearchItem'
 
 // * ---------- STYLE ---------- *
 const CenteredSection  = styled.section`
@@ -8,7 +7,7 @@ const CenteredSection  = styled.section`
         flex-direction: column;
         align-items: center;
     `
-    const SearchSection = styled.section`
+    const SearchSection = styled.form`
       display: flex;
       flex-direction: column;
       margin-bottom: 20px;
@@ -25,112 +24,48 @@ const CenteredSection  = styled.section`
     margin-left: 5px;
 `
 
-const SearchBar = ( props ) => {
+const SearchBar = (props) => {
+    // * ---------- STATES ---------- *
+    const [inputValue, setInputValue] = useState("");
+
+    // * ---------- Component's properties ---------- *
     let name = ''
     let placeHolder = ''
-    let onClickFunction = ''
     let title = ''
     let buttonText = ''
-    let componentList = []
 
-    // * ---------- STATES ---------- *
-    const [companyList, setCompanyList] = useState([])
-    const [test, setTest] = useState(0);
-
-
-    // * -------------------- Get data from business number -------------------- *
-    const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
-        // Get the business number from the input
-        fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
-                        method: 'GET',
-                    })
-            .then(response => response.json())
-            .then(response => {
-                console.log('Response:', response)
-            })
-            .catch(error => {
-                console.log(`Error: ${error}`)
-            })
-    }
-
-    // * ---------- Get the number of a business from his name ---------- *
-    const getBusinessName = () => {
-        console.log('first: ', companyList)
-        // Empty state companyList
-        componentList = []
-        setCompanyList([])
-            // Loop to empty the state
-        for(let i = 0; i < componentList; i++){
-            componentList.pop()
-        }
-        for(let i = 0; i < setCompanyList; i++){
-            setCompanyList.pop()
-        }
-
-        console.log('second: ', companyList)
-
-        const companyName = document.getElementById('companyName').value
-        document.getElementById('loader').classList.remove("display-none");
-        fetch(`http://127.0.0.1:5000/get-number-from-name/${companyName}`, {
-                        method: 'GET',
-                    })
-            .then(response => response.json())
-            .then(response => {
-                let count = 0
-                console.log('Response:', response)
-                try {
-                    for(let i = 0; i < Object.keys(response).length; i++) {
-                        let tempArray = companyList
-                        tempArray.push([response[i].businessNumber, response[i].companyName])
-                        setTest(count)
-                        console.log(`count: ${count}`)
-                        console.log(`test: ${test}`)
-                        count++
-                    }
-                    document.getElementById('loader').setAttribute('class', 'display-none')
-                }
-                catch (e) {
-                    console.log(`listing error: ${ e }`)
-                }
-            })
-            .catch(error => {
-                console.log(`FETCH error: ${ error }`)
-            })
-    }
-
-
-    if(props.searchForBusinessNumber === true){
+    // Define Component's properties
+     if(props.searchForBusinessNumber === true){
         name = 'businessNumber'
         placeHolder = 'Enter a business number...'
-        onClickFunction = () => getDataFromBusinessNumber()
         title = <h2>Search with the business number</h2>
         buttonText = 'Get informations'
     } else {
         name = 'companyName'
         placeHolder = 'Enter a company name...'
-        onClickFunction = () => getBusinessName()
         title =  <h2>Search with the company name</h2>
         buttonText = 'Search'
     }
 
+    // * ---------- Input's functions ---------- *
 
-    for(let i = 0; i < companyList.length; i++){
-        componentList.push(<SearchItem companyName={ companyList[i][1] } methodToCall={ getDataFromBusinessNumber } businessNumber={ companyList[i][0] } key={ i } />)
+    // Define state with value of input
+    const handleSearchInputChanges = e => {
+        setInputValue(e.target.value)
     }
 
-    const loaderAndSearchAnswer = <Fragment>
-        <div id='searchAnswer'></div>
-        <div id="loader" className="lds-roller display-none">
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-        </div>
-        </Fragment>
+     // Reset state
+    const resetInputField = () => {
+        setInputValue('')
+    }
+
+     // Search for company's name
+    const callSearchFunction = (e) => {
+        e.preventDefault()
+        props.search(inputValue)
+        resetInputField()
+    }
+
 
     return (
         <Fragment>
@@ -138,18 +73,24 @@ const SearchBar = ( props ) => {
                 <SearchSection>
                     { title }
                     <SearchBarAndButton>
-                        <InputSearBar id={ name } placeholder={ placeHolder } name={ name } type="text" />
-                        <button className="submit" onClick={ onClickFunction }> { buttonText } </button>
+                        <InputSearBar id={ name }
+                                      value={ inputValue }
+                                      onChange={ handleSearchInputChanges }
+                                      placeholder={ placeHolder }
+                                      name={ name }
+                                      type="text" />
+                        <input type='submit'
+                               className="submit"
+                               onClick={ callSearchFunction }
+                               value={ buttonText } />
                     </SearchBarAndButton>
                 </SearchSection>
-                <CenteredSection>
-                    { props.searchForBusinessNumber
-                    ? null
-                    : loaderAndSearchAnswer
-                    }
-                    { componentList }
-                </CenteredSection>
 
+
+                <form>
+                    {/*<input id='testInput' type="text" value={ inputValue } onChange={ handleSearchInputChanges } />*/}
+                    {/*<input type='submit' onClick={callSearchFunction} id='testButton' value='Seach' />*/}
+                </form>
             </div>
         </Fragment>
     );

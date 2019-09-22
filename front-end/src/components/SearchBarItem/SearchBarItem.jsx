@@ -1,15 +1,17 @@
 import React, { Fragment } from 'react';
 
-const SearchItem = ( props ) => {
+const SearchBarItem = ( props ) => {
+
     let handleClick = (e) => {
             e.preventDefault()
             props.methodToCall(props.businessNumber)
         }
+
     return (
         <Fragment>
-            <li><button onClick={ handleClick }>{ props.companyName }</button></li>
+            <li className='companyNameList'><button onClick={ handleClick }> { props.CompanyName } </button></li>
         </Fragment>
     );
 };
 
-export default SearchItem;
+export default SearchBarItem;
