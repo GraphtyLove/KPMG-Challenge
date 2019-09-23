@@ -59,7 +59,7 @@ let test = []
 function App() {
 
     // * -------------------- STATES -------------------- *
-    const [loading, setLoading] = useState(true);
+    const [loading, setLoading] = useState(false);
     const [companyList, setCompanyList] = useState([]);
     const [errorMessage, setErrorMessage] = useState(null);
     const [companyInfo, setCompanyInfo] = useState(null);
@@ -89,6 +89,7 @@ function App() {
 
     // * -------------------- Get data from business number -------------------- *
     const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
+        console.log(typeof(businessNumber))
         // Get the business number from the input
         fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
                         method: 'GET',
@@ -139,7 +140,9 @@ function App() {
             </InputContainer>
             <CompanyInfoContainer>
                 <ul>
-                    { companyInfo && <li>Statut: { companyInfo['Généralités']['Statut:'] } </li> }
+                    { (companyInfo &&  companyInfo['Généralités'] && companyInfo['Généralités']['Dénomination:']) && <li>Dénomination: { companyInfo['Généralités']['Dénomination:'] } </li> }
+                    { (companyInfo && companyInfo['business_number']) && <li>Business number: { companyInfo['business_number'] } </li> }
+                    { (companyInfo &&  companyInfo['Généralités'] && companyInfo['Généralités']['Date de début:']) && <li>Date de début: { companyInfo['Généralités']['Date de début:'] } </li> }
 
                 </ul>
             </CompanyInfoContainer>
