@@ -3,4 +3,4 @@
 __pycache__
 .DS_Store
 assets/pdf/*
-assets/csv/2016/fr/articles.csv
+assets/csv/*

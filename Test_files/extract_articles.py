@@ -38,7 +38,8 @@ gibberish_list = ["- suiteVolet B",
                   "après dépôt de l'acte  greffe",
                   "Greffe"]
 
-for file_number in files_numbers:
+for i, file_number in enumerate(files_numbers):
+    print(f'### Progress: {i}/{len(files_numbers)}')
     with open(f'../assets/txt/{YEAR}/fr/txt-{file_number}.txt', 'r', encoding='utf-8') as file:
         text = file.read()
         # remove vertical text
@@ -61,14 +62,14 @@ for file_number in files_numbers:
             # It's easy to find the body, just take whats between two article titles, but that doesn't capture the
             # last article, so the last article, it captures the text to the end
             # TODO: make a model that truncates the last article match
-            pattern_body = re.compile(r"(?:ARTICLE|Article) .*((?:\n.*)+?\n?\s*(?=ARTICLE|Article|\Z))")
+            pattern_body = re.compile(r"(?:ARTICLE|Article) .*((?:\n.*)*?\n?\s*(?=ARTICLE|Article|^[A-Z][A-Z\.\s\-]{3,}$|\Z))")
             regex_matches_bodies = re.findall(pattern_body, text)
             for match_body, match_title in zip(regex_matches_bodies, regex_matches_titles):
                 # print('          -`ღ´- <article match title: ' + match_title + '> -`ღ´-')
                 # print('          -`ღ´- <article match body: ' + match_body + '>')
                 df = df.append({'Title': match_title,
                                 'Body': match_body,
-                                'Doc_id':file_number}, ignore_index=True)
+                                'Doc_id': file_number}, ignore_index=True)
         else:
             n_invalid_files += 1
             print(f'(ノಠ益ಠ)ノ彡 file {file_number} has no matches (ノಠ益ಠ)ノ彡')
