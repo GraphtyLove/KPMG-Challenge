@@ -32,7 +32,7 @@ def scrap_meta_data(entreprise_number):
                                    'In general', 'Financial information',
                                    'Algemeen', 'Financiële gegevens']
     
-    title_two_three_formated_data = ['Fonctions', 'Functions', 'Functies']
+    title_three_formated_data = ['Fonctions', 'Functions', 'Functies']
 
     for tr_content in tr:
         full_data = tr_content.find_all('td')
@@ -53,15 +53,17 @@ def scrap_meta_data(entreprise_number):
                 if json_title_key in title_two_row_formated_data:
                     if len(td_content) > 0:
                         if td_text == 'Pas de données reprises dans la BCE.':
-                            td_text = None
+                            td_text = "None"
 
                         if td_content == full_data[0]:
                             json_key = td_text
                         else:
-                            json_formated[json_title_key][json_key] = td_text
+                            if json_key == "Numéro d'entreprise:":
+                                json_formated["business_number"] = td_text.replace('.', '')
+                            else:
+                                json_formated[json_title_key][json_key] = td_text.replace('Dénomination', ' Dénomination')
 
-                elif json_title_key in title_two_three_formated_data:
-                    print(json_title_key)
+                elif json_title_key in title_three_formated_data:
                     json_formated[json_title_key] = {
                         td_text: {'nom': next(iter_job).get_text().strip().replace('   ', ' ').replace(' ,', ''),
                                   'date': next(iter_job).get_text().strip().replace('	', '')
@@ -72,6 +74,15 @@ def scrap_meta_data(entreprise_number):
 
             except StopIteration:
                 break
+
+        # Get all <td> with the class 'tdata2' (the list of the entreprises)
+        td_tdata2 = soup.find_all('td', {'class': 'tdata2'})
+
+        for k, v in enumerate(td_tdata2):
+            # Select informations
+            company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
+            json_formated['bank_account'] = company_account_number
+
 
     return json_formated
 
@@ -119,6 +130,8 @@ def detect_language(texte_string):
 def business_number_from_name(input_name_string):
     output_json = {}
 
+    input_name_string = input_name_string.replace(' ', '+')
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'
     }
@@ -136,12 +149,13 @@ def business_number_from_name(input_name_string):
         # Select informations
         company_name = v.find('b').get_text()
         company_business_number = re.findall('[0-9]{10}', v.find('a')['href'])[0]
+        company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
+
         # Store data in a json format
         output_json[k] = {}
         output_json[k]['companyName'] = company_name
         output_json[k]['businessNumber'] = company_business_number
-        # company_account_number = re.findall('BE[0-9]{4}\.[0-9]{3}\.[0-9]{3}', v.get_text())[0]
-        # output_json[k]['account number'] = company_account_number
+        output_json[k]['account number'] = company_account_number
 
     return output_json
 
