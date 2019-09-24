@@ -113,7 +113,9 @@ function App() {
     }
 
     // * ---------- LOADER ---------- *
-    const loaderAndSearchAnswer =   <Fragment> <div id="loader" className="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div> </Fragment>
+    const loaderAndSearchAnswer =   <Fragment> <div id="loader" className="lds-roller display-none"><div></div>
+                                    <div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                                    </Fragment>
 
     return (
     <div className="App">
