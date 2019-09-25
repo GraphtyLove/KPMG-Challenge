@@ -7,6 +7,7 @@ import kpmgLogoImg from './assets/img/KPMG_logo.svg'
 // * -------------------- Components -------------------- *
 import SearchBar from './components/SearchBar/SearchBar'
 import SearchBarItem from './components/SearchBarItem/SearchBarItem'
+import ShowCompanyInfo from './components/ShowCompanyInfo/ShowCompanyInfo'
 
 // * -------------------- Style -------------------- *
 import './App.css';
@@ -52,10 +53,6 @@ const CompanyInfoContainer = styled.section`
     width: 80%;
 `
 
-// ! TEST to put 'généralités' in array !
-let test = []
-
-
 function App() {
 
     // * -------------------- STATES -------------------- *
@@ -89,7 +86,7 @@ function App() {
 
     // * -------------------- Get data from business number -------------------- *
     const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
-        console.log(typeof(businessNumber))
+        // console.log(typeof(businessNumber))
         // Get the business number from the input
         fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
                         method: 'GET',
@@ -99,12 +96,7 @@ function App() {
                 console.log('Response:', response)
 
                 // ! REMPLIR AVEC LE JSON !
-                for (let key in response['Généralités']){
-                    test[key] = response['Généralités'][key]
-                }
-                console.log(test)
                 setCompanyInfo(response)
-
             })
             .catch(error => {
                 console.log(`Error: ${error}`)
@@ -139,12 +131,7 @@ function App() {
                 </div>
             </InputContainer>
             <CompanyInfoContainer>
-                <ul>
-                    { (companyInfo &&  companyInfo['Généralités'] && companyInfo['Généralités']['Dénomination:']) && <li>Dénomination: { companyInfo['Généralités']['Dénomination:'] } </li> }
-                    { (companyInfo && companyInfo['business_number']) && <li>Business number: { companyInfo['business_number'] } </li> }
-                    { (companyInfo &&  companyInfo['Généralités'] && companyInfo['Généralités']['Date de début:']) && <li>Date de début: { companyInfo['Généralités']['Date de début:'] } </li> }
-
-                </ul>
+                <ShowCompanyInfo companyInfo = {companyInfo} />
             </CompanyInfoContainer>
         </Main>
     </div>

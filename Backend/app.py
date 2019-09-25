@@ -31,6 +31,7 @@ def classify():
 
 
 @app.route('/data-from-business-number/<string:business_number>', methods=['GET'])
+@cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
     company_data_from_db = DB_TABLE.find_one({'business_number': business_number})
     if company_data_from_db:
@@ -48,6 +49,7 @@ def data_from_business_number(business_number):
 
 
 @app.route('/get-number-from-name/<string:companyName>', methods=['GET'])
+@cross_origin(supports_creditentials=True)
 def get_number_from_name(companyName):
     names_and_numbers = business_number_from_name(companyName)
     print(names_and_numbers)

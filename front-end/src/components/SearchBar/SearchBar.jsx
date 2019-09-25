@@ -60,8 +60,10 @@ const SearchBar = props => {
      // Search for company's name
     const callSearchFunction = e => {
         e.preventDefault()
-        props.search(inputValue)
-        resetInputField()
+        if (inputValue.length > 0) {
+            props.search(inputValue)
+            resetInputField()
+        }
     }
 
 
