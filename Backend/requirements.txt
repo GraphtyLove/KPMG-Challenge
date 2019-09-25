@@ -9,3 +9,6 @@ pytesseract
 beautifulsoup4
 spacy_langdetect
 lxml
+text2num
+numeral
+Unidecode

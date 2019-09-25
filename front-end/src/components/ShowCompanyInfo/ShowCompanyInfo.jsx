@@ -1,9 +1,28 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Fragment } from 'react';
 import styled from 'styled-components';
 
 // * -------------------- Components -------------------- *
 
+const InfoLi = styled.li`
+    padding-bottom: 7px;
+`
 
+const InfoLiSection = styled.li`
+`
+
+const InfoLiDiv = styled.div`
+    padding-bottom: 10px;
+`
+
+const ShowCompanyInfoDiv = styled.div`
+    max-height: 500px;
+    overflow-y: scroll;
+    font-size: 15px;
+`
+
+const SpanTitle = styled.span`
+    color: #012972;
+`
 
 // * -------------------- Style -------------------- *
 
@@ -28,24 +47,22 @@ function ShowCompanyInfo(props) {
                 if(obj[key]) {
                     if (Object.keys(obj[key]).length > 0) {
                         return (
-                            <div key={key+'div'}>
-                                <li key={key+'li'}>{key}:</li>
+                            <InfoLiDiv key={key+'div'}>
+                                <InfoLiSection key={key+'li'}><SpanTitle>{key}: </SpanTitle></InfoLiSection>
                                 <ul key={key+'ul'}>
                                     <LoopThroughCompanyInfo key={key+'Ltci'} objInfo ={props.objInfo[key]} />
                                 </ul>
-                            </div>
+                            </InfoLiDiv>
                         )
                     }
                 }
             } else if (typeof obj[key] == 'string') {
                 if(obj[key] !== 'Pas de données reprises dans la BCE.' && obj[key] !== 'Liens externes' && obj[key] !== 'None' && obj[key] !== ''){
                     if (key.charAt(key.length-1) === ':') {
-                        return [<li key={key}>{key}  {obj[key]}</li>]
+                        return [<InfoLi key={key}><SpanTitle>{key}</SpanTitle> {obj[key]}</InfoLi>]
                     } else {
-                        return [<li key={key}>{key}: {obj[key]}</li>]
+                        return [<InfoLi key={key}><SpanTitle>{key}:</SpanTitle> {obj[key]}</InfoLi>]
                     }
-                    
-                    
                 }
             }
         })
@@ -53,11 +70,11 @@ function ShowCompanyInfo(props) {
     } 
 
     return (
-    <div>
+    <ShowCompanyInfoDiv>
         <ul>
             {companyInfo && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
         </ul>
-    </div>
+    </ShowCompanyInfoDiv>
   );
 }
 

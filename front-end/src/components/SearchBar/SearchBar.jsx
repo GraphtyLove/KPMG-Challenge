@@ -5,7 +5,20 @@ import styled from 'styled-components'
 const SearchSection = styled.form`
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
+    margin: 40px 0 40px 0;
+    background-color: #ffffff;
+    padding: 20px;
+    /* max-width: 550px; */
+    width: 45vw;
+    h2 {
+        margin-top : 0;
+        font-family: KPMGLight;
+        font-size: 45px;
+        line-height: 1;
+        font-weight: normal;
+        color: #013087;
+        text-align: center;
+    }
 `
 
 const SearchBarAndButton = styled.div`
@@ -15,10 +28,48 @@ const SearchBarAndButton = styled.div`
 
 const InputSearBar = styled.input`
     width: 60%;
-    border-radius: 3px;
-    border: 0.1px solid black;    
+    border-radius: 0;
+    border: 1px solid transparent;
+    border-bottom: 1px solid #CCCCCC;    
     padding: 10px;
     margin-left: 5px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+    /* color: #013087; */
+    
+    :focus {
+        outline: none;
+        border-bottom: 1px solid #013087;
+    }
+`
+
+const ButtonSubmit = styled.button`
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 39px;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #013087;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #ffffff;
+    border-color: #013087;
+    box-shadow: 0 0 0;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+    :hover {
+        outline: none;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    }
+
+    :focus {
+        outline: none;
+    }
+
+    :active {
+        font-size: 13px;
+    }
 `
 
 
@@ -66,7 +117,6 @@ const SearchBar = props => {
         }
     }
 
-
     return (
         <Fragment>
             <div>
@@ -74,15 +124,21 @@ const SearchBar = props => {
                     { title }
                     <SearchBarAndButton>
                         <InputSearBar id={ name }
-                                      value={ inputValue }
-                                      onChange={ handleSearchInputChanges }
-                                      placeholder={ placeHolder }
-                                      name={ name }
-                                      type="text" />
-                        <input type='submit'
-                               className="submit"
-                               onClick={ callSearchFunction }
-                               value={ buttonText } />
+                            value={ inputValue }
+                            onChange={ handleSearchInputChanges }
+                            placeholder={ placeHolder }
+                            name={ name }
+                            type="text">
+                        </InputSearBar>
+                        <div>
+                            <ButtonSubmit 
+                                type='submit'
+                                className="submit"
+                                onClick={ callSearchFunction }
+                                value={ buttonText } >
+                                Search
+                            </ButtonSubmit>
+                        </div>
                     </SearchBarAndButton>
                 </SearchSection>
             </div>
