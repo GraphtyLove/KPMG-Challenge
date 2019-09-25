@@ -134,6 +134,13 @@ const CompanyInfoContainer = styled.section`
     }
 `
 
+const DataFromArticle = styled.div`
+    height: 30px;
+    width: 95vw;
+    padding: 20px;
+    background-color: #ffffff;
+`
+
 function App() {
 
     // * -------------------- STATES -------------------- *
@@ -189,49 +196,54 @@ function App() {
     const loaderAndSearchAnswer = <Fragment> <div id="loader" className="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div> </Fragment>
 
     return (
-    <div className="App">
-        <Header>
-            <BannerDiv BackgroundImage={kpmgBannerImg}>
-                <Nav>
-                    <KpmgLogo src={ kpmgLogoImg }/>
-                </Nav>
-                <BlueDiv>
-                    <h1>Entreprise search engine</h1>
-                    <p>A challenge from KPMG for our data scientist training at BeCode.</p>
-                </BlueDiv>
-            </BannerDiv>
-        </Header>
-        <Main>
-            {/* ---------- SEARCH BARS ---------- */}
-            <InputContainer>
-                <div>
-                    <SearchBar searchForBusinessNumber={ true } search={ getDataFromBusinessNumber }  />
-                    <CompanyInfoContainer companyInfo={companyInfo}>
+        <div className="App">
+            <Header>
+                <BannerDiv BackgroundImage={kpmgBannerImg}>
+                    <Nav>
+                        <KpmgLogo src={ kpmgLogoImg }/>
+                    </Nav>
+                    <BlueDiv>
+                        <h1>Entreprise search engine</h1>
+                        <p>A challenge from KPMG for our data scientist training at BeCode.</p>
+                    </BlueDiv>
+                </BannerDiv>
+            </Header>
+            <Main>
+                {/* ---------- SEARCH BARS ---------- */}
+                <InputContainer>
                     <div>
-                        <h2>Company informations</h2>
+                        <SearchBar searchForBusinessNumber={ true } search={ getDataFromBusinessNumber }  />
+                        <CompanyInfoContainer companyInfo={companyInfo}>
+                        <div>
+                            <h2>Company informations</h2>
+                        </div>
+                            <ShowCompanyInfo companyInfo={companyInfo} />
+                        </CompanyInfoContainer>
                     </div>
-                        <ShowCompanyInfo companyInfo={companyInfo} />
-                    </CompanyInfoContainer>
-                </div>
+                    <div>
+                        <SearchBar searchForBusinessNumber={ false } search={ getBusinessName }  />
+                        {/* ---------- COMPANY NAME RESULTS ---------- */}
+                        <CompanyNameResult companyList={companyList} loading={loading}>
+                            <h2>Results</h2>
+                            <ResultsCompanyNameResult loading={loading} >
+                                { loading && !errorMessage
+                                    ? loaderAndSearchAnswer
+                                    : ( companyList.map(( companyArray, index ) => (
+                                        <SearchBarItem methodToCall={ getDataFromBusinessNumber } businessNumber={ companyArray[0] } CompanyName={ companyArray[1] } key={ index } />
+                                    ) ) )
+                                }
+                            </ResultsCompanyNameResult>
+                        </CompanyNameResult>
+                    </div>
+                </InputContainer>
                 <div>
-                    <SearchBar searchForBusinessNumber={ false } search={ getBusinessName }  />
-                    {/* ---------- COMPANY NAME RESULTS ---------- */}
-                    <CompanyNameResult companyList={companyList} loading={loading}>
-                        <h2>Results</h2>
-                        <ResultsCompanyNameResult loading={loading} >
-                            { loading && !errorMessage
-                                ? loaderAndSearchAnswer
-                                : ( companyList.map(( companyArray, index ) => (
-                                    <SearchBarItem methodToCall={ getDataFromBusinessNumber } businessNumber={ companyArray[0] } CompanyName={ companyArray[1] } key={ index } />
-                                ) ) )
-                            }
-                        </ResultsCompanyNameResult>
-                    </CompanyNameResult>
+                    <DataFromArticle>
+                        
+                    </DataFromArticle>
                 </div>
-            </InputContainer>
-        </Main>
-    </div>
-  );
+            </Main>
+        </div>
+    );
 }
 
 export default App;

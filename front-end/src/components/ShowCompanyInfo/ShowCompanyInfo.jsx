@@ -70,11 +70,11 @@ function ShowCompanyInfo(props) {
     } 
 
     return (
-    <ShowCompanyInfoDiv>
-        <ul>
-            {companyInfo && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
-        </ul>
-    </ShowCompanyInfoDiv>
+        <ShowCompanyInfoDiv>
+            <ul>
+                {companyInfo && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
+            </ul>
+        </ShowCompanyInfoDiv>
   );
 }
 
