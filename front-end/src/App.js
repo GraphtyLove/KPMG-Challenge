@@ -18,13 +18,13 @@ const Nav = styled.nav`
     width: 100vw;
     background-color: #ffffff;
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: center;
 `
 
 const KpmgLogo = styled.img`
     height: 50px;
-    padding-right: 20px;
+    padding-left: 40px;
 `
 
 const BannerDiv = styled.div`
@@ -236,11 +236,11 @@ function App() {
                         </CompanyNameResult>
                     </div>
                 </InputContainer>
-                <div>
+                {/* <div>
                     <DataFromArticle>
                         
                     </DataFromArticle>
-                </div>
+                </div> */}
             </Main>
         </div>
     );
