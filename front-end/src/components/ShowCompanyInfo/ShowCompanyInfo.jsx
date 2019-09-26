@@ -44,7 +44,7 @@ function ShowCompanyInfo(props) {
         let obj = props.objInfo
         let companyInfoArray = Object.keys(obj).map(key => {
             if (typeof obj[key] == 'object') {
-                if(obj[key]) {
+                if(obj[key] && key !== 'status') {
                     if (Object.keys(obj[key]).length > 0) {
                         return (
                             <InfoLiDiv key={key+'div'}>
@@ -72,7 +72,7 @@ function ShowCompanyInfo(props) {
     return (
         <ShowCompanyInfoDiv>
             <ul>
-                {companyInfo && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
+                {companyInfo["business_number"] && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
             </ul>
         </ShowCompanyInfoDiv>
   );
