@@ -1,12 +1,6 @@
 # * ---------- Imports ---------- *
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
-import pytesseract
-from PIL import Image
-from wand.image import Image as Img
-import os
-import spacy
-from spacy_langdetect import LanguageDetector
 import re
 
 
@@ -87,43 +81,6 @@ def scrap_meta_data(entreprise_number):
     return json_formated
 
 
-# * ---------- Apply OCR on a scan ---------- *
-# Get the scan as a pdf, then extract a JPG then apply OCR and return a string
-def apply_ocr(pdf_path_file):
-        path_img = f'../assets/img/TEMPS-IMG.jpg'
-        path_dir_img = '../assets/img/'
-
-        # Convert pdf to jpg
-        with Img(filename=pdf_path_file, resolution=300) as img:
-            img.compression_quality = 99
-            img.save(filename=path_img)
-
-        # Apply OCR on it
-        text_from_pdf = ''
-        for r, d, f in os.walk(path_dir_img):
-            for img in f:
-                if '.jpg' in img:
-                    text_file = pytesseract.image_to_string(Image.open(path_dir_img + img))
-                    text_from_pdf += text_file
-                    os.remove(path_dir_img + img)
-
-        return text_from_pdf
-
-
-# * ---------- Language detection ---------- *
-# Detect the language and return a string (formated like: "EN", "FR",...)
-def detect_language(texte_string):
-    # Load english in spacy
-    nlp = spacy.load("en_core_web_sm")
-    # Add the language detection
-    nlp.add_pipe(LanguageDetector(), name="language_detector", last=True)
-    # Apply NLP on the string
-    string_with_nlp = nlp(texte_string)
-    # Target the language NLP feature
-    language_detected = string_with_nlp._.language
-    return language_detected['language']
-
-
 # * ---------- Get business number from company name ---------- *
 # Scrap staatsbladmonitor.be to get name + business number + bank account from string input value.
 # Return a Json with a name and a business number
@@ -158,4 +115,3 @@ def business_number_from_name(input_name_string):
         output_json[k]['account number'] = company_account_number
 
     return output_json
-
