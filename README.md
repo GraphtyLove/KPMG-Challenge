@@ -18,5 +18,5 @@ Scrap data and status from a maximum of enterprises in Belgium.
 - [Berge Maxim](https://www.linkedin.com/in/maxim-berge-94b486179/)
 - [Vantighem Jeremy](https://www.linkedin.com/in/jeremy-vantighem/)
 - [Ronveaux Xavier](https://www.linkedin.com/in/xavier-ronveaux-a472b5178/)
-- Poelmans Geoffrey
+- [Poelmans Geoffrey](https://www.linkedin.com/in/geoffrey-poelmans/)
 - Oliveri Giuliano

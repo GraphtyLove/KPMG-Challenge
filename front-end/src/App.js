@@ -174,13 +174,15 @@ function App() {
 
     // * -------------------- Get data from business number -------------------- *
     const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
-        // console.log(typeof(businessNumber))
+
         // Get the business number from the input
         fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
                         method: 'GET',
                     })
             .then(response => response.json())
             .then(response => {
+                // response["status"] = response["status"].replace(/[\n\r]/g, ' ')
+                response["status"] = JSON.parse(response["status"])
                 console.log('Response:', response)
 
                 // ! REMPLIR AVEC LE JSON !
@@ -194,6 +196,7 @@ function App() {
 
     // * ---------- LOADER ---------- *
     const loaderAndSearchAnswer = <Fragment> <div id="loader" className="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div> </Fragment>
+
 
     return (
         <div className="App">

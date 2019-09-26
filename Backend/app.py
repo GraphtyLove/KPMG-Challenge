@@ -3,7 +3,7 @@ from flask_cors import CORS, cross_origin
 import os
 from pymongo import MongoClient
 from werkzeug.utils import secure_filename
-from API.pipeline.utils import scrap_meta_data, business_number_from_name
+from API.pipeline.pipeline import scrap_meta_data, business_number_from_name
 
 FILE_PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -18,33 +18,18 @@ DB = client['kpmg']
 DB_TABLE = DB.company
 
 
-# * ---------- Classify a document ---------- *
-@app.route('/classify', methods=['POST'])
-@cross_origin(supports_creditentials=True)
-def classify():
-    image = request.files['image']
-    filename = secure_filename(image.filename)
-    image.save(FILE_PATH + '/assets/uploaded_files/' + filename)
-    print("File uploaded at: ", FILE_PATH + '/assets/uploaded_files/' + filename)
-    # !!! TO DO !!! (put document over the pipeline)
-    return 'Document well classified.'
-
-
 @app.route('/data-from-business-number/<string:business_number>', methods=['GET'])
 @cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
     company_data_from_db = DB_TABLE.find_one({'business_number': business_number})
     if company_data_from_db:
-        print('IN')
         meta_data = company_data_from_db
-        meta_data['_id'] = 0
-        print(meta_data)
+        meta_data['_id'] = "0"
     else:
         meta_data = scrap_meta_data(business_number)
         meta_data_to_insert_db = meta_data.copy()
-        print('OUT')
         DB_TABLE.insert_one(meta_data_to_insert_db)
-
+        # meta_data['status'] = jsonify(meta_data['status'])
     return jsonify(meta_data)
 
 
