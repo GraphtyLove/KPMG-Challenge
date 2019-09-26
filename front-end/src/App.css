@@ -99,3 +99,12 @@
         transform: rotate(360deg);
     }
 }
+
+body{
+    background-color: #F0F0F0;
+}
+
+@font-face {
+    font-family: KPMGLight;
+    src: url("./fonts/KPMG_App_Light.ttf");
+  }

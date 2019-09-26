@@ -1,0 +1,14 @@
+Flask
+flask_cors
+pymongo
+werkzeug
+scikit-learn
+spacy
+wand
+pytesseract
+beautifulsoup4
+spacy_langdetect
+lxml
+text2num
+numeral
+Unidecode
