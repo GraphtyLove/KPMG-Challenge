@@ -19,4 +19,4 @@ Scrap data and status from a maximum of enterprises in Belgium.
 - [Vantighem Jeremy](https://www.linkedin.com/in/jeremy-vantighem/)
 - [Ronveaux Xavier](https://www.linkedin.com/in/xavier-ronveaux-a472b5178/)
 - [Poelmans Geoffrey](https://www.linkedin.com/in/geoffrey-poelmans/)
-- Oliveri Giuliano
+- [Oliveri Giuliano](https://www.linkedin.com/in/giuliano-oliveri-b83b93183/)
