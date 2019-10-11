@@ -9,6 +9,8 @@ import kpmgBannerImg from './assets/img/KPMG-banner.png'
 import SearchBar from './components/SearchBar/SearchBar'
 import SearchBarItem from './components/SearchBarItem/SearchBarItem'
 import ShowCompanyInfo from './components/ShowCompanyInfo/ShowCompanyInfo'
+import ShowArticles from './components/ShowArticles/ShowArticles'
+
 
 // * -------------------- Style -------------------- *
 import './App.css';
@@ -135,10 +137,25 @@ const CompanyInfoContainer = styled.section`
 `
 
 const DataFromArticle = styled.div`
-    height: 30px;
+    display: ${props =>  Object.keys(props.companyInfoStatus).length > 0 ? 'flex' : 'none'};
     width: 95vw;
     padding: 20px;
     background-color: #ffffff;
+    
+    li {
+        list-style: none;
+    }
+    
+    h2 {
+        align-items: center;
+        margin-top : 0;
+        font-family: KPMGLight;
+        font-size: 45px;
+        line-height: 1;
+        font-weight: normal;
+        color: #013087;
+        text-align: center;
+    }
 `
 
 function App() {
@@ -148,6 +165,7 @@ function App() {
     const [companyList, setCompanyList] = useState([]);
     const [errorMessage, setErrorMessage] = useState(null);
     const [companyInfo, setCompanyInfo] = useState({});
+    const [companyInfoStatus, setCompanyInfoStatus] = useState({});
 
     // * ---------- SEARCH FOR COMPANY NAME AND BUSINESS NUMBER ---------- *
     const getBusinessName = searchValue => {
@@ -184,9 +202,23 @@ function App() {
                 // response["status"] = response["status"].replace(/[\n\r]/g, ' ')
                 response["status"] = JSON.parse(response["status"])
                 console.log('Response:', response)
+                let responseWithoutStatus = {}
+                for (const [key, value] of Object.entries(response)) {
+                    if(key !== 'status' && key !== '_id'){
+                        responseWithoutStatus[key] = value
+                    }
+                }
+                let responseWithtStatus = {}
+                for (const [key, value] of Object.entries(response)) {
+                    if(key === 'status'){
+                        responseWithtStatus[key] = value
+                    }
+                }
+                console.log('WITH STATUS: ', responseWithtStatus)
+                console.log('NO STATUS: ', responseWithoutStatus)
 
-                // ! REMPLIR AVEC LE JSON !
-                setCompanyInfo(response)
+                setCompanyInfo(responseWithoutStatus)
+                setCompanyInfoStatus(responseWithtStatus)
             })
             .catch(error => {
                 console.log(`Error: ${error}`)
@@ -239,11 +271,14 @@ function App() {
                         </CompanyNameResult>
                     </div>
                 </InputContainer>
-                {/* <div>
-                    <DataFromArticle>
-                        
+                <div>
+                    <DataFromArticle companyInfoStatus={companyInfoStatus}>
+                        <div>
+                            <h2>Articles</h2>
+                        </div>
+                        <ShowArticles companyInfo={companyInfoStatus} />
                     </DataFromArticle>
-                </div> */}
+                </div>
             </Main>
         </div>
     );

@@ -395,7 +395,6 @@ def extract_articles(uuid):
             n_invalid_files += 1
     return df
 
-
 def clean_articles(articles_dataframe):
     articles_dataframe['Title_len'] = articles_dataframe.Title.str.len()
 
