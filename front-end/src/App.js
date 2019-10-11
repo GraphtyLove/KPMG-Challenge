@@ -204,7 +204,7 @@ function App() {
                 console.log('Response:', response)
                 let responseWithoutStatus = {}
                 for (const [key, value] of Object.entries(response)) {
-                    if(key !== 'status'){
+                    if(key !== 'status' && key !== '_id'){
                         responseWithoutStatus[key] = value
                     }
                 }
