@@ -12,7 +12,6 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # * ---------- DATABASE CONFIG --------- *
-# DATABASE_URL = os.environ['DATABASE_URL']
 client = MongoClient("mongodb://user:user@54.37.157.250:27017/admin")
 DB = client['kpmg']
 DB_TABLE = DB.company
@@ -22,14 +21,15 @@ DB_TABLE = DB.company
 @cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
     company_data_from_db = DB_TABLE.find_one({'business_number': business_number})
+    
     if company_data_from_db:
+        del company_data_from_db['_id']
         meta_data = company_data_from_db
-        meta_data['_id'] = "0"
     else:
         meta_data = scrap_meta_data(business_number)
         meta_data_to_insert_db = meta_data.copy()
         DB_TABLE.insert_one(meta_data_to_insert_db)
-        # meta_data['status'] = jsonify(meta_data['status'])
+    print(meta_data)
     return jsonify(meta_data)
 
 
@@ -37,7 +37,6 @@ def data_from_business_number(business_number):
 @cross_origin(supports_creditentials=True)
 def get_number_from_name(companyName):
     names_and_numbers = business_number_from_name(companyName)
-    print(names_and_numbers)
     return jsonify(names_and_numbers)
 
 

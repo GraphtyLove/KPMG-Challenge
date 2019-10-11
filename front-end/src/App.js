@@ -166,8 +166,8 @@ function App() {
                 setCompanyList(tempArray)
                 setLoading(false)
             } else {
-              setErrorMessage(jsonResponse.Error)
-              setLoading(false)
+                setErrorMessage(jsonResponse.Error)
+                setLoading(false)
             }
         })
     }

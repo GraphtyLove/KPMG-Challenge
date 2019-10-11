@@ -26,20 +26,17 @@ const SpanTitle = styled.span`
 
 // * -------------------- Style -------------------- *
 
-function ShowCompanyInfo(props) {
+const ShowCompanyInfo = props => {
 
     // * -------------------- STATES -------------------- *
-
     const [companyInfo, setCompanyInfo] = useState(props.companyInfo);
 
     // * -------------------- UPDATE FROM PROPS -------------------- *
-
     useEffect(() => {
         setCompanyInfo(props.companyInfo)
-      }, [props.companyInfo]);
+    }, [props.companyInfo]);
 
     // * -------------------- LOOP THROUGH COMPANY INFO -------------------- *
-    
     const LoopThroughCompanyInfo = (props) => {
         let obj = props.objInfo
         let companyInfoArray = Object.keys(obj).map(key => {
@@ -75,7 +72,7 @@ function ShowCompanyInfo(props) {
                 {companyInfo && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
             </ul>
         </ShowCompanyInfoDiv>
-  );
+    );
 }
 
 export default ShowCompanyInfo;
