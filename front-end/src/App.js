@@ -2,7 +2,6 @@ import React, { Fragment, useState } from 'react';
 import styled from 'styled-components'
 
 // * ---------- Pictures ---------- *
-import kpmgLogoImg from './assets/img/KPMG_logo.svg'
 import kpmgBannerImg from './assets/img/KPMG-banner.png'
 
 // * -------------------- Components -------------------- *
@@ -14,20 +13,6 @@ import ShowArticles from './components/ShowArticles/ShowArticles'
 
 // * -------------------- Style -------------------- *
 import './App.css';
-
-const Nav = styled.nav`
-    min-height: 58px;
-    width: 100vw;
-    background-color: #ffffff;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-`
-
-const KpmgLogo = styled.img`
-    height: 50px;
-    padding-left: 40px;
-`
 
 const BannerDiv = styled.div`
     background-image:url(${props => props.BackgroundImage});
@@ -175,7 +160,6 @@ function App() {
     fetch(`http://127.0.0.1:5000/get-number-from-name/${searchValue}`)
         .then(response => response.json())
         .then(jsonResponse => {
-            console.log(jsonResponse)
             if(jsonResponse){
                 const tempArray = []
                 for(let i = 0; i < Object.keys(jsonResponse).length; i++) {
@@ -199,9 +183,6 @@ function App() {
                     })
             .then(response => response.json())
             .then(response => {
-                // response["status"] = response["status"].replace(/[\n\r]/g, ' ')
-                response["status"] = JSON.parse(response["status"])
-                console.log('Response:', response)
                 let responseWithoutStatus = {}
                 for (const [key, value] of Object.entries(response)) {
                     if(key !== 'status' && key !== '_id'){
@@ -214,9 +195,6 @@ function App() {
                         responseWithtStatus[key] = value
                     }
                 }
-                console.log('WITH STATUS: ', responseWithtStatus)
-                console.log('NO STATUS: ', responseWithoutStatus)
-
                 setCompanyInfo(responseWithoutStatus)
                 setCompanyInfoStatus(responseWithtStatus)
             })
@@ -227,16 +205,13 @@ function App() {
     }
 
     // * ---------- LOADER ---------- *
-    const loaderAndSearchAnswer = <Fragment> <div id="loader" className="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div> </Fragment>
+    const loaderAndSearchAnswer = <div id="loader" className="lds-roller display-none"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
 
 
     return (
         <div className="App">
             <Header>
-                <BannerDiv BackgroundImage={kpmgBannerImg}>
-                    <Nav>
-                        <KpmgLogo src={ kpmgLogoImg }/>
-                    </Nav>
+                <BannerDiv BackgroundImage={ kpmgBannerImg }>
                     <BlueDiv>
                         <h1>Entreprise search engine</h1>
                         <p>A challenge from KPMG for our data scientist training at BeCode.</p>
@@ -258,10 +233,10 @@ function App() {
                     <div>
                         <SearchBar searchForBusinessNumber={ false } search={ getBusinessName }  />
                         {/* ---------- COMPANY NAME RESULTS ---------- */}
-                        <CompanyNameResult companyList={companyList} loading={loading}>
+                        <CompanyNameResult companyList={companyList} loading={ loading }>
                             <h2>Results</h2>
-                            <ResultsCompanyNameResult loading={loading} >
-                                { loading && !errorMessage
+                            <ResultsCompanyNameResult loading={ loading } >
+                                { (loading && !errorMessage)
                                     ? loaderAndSearchAnswer
                                     : ( companyList.map(( companyArray, index ) => (
                                         <SearchBarItem methodToCall={ getDataFromBusinessNumber } businessNumber={ companyArray[0] } CompanyName={ companyArray[1] } key={ index } />
@@ -272,11 +247,11 @@ function App() {
                     </div>
                 </InputContainer>
                 <div>
-                    <DataFromArticle companyInfoStatus={companyInfoStatus}>
+                    <DataFromArticle companyInfoStatus={ companyInfoStatus }>
                         <div>
                             <h2>Articles</h2>
                         </div>
-                        <ShowArticles companyInfo={companyInfoStatus} />
+                        <ShowArticles companyInfo={ companyInfoStatus } />
                     </DataFromArticle>
                 </div>
             </Main>

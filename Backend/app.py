@@ -29,7 +29,6 @@ def data_from_business_number(business_number):
         meta_data = scrap_meta_data(business_number)
         meta_data_to_insert_db = meta_data.copy()
         DB_TABLE.insert_one(meta_data_to_insert_db)
-    print(meta_data)
     return jsonify(meta_data)
 
 
