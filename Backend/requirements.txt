@@ -12,3 +12,6 @@ lxml
 text2num
 numeral
 Unidecode
+tika
+pandas
+IPython

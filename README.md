@@ -13,6 +13,14 @@ Scrap data and status from a maximum of enterprises in Belgium.
 - Then, classify them.
 - Then, put everythink in a database.
 
+## Production 
+This project is production-ready. You can try it there:
+https://elegant-goodall-6abe26.netlify.com/
+
+## Screenshot
+![screenshot of the front-end](screen-shot-front.png)
+
+
 ## Team:
 
 - [Berge Maxim](https://www.linkedin.com/in/maxim-berge-94b486179/)
