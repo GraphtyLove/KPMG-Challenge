@@ -12,24 +12,28 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # * ---------- DATABASE CONFIG --------- *
-# DATABASE_URL = os.environ['DATABASE_URL']
-client = MongoClient("mongodb://user:user@54.37.157.250:27017/admin")
+client = MongoClient(os.environ['DATABASE_URL'])
 DB = client['kpmg']
 DB_TABLE = DB.company
+
+# * --------- ROUTES --------- *
+@app.route('/', methods=['GET'])
+def index():
+    return "App online."
 
 
 @app.route('/data-from-business-number/<string:business_number>', methods=['GET'])
 @cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
     company_data_from_db = DB_TABLE.find_one({'business_number': business_number})
+    
     if company_data_from_db:
+        del company_data_from_db['_id']
         meta_data = company_data_from_db
-        meta_data['_id'] = "0"
     else:
         meta_data = scrap_meta_data(business_number)
         meta_data_to_insert_db = meta_data.copy()
         DB_TABLE.insert_one(meta_data_to_insert_db)
-        # meta_data['status'] = jsonify(meta_data['status'])
     return jsonify(meta_data)
 
 
@@ -37,11 +41,12 @@ def data_from_business_number(business_number):
 @cross_origin(supports_creditentials=True)
 def get_number_from_name(companyName):
     names_and_numbers = business_number_from_name(companyName)
-    print(names_and_numbers)
     return jsonify(names_and_numbers)
 
 
 # * ---------- Run Server ---------- *
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5000, debug=True)
-    # app.run(host='0.0.0.0', port=os.environ['PORT']) -> DOCKER
+    # --- DEBUG MODE ---
+    # app.run(host='127.0.0.1', port=5000, debug=True)
+    # --- DOCKER -> Heroku ---
+    app.run(host='0.0.0.0', port=os.environ['PORT'])

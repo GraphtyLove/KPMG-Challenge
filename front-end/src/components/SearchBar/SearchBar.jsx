@@ -8,7 +8,6 @@ const SearchSection = styled.form`
     margin: 40px 0 40px 0;
     background-color: #ffffff;
     padding: 20px;
-    /* max-width: 550px; */
     width: 45vw;
     h2 {
         margin-top : 0;
@@ -20,12 +19,10 @@ const SearchSection = styled.form`
         text-align: center;
     }
 `
-
 const SearchBarAndButton = styled.div`
     display: flex;
     justify-content: space-around;
 `
-
 const InputSearBar = styled.input`
     width: 60%;
     border-radius: 0;
@@ -35,14 +32,11 @@ const InputSearBar = styled.input`
     margin-left: 5px;
     font-family: Arial,Helvetica,sans-serif;
     font-size: 15px;
-    /* color: #013087; */
-    
     :focus {
         outline: none;
         border-bottom: 1px solid #013087;
     }
 `
-
 const ButtonSubmit = styled.button`
     justify-content: center;
     align-items: center;
@@ -84,7 +78,7 @@ const SearchBar = props => {
     let buttonText = ''
 
     // * --- Define Component's properties --- *
-     if (props.searchForBusinessNumber === true){
+    if (props.searchForBusinessNumber === true){
         name = 'businessNumber'
         placeHolder = 'Enter a business number...'
         title = <h2>Search with the business number</h2>
@@ -97,7 +91,6 @@ const SearchBar = props => {
     }
 
     // * ---------- Input's functions ---------- *
-
     // Define state with value of input
     const handleSearchInputChanges = e => {
         setInputValue(e.target.value)

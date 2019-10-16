@@ -1,14 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 
-// * -------------------- Style -------------------- *
+// * -------------------- STYLES -------------------- *
 const InfoLi = styled.li`
     padding-bottom: 7px;
 `
 const InfoLiSection = styled.li`
+    display: none;
 `
 const InfoLiDiv = styled.div`
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 `
 const ShowCompanyInfoDiv = styled.div`
     max-height: 500px;
@@ -20,7 +21,7 @@ const SpanTitle = styled.span`
 `
 
 
-const ShowCompanyInfo = props => {
+const ShowArticles = props => {
 
     // * -------------------- STATES -------------------- *
     const [companyInfo, setCompanyInfo] = useState(props.companyInfo);
@@ -36,39 +37,41 @@ const ShowCompanyInfo = props => {
         let companyInfoArray = Object.keys(obj).map(key => {
             let answer = ''
             if (typeof obj[key] == 'object') {
-                if(obj[key] && key !== 'status') {
+                if (obj[key]) {
                     if (Object.keys(obj[key]).length > 0) {
-                        answer = 
-                            <InfoLiDiv key={key+'div'}>
-                                <InfoLiSection key={key+'li'}><SpanTitle>{key}: </SpanTitle></InfoLiSection>
-                                <ul key={key+'ul'}>
-                                    <LoopThroughCompanyInfo key={key+'Ltci'} objInfo ={props.objInfo[key]} />
+
+                        answer =  
+                            <InfoLiDiv key={key + 'div'}>
+                                <InfoLiSection key={key + 'li'}><SpanTitle>{key}: </SpanTitle></InfoLiSection>
+                                <ul key={key + 'ul'}>
+                                    <LoopThroughCompanyInfo key={key + 'Ltci'} objInfo={props.objInfo[key]}/>
                                 </ul>
                             </InfoLiDiv>
                         
                     }
                 }
+
             } else if (typeof obj[key] == 'string') {
-                if(obj[key] !== 'Pas de données reprises dans la BCE.' && obj[key] !== 'Liens externes' && obj[key] !== 'None' && obj[key] !== ''){
-                    if (key.charAt(key.length-1) === ':') {
+                    if (key.charAt(key.length - 1) === ':') {
+
                         answer = [<InfoLi key={key}><SpanTitle>{key}</SpanTitle> {obj[key]}</InfoLi>]
                     } else {
-                        answer = [<InfoLi key={key}><SpanTitle>{key}:</SpanTitle> {obj[key]}</InfoLi>]
+                        answer = [<InfoLi key={key}><SpanTitle>{key.replace('Extracted_', '').replace('_final', '').replace('_', ' ')}:</SpanTitle> {obj[key]}</InfoLi>]
                     }
-                }
+
             }
             return answer
         })
         return companyInfoArray
-    } 
+    }
 
     return (
         <ShowCompanyInfoDiv>
             <ul>
-                {companyInfo["business_number"] && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo} />}
+                {companyInfo["status"] && <LoopThroughCompanyInfo key={'loopThroughCompanyInfo'} objInfo={companyInfo}/>}
             </ul>
         </ShowCompanyInfoDiv>
     );
 }
 
-export default ShowCompanyInfo;
+export default ShowArticles;
