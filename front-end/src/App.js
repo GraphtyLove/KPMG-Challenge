@@ -94,7 +94,7 @@ const Main = styled.main`
 `
 
 const CompanyInfoContainer = styled.section`
-    display: ${props =>  Object.keys(props.companyInfo).length > 0 ? 'flex' : 'none'};
+    display: ${props => Object.keys(props.companyInfo).length > 0 ? 'flex' : 'none'};
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -122,7 +122,7 @@ const CompanyInfoContainer = styled.section`
 `
 
 const DataFromArticle = styled.div`
-    display: ${props =>  Object.keys(props.companyInfoStatus).length > 0 ? 'flex' : 'none'};
+    display: ${props => Object.keys(props.companyInfoStatus).length > 0 ? 'flex' : 'none'};
     width: 95vw;
     padding: 20px;
     background-color: #ffffff;
@@ -154,44 +154,44 @@ function App() {
 
     // * ---------- SEARCH FOR COMPANY NAME AND BUSINESS NUMBER ---------- *
     const getBusinessName = searchValue => {
-    setLoading(true)
-    setErrorMessage(null)
+        setLoading(true)
+        setErrorMessage(null)
 
-    fetch(`https://company-search-engine-backend.herokuapp.com/get-number-from-name/${searchValue}`)
-        .then(response => response.json())
-        .then(jsonResponse => {
-            if(jsonResponse){
-                const tempArray = []
-                for(let i = 0; i < Object.keys(jsonResponse).length; i++) {
-                    tempArray.push([jsonResponse[i].businessNumber, jsonResponse[i].companyName])
+        fetch(`http://127.0.0.1:5000/get-number-from-name/${searchValue}`)
+            .then(response => response.json())
+            .then(jsonResponse => {
+                if (jsonResponse) {
+                    const tempArray = []
+                    for (let i = 0; i < Object.keys(jsonResponse).length; i++) {
+                        tempArray.push([jsonResponse[i].businessNumber, jsonResponse[i].companyName])
+                    }
+                    setCompanyList(tempArray)
+                    setLoading(false)
+                } else {
+                    setErrorMessage(jsonResponse.Error)
+                    setLoading(false)
                 }
-                setCompanyList(tempArray)
-                setLoading(false)
-            } else {
-                setErrorMessage(jsonResponse.Error)
-                setLoading(false)
-            }
-        })
+            })
     }
 
     // * -------------------- Get data from business number -------------------- *
-    const getDataFromBusinessNumber = ( businessNumber = document.getElementById('businessNumber').value ) => {
+    const getDataFromBusinessNumber = (businessNumber = document.getElementById('businessNumber').value) => {
 
         // Get the business number from the input
-        fetch(`https://company-search-engine-backend.herokuapp.com/data-from-business-number/${businessNumber}`, {
-                        method: 'GET',
-                    })
+        fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
+            method: 'GET',
+        })
             .then(response => response.json())
             .then(response => {
                 let responseWithoutStatus = {}
                 for (const [key, value] of Object.entries(response)) {
-                    if(key !== 'status' && key !== '_id'){
+                    if (key !== 'status' && key !== '_id') {
                         responseWithoutStatus[key] = value
                     }
                 }
                 let responseWithtStatus = {}
                 for (const [key, value] of Object.entries(response)) {
-                    if(key === 'status'){
+                    if (key === 'status') {
                         responseWithtStatus[key] = value
                     }
                 }
@@ -211,7 +211,7 @@ function App() {
     return (
         <div className="App">
             <Header>
-                <BannerDiv BackgroundImage={ kpmgBannerImg }>
+                <BannerDiv BackgroundImage={kpmgBannerImg}>
                     <BlueDiv>
                         <h1>Entreprise search engine</h1>
                         <p>A challenge from KPMG for our data scientist training at BeCode.</p>
@@ -222,36 +222,36 @@ function App() {
                 {/* ---------- SEARCH BARS ---------- */}
                 <InputContainer>
                     <div>
-                        <SearchBar searchForBusinessNumber={ true } search={ getDataFromBusinessNumber }  />
+                        <SearchBar searchForBusinessNumber={true} search={getDataFromBusinessNumber} />
                         <CompanyInfoContainer companyInfo={companyInfo}>
-                        <div>
-                            <h2>Company informations</h2>
-                        </div>
+                            <div>
+                                <h2>Company informations</h2>
+                            </div>
                             <ShowCompanyInfo companyInfo={companyInfo} />
                         </CompanyInfoContainer>
                     </div>
                     <div>
-                        <SearchBar searchForBusinessNumber={ false } search={ getBusinessName }  />
+                        <SearchBar searchForBusinessNumber={false} search={getBusinessName} />
                         {/* ---------- COMPANY NAME RESULTS ---------- */}
-                        <CompanyNameResult companyList={companyList} loading={ loading }>
+                        <CompanyNameResult companyList={companyList} loading={loading}>
                             <h2>Results</h2>
-                            <ResultsCompanyNameResult loading={ loading } >
-                                { (loading && !errorMessage)
+                            <ResultsCompanyNameResult loading={loading} >
+                                {(loading && !errorMessage)
                                     ? loaderAndSearchAnswer
-                                    : ( companyList.map(( companyArray, index ) => (
-                                        <SearchBarItem methodToCall={ getDataFromBusinessNumber } businessNumber={ companyArray[0] } CompanyName={ companyArray[1] } key={ index } />
-                                    ) ) )
+                                    : (companyList.map((companyArray, index) => (
+                                        <SearchBarItem methodToCall={getDataFromBusinessNumber} businessNumber={companyArray[0]} CompanyName={companyArray[1]} key={index} />
+                                    )))
                                 }
                             </ResultsCompanyNameResult>
                         </CompanyNameResult>
                     </div>
                 </InputContainer>
                 <div>
-                    <DataFromArticle companyInfoStatus={ companyInfoStatus }>
+                    <DataFromArticle companyInfoStatus={companyInfoStatus}>
                         <div>
                             <h2>Articles</h2>
                         </div>
-                        <ShowArticles companyInfo={ companyInfoStatus } />
+                        <ShowArticles companyInfo={companyInfoStatus} />
                     </DataFromArticle>
                 </div>
             </Main>

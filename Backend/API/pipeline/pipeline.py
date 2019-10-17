@@ -1,10 +1,10 @@
 """
 * ========== PIPELINE ========== *
 
- | DL pdf | ===>
- | IF JPG -> apply OCR - ELSE extract TXT | ===>
- | Classify with lang | ===>
- | Extract article | ===>
+ | DL pdf | ==>
+ | IF JPG -> apply OCR - ELSE extract TXT | ==>
+ | Classify with lang | ==>
+ | Extract article | ==>
  | Clean article |
 
 """

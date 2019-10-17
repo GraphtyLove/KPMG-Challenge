@@ -15,3 +15,7 @@ Unidecode
 tika
 pandas
 IPython
+dnspython
+
+# Install EN LANGUAGE
+# python -m spacy download en_core_web_sm
