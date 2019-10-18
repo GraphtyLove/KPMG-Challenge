@@ -31,16 +31,16 @@ def index():
 @app.route('/data-from-business-number/<string:business_number>', methods=['GET'])
 @cross_origin(supports_creditentials=True)
 def data_from_business_number(business_number):
-    # company_data_from_db = DB_TABLE.find_one(
-    #     {'business_number': business_number})
+    company_data_from_db = DB_TABLE.find_one(
+        {'business_number': business_number})
 
-    # if company_data_from_db:
-    #     del company_data_from_db['_id']
-    #     meta_data = company_data_from_db
-    # else:
-    meta_data = scrap_meta_data(business_number)
-    meta_data_to_insert_db = meta_data.copy()
-    DB_TABLE.insert_one(meta_data_to_insert_db)
+    if company_data_from_db:
+        del company_data_from_db['_id']
+        meta_data = company_data_from_db
+    else:
+        meta_data = scrap_meta_data(business_number)
+        meta_data_to_insert_db = meta_data.copy()
+        DB_TABLE.insert_one(meta_data_to_insert_db)
     return jsonify(meta_data)
 
 
@@ -54,6 +54,6 @@ def get_number_from_name(company_name):
 # * ---------- Run Server ---------- *
 if __name__ == '__main__':
     # --- DEBUG MODE ---
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    # app.run(host='127.0.0.1', port=5000, debug=True)
     # --- DOCKER -> Heroku ---
-    # app.run(host='0.0.0.0', port=os.environ['PORT'])
+    app.run(host='0.0.0.0', port=os.environ['PORT'])

@@ -192,7 +192,12 @@ function App() {
                 let responseWithtStatus = {}
                 for (const [key, value] of Object.entries(response)) {
                     if (key === 'status') {
-                        responseWithtStatus[key] = JSON.parse(value)
+                        try {
+                            responseWithtStatus[key] = JSON.parse(value)
+                        } catch (error) {
+                            responseWithtStatus[key] = value
+                        }
+
                     }
                 }
                 setCompanyInfo(responseWithoutStatus)
