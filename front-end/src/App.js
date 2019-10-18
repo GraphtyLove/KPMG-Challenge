@@ -157,7 +157,7 @@ function App() {
         setLoading(true)
         setErrorMessage(null)
 
-        fetch(`http://127.0.0.1:5000/get-number-from-name/${searchValue}`)
+        fetch(`https://company-search-engine-backend.herokuapp.com/get-number-from-name/${searchValue}`)
             .then(response => response.json())
             .then(jsonResponse => {
                 if (jsonResponse) {
@@ -178,7 +178,7 @@ function App() {
     const getDataFromBusinessNumber = (businessNumber = document.getElementById('businessNumber').value) => {
 
         // Get the business number from the input
-        fetch(`http://127.0.0.1:5000/data-from-business-number/${businessNumber}`, {
+        fetch(`https://company-search-engine-backend.herokuapp.com/data-from-business-number/${businessNumber}`, {
             method: 'GET',
         })
             .then(response => response.json())
@@ -192,7 +192,7 @@ function App() {
                 let responseWithtStatus = {}
                 for (const [key, value] of Object.entries(response)) {
                     if (key === 'status') {
-                        responseWithtStatus[key] = value
+                        responseWithtStatus[key] = JSON.parse(value)
                     }
                 }
                 setCompanyInfo(responseWithoutStatus)
